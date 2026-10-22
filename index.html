@@ -29,13 +29,18 @@ select,.btn{font:inherit;border:1px solid var(--bd);background:var(--card);color
 #x{position:fixed;top:calc(env(safe-area-inset-top) + 10px);right:12px;z-index:10;display:none;border:0;border-radius:99px;width:42px;height:42px;font-size:1.3rem;background:#fff;color:#000}#lb.on~#x{display:block}
 footer{text-align:center;color:var(--mut);font-size:.8rem;padding:6px 14px 30px}
 </style></head><body>
-<header><h1>⚓ Escala OGMO · São Sebastião</h1><p>Planilha e boletins de cada período, sempre atualizados</p></header>
-<nav><button class="on" data-s="escala">Escala</button><button data-s="boletins">Boletins</button></nav>
+<header><h1>⚓ Escala OGMO · São Sebastião</h1><p>Planilha, chamada e boletins de cada período, sempre atualizados</p></header>
+<nav><button class="on" data-s="escala">Escala</button><button data-s="chamada">Chamada</button><button data-s="boletins">Boletins</button></nav>
 <main>
 <section id="escala" class="on">
  <div class="card"><div class="top"><div><b id="tit">Carregando…</b><div class="mut" id="quando"></div></div><span class="chip" id="chip" hidden></span></div>
   <div class="shot" id="shot" hidden><img id="img" alt="Planilha da escala"><span class="hint">Toque para ampliar</span></div>
   <div class="top" style="margin-top:12px"><select id="hist" aria-label="Atualizações anteriores"></select><a class="btn" id="dl" download target="_blank" rel="noopener">Baixar imagem</a></div></div>
+</section>
+<section id="chamada">
+ <div class="card"><div class="top"><div><b id="ctit">Carregando…</b><div class="mut" id="cquando"></div></div><span class="chip" id="cchip" hidden></span></div>
+  <div class="shot" id="cshot" hidden><img id="cimg" alt="Chamada"><span class="hint">Toque para ampliar</span></div>
+  <div class="top" style="margin-top:12px"><select id="chist" aria-label="Chamadas anteriores"></select><a class="btn" id="cdl" download target="_blank" rel="noopener">Baixar imagem</a></div></div>
 </section>
 <section id="boletins">
  <div class="card"><div class="top"><div><b id="btit">Carregando…</b><div class="mut" id="bquando"></div></div><span class="chip" id="bchip" hidden></span></div>
@@ -53,10 +58,18 @@ const PER={1:'07/13',2:'13/19',3:'19/01',4:'01/07'};
 // títulos antigos ('22/10/2026 período 1 (refeita)') aparecem como '22/10/2026 · 07/13'
 const nomeP=t=>String(t==null?'':t).replace(/(\d{2}\/\d{2}\/\d{4})\s+per[ií]odo\s+(\d)(\s*\(refeita\))?/i,(m,d,n)=>PER[n]?`${d} · ${PER[n]}`:m);
 const ago=d=>{const m=Math.max(0,Math.round((Date.now()-new Date(d))/60000));return m<1?'agora mesmo':m<60?`há ${m} min`:m<1440?`há ${Math.floor(m/60)} h`:`há ${Math.floor(m/1440)} d`};
-let E=null;
+let E=null,C=null;
 function mostra(it){$('#tit').textContent=nomeP(it.titulo)||'Planilha da escala';$('#quando').textContent='Atualizada em '+fmt(it.quando);
  $('#img').src=it.imagem+'?v='+encodeURIComponent(it.quando);$('#dl').href=it.imagem;$('#shot').hidden=false;
  const c=$('#chip'),h=(Date.now()-new Date(it.quando))/36e5;c.hidden=false;c.className='chip'+(h>8?' old':'');c.textContent=(h>8?'● ':'● ')+ago(it.quando)}
+function cmostra(it){$('#ctit').textContent=it.titulo||'Chamada';$('#cquando').textContent='Atualizada em '+fmt(it.quando);
+ $('#cimg').src=it.imagem+'?v='+encodeURIComponent(it.quando);$('#cdl').href=it.imagem;$('#cshot').hidden=false;
+ const c=$('#cchip'),h=(Date.now()-new Date(it.quando))/36e5;c.hidden=false;c.className='chip'+(h>8?' old':'');c.textContent='● '+ago(it.quando)}
+async function chamada(){const d=await J('dados/chamada.json');if(!d||!d.imagem){$('#ctit').textContent='Ainda não há chamada publicada';return}
+ const hs=d.historico&&d.historico.length?d.historico:[{quando:d.atualizado_em,titulo:d.titulo,imagem:d.imagem}];
+ const sel=$('#chist'),cur=sel.value;sel.innerHTML=hs.map((h,i)=>`<option value="${i}">${i?'':'Mais recente · '}${esc(h.titulo)} — ${fmt(h.quando)}</option>`).join('');
+ sel.value=cur&&hs[cur]?cur:0;cmostra(hs[sel.value]);C=hs}
+$('#chist').onchange=e=>cmostra(C[e.target.value]);
 async function escala(){const d=await J('dados/escala.json');if(!d||!d.imagem){$('#tit').textContent='Ainda não há planilha publicada';return}
  E=d;const hs=d.historico&&d.historico.length?d.historico:[{quando:d.atualizado_em,titulo:d.titulo,imagem:d.imagem}];
  const sel=$('#hist'),cur=sel.value;sel.innerHTML=hs.map((h,i)=>`<option value="${i}">${i?'':'Mais recente · '}${fmt(h.quando)} — ${esc(nomeP(h.titulo))}</option>`).join('');
@@ -71,11 +84,11 @@ async function bol(){const d=await J('dados/boletins.json');B=Array.isArray(d)?d
  sel.innerHTML=B.map((b,i)=>`<option value="${i}">${i?'':'Mais recente · '}${fmt(quandoB(b))} — ${esc(b.titulo||'Boletim')}</option>`).join('');
  const ix=selArq?B.findIndex(b=>b.arquivo===selArq):-1;sel.value=ix>=0?ix:0;bmostra(B[sel.value])}
 $('#bsel').onchange=e=>{selArq=e.target.value==='0'?null:B[e.target.value].arquivo;bmostra(B[e.target.value])};
-document.addEventListener('click',e=>{if(e.target.closest('#shot'))abre($('#img').src);else if(e.target.closest('#bshot'))abre($('#bimg').src)});
+document.addEventListener('click',e=>{if(e.target.closest('#shot'))abre($('#img').src);else if(e.target.closest('#cshot'))abre($('#cimg').src);else if(e.target.closest('#bshot'))abre($('#bimg').src)});
 function abre(u){$('#lbi').src=u;$('#lbi').className='';$('#lb').classList.add('on')}
 $('#lbi').onclick=e=>e.target.classList.toggle('z');$('#x').onclick=()=>$('#lb').classList.remove('on');
 document.onkeydown=e=>e.key==='Escape'&&$('#x').click();
 document.querySelectorAll('nav button').forEach(b=>b.onclick=()=>{document.querySelectorAll('nav button,section').forEach(x=>x.classList.remove('on'));b.classList.add('on');$('#'+b.dataset.s).classList.add('on');history.replaceState(0,'','#'+b.dataset.s)});
-if(location.hash==='#boletins')document.querySelector('[data-s=boletins]').click();
-const tudo=()=>{escala();bol()};tudo();setInterval(tudo,6e4);document.addEventListener('visibilitychange',()=>!document.hidden&&tudo());
+if(location.hash==='#boletins'||location.hash==='#chamada')document.querySelector('[data-s='+location.hash.slice(1)+']').click();
+const tudo=()=>{escala();chamada();bol()};tudo();setInterval(tudo,6e4);document.addEventListener('visibilitychange',()=>!document.hidden&&tudo());
 </script></body></html>
