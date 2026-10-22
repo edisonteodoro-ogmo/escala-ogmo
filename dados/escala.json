@@ -1,8 +1,13 @@
 {
- "atualizado_em": "2026-10-22T12:56:11-03:00",
- "titulo": "22/10/2026 · 13/19",
- "imagem": "planilha/20261022_125611_407600.png",
+ "atualizado_em": "2026-10-22T13:44:05-03:00",
+ "titulo": "Atualização manual",
+ "imagem": "planilha/20261022_134405_250131.png",
  "historico": [
+  {
+   "quando": "2026-10-22T13:44:05-03:00",
+   "titulo": "Atualização manual",
+   "imagem": "planilha/20261022_134405_250131.png"
+  },
   {
    "quando": "2026-10-22T12:56:11-03:00",
    "titulo": "22/10/2026 · 13/19",
