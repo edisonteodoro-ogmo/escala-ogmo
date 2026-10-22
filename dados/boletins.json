@@ -1,5 +1,16 @@
 [
  {
+  "arquivo": "boletins/2026-10-21_13-19_084223_372988.png",
+  "titulo": "BOLETIM 05 ADVENTURER 13/19",
+  "data": "21/10/2026",
+  "periodo": "13/19",
+  "chave": "<9beef7b1-e986-4fc5-9e40-ae171763c63a@uol.com.br>_ADVENTURERBOLETIM05pdf",
+  "grupo": "ADVENTURER|05",
+  "retificacao": false,
+  "recebido_em": "2026-10-21T15:07:28-03:00",
+  "enviado_em": "2026-10-22T08:42:23-03:00"
+ },
+ {
   "arquivo": "boletins/2026-10-21_07-13_084216_971434.png",
   "titulo": "BOLETIM 04 ADVENTURER 07/13 · RETIFICAÇÃO",
   "data": "21/10/2026",
@@ -64,16 +75,5 @@
   "retificacao": false,
   "recebido_em": "2026-10-22T07:41:16-03:00",
   "enviado_em": "2026-10-22T08:40:57-03:00"
- },
- {
-  "arquivo": "boletins/2026-10-21_13-19_084051_641950.png",
-  "titulo": "BOLETIM 05 ADVENTURER 13/19",
-  "data": "21/10/2026",
-  "periodo": "13/19",
-  "chave": "<9beef7b1-e986-4fc5-9e40-ae171763c63a@uol.com.br>_ADVENTURERBOLETIM05pdf",
-  "grupo": "ADVENTURER|05",
-  "retificacao": false,
-  "recebido_em": "2026-10-21T15:07:28-03:00",
-  "enviado_em": "2026-10-22T08:40:51-03:00"
  }
 ]
