@@ -1,5 +1,16 @@
 [
  {
+  "arquivo": "boletins/2026-10-20_13-19_083233_422505.png",
+  "titulo": "BOLETIM 01 ADVENTURER 13/19",
+  "data": "20/10/2026",
+  "periodo": "13/19",
+  "chave": "<79afe050-9832-49d9-9f59-d0602b61be67@uol.com.br>_ADVENTURERBOLETIM01pdf",
+  "grupo": "ADVENTURER|01",
+  "retificacao": false,
+  "recebido_em": "2026-10-20T20:08:50-03:00",
+  "enviado_em": "2026-10-22T08:32:33-03:00"
+ },
+ {
   "arquivo": "boletins/2026-10-22_01-07_083033_848229.png",
   "titulo": "BOLETIM 01 76 - ATAYAL MARINER 01/07",
   "data": "22/10/2026",
@@ -61,14 +72,5 @@
   "chave": "<d6a22594-3be5-44ab-96f6-77cc26a509b0@uol.com.br>_ADVENTURERBOLETIM01pdf",
   "recebido_em": "2026-10-20T20:46:09-03:00",
   "enviado_em": "2026-10-22T08:30:03-03:00"
- },
- {
-  "arquivo": "boletins/2026-10-20_13-19_082958_197240.png",
-  "titulo": "BOLETIM 01 ADVENTURER 13/19",
-  "data": "20/10/2026",
-  "periodo": "13/19",
-  "chave": "<79afe050-9832-49d9-9f59-d0602b61be67@uol.com.br>_ADVENTURERBOLETIM01pdf",
-  "recebido_em": "2026-10-20T20:08:50-03:00",
-  "enviado_em": "2026-10-22T08:29:58-03:00"
  }
 ]
