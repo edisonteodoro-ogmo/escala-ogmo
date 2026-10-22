@@ -1,8 +1,13 @@
 {
- "atualizado_em": "2026-10-22T07:37:48-03:00",
+ "atualizado_em": "2026-10-22T07:50:36-03:00",
  "titulo": "22/10/2026 período 1 (refeita)",
- "imagem": "planilha/20261022_073748_420083.png",
+ "imagem": "planilha/20261022_075036_181290.png",
  "historico": [
+  {
+   "quando": "2026-10-22T07:50:36-03:00",
+   "titulo": "22/10/2026 período 1 (refeita)",
+   "imagem": "planilha/20261022_075036_181290.png"
+  },
   {
    "quando": "2026-10-22T07:37:48-03:00",
    "titulo": "22/10/2026 período 1 (refeita)",
