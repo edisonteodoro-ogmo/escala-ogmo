@@ -85,9 +85,11 @@ async function bol(){const d=await J('dados/boletins.json');B=Array.isArray(d)?d
  const ix=selArq?B.findIndex(b=>b.arquivo===selArq):-1;sel.value=ix>=0?ix:0;bmostra(B[sel.value])}
 $('#bsel').onchange=e=>{selArq=e.target.value==='0'?null:B[e.target.value].arquivo;bmostra(B[e.target.value])};
 document.addEventListener('click',e=>{if(e.target.closest('#shot'))abre($('#img').src);else if(e.target.closest('#cshot'))abre($('#cimg').src);else if(e.target.closest('#bshot'))abre($('#bimg').src)});
-function abre(u){$('#lbi').src=u;$('#lbi').className='';$('#lb').classList.add('on')}
-$('#lbi').onclick=e=>e.target.classList.toggle('z');$('#x').onclick=()=>$('#lb').classList.remove('on');
-document.onkeydown=e=>e.key==='Escape'&&$('#x').click();
+function abre(u){$('#lbi').src=u;$('#lbi').className='';$('#lb').classList.add('on');try{history.pushState({lb:1},'')}catch(e){}}
+function fecha(){if(!$('#lb').classList.contains('on'))return;if(history.state&&history.state.lb){history.back()}else $('#lb').classList.remove('on')}
+window.addEventListener('popstate',()=>$('#lb').classList.remove('on'));   // botão Voltar do celular fecha só a imagem ampliada
+$('#lbi').onclick=e=>e.target.classList.toggle('z');$('#x').onclick=fecha;
+document.onkeydown=e=>e.key==='Escape'&&fecha();
 document.querySelectorAll('nav button').forEach(b=>b.onclick=()=>{document.querySelectorAll('nav button,section').forEach(x=>x.classList.remove('on'));b.classList.add('on');$('#'+b.dataset.s).classList.add('on');history.replaceState(0,'','#'+b.dataset.s)});
 if(location.hash==='#boletins'||location.hash==='#chamada')document.querySelector('[data-s='+location.hash.slice(1)+']').click();
 const tudo=()=>{escala();chamada();bol()};tudo();setInterval(tudo,6e4);document.addEventListener('visibilitychange',()=>!document.hidden&&tudo());
