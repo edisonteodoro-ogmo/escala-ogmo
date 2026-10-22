@@ -49,14 +49,17 @@ const $=s=>document.querySelector(s),T=()=>Math.floor(Date.now()/60000);
 const J=async p=>{try{const r=await fetch(p+'?t='+T(),{cache:'no-store'});return r.ok?await r.json():null}catch(e){return null}};
 const fmt=d=>new Date(d).toLocaleString('pt-BR',{day:'2-digit',month:'2-digit',hour:'2-digit',minute:'2-digit'});
 const esc=s=>String(s==null?'':s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const PER={1:'07/13',2:'13/19',3:'19/01',4:'01/07'};
+// títulos antigos ('22/10/2026 período 1 (refeita)') aparecem como '22/10/2026 · 07/13'
+const nomeP=t=>String(t==null?'':t).replace(/(\d{2}\/\d{2}\/\d{4})\s+per[ií]odo\s+(\d)(\s*\(refeita\))?/i,(m,d,n)=>PER[n]?`${d} · ${PER[n]}`:m);
 const ago=d=>{const m=Math.max(0,Math.round((Date.now()-new Date(d))/60000));return m<1?'agora mesmo':m<60?`há ${m} min`:m<1440?`há ${Math.floor(m/60)} h`:`há ${Math.floor(m/1440)} d`};
 let E=null;
-function mostra(it){$('#tit').textContent=it.titulo||'Planilha da escala';$('#quando').textContent='Atualizada em '+fmt(it.quando);
+function mostra(it){$('#tit').textContent=nomeP(it.titulo)||'Planilha da escala';$('#quando').textContent='Atualizada em '+fmt(it.quando);
  $('#img').src=it.imagem+'?v='+encodeURIComponent(it.quando);$('#dl').href=it.imagem;$('#shot').hidden=false;
  const c=$('#chip'),h=(Date.now()-new Date(it.quando))/36e5;c.hidden=false;c.className='chip'+(h>8?' old':'');c.textContent=(h>8?'● ':'● ')+ago(it.quando)}
 async function escala(){const d=await J('dados/escala.json');if(!d||!d.imagem){$('#tit').textContent='Ainda não há planilha publicada';return}
  E=d;const hs=d.historico&&d.historico.length?d.historico:[{quando:d.atualizado_em,titulo:d.titulo,imagem:d.imagem}];
- const sel=$('#hist'),cur=sel.value;sel.innerHTML=hs.map((h,i)=>`<option value="${i}">${i?'':'Mais recente · '}${fmt(h.quando)} — ${esc(h.titulo)}</option>`).join('');
+ const sel=$('#hist'),cur=sel.value;sel.innerHTML=hs.map((h,i)=>`<option value="${i}">${i?'':'Mais recente · '}${fmt(h.quando)} — ${esc(nomeP(h.titulo))}</option>`).join('');
  sel.value=cur&&hs[cur]?cur:0;mostra(hs[sel.value]);E.h=hs}
 $('#hist').onchange=e=>mostra(E.h[e.target.value]);
 let B=[],selArq=null;const quandoB=b=>b.recebido_em||b.enviado_em,ehPdf=b=>/\.pdf$/i.test(b.arquivo||'');
