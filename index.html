@@ -18,6 +18,7 @@ main{max-width:980px;margin:14px auto;padding:0 14px 40px}section{display:none}s
 .chip.old{background:#e0a80022;color:#b07a00}.mut{color:var(--mut);font-size:.85rem}
 .shot{position:relative;margin-top:10px;border-radius:12px;overflow:hidden;border:1px solid var(--bd);background:#000;cursor:zoom-in}.shot img{display:block;width:100%;height:auto}
 .hint{position:absolute;right:8px;bottom:8px;background:#000a;color:#fff;font-size:.75rem;padding:4px 9px;border-radius:8px}
+select{min-width:0;max-width:100%;flex:1 1 200px;text-overflow:ellipsis}
 select,.btn{font:inherit;border:1px solid var(--bd);background:var(--card);color:var(--tx);border-radius:10px;padding:9px 12px}.btn{cursor:pointer;text-decoration:none;display:inline-block}
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:12px}
 .bol{padding:0;overflow:hidden;cursor:pointer}.bol .th{aspect-ratio:4/3;background:#0b3a5b14 center/cover no-repeat;display:flex;align-items:center;justify-content:center;font-size:2.4rem}
@@ -37,7 +38,9 @@ footer{text-align:center;color:var(--mut);font-size:.8rem;padding:6px 14px 30px}
   <div class="top" style="margin-top:12px"><select id="hist" aria-label="Atualizações anteriores"></select><a class="btn" id="dl" download target="_blank" rel="noopener">Baixar imagem</a></div></div>
 </section>
 <section id="boletins">
- <div class="card top"><b>Boletins</b><select id="dia" aria-label="Escolher dia"></select></div><div id="bols"></div>
+ <div class="card"><div class="top"><div><b id="btit">Carregando…</b><div class="mut" id="bquando"></div></div><span class="chip" id="bchip" hidden></span></div>
+  <div class="shot" id="bshot" hidden><img id="bimg" alt="Boletim"><span class="hint">Toque para ampliar</span></div>
+  <div class="top" style="margin-top:12px"><select id="bsel" aria-label="Outros boletins"></select><a class="btn" id="bdl" download target="_blank" rel="noopener">Baixar imagem</a></div></div>
 </section></main>
 <footer>As informações são calculadas pelo robô da escala e podem mudar. Em caso de dúvida, vale a decisão do OGMO.</footer>
 <div id="lb"><img id="lbi" alt=""></div><button id="x" aria-label="Fechar">✕</button>
@@ -45,6 +48,7 @@ footer{text-align:center;color:var(--mut);font-size:.8rem;padding:6px 14px 30px}
 const $=s=>document.querySelector(s),T=()=>Math.floor(Date.now()/60000);
 const J=async p=>{try{const r=await fetch(p+'?t='+T(),{cache:'no-store'});return r.ok?await r.json():null}catch(e){return null}};
 const fmt=d=>new Date(d).toLocaleString('pt-BR',{day:'2-digit',month:'2-digit',hour:'2-digit',minute:'2-digit'});
+const esc=s=>String(s==null?'':s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const ago=d=>{const m=Math.max(0,Math.round((Date.now()-new Date(d))/60000));return m<1?'agora mesmo':m<60?`há ${m} min`:m<1440?`há ${Math.floor(m/60)} h`:`há ${Math.floor(m/1440)} d`};
 let E=null;
 function mostra(it){$('#tit').textContent=it.titulo||'Planilha da escala';$('#quando').textContent='Atualizada em '+fmt(it.quando);
@@ -52,17 +56,19 @@ function mostra(it){$('#tit').textContent=it.titulo||'Planilha da escala';$('#qu
  const c=$('#chip'),h=(Date.now()-new Date(it.quando))/36e5;c.hidden=false;c.className='chip'+(h>8?' old':'');c.textContent=(h>8?'● ':'● ')+ago(it.quando)}
 async function escala(){const d=await J('dados/escala.json');if(!d||!d.imagem){$('#tit').textContent='Ainda não há planilha publicada';return}
  E=d;const hs=d.historico&&d.historico.length?d.historico:[{quando:d.atualizado_em,titulo:d.titulo,imagem:d.imagem}];
- const sel=$('#hist'),cur=sel.value;sel.innerHTML=hs.map((h,i)=>`<option value="${i}">${i?'':'Mais recente · '}${fmt(h.quando)} — ${h.titulo||''}</option>`).join('');
+ const sel=$('#hist'),cur=sel.value;sel.innerHTML=hs.map((h,i)=>`<option value="${i}">${i?'':'Mais recente · '}${fmt(h.quando)} — ${esc(h.titulo)}</option>`).join('');
  sel.value=cur&&hs[cur]?cur:0;mostra(hs[sel.value]);E.h=hs}
 $('#hist').onchange=e=>mostra(E.h[e.target.value]);
-let B=[];async function bol(){const d=await J('dados/boletins.json');B=Array.isArray(d)?d:[];
- const dias=[...new Set(B.map(b=>b.data))],s=$('#dia'),cur=s.value;s.innerHTML=`<option value="">Todos os dias</option>`+dias.map(x=>`<option>${x}</option>`).join('');s.value=dias.includes(cur)?cur:'';pinta()}
-function pinta(){const f=$('#dia').value,L=B.filter(b=>!f||b.data===f);if(!L.length){$('#bols').innerHTML='<div class="empty card">Nenhum boletim publicado ainda.</div>';return}
- const g={};L.forEach(b=>(g[b.data]=g[b.data]||[]).push(b));
- $('#bols').innerHTML=Object.keys(g).map(k=>`<h2>${k}</h2><div class="grid">`+g[k].map(b=>{const pdf=/\.pdf$/i.test(b.arquivo);
-  return `<div class="card bol" data-a="${b.arquivo}" data-p="${pdf}"><div class="th" style="${pdf?'':`background-image:url('${b.arquivo}')`}">${pdf?'📄':''}</div><div class="t"><b>${b.titulo||'Boletim'}</b><span class="mut">${b.periodo||''}${b.periodo?' · ':''}${fmt(b.enviado_em)}</span></div></div>`}).join('')+'</div>').join('')}
-$('#dia').onchange=pinta;
-document.addEventListener('click',e=>{const c=e.target.closest('.bol');if(c){c.dataset.p==='true'?open(c.dataset.a,'_blank'):abre(c.dataset.a)}else if(e.target.closest('#shot'))abre($('#img').src)});
+let B=[],selArq=null;const quandoB=b=>b.recebido_em||b.enviado_em,ehPdf=b=>/\.pdf$/i.test(b.arquivo||'');
+function bmostra(b){$('#btit').textContent=b.titulo||'Boletim';$('#bquando').textContent='Recebido em '+fmt(quandoB(b));
+ const pdf=ehPdf(b);$('#bshot').hidden=pdf;if(!pdf)$('#bimg').src=b.arquivo;$('#bdl').href=b.arquivo;$('#bdl').textContent=pdf?'Abrir PDF':'Baixar imagem';
+ const c=$('#bchip'),h=(Date.now()-new Date(quandoB(b)))/36e5;c.hidden=false;c.className='chip'+(h>8?' old':'');c.textContent='● '+ago(quandoB(b))}
+async function bol(){const d=await J('dados/boletins.json');B=Array.isArray(d)?d.slice().sort((x,y)=>new Date(quandoB(y))-new Date(quandoB(x))):[];
+ const sel=$('#bsel');if(!B.length){$('#btit').textContent='Nenhum boletim publicado ainda';$('#bquando').textContent='';$('#bshot').hidden=true;$('#bchip').hidden=true;sel.innerHTML='';return}
+ sel.innerHTML=B.map((b,i)=>`<option value="${i}">${i?'':'Mais recente · '}${fmt(quandoB(b))} — ${esc(b.titulo||'Boletim')}</option>`).join('');
+ const ix=selArq?B.findIndex(b=>b.arquivo===selArq):-1;sel.value=ix>=0?ix:0;bmostra(B[sel.value])}
+$('#bsel').onchange=e=>{selArq=e.target.value==='0'?null:B[e.target.value].arquivo;bmostra(B[e.target.value])};
+document.addEventListener('click',e=>{if(e.target.closest('#shot'))abre($('#img').src);else if(e.target.closest('#bshot'))abre($('#bimg').src)});
 function abre(u){$('#lbi').src=u;$('#lbi').className='';$('#lb').classList.add('on')}
 $('#lbi').onclick=e=>e.target.classList.toggle('z');$('#x').onclick=()=>$('#lb').classList.remove('on');
 document.onkeydown=e=>e.key==='Escape'&&$('#x').click();
