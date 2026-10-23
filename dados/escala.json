@@ -1,8 +1,13 @@
 {
- "atualizado_em": "2026-10-23T18:56:05-03:00",
- "titulo": "Atualização manual",
- "imagem": "planilha/20261023_185605_231525.png",
+ "atualizado_em": "2026-10-23T18:57:35-03:00",
+ "titulo": "Planilha: período sem trabalho",
+ "imagem": "planilha/20261023_185735_026919.png",
  "historico": [
+  {
+   "quando": "2026-10-23T18:57:35-03:00",
+   "titulo": "Planilha: período sem trabalho",
+   "imagem": "planilha/20261023_185735_026919.png"
+  },
   {
    "quando": "2026-10-23T18:56:05-03:00",
    "titulo": "Atualização manual",
