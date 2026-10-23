@@ -1,17 +1,17 @@
 {
- "atualizado_em": "2026-10-23T15:45:24-03:00",
- "titulo": "Planilha: período sem trabalho",
- "imagem": "planilha/20261023_154524_418304.png",
+ "atualizado_em": "2026-10-23T15:54:42-03:00",
+ "titulo": "Atualização manual",
+ "imagem": "planilha/20261023_155442_019392.png",
  "historico": [
+  {
+   "quando": "2026-10-23T15:54:42-03:00",
+   "titulo": "Atualização manual",
+   "imagem": "planilha/20261023_155442_019392.png"
+  },
   {
    "quando": "2026-10-23T15:45:24-03:00",
    "titulo": "Planilha: período sem trabalho",
    "imagem": "planilha/20261023_154524_418304.png"
-  },
-  {
-   "quando": "2026-10-23T12:38:07-03:00",
-   "titulo": "Atualização manual",
-   "imagem": "planilha/20261023_123807_693466.png"
   },
   {
    "quando": "2026-10-23T06:55:44-03:00",
