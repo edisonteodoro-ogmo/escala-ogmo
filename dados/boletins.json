@@ -1,5 +1,16 @@
 [
  {
+  "arquivo": "boletins/2026-10-21_07-13_084319_858415.png",
+  "titulo": "BOLETIM 04 ADVENTURER 07/13 · RETIFICAÇÃO",
+  "data": "21/10/2026",
+  "periodo": "07/13",
+  "chave": "<c5da75f0-f6fe-4676-ad54-c9311b2a02b4@uol.com.br>_ADVENTURERBOLETIM04pdf",
+  "grupo": "ADVENTURER|04",
+  "retificacao": true,
+  "recebido_em": "2026-10-21T14:03:17-03:00",
+  "enviado_em": "2026-10-23T08:43:19-03:00"
+ },
+ {
   "arquivo": "boletins/2026-10-23_01-07_080519_725194.png",
   "titulo": "BOLETIM 04 76 - ATAYAL MARINER 01/07",
   "data": "23/10/2026",
@@ -53,17 +64,6 @@
   "retificacao": false,
   "recebido_em": "2026-10-21T15:07:28-03:00",
   "enviado_em": "2026-10-22T08:42:23-03:00"
- },
- {
-  "arquivo": "boletins/2026-10-21_07-13_084216_971434.png",
-  "titulo": "BOLETIM 04 ADVENTURER 07/13 · RETIFICAÇÃO",
-  "data": "21/10/2026",
-  "periodo": "07/13",
-  "chave": "<c5da75f0-f6fe-4676-ad54-c9311b2a02b4@uol.com.br>_ADVENTURERBOLETIM04pdf",
-  "grupo": "ADVENTURER|04",
-  "retificacao": true,
-  "recebido_em": "2026-10-21T14:03:17-03:00",
-  "enviado_em": "2026-10-22T08:42:16-03:00"
  },
  {
   "arquivo": "boletins/2026-10-21_01-07_084209_627851.png",
