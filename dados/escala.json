@@ -1,8 +1,13 @@
 {
- "atualizado_em": "2026-10-28T12:56:04-03:00",
- "titulo": "28/10/2026 · 13/19",
- "imagem": "planilha/20261028_125604_878362.png",
+ "atualizado_em": "2026-10-28T18:57:58-03:00",
+ "titulo": "Planilha: período sem trabalho",
+ "imagem": "planilha/20261028_185758_552456.png",
  "historico": [
+  {
+   "quando": "2026-10-28T18:57:58-03:00",
+   "titulo": "Planilha: período sem trabalho",
+   "imagem": "planilha/20261028_185758_552456.png"
+  },
   {
    "quando": "2026-10-28T12:56:04-03:00",
    "titulo": "28/10/2026 · 13/19",
