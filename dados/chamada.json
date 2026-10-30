@@ -1,8 +1,14 @@
 {
- "atualizado_em": "2026-10-29T12:56:51-03:00",
- "titulo": "Chamada 13h · 29/10/2026",
- "imagem": "chamada/20261029_125651_341211.png",
+ "atualizado_em": "2026-10-30T06:56:43-03:00",
+ "titulo": "Chamada 7h · 30/10/2026",
+ "imagem": "chamada/20261030_065643_695456.png",
  "historico": [
+  {
+   "quando": "2026-10-30T06:56:43-03:00",
+   "titulo": "Chamada 7h · 30/10/2026",
+   "imagem": "chamada/20261030_065643_695456.png",
+   "chave": "2026-10-30|1"
+  },
   {
    "quando": "2026-10-29T12:56:51-03:00",
    "titulo": "Chamada 13h · 29/10/2026",
