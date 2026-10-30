@@ -1,14 +1,14 @@
 [
  {
-  "arquivo": "boletins/2026-10-30_07-13_152521_156089.png",
-  "titulo": "BOLETIM 01 RAMI M 07/13",
+  "arquivo": "boletins/2026-10-30_07-13_180959_310352.png",
+  "titulo": "BOLETIM 01 RAMI M 07/13 · RETIFICAÇÃO",
   "data": "30/10/2026",
   "periodo": "07/13",
-  "chave": "<690b4f6f-62c1-4f24-a96e-acdd81dc3665@uol.com.br>_77RAMIMBOLETIM01pdf",
+  "chave": "<01eb3f38-f265-46ef-afe0-01a4d3ce94dc@uol.com.br>_77RAMIMBOLETIM01pdf",
   "grupo": "RAMI M|01",
-  "retificacao": false,
-  "recebido_em": "2026-10-30T15:22:42-03:00",
-  "enviado_em": "2026-10-30T15:25:21-03:00"
+  "retificacao": true,
+  "recebido_em": "2026-10-30T17:55:52-03:00",
+  "enviado_em": "2026-10-30T18:09:59-03:00"
  },
  {
   "arquivo": "boletins/2026-10-23_07-13_115507_453072.png",
