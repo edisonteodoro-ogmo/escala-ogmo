@@ -52,8 +52,8 @@ header{position:relative}#tema{position:absolute;top:calc(env(safe-area-inset-to
 header h1{padding-right:46px}@media(max-width:420px){header h1{font-size:1.15rem}}
 footer{text-align:center;color:var(--mut);font-size:.8rem;padding:6px 14px 30px}
 </style></head><body>
-<header><button id="tema" type="button" aria-label="Alternar modo claro e noturno" title="Modo claro / noturno"></button><h1>⚓ Escala OGMO · São Sebastião</h1><p>Planilha, chamada e boletins de cada período, sempre atualizados</p></header>
-<nav><button class="on" data-s="escala">Escala</button><button data-s="chamada">Chamada</button><button data-s="periodos">Períodos</button><button data-s="boletins">Boletins</button></nav>
+<header><button id="tema" type="button" aria-label="Alternar modo claro e noturno" title="Modo claro / noturno"></button><h1>⚓ Escala OGMO · São Sebastião</h1><p>Chamada, escala e boletins de cada período, sempre atualizados</p></header>
+<nav><button class="on" data-s="escala">Chamada</button><button data-s="chamada">Escala</button><button data-s="periodos">Períodos</button><button data-s="boletins">Boletins</button></nav>
 <main>
 <section id="escala" class="on">
  <div class="card"><div class="top"><div><b id="tit">Carregando…</b><div class="mut" id="quando"></div></div><span class="chip" id="chip" hidden></span></div>
@@ -62,8 +62,8 @@ footer{text-align:center;color:var(--mut);font-size:.8rem;padding:6px 14px 30px}
 </section>
 <section id="chamada">
  <div class="card"><div class="top"><div><b id="ctit">Carregando…</b><div class="mut" id="cquando"></div></div><span class="chip" id="cchip" hidden></span></div>
-  <div class="shot" id="cshot" hidden><img id="cimg" alt="Chamada"><span class="hint">Toque para ampliar</span></div>
-  <div class="top" style="margin-top:12px"><select id="chist" aria-label="Chamadas anteriores"></select><a class="btn" id="cdl" download target="_blank" rel="noopener">Baixar imagem</a></div></div>
+  <div class="shot" id="cshot" hidden><img id="cimg" alt="Escala"><span class="hint">Toque para ampliar</span></div>
+  <div class="top" style="margin-top:12px"><select id="chist" aria-label="Escalas anteriores"></select><a class="btn" id="cdl" download target="_blank" rel="noopener">Baixar imagem</a></div></div>
 </section>
 <section id="periodos">
  <div class="dia"><div class="tg" id="pdias" role="tablist" aria-label="Dia"></div><span class="chip" id="pchip" hidden></span></div>
@@ -95,20 +95,22 @@ const esc=s=>String(s==null?'':s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;'
 const PER={1:'07/13',2:'13/19',3:'19/01',4:'01/07'};
 // títulos antigos ('22/10/2026 período 1 (refeita)') aparecem como '22/10/2026 · 07/13'
 const nomeP=t=>String(t==null?'':t).replace(/(\d{2}\/\d{2}\/\d{4})\s+per[ií]odo\s+(\d)(\s*\(refeita\))?/i,(m,d,n)=>PER[n]?`${d} · ${PER[n]}`:m);
+// a 2ª aba agora se chama Escala: títulos antigos 'Chamada 1h · 30/10/2026' aparecem como 'Escala 1h · 30/10/2026'
+const nomeC=t=>String(t==null?'':t).replace(/^Chamada(?=\s)/,'Escala');
 const ago=d=>{const m=Math.max(0,Math.round((Date.now()-new Date(d))/60000));return m<1?'agora mesmo':m<60?`há ${m} min`:m<1440?`há ${Math.floor(m/60)} h`:`há ${Math.floor(m/1440)} d`};
 let E=null,C=null;
 function mostra(it){$('#tit').textContent=nomeP(it.titulo)||'Planilha da escala';$('#quando').textContent='Atualizada em '+fmt(it.quando);
  $('#img').src=it.imagem+'?v='+encodeURIComponent(it.quando);$('#dl').href=it.imagem;$('#shot').hidden=false;
  const c=$('#chip'),h=(Date.now()-new Date(it.quando))/36e5;c.hidden=false;c.className='chip'+(h>8?' old':'');c.textContent=(h>8?'● ':'● ')+ago(it.quando)}
-function cmostra(it){$('#ctit').textContent=it.titulo||'Chamada';$('#cquando').textContent='Atualizada em '+fmt(it.quando);
+function cmostra(it){$('#ctit').textContent=nomeC(it.titulo)||'Escala';$('#cquando').textContent='Atualizada em '+fmt(it.quando);
  $('#cimg').src=it.imagem+'?v='+encodeURIComponent(it.quando);$('#cdl').href=it.imagem;$('#cshot').hidden=false;
  const c=$('#cchip'),h=(Date.now()-new Date(it.quando))/36e5;c.hidden=false;c.className='chip'+(h>8?' old':'');c.textContent='● '+ago(it.quando)}
-async function chamada(){const d=await J('dados/chamada.json');if(!d||!d.imagem){$('#ctit').textContent='Ainda não há chamada publicada';return}
+async function chamada(){const d=await J('dados/chamada.json');if(!d||!d.imagem){$('#ctit').textContent='Ainda não há escala publicada';return}
  const hs=d.historico&&d.historico.length?d.historico:[{quando:d.atualizado_em,titulo:d.titulo,imagem:d.imagem}];
- const sel=$('#chist'),cur=sel.value;sel.innerHTML=hs.map((h,i)=>`<option value="${i}">${i?'':'Mais recente · '}${esc(h.titulo)} — ${fmt(h.quando)}</option>`).join('');
+ const sel=$('#chist'),cur=sel.value;sel.innerHTML=hs.map((h,i)=>`<option value="${i}">${i?'':'Mais recente · '}${esc(nomeC(h.titulo))} — ${fmt(h.quando)}</option>`).join('');
  sel.value=cur&&hs[cur]?cur:0;cmostra(hs[sel.value]);C=hs}
 $('#chist').onchange=e=>cmostra(C[e.target.value]);
-async function escala(){const d=await J('dados/escala.json');if(!d||!d.imagem){$('#tit').textContent='Ainda não há planilha publicada';return}
+async function escala(){const d=await J('dados/escala.json');if(!d||!d.imagem){$('#tit').textContent='Ainda não há chamada publicada';return}
  E=d;const hs=d.historico&&d.historico.length?d.historico:[{quando:d.atualizado_em,titulo:d.titulo,imagem:d.imagem}];
  const sel=$('#hist'),cur=sel.value;sel.innerHTML=hs.map((h,i)=>`<option value="${i}">${i?'':'Mais recente · '}${fmt(h.quando)} — ${esc(nomeP(h.titulo))}</option>`).join('');
  sel.value=cur&&hs[cur]?cur:0;mostra(hs[sel.value]);E.h=hs}
