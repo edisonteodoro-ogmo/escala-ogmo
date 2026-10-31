@@ -1,7 +1,7 @@
 {
- "atualizado_em": "2026-10-30T22:40:18-03:00",
- "lido_em": "2026-10-30T22:40:14-03:00",
- "total": 31,
+ "atualizado_em": "2026-10-30T22:43:52-03:00",
+ "lido_em": "2026-10-30T22:43:52-03:00",
+ "total": 18,
  "navios": [
   {
    "nome": "RAMI M",
@@ -187,137 +187,6 @@
    "operador": "LOG LOGÍSTICA",
    "local": "DIRETO",
    "situacao": "PROGRAMADO"
-  },
-  {
-   "nome": "WHITE PEARL",
-   "faixa": "",
-   "previsao": "05/11/2026",
-   "carga": "ANIMAIS VIVOS",
-   "qtd": "4.500 UN",
-   "operador": "LOG LOGÍSTICA",
-   "local": "DIRETO",
-   "situacao": ""
-  },
-  {
-   "nome": "POLARIS 2",
-   "faixa": "",
-   "previsao": "15/11/2026",
-   "carga": "ANIMAIS VIVOS",
-   "qtd": "6.000 UN",
-   "operador": "LOG LOGÍSTICA",
-   "local": "DIRETO",
-   "situacao": ""
-  },
-  {
-   "nome": "OCEAN SWAGMAN",
-   "faixa": "",
-   "previsao": "15/11/2026",
-   "carga": "ANIMAIS VIVOS",
-   "qtd": "5.500 UN",
-   "operador": "LOG LOGÍSTICA",
-   "local": "DIRETO",
-   "situacao": ""
-  },
-  {
-   "nome": "ALONDRA",
-   "faixa": "",
-   "previsao": "20/11/2026",
-   "carga": "ANIMAIS VIVOS",
-   "qtd": "3.500 UN",
-   "operador": "PRONAVE",
-   "local": "DIRETO",
-   "situacao": ""
-  },
-  {
-   "nome": "BLUE OCEAN A",
-   "faixa": "",
-   "previsao": "28/11/2026",
-   "carga": "ANIMAIS VIVOS",
-   "qtd": "4.500 UN",
-   "operador": "PRONAVE",
-   "local": "DIRETO",
-   "situacao": ""
-  },
-  {
-   "nome": "QUEENSLAND",
-   "faixa": "",
-   "previsao": "30/11/2026",
-   "carga": "ANIMAIS VIVOS",
-   "qtd": "7.000 UN",
-   "operador": "LOG LOGÍSTICA",
-   "local": "DIRETO",
-   "situacao": ""
-  },
-  {
-   "nome": "TAIBA",
-   "faixa": "",
-   "previsao": "10/12/2026",
-   "carga": "ANIMAIS VIVOS",
-   "qtd": "5.000 UN",
-   "operador": "LOG LOGÍSTICA",
-   "local": "DIRETO",
-   "situacao": "",
-   "marca": "novo"
-  },
-  {
-   "nome": "TAIBA",
-   "faixa": "",
-   "previsao": "10/12/2026",
-   "carga": "ANIMAIS VIVOS",
-   "qtd": "5.000 UN",
-   "operador": "LOG LOGÍSTICA",
-   "local": "DIRETO",
-   "situacao": ""
-  },
-  {
-   "nome": "YOSOR",
-   "faixa": "",
-   "previsao": "15/12/2026",
-   "carga": "ANIMAIS VIVOS",
-   "qtd": "6.000 UN",
-   "operador": "LOG LOGÍSTICA",
-   "local": "DIRETO",
-   "situacao": ""
-  },
-  {
-   "nome": "ADRIATIC ROSE",
-   "faixa": "",
-   "previsao": "15/12/2026",
-   "carga": "ANIMAIS VIVOS",
-   "qtd": "5.000 UN",
-   "operador": "LOG LOGÍSTICA",
-   "local": "DIRETO",
-   "situacao": ""
-  },
-  {
-   "nome": "YOSOR",
-   "faixa": "",
-   "previsao": "15/12/2026",
-   "carga": "ANIMAIS VIVOS",
-   "qtd": "6.000 UN",
-   "operador": "LOG LOGÍSTICA",
-   "local": "DIRETO",
-   "situacao": ""
-  },
-  {
-   "nome": "S.ARAS",
-   "faixa": "",
-   "previsao": "19/12/2026",
-   "carga": "ANIMAIS VIVOS",
-   "qtd": "10.000 UN",
-   "operador": "LOG LOGÍSTICA",
-   "local": "DIRETO",
-   "situacao": ""
-  },
-  {
-   "nome": "BALHA ONE",
-   "faixa": "",
-   "previsao": "31/12/2026",
-   "carga": "ANIMAIS VIVOS",
-   "qtd": "7.000 UN",
-   "operador": "LOG LOGÍSTICA",
-   "local": "DIRETO",
-   "situacao": ""
   }
  ]
 }
