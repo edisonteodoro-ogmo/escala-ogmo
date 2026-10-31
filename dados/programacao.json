@@ -1,1 +1,269 @@
-{}
+{
+ "atualizado_em": "2026-10-30T22:09:55-03:00",
+ "lido_em": "2026-10-30T22:09:55-03:00",
+ "total": 26,
+ "navios": [
+  {
+   "nome": "RAMI M",
+   "faixa": "NAVIOS OPERANDO",
+   "previsao": "13/10/2026",
+   "carga": "ANIMAIS VIVOS",
+   "qtd": "7.000 UN",
+   "operador": "PRONAVE",
+   "local": "DIRETO",
+   "situacao": "OPERANDO"
+  },
+  {
+   "nome": "SAGA PIONNER",
+   "faixa": "NAVIOS PROGRAMADOS A",
+   "previsao": "15/11/2026",
+   "carga": "BARRILHA",
+   "qtd": "15.692 t",
+   "operador": "PRONAVE",
+   "local": "DIRETO",
+   "situacao": "PROGRAMADO"
+  },
+  {
+   "nome": "YOSOR",
+   "faixa": "",
+   "previsao": "15/12/2026",
+   "carga": "ANIMAIS VIVOS",
+   "qtd": "6.000 UN",
+   "operador": "LOG LOGÍSTICA",
+   "local": "DIRETO",
+   "situacao": "",
+   "fundeado": true
+  },
+  {
+   "nome": "INDIAN OCEAN",
+   "faixa": "NAVIOS PROGRAMADOS B",
+   "previsao": "30/10/2026",
+   "carga": "ALUMINA CALCINADA",
+   "qtd": "29.230 t",
+   "operador": "PRONAVE",
+   "local": "ARMAZEM CDSS",
+   "situacao": "FUNDEADO",
+   "fundeado": true
+  },
+  {
+   "nome": "UNITY SPIRIT",
+   "faixa": "NAVIOS PROGRAMADOS C",
+   "previsao": "02/11/2026",
+   "carga": "BARRILHA",
+   "qtd": "10.000 t",
+   "operador": "PRONAVE",
+   "local": "ARMAZEM CDSS",
+   "situacao": "PROGRAMADO"
+  },
+  {
+   "nome": "S.ARAS",
+   "faixa": "",
+   "previsao": "19/12/2026",
+   "carga": "ANIMAIS VIVOS",
+   "qtd": "10.000 UN",
+   "operador": "LOG LOGÍSTICA",
+   "local": "DIRETO",
+   "situacao": ""
+  },
+  {
+   "nome": "HANZE GENUA",
+   "faixa": "NAVIOS PROGRAMADOS E",
+   "previsao": "05/11/2026",
+   "carga": "MALTE",
+   "qtd": "25.000 t",
+   "operador": "PRONAVE",
+   "local": "ARMAZEM CDSS",
+   "situacao": "PROGRAMADO"
+  },
+  {
+   "nome": "ASTRO NEKKAR",
+   "faixa": "NAVIOS PROGRAMADOS E",
+   "previsao": "11/11/2026",
+   "carga": "BARRILHA",
+   "qtd": "10.000 t",
+   "operador": "PRONAVE",
+   "local": "ARMAZEM CDSS",
+   "situacao": "PROGRAMADO"
+  },
+  {
+   "nome": "APOGEE ENDEAVOUR",
+   "faixa": "NAVIOS PROGRAMADOS G",
+   "previsao": "20/12/2026",
+   "carga": "TRIGO",
+   "qtd": "30.000 t",
+   "operador": "PRONAVE",
+   "local": "ARMAZEM CDSS",
+   "situacao": "PROGRAMADO"
+  },
+  {
+   "nome": "ELISABETTA",
+   "faixa": "NAVIOS PROGRAMADOS E",
+   "previsao": "02/12/2026",
+   "carga": "BARRILHA",
+   "qtd": "14.844 t",
+   "operador": "LOG LOGÍSTICA",
+   "local": "DIRETO / DIRETO",
+   "situacao": "PROGRAMADO"
+  },
+  {
+   "nome": "OCEAN ENDEAVOR",
+   "faixa": "NAVIOS PROGRAMADOS E",
+   "previsao": "03/12/2026",
+   "carga": "BARRILHA",
+   "qtd": "28.000 t",
+   "operador": "PRONAVE",
+   "local": "ARMAZEM CDSS",
+   "situacao": "PROGRAMADO"
+  },
+  {
+   "nome": "BOI BRANCO",
+   "faixa": "NAVIOS PROGRAMADOS F",
+   "previsao": "08/11/2026",
+   "carga": "ANIMAIS VIVOS",
+   "qtd": "4.000 UN",
+   "operador": "LOG LOGÍSTICA",
+   "local": "DIRETO",
+   "situacao": "PROGRAMADO"
+  },
+  {
+   "nome": "PACIFICA",
+   "faixa": "NAVIOS PROGRAMADOS F",
+   "previsao": "09/11/2026",
+   "carga": "CARGA PROJETO",
+   "qtd": "900 t",
+   "operador": "LOG LOGÍSTICA",
+   "local": "ARMAZEM CDSS",
+   "situacao": "PROGRAMADO"
+  },
+  {
+   "nome": "ATLANTIC ROSE",
+   "faixa": "NAVIOS PROGRAMADOS F",
+   "previsao": "11/11/2026",
+   "carga": "ANIMAIS VIVOS",
+   "qtd": "4.500 UN",
+   "operador": "LOG LOGÍSTICA",
+   "local": "DIRETO",
+   "situacao": "PROGRAMADO"
+  },
+  {
+   "nome": "PACIFIC ROSE",
+   "faixa": "NAVIOS PROGRAMADOS G",
+   "previsao": "12/11/2026",
+   "carga": "ANIMAIS VIVOS",
+   "qtd": "10.000 UN",
+   "operador": "LOG LOGÍSTICA",
+   "local": "DIRETO",
+   "situacao": "PROGRAMADO"
+  },
+  {
+   "nome": "STAR POLLUX",
+   "faixa": "NAVIOS PROGRAMADOS G",
+   "previsao": "02/12/2026",
+   "carga": "BARRILHA",
+   "qtd": "26.000 t",
+   "operador": "LOG LOGÍSTICA",
+   "local": "ARMAZEM CDSS",
+   "situacao": "PROGRAMADO"
+  },
+  {
+   "nome": "MADONNA",
+   "faixa": "NAVIOS PROGRAMADOS H",
+   "previsao": "25/11/2026",
+   "carga": "ANIMAIS VIVOS",
+   "qtd": "8.000 UN",
+   "operador": "LOG LOGÍSTICA",
+   "local": "DIRETO",
+   "situacao": "PROGRAMADO"
+  },
+  {
+   "nome": "WHITE PEARL",
+   "faixa": "",
+   "previsao": "05/11/2026",
+   "carga": "ANIMAIS VIVOS",
+   "qtd": "4.500 UN",
+   "operador": "LOG LOGÍSTICA",
+   "local": "DIRETO",
+   "situacao": ""
+  },
+  {
+   "nome": "POLARIS 2",
+   "faixa": "",
+   "previsao": "15/11/2026",
+   "carga": "ANIMAIS VIVOS",
+   "qtd": "6.000 UN",
+   "operador": "LOG LOGÍSTICA",
+   "local": "DIRETO",
+   "situacao": ""
+  },
+  {
+   "nome": "OCEAN SWAGMAN",
+   "faixa": "",
+   "previsao": "15/11/2026",
+   "carga": "ANIMAIS VIVOS",
+   "qtd": "5.500 UN",
+   "operador": "LOG LOGÍSTICA",
+   "local": "DIRETO",
+   "situacao": ""
+  },
+  {
+   "nome": "ALONDRA",
+   "faixa": "",
+   "previsao": "20/11/2026",
+   "carga": "ANIMAIS VIVOS",
+   "qtd": "3.500 UN",
+   "operador": "PRONAVE",
+   "local": "DIRETO",
+   "situacao": ""
+  },
+  {
+   "nome": "BLUE OCEAN A",
+   "faixa": "",
+   "previsao": "28/11/2026",
+   "carga": "ANIMAIS VIVOS",
+   "qtd": "4.500 UN",
+   "operador": "PRONAVE",
+   "local": "DIRETO",
+   "situacao": ""
+  },
+  {
+   "nome": "QUEENSLAND",
+   "faixa": "",
+   "previsao": "30/11/2026",
+   "carga": "ANIMAIS VIVOS",
+   "qtd": "7.000 UN",
+   "operador": "LOG LOGÍSTICA",
+   "local": "DIRETO",
+   "situacao": ""
+  },
+  {
+   "nome": "TAIBA",
+   "faixa": "",
+   "previsao": "10/12/2026",
+   "carga": "ANIMAIS VIVOS",
+   "qtd": "5.000 UN",
+   "operador": "LOG LOGÍSTICA",
+   "local": "DIRETO",
+   "situacao": ""
+  },
+  {
+   "nome": "ADRIATIC ROSE",
+   "faixa": "",
+   "previsao": "15/12/2026",
+   "carga": "ANIMAIS VIVOS",
+   "qtd": "5.000 UN",
+   "operador": "LOG LOGÍSTICA",
+   "local": "DIRETO",
+   "situacao": ""
+  },
+  {
+   "nome": "BALHA ONE",
+   "faixa": "",
+   "previsao": "31/12/2026",
+   "carga": "ANIMAIS VIVOS",
+   "qtd": "7.000 UN",
+   "operador": "LOG LOGÍSTICA",
+   "local": "DIRETO",
+   "situacao": ""
+  }
+ ]
+}
