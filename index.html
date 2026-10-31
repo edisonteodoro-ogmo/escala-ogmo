@@ -112,35 +112,39 @@ async function escala(){const d=await J('dados/escala.json');if(!d||!d.imagem){$
  const sel=$('#hist'),cur=sel.value;sel.innerHTML=hs.map((h,i)=>`<option value="${i}">${i?'':'Mais recente · '}${fmt(h.quando)} — ${esc(nomeP(h.titulo))}</option>`).join('');
  sel.value=cur&&hs[cur]?cur:0;mostra(hs[sel.value]);E.h=hs}
 $('#hist').onchange=e=>mostra(E.h[e.target.value]);
-// ---- aba Períodos: serviços com estivador (dado do OGMO, lido pelo robô) ----
-const HP={1:7,2:13,3:19,4:1},PH={1:'07–13',2:'13–19',3:'19–01',4:'01–07'};
+// ---- aba Períodos: serviços com estivador (dado do OGMO, lido pelo robô). Aceita período extra (ex.: 09-13 = Rancho de Emergência)
+const STD={1:'07-13',2:'13-19',3:'19-01',4:'01-07'};
 let PD=null,pDia=null,pPer=null,pAuto=true;
-const iniP=(dia,p)=>{const[y,m,d]=dia.split('-').map(Number);return new Date(y,m-1,d+(p===4?1:0),HP[p],0,0)};
-const stP=(dia,p)=>{const a=iniP(dia,p),b=new Date(a.getTime()+6*36e5),n=new Date();return n>=b?'fim':n>=a?'agora':'fut'};
-const isoD=d=>`${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`;
+const dsc=(d,k)=>(d.desc&&d.desc[k])||STD[k]||'';
+const hh=t=>{const m=/^(\d\d)-(\d\d)$/.exec(t||'');return m?[+m[1],+m[2]]:[0,6]};
+const iniP=(d,k)=>{const[y,m,dd]=d.data.split('-').map(Number),[h]=hh(dsc(d,k));return new Date(y,m-1,dd+(h<7?1:0),h,0,0)};   // 01h e 03h já são do dia seguinte
+const durP=(d,k)=>{const[h,e]=hh(dsc(d,k));return((e-h+24)%24||24)*36e5};
+const stP=(d,k)=>{const a=iniP(d,k),n=new Date();return n>=new Date(a.getTime()+durP(d,k))?'fim':n>=a?'agora':'fut'};
+const chaves=d=>Object.keys(d.periodos).sort((x,y)=>iniP(d,x)-iniP(d,y));
+const rotP=(d,k)=>dsc(d,k).replace('-','–');
 function rotDia(dia){const h=new Date();h.setHours(0,0,0,0);const[y,m,d]=dia.split('-').map(Number),x=new Date(y,m-1,d),k=Math.round((x-h)/864e5),dm=`${String(d).padStart(2,'0')}/${String(m).padStart(2,'0')}`;
  return (k===0?'Hoje':k===1?'Amanhã':k===-1?'Ontem':'')+(k>=-1&&k<=1?' · ':'')+dm}
-function padraoP(){let alvo=null;for(const d of PD.dias)for(const p of [1,2,3,4]){const s=stP(d.data,p);if(s==='agora'){return[d.data,p]}if(s==='fut'&&!alvo)alvo=[d.data,p]}
- return alvo||[PD.dias[PD.dias.length-1].data,4]}
+function padraoP(){let alvo=null;for(const d of PD.dias)for(const k of chaves(d)){const s=stP(d,k);if(s==='agora')return[d.data,k];if(s==='fut'&&!alvo)alvo=[d.data,k]}
+ const u=PD.dias[PD.dias.length-1];return alvo||[u.data,chaves(u).pop()]}
 function pRender(){
- const dia=PD.dias.find(d=>d.data===pDia)||PD.dias[0];
+ const dia=PD.dias.find(d=>d.data===pDia)||PD.dias[0],ks=chaves(dia);if(!ks.includes(String(pPer)))pPer=ks[0];
  $('#pdias').innerHTML=PD.dias.map(d=>`<button class="${d.data===dia.data?'on':''}" data-d="${d.data}">${esc(rotDia(d.data))}</button>`).join('');
- const prox=(()=>{for(const p of [1,2,3,4]){const s=stP(dia.data,p);if(s==='agora'||s==='fut')return p}return 0})();
- $('#pper').innerHTML=[1,2,3,4].map(p=>{const s=stP(dia.data,p),n=(dia.periodos[p]||[]).length,
-  sm=s==='fim'?'encerrado':s==='agora'?'em andamento':`às ${String(HP[p]).padStart(2,'0')}h`;
-  return `<button class="${p===pPer?'on':''}${p===prox&&s!=='fim'?' prox':''}" data-p="${p}">${PH[p]}<small>${sm}</small><span class="n${s==='fim'||!n?' z':''}">${n}</span></button>`}).join('');
- const lst=dia.periodos[pPer]||[];
- $('#pdsc').innerHTML=`Serviços que usam estivadores · <b>${PH[pPer].replace('–','h–')}h</b>`+(pPer>=3?' (chamada 19h + 01h)':'');
+ const prox=ks.find(k=>stP(dia,k)!=='fim');
+ $('#pper').innerHTML=ks.map(k=>{const s=stP(dia,k),n=(dia.periodos[k]||[]).length,ex=!STD[k]||dsc(dia,k)!==STD[k],
+  sm=s==='fim'?'encerrado':s==='agora'?'em andamento':`às ${String(hh(dsc(dia,k))[0]).padStart(2,'0')}h`;
+  return `<button class="${k===String(pPer)?'on':''}${k===prox&&s!=='fim'?' prox':''}" data-p="${k}">${rotP(dia,k)}<small>${ex?'extra · ':''}${sm}</small><span class="n${s==='fim'||!n?' z':''}">${n}</span></button>`}).join('');
+ const lst=dia.periodos[pPer]||[],std=dsc(dia,pPer)===STD[pPer];
+ $('#pdsc').innerHTML=`Serviços que usam estivadores · <b>${rotP(dia,pPer).replace('–','h–')}h</b>`+((pPer==3||pPer==4)&&std?' (chamada 19h + 01h)':'')+(std?'':' · período extra');
  $('#plista').innerHTML=lst.length?lst.map(j=>{const t=j.ternos||1,cats=(j.categorias||[]).map(c=>`<span class="tag${/estivador/i.test(c)?' est':''}">${esc(c)}</span>`).join('');
-  const pos=j.posicao?`<span class="tag pos">📍 ${esc(j.posicao)}</span>`:'';
-  return `<div class="card job"><div class="ic">${j.rancho?'⚓':'🚢'}</div><div class="nm"><b>${esc(j.navio)}</b>${j.operador?`<span class="opc">${esc(j.operador)}</span>`:''}<div class="sub">${j.rancho?'Rancho · ':''}req. ${esc(j.req)}${j.extra?' · '+esc(String(j.extra).replace(/^📍\s*/,'')):''}</div></div><div class="tern"><strong>${t}</strong>terno${t>1?'s':''}</div><div class="tags">${cats}${j.rancho?'<span class="tag ran">Rancho</span>':''}${pos}</div></div>`}).join('')
+  const pos=j.posicao?`<span class="tag pos">📍 ${esc(j.posicao)}</span>`:'',rn=j.rancho?(j.emergencia?'Rancho de Emergência':'Rancho'):(j.emergencia?'Emergência':'');
+  return `<div class="card job"><div class="ic">${j.rancho?'⚓':'🚢'}</div><div class="nm"><b>${esc(j.navio)}</b>${j.operador?`<span class="opc">${esc(j.operador)}</span>`:''}<div class="sub">${rn?esc(rn)+' · ':''}req. ${esc(j.req)}${j.extra?' · '+esc(String(j.extra).replace(/^📍\s*/,'')):''}</div></div><div class="tern"><strong>${t}</strong>terno${t>1?'s':''}</div><div class="tags">${cats}${rn?`<span class="tag ran">${esc(rn)}</span>`:''}${pos}</div></div>`}).join('')
   :'<div class="empty">Sem serviço com estivadores neste período.</div>';
  const c=$('#pchip'),h=(Date.now()-new Date(PD.atualizado_em))/36e5;c.hidden=false;c.className='chip'+(h>2?' old':'');c.textContent='● lido '+ago(PD.atualizado_em)}
 async function periodos(){const d=await J('dados/periodos.json');
  if(!d||!d.dias||!d.dias.length){$('#plista').innerHTML='<div class="empty">Ainda não há dados dos períodos.</div>';return}
  PD=d;if(pAuto||!PD.dias.some(x=>x.data===pDia)){[pDia,pPer]=padraoP()}pRender()}
 $('#pdias').onclick=e=>{const b=e.target.closest('button');if(!b)return;pAuto=false;pDia=b.dataset.d;pRender()};
-$('#pper').onclick=e=>{const b=e.target.closest('button');if(!b)return;pAuto=false;pPer=+b.dataset.p;pRender()};
+$('#pper').onclick=e=>{const b=e.target.closest('button');if(!b)return;pAuto=false;pPer=b.dataset.p;pRender()};
 let B=[],selArq=null;const quandoB=b=>b.recebido_em||b.enviado_em,ehPdf=b=>/\.pdf$/i.test(b.arquivo||'');
 function bmostra(b){$('#btit').textContent=b.titulo||'Boletim';$('#bquando').textContent='Recebido em '+fmt(quandoB(b));
  const pdf=ehPdf(b);$('#bshot').hidden=pdf;if(!pdf)$('#bimg').src=b.arquivo;$('#bdl').href=b.arquivo;$('#bdl').textContent=pdf?'Abrir PDF':'Baixar imagem';
