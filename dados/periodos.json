@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-10-31T16:08:11-03:00",
+ "atualizado_em": "2026-10-31T16:56:24-03:00",
  "dias": [
   {
    "data": "2026-10-31",
@@ -46,30 +46,6 @@
     ],
     "3": [
      {
-      "req": 60705,
-      "navio": "INDIAN OCEAN",
-      "operador": "PRONAVE",
-      "ternos": 7,
-      "categorias": [
-       "Arrumador",
-       "Conferente",
-       "Estivador"
-      ],
-      "rancho": false
-     },
-     {
-      "req": 60729,
-      "navio": "RAMI M-CONSUMIVEIS",
-      "operador": "PRONAVE",
-      "ternos": 1,
-      "categorias": [
-       "Arrumador",
-       "Conferente",
-       "Estivador"
-      ],
-      "rancho": false
-     },
-     {
       "req": 60732,
       "navio": "RAMI M-GADO",
       "operador": "PRONAVE",
@@ -88,18 +64,6 @@
       "navio": "INDIAN OCEAN",
       "operador": "PRONAVE",
       "ternos": 7,
-      "categorias": [
-       "Arrumador",
-       "Conferente",
-       "Estivador"
-      ],
-      "rancho": false
-     },
-     {
-      "req": 60730,
-      "navio": "RAMI M-CONSUMIVEIS",
-      "operador": "PRONAVE",
-      "ternos": 1,
       "categorias": [
        "Arrumador",
        "Conferente",
@@ -137,18 +101,6 @@
       "navio": "INDIAN OCEAN",
       "operador": "PRONAVE",
       "ternos": 7,
-      "categorias": [
-       "Arrumador",
-       "Conferente",
-       "Estivador"
-      ],
-      "rancho": false
-     },
-     {
-      "req": 60731,
-      "navio": "RAMI M-CONSUMIVEIS",
-      "operador": "PRONAVE",
-      "ternos": 1,
       "categorias": [
        "Arrumador",
        "Conferente",
