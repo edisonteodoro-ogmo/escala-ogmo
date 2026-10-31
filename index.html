@@ -13,7 +13,7 @@ nav{display:flex;gap:6px;max-width:980px;margin:-34px auto 0;padding:0 14px;posi
 nav button{flex:1;border:0;border-radius:12px;padding:12px 8px;font:600 .95rem inherit;background:var(--card);color:var(--mut);box-shadow:0 2px 8px #0002;cursor:pointer}
 nav button.on{color:#fff;background:var(--ac2)}@media(prefers-color-scheme:dark){:root:not([data-theme=light]) nav button.on{background:var(--ac);color:#06222a}}
 :root[data-theme=dark] nav button.on{background:var(--ac);color:#06222a}
-main{max-width:980px;margin:14px auto;padding:0 14px 96px}section{display:none}section.on{display:block}
+main{max-width:980px;margin:14px auto;padding:0 14px 40px}section{display:none}section.on{display:block}
 .card{background:var(--card);border:1px solid var(--bd);border-radius:16px;padding:14px;margin-bottom:14px;box-shadow:0 2px 10px #0000000d}
 .top{display:flex;justify-content:space-between;align-items:center;gap:10px;flex-wrap:wrap}.top b{font-size:1.05rem}
 .chip{display:inline-flex;align-items:center;gap:6px;font-size:.8rem;padding:4px 10px;border-radius:99px;background:#1f9d5522;color:var(--ok);font-weight:600}
@@ -72,7 +72,7 @@ header h1{padding-right:46px}@media(max-width:420px){header h1{font-size:1.15rem
 .tg2{display:flex;gap:6px;flex-wrap:wrap;margin:3px 0 2px}.fd{font-size:.66rem;font-weight:800;padding:2px 7px;border-radius:6px;background:#0e7c8622;color:var(--ac);white-space:nowrap}
 .mk{font-size:.66rem;font-weight:800;padding:2px 7px;border-radius:6px;background:#e0a80033;color:#b07a00}.mk.alt{background:#e8731a33;color:#c2570c}
 .nv.novo{border-color:#e0a800}.nv.alterado{border-color:#e8731a}
-footer{text-align:center;color:var(--mut);font-size:.8rem;padding:6px 14px 30px}
+footer{text-align:center;color:var(--mut);font-size:.8rem;padding:6px 14px calc(env(safe-area-inset-bottom) + 88px)}   /* sobra espaço para o botão fixo não cobrir o aviso */
 </style></head><body>
 <header><button id="tema" type="button" aria-label="Alternar modo claro e noturno" title="Modo claro / noturno"></button><h1>⚓ Escala OGMO · São Sebastião</h1><p>Chamada, escala e boletins de cada período, sempre atualizados</p></header>
 <nav><button class="on" data-s="escala">Chamada</button><button data-s="chamada">Escala</button><button data-s="periodos">Períodos</button><button data-s="boletins">Boletins</button></nav>
