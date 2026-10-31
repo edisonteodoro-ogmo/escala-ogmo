@@ -1,7 +1,7 @@
 {
- "atualizado_em": "2026-10-30T22:28:12-03:00",
- "lido_em": "2026-10-30T22:28:12-03:00",
- "total": 26,
+ "atualizado_em": "2026-10-30T22:39:24-03:00",
+ "lido_em": "2026-10-30T22:39:24-03:00",
+ "total": 31,
  "navios": [
   {
    "nome": "RAMI M",
@@ -25,13 +25,14 @@
   },
   {
    "nome": "YOSOR",
-   "faixa": "",
-   "previsao": "15/12/2026",
+   "faixa": "NAVIOS PROGRAMADOS B",
+   "previsao": "09/10/2026",
    "carga": "ANIMAIS VIVOS",
-   "qtd": "6.000 UN",
+   "qtd": "5.000 UN",
    "operador": "LOG LOGÍSTICA",
    "local": "DIRETO",
-   "situacao": "",
+   "situacao": "FUNDEADO",
+   "marca": "novo",
    "fundeado": true
   },
   {
@@ -57,13 +58,14 @@
   },
   {
    "nome": "S.ARAS",
-   "faixa": "",
-   "previsao": "19/12/2026",
+   "faixa": "NAVIOS PROGRAMADOS D",
+   "previsao": "07/11/2026",
    "carga": "ANIMAIS VIVOS",
-   "qtd": "10.000 UN",
+   "qtd": "20.000 UN",
    "operador": "LOG LOGÍSTICA",
    "local": "DIRETO",
-   "situacao": ""
+   "situacao": "PROGRAMADO",
+   "marca": "novo"
   },
   {
    "nome": "HANZE GENUA",
@@ -87,13 +89,14 @@
   },
   {
    "nome": "APOGEE ENDEAVOUR",
-   "faixa": "NAVIOS PROGRAMADOS G",
-   "previsao": "20/12/2026",
+   "faixa": "NAVIOS PROGRAMADOS E",
+   "previsao": "30/11/2026",
    "carga": "TRIGO",
    "qtd": "30.000 t",
    "operador": "PRONAVE",
    "local": "ARMAZEM CDSS",
-   "situacao": "PROGRAMADO"
+   "situacao": "PROGRAMADO",
+   "marca": "novo"
   },
   {
    "nome": "ELISABETTA",
@@ -162,6 +165,16 @@
    "carga": "BARRILHA",
    "qtd": "26.000 t",
    "operador": "LOG LOGÍSTICA",
+   "local": "ARMAZEM CDSS",
+   "situacao": "PROGRAMADO"
+  },
+  {
+   "nome": "APOGEE ENDEAVOUR",
+   "faixa": "NAVIOS PROGRAMADOS G",
+   "previsao": "20/12/2026",
+   "carga": "TRIGO",
+   "qtd": "30.000 t",
+   "operador": "PRONAVE",
    "local": "ARMAZEM CDSS",
    "situacao": "PROGRAMADO"
   },
@@ -243,6 +256,27 @@
    "qtd": "5.000 UN",
    "operador": "LOG LOGÍSTICA",
    "local": "DIRETO",
+   "situacao": "",
+   "marca": "novo"
+  },
+  {
+   "nome": "TAIBA",
+   "faixa": "",
+   "previsao": "10/12/2026",
+   "carga": "ANIMAIS VIVOS",
+   "qtd": "5.000 UN",
+   "operador": "LOG LOGÍSTICA",
+   "local": "DIRETO",
+   "situacao": ""
+  },
+  {
+   "nome": "YOSOR",
+   "faixa": "",
+   "previsao": "15/12/2026",
+   "carga": "ANIMAIS VIVOS",
+   "qtd": "6.000 UN",
+   "operador": "LOG LOGÍSTICA",
+   "local": "DIRETO",
    "situacao": ""
   },
   {
@@ -251,6 +285,26 @@
    "previsao": "15/12/2026",
    "carga": "ANIMAIS VIVOS",
    "qtd": "5.000 UN",
+   "operador": "LOG LOGÍSTICA",
+   "local": "DIRETO",
+   "situacao": ""
+  },
+  {
+   "nome": "YOSOR",
+   "faixa": "",
+   "previsao": "15/12/2026",
+   "carga": "ANIMAIS VIVOS",
+   "qtd": "6.000 UN",
+   "operador": "LOG LOGÍSTICA",
+   "local": "DIRETO",
+   "situacao": ""
+  },
+  {
+   "nome": "S.ARAS",
+   "faixa": "",
+   "previsao": "19/12/2026",
+   "carga": "ANIMAIS VIVOS",
+   "qtd": "10.000 UN",
    "operador": "LOG LOGÍSTICA",
    "local": "DIRETO",
    "situacao": ""
