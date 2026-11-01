@@ -1,17 +1,17 @@
 {
- "atualizado_em": "2026-11-01T05:29:51-03:00",
- "lido_em": "2026-11-01T05:29:51-03:00",
+ "atualizado_em": "2026-11-01T05:46:15-03:00",
+ "lido_em": "2026-11-01T05:46:15-03:00",
  "total": 18,
  "navios": [
   {
    "nome": "RAMI M",
-   "faixa": "NAVIOS OPERANDO",
+   "faixa": "NAVIOS DESATRACADO",
    "previsao": "13/10/2026",
    "carga": "ANIMAIS VIVOS",
    "qtd": "7.000 UN",
    "operador": "PRONAVE",
    "local": "DIRETO",
-   "situacao": "OPERANDO"
+   "situacao": "DESATRACADO"
   },
   {
    "nome": "SAGA PIONNER",
@@ -32,7 +32,6 @@
    "operador": "LOG LOGÍSTICA",
    "local": "DIRETO",
    "situacao": "FUNDEADO",
-   "marca": "novo",
    "fundeado": true
   },
   {
@@ -65,8 +64,7 @@
    "qtd": "20.000 UN",
    "operador": "LOG LOGÍSTICA",
    "local": "DIRETO",
-   "situacao": "PROGRAMADO",
-   "marca": "novo"
+   "situacao": "PROGRAMADO"
   },
   {
    "nome": "HANZE GENUA",
@@ -96,8 +94,7 @@
    "qtd": "30.000 t",
    "operador": "PRONAVE",
    "local": "ARMAZEM CDSS",
-   "situacao": "PROGRAMADO",
-   "marca": "novo"
+   "situacao": "PROGRAMADO"
   },
   {
    "nome": "ELISABETTA",
