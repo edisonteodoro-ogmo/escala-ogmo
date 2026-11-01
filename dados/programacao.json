@@ -1,18 +1,8 @@
 {
- "atualizado_em": "2026-11-01T11:48:34-03:00",
- "lido_em": "2026-11-01T11:48:34-03:00",
- "total": 18,
+ "atualizado_em": "2026-11-01T11:52:10-03:00",
+ "lido_em": "2026-11-01T11:51:44-03:00",
+ "total": 17,
  "navios": [
-  {
-   "nome": "RAMI M",
-   "faixa": "NAVIOS DESATRACADO",
-   "previsao": "13/10/2026",
-   "carga": "ANIMAIS VIVOS",
-   "qtd": "7.000 UN",
-   "operador": "PRONAVE",
-   "local": "DIRETO",
-   "situacao": "DESATRACADO"
-  },
   {
    "nome": "INDIAN OCEAN",
    "faixa": "NAVIOS OPERANDO",
