@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-01T00:38:48-03:00",
+ "atualizado_em": "2026-11-01T00:41:12-03:00",
  "lido_em": "2026-11-01T00:38:48-03:00",
  "total": 18,
  "navios": [
@@ -195,7 +195,7 @@
   "saindo": [
    {
     "navio": "RAMI M",
-    "horario": "01/11 03:00"
+    "horario": "01/11 03:30"
    }
   ],
   "proximo": {
