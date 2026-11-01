@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-10-31T22:59:35-03:00",
- "lido_em": "2026-10-31T22:59:35-03:00",
+ "atualizado_em": "2026-10-31T23:15:43-03:00",
+ "lido_em": "2026-10-31T23:15:43-03:00",
  "total": 18,
  "navios": [
   {
@@ -44,7 +44,8 @@
    "operador": "PRONAVE",
    "local": "ARMAZEM CDSS",
    "situacao": "FUNDEADO",
-   "fundeado": true
+   "fundeado": true,
+   "cais": "01/11 04:30"
   },
   {
    "nome": "UNITY SPIRIT",
@@ -188,5 +189,19 @@
    "local": "DIRETO",
    "situacao": "PROGRAMADO"
   }
- ]
+ ],
+ "cais": {
+  "fonte": "praticagem",
+  "saindo": [
+   {
+    "navio": "RAMI M",
+    "horario": "01/11 03:00"
+   }
+  ],
+  "proximo": {
+   "navio": "INDIAN OCEAN",
+   "horario": "01/11 04:30"
+  },
+  "depois": []
+ }
 }
