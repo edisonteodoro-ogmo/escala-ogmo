@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-03T19:01:45-03:00",
+ "atualizado_em": "2026-11-03T19:39:39-03:00",
  "dias": [
   {
    "data": "2026-11-03",
@@ -31,29 +31,7 @@
       ],
       "rancho": true,
       "posicao": "P1",
-      "extra": "📍 sai 04/11 14:00",
-      "cargas": [
-       {
-        "carga": "ENTREGA DTA'S",
-        "tons": 740,
-        "qtd": 11
-       },
-       {
-        "carga": "ENTREGA RANCHO",
-        "tons": 4200,
-        "qtd": 1
-       },
-       {
-        "carga": "ENTREGA MATERIAL",
-        "tons": 85,
-        "qtd": 5
-       },
-       {
-        "carga": "RETIRADA MATERIAL",
-        "tons": 78,
-        "qtd": 5
-       }
-      ]
+      "extra": "📍 sai 04/11 14:00"
      },
      {
       "req": 60758,
