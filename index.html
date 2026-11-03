@@ -48,20 +48,22 @@ select,.btn{font:inherit;border:1px solid var(--bd);background:var(--card);color
 .opc{font-size:.7rem;padding:2px 8px;border-radius:6px;background:#0e7c8620;color:var(--ac);font-weight:700;margin-left:6px;vertical-align:middle;white-space:nowrap}
 .job .cont{grid-column:1/4;margin-top:10px;padding-top:9px;border-top:1px dashed var(--bd);font-size:.84rem;color:var(--mut)}.job .cont div{margin-top:2px}.job .cont b{color:var(--tx)}
 .dsc{margin:0 2px 10px;color:var(--mut);font-size:.85rem}
-header{position:relative}#tema{position:absolute;top:calc(env(safe-area-inset-top) + 14px);right:14px;width:40px;height:40px;border-radius:99px;border:1px solid #ffffff55;background:#ffffff22;color:#fff;font-size:1.15rem;line-height:1;cursor:pointer;display:flex;align-items:center;justify-content:center;backdrop-filter:blur(4px)}#tema:active{transform:scale(.94)}
+header{position:relative}
+#menub{position:absolute;top:calc(env(safe-area-inset-top) + 14px);right:14px;width:40px;height:40px;border-radius:99px;border:1px solid #ffffff55;background:#ffffff22;color:#fff;font-size:1.2rem;line-height:1;cursor:pointer;display:flex;align-items:center;justify-content:center;backdrop-filter:blur(4px);z-index:7}#menub:active{transform:scale(.94)}
+#mn{position:absolute;top:calc(env(safe-area-inset-top) + 60px);right:14px;z-index:7;min-width:230px;background:var(--card);color:var(--tx);border:1px solid var(--bd);border-radius:14px;padding:6px;box-shadow:0 12px 32px #0006;display:none}#mn.on{display:block;animation:sobe2 .15s ease-out}
+@keyframes sobe2{from{transform:translateY(-6px);opacity:0}to{transform:none;opacity:1}}
+#mn button{display:flex;align-items:center;gap:10px;width:100%;border:0;background:none;color:inherit;font:600 .95rem inherit;font-family:inherit;padding:11px 12px;border-radius:10px;cursor:pointer;text-align:left}#mn button:hover,#mn button:active{background:#0e7c8618}
+#mn button small{margin-left:auto;font-weight:700;font-size:.66rem;color:var(--ac);letter-spacing:.4px;display:flex;align-items:center;gap:5px}
+#tema{position:fixed;right:14px;bottom:calc(env(safe-area-inset-bottom) + 14px);z-index:8;width:44px;height:44px;border-radius:99px;border:1px solid var(--bd);background:var(--card);color:var(--tx);font-size:1.2rem;line-height:1;cursor:pointer;display:flex;align-items:center;justify-content:center;box-shadow:0 4px 16px #0003}#tema:active{transform:scale(.94)}
 header h1{padding-right:46px}@media(max-width:420px){header h1{font-size:1.15rem}}
-#pbtn{position:fixed;left:50%;transform:translateX(-50%);bottom:calc(env(safe-area-inset-bottom) + 14px);z-index:8;display:flex;align-items:center;gap:9px;border:0;border-radius:99px;padding:11px 18px 11px 15px;background:var(--ac2);color:#fff;font-weight:700;font-size:.92rem;font-family:inherit;box-shadow:0 6px 22px #0b3a5b66,0 0 0 1px #ffffff22 inset;cursor:pointer;white-space:nowrap;max-width:calc(100vw - 28px)}
-#pbtn small{font-weight:600;opacity:.8;font-size:.72rem;letter-spacing:.4px}#pbtn:active{transform:translateX(-50%) scale(.97)}
-:root[data-theme=dark] #pbtn{background:var(--ac);color:#06222a;box-shadow:0 6px 22px #000a}
-@media(prefers-color-scheme:dark){:root:not([data-theme=light]) #pbtn{background:var(--ac);color:#06222a;box-shadow:0 6px 22px #000a}}
 .live{width:9px;height:9px;border-radius:50%;background:#35d07f;box-shadow:0 0 0 0 #35d07f99;animation:pulso 1.8s infinite;flex:none}.live.old{background:#e0a800;animation:none}
 @keyframes pulso{70%{box-shadow:0 0 0 9px #35d07f00}100%{box-shadow:0 0 0 0 #35d07f00}}@media(prefers-reduced-motion:reduce){.live{animation:none}}
-#prog{position:fixed;inset:0;z-index:9;display:none;background:#000a}#prog.on{display:block}
-#pp{position:absolute;left:50%;transform:translateX(-50%);bottom:0;width:100%;max-width:720px;height:92vh;height:92dvh;background:var(--bg);border-radius:20px 20px 0 0;display:flex;flex-direction:column;overflow:hidden;box-shadow:0 -10px 40px #0007;animation:sobe .22s ease-out}
+#prog,#mf{position:fixed;inset:0;z-index:9;display:none;background:#000a}#prog.on,#mf.on{display:block}
+#pp,#mp{position:absolute;left:50%;transform:translateX(-50%);bottom:0;width:100%;max-width:720px;height:92vh;height:92dvh;background:var(--bg);border-radius:20px 20px 0 0;display:flex;flex-direction:column;overflow:hidden;box-shadow:0 -10px 40px #0007;animation:sobe .22s ease-out}
 @keyframes sobe{from{transform:translate(-50%,40px);opacity:.4}to{transform:translate(-50%,0);opacity:1}}
 .ph{padding:14px 16px 10px;background:linear-gradient(135deg,#0b3a5b,#0e7c86);color:#fff;position:relative}.ph h2{margin:0;font-size:1.1rem;color:#fff;text-transform:none;letter-spacing:0}.ph p{margin:3px 0 8px;opacity:.85;font-size:.82rem}
 .ph .chip{background:#ffffff26;color:#fff}.ph .chip .live{margin-right:2px}
-#px{position:absolute;top:10px;right:12px;width:36px;height:36px;border-radius:99px;border:0;background:#ffffff30;color:#fff;font-size:1.05rem;cursor:pointer}
+#px,#mx{position:absolute;top:10px;right:12px;width:36px;height:36px;border-radius:99px;border:0;background:#ffffff30;color:#fff;font-size:1.05rem;cursor:pointer}
 .pb{padding:10px 12px 20px;overflow:auto;-webkit-overflow-scrolling:touch;flex:1}
 #pq{width:100%;font:inherit;border:1px solid var(--bd);background:var(--card);color:var(--tx);border-radius:12px;padding:9px 12px;margin-bottom:8px}
 .fx{position:sticky;top:-10px;z-index:1;margin:10px -2px 6px;padding:7px 12px;border-radius:10px;background:#2e7d50;color:#fff;font-weight:700;font-size:.78rem;font-family:inherit;letter-spacing:.5px}
@@ -69,11 +71,39 @@ header h1{padding-right:46px}@media(max-width:420px){header h1{font-size:1.15rem
 .nv b{font-size:1rem;overflow-wrap:anywhere}.nv .q{grid-column:2;grid-row:1/3;text-align:right;font-weight:800;font-size:1.05rem;white-space:nowrap}.nv .s{color:var(--mut);font-size:.8rem}
 .nv .cg{display:inline-block;margin-top:5px;font-size:.72rem;font-weight:700;padding:2px 9px;border-radius:99px;background:#d9534f1f;color:#c0392b;letter-spacing:.3px}
 @media(prefers-color-scheme:dark){:root:not([data-theme=light]) .nv .cg{color:#ffb4b4}}:root[data-theme=dark] .nv .cg{color:#ffb4b4}
+.cais{background:var(--card);border:1px solid var(--ac);border-radius:14px;padding:10px 12px;margin-bottom:10px}.cais .ct{font-size:.72rem;font-weight:800;letter-spacing:.4px;color:var(--ac);margin-bottom:4px}.cais .cl{display:flex;justify-content:space-between;gap:10px;padding:3px 0;font-size:.92rem}.cais .cl b{overflow-wrap:anywhere}.cais .cl span{white-space:nowrap;font-weight:700}.cais .cs{color:var(--mut);font-size:.72rem;margin-top:4px}.cx{font-size:.66rem;font-weight:800;padding:2px 7px;border-radius:6px;background:#c2410c22;color:#c2410c;white-space:nowrap}
 .tg2{display:flex;gap:6px;flex-wrap:wrap;margin:3px 0 2px}.fd{font-size:.66rem;font-weight:800;padding:2px 7px;border-radius:6px;background:#0e7c8622;color:var(--ac);white-space:nowrap}
 .mk{font-size:.66rem;font-weight:800;padding:2px 7px;border-radius:6px;background:#e0a80033;color:#b07a00}.mk.alt{background:#e8731a33;color:#c2570c}
 .nv.novo{border-color:#e0a800}.nv.alterado{border-color:#e8731a}
+/* ---- Multifunção */
+.mfc{display:flex;gap:8px;flex-wrap:wrap;margin:0 0 10px}
+.mfc label{position:relative;cursor:pointer}.mfc input{position:absolute;opacity:0;inset:0;width:100%;height:100%;margin:0;cursor:pointer}
+.mfc span{display:flex;align-items:center;gap:7px;border:1.5px solid var(--bd);background:var(--card);color:var(--mut);border-radius:99px;padding:7px 12px 7px 10px;font-weight:700;font-size:.86rem;transition:.12s}
+.mfc span i{width:18px;height:18px;border-radius:6px;border:1.5px solid var(--bd);display:flex;align-items:center;justify-content:center;font-style:normal;font-size:.72rem;color:transparent}
+.mfc span em{font-style:normal;font-weight:600;font-size:.72rem;opacity:.75}
+.mfc input:checked+span{background:var(--ac2);color:#fff;border-color:var(--ac2)}.mfc input:checked+span i{background:#fff;border-color:#fff;color:var(--ac2)}
+.mfc input:focus-visible+span{outline:2px solid var(--ac);outline-offset:2px}
+@media(prefers-color-scheme:dark){:root:not([data-theme=light]) .mfc input:checked+span{background:var(--ac);color:#06222a;border-color:var(--ac)}:root:not([data-theme=light]) .mfc input:checked+span i{background:#06222a;border-color:#06222a;color:var(--ac)}}
+:root[data-theme=dark] .mfc input:checked+span{background:var(--ac);color:#06222a;border-color:var(--ac)}:root[data-theme=dark] .mfc input:checked+span i{background:#06222a;border-color:#06222a;color:var(--ac)}
+:root{--s-agora:#d64545;--s-6h:#d99a00;--s-11h:#1f9d55}
+@media(prefers-color-scheme:dark){:root:not([data-theme=light]){--s-agora:#ff7b7b;--s-6h:#f2c14e;--s-11h:#4fd18b}}
+:root[data-theme=dark]{--s-agora:#ff7b7b;--s-6h:#f2c14e;--s-11h:#4fd18b}
+.lg{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin:0 0 10px}
+.lg div{background:var(--card);border:1px solid var(--bd);border-radius:14px;padding:9px 10px;border-top:4px solid var(--c)}
+.lg b{display:block;font-size:1.35rem;line-height:1.1;color:var(--c)}.lg strong{display:block;font-size:.8rem;margin-top:2px}.lg small{display:block;color:var(--mut);font-size:.7rem;line-height:1.25;margin-top:1px}
+.lg .a{--c:var(--s-agora)}.lg .h6{--c:var(--s-6h)}.lg .h11{--c:var(--s-11h)}
+.mfg{position:sticky;top:-10px;z-index:1;margin:12px -2px 6px;padding:7px 12px;border-radius:10px;background:var(--ac2);color:#fff;font-weight:800;font-size:.78rem;letter-spacing:.5px;display:flex;justify-content:space-between;gap:8px}
+.mfg span{font-weight:600;opacity:.85;letter-spacing:0;text-transform:none}
+@media(prefers-color-scheme:dark){:root:not([data-theme=light]) .mfg{background:#1d4f5a}}:root[data-theme=dark] .mfg{background:#1d4f5a}
+.pe{display:grid;grid-template-columns:54px 1fr auto;gap:0 10px;align-items:center;background:var(--card);border:1px solid var(--bd);border-left:6px solid var(--c);border-radius:12px;padding:8px 10px;margin-bottom:6px}
+.pe .nn{font-weight:800;font-size:1.15rem;color:var(--c);font-variant-numeric:tabular-nums}.pe .nm2{min-width:0;overflow-wrap:anywhere;font-weight:600;font-size:.92rem;line-height:1.25}.pe .nm2 small{display:block;color:var(--mut);font-weight:600;font-size:.7rem}
+.pe .sp{font-weight:800;font-size:.72rem;letter-spacing:.3px;padding:4px 10px;border-radius:99px;background:color-mix(in srgb,var(--c) 18%,transparent);color:var(--c);white-space:nowrap}
+.pe.agora{--c:var(--s-agora)}.pe.h6{--c:var(--s-6h)}.pe.h11{--c:var(--s-11h)}
+.pe.agora{background:color-mix(in srgb,var(--s-agora) 7%,var(--card))}
+.vg{margin:0 0 8px;padding:7px 11px;border-radius:10px;background:#0e7c8618;color:var(--tx);font-size:.8rem}.vg b{color:var(--ac)}
+.fmf{color:var(--mut);font-size:.74rem;margin:12px 2px 0;line-height:1.35}
 </style></head><body>
-<header><button id="tema" type="button" aria-label="Alternar modo claro e noturno" title="Modo claro / noturno"></button><h1>⚓ Escala OGMO · São Sebastião</h1><p>Chamada, escala e boletins de cada período, sempre atualizados</p></header>
+<header><button id="menub" type="button" aria-label="Menu" aria-haspopup="menu" aria-expanded="false" title="Menu">☰</button><div id="mn" role="menu"><button type="button" role="menuitem" id="mi-mf">👥 <span>Multifunção</span></button><button type="button" role="menuitem" id="mi-pg">🚢 <span>Programação de navios</span><small><span class="live" id="plive"></span>AO VIVO</small></button></div><h1>⚓ Escala OGMO · São Sebastião</h1><p>Chamada, escala e boletins de cada período, sempre atualizados</p></header>
 <nav><button class="on" data-s="escala">Chamada</button><button data-s="chamada">Escala</button><button data-s="periodos">Períodos</button><button data-s="boletins">Boletins</button></nav>
 <main>
 <section id="escala" class="on">
@@ -97,10 +127,14 @@ header h1{padding-right:46px}@media(max-width:420px){header h1{font-size:1.15rem
   <div class="shot" id="bshot" hidden><img id="bimg" alt="Boletim"><span class="hint">Toque para ampliar</span></div>
   <div class="top" style="margin-top:12px"><select id="bsel" aria-label="Outros boletins"></select><a class="btn" id="bdl" download target="_blank" rel="noopener">Baixar imagem</a></div></div>
 </section></main>
-<button id="pbtn" type="button" aria-haspopup="dialog"><span class="live" id="plive"></span>Programação de navios <small>AO VIVO</small></button>
+<button id="tema" type="button" aria-label="Alternar modo claro e noturno" title="Modo claro / noturno"></button>
 <div id="prog" role="dialog" aria-modal="true" aria-label="Programação de navios"><div id="pp">
  <div class="ph"><button id="px" type="button" aria-label="Fechar">✕</button><h2>Programação de navios</h2><p id="psub">Porto de São Sebastião</p><span class="chip" id="pchip2"><span class="live"></span><span id="pchtx">carregando…</span></span></div>
  <div class="pb"><input id="pq" type="search" placeholder="Buscar navio, carga ou operador" aria-label="Buscar na programação" autocomplete="off"><div id="pl"><div class="empty">Carregando…</div></div></div>
+</div></div>
+<div id="mf" role="dialog" aria-modal="true" aria-label="Multifunção"><div id="mp">
+ <div class="ph"><button id="mx" type="button" aria-label="Fechar">✕</button><h2>Multifunção</h2><p id="msub">Vigias, consertadores, arrumadores e estivadores</p><span class="chip" id="mchip"><span class="live"></span><span id="mchtx">carregando…</span></span></div>
+ <div class="pb"><div class="mfc" id="mfc" role="group" aria-label="Funções"></div><div id="mfl"><div class="empty">Carregando…</div></div></div>
 </div></div>
 <div id="lb"><img id="lbi" alt=""></div><button id="x" aria-label="Fechar">✕</button>
 <script>
@@ -181,19 +215,55 @@ const idadeMin=d=>Math.max(0,Math.round((Date.now()-new Date(d))/60000));
 function pStatus(){if(!PG||!PG.lido_em)return;const m=idadeMin(PG.lido_em),vel=m>120;
  document.getElementById('plive').className='live'+(vel?' old':'');document.querySelector('#pchip2 .live').className='live'+(vel?' old':'');
  $('#pchtx').textContent=(vel?'desatualizada · ':'ao vivo · ')+'conferida '+ago(PG.lido_em)}
+function caisHtml(c){if(!c)return'';const L=(t,i)=>`<div class="cl"><div>${t} <b>${esc(i.navio)}</b></div><span>${esc(i.horario||'—')}</span></div>`;let h='<div class="cais"><div class="ct">⚓ CAIS · PRATICAGEM</div>';
+ for(const s of c.saindo||[])h+=L('↗ Sai do cais:',s);
+ if(c.proximo)h+=L('↘ <b>Próximo a atracar:</b>',c.proximo);
+ for(const d of c.depois||[])h+=L('Depois:',d);
+ return h+'<div class="cs">Horários previstos pela praticagem; podem mudar.</div></div>'}
 function pgRender(){if(!PG||!PG.navios){$('#pl').innerHTML='<div class="empty">Ainda não há programação publicada.</div>';return}
  const q=(document.getElementById('pq').value||'').trim().toLowerCase(),sem=t=>String(t||'').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'');
  const ls=PG.navios.filter(n=>!q||sem([n.nome,n.carga,n.operador].join(' ')).includes(sem(q)));
  $('#psub').textContent=`Porto de São Sebastião · ${PG.total||PG.navios.length} navios · publicada em ${fmt(PG.atualizado_em)}`;
- let h='',f=null;for(const n of ls){if(n.faixa!==f){f=n.faixa;if(f)h+=`<div class="fx">${esc(f)}</div>`}
-  h+=`<div class="nv ${esc(n.marca||'')}"><div><b>${esc(n.nome)}</b>${n.fundeado||n.marca?`<div class="tg2">${n.fundeado?'<span class="fd">⚓ FUNDEADO</span>':''}${n.marca?`<span class="mk${n.marca==='alterado'?' alt':''}">${n.marca==='novo'?'NOVO':'ALTERADO'}</span>`:''}</div>`:''}<div class="s">${n.previsao?'Previsão '+esc(n.previsao):'Sem previsão'}${n.operador?' · '+esc(n.operador):''}</div><span class="cg">${esc(n.carga||'—')}</span></div><div class="q">${esc(n.qtd||'—')}</div></div>`}
+ let h=q?'':caisHtml(PG.cais),f=null;for(const n of ls){if(n.faixa!==f){f=n.faixa;if(f)h+=`<div class="fx">${esc(f)}</div>`}
+  h+=`<div class="nv ${esc(n.marca||'')}"><div><b>${esc(n.nome)}</b>${n.fundeado||n.marca||n.cais?`<div class="tg2">${n.fundeado?'<span class="fd">⚓ FUNDEADO</span>':''}${n.cais?`<span class="cx">⚓ ENTRA NO CAIS ${esc(n.cais)}</span>`:''}${n.marca?`<span class="mk${n.marca==='alterado'?' alt':''}">${n.marca==='novo'?'NOVO':'ALTERADO'}</span>`:''}</div>`:''}<div class="s">${n.previsao?'Previsão '+esc(n.previsao):'Sem previsão'}${n.operador?' · '+esc(n.operador):''}</div><span class="cg">${esc(n.carga||'—')}</span></div><div class="q">${esc(n.qtd||'—')}</div></div>`}
  $('#pl').innerHTML=h||'<div class="empty">Nenhum navio encontrado.</div>';pStatus()}
 async function programacao(){const d=await J('dados/programacao.json');if(d&&d.navios){PG=d;pgRender()}else if(!PG)$('#pl').innerHTML='<div class="empty">Ainda não há programação publicada.</div>';pStatus()}
-function abrePg(){$('#prog').classList.add('on');$('#pbtn').style.display='none';try{history.pushState({pg:1},'')}catch(e){}pgRender()}
-function fechaPg(){if(!$('#prog').classList.contains('on'))return;$('#prog').classList.remove('on');$('#pbtn').style.display='';if(history.state&&history.state.pg){try{history.back()}catch(e){}}}
-$('#pbtn').onclick=abrePg;$('#px').onclick=fechaPg;$('#prog').addEventListener('click',e=>{if(e.target.id==='prog')fechaPg()});$('#pq').oninput=pgRender;
-window.addEventListener('popstate',()=>{$('#prog').classList.remove('on');$('#pbtn').style.display=''});
-setInterval(pStatus,3e4);
+// ---- Folhas (Programação e Multifunção): abrem pelo menu ☰; o botão Voltar do celular fecha a folha
+const FOLHAS={prog:()=>pgRender(),mf:()=>mfRender()};
+function abreFolha(id){fechaMenu();document.querySelectorAll('#prog,#mf').forEach(x=>x.classList.remove('on'));$('#'+id).classList.add('on');
+ try{if(!(history.state&&history.state.fo))history.pushState({fo:id},'');else history.replaceState({fo:id},'')}catch(e){}FOLHAS[id]()}
+function fechaFolha(){const ab=document.querySelector('#prog.on,#mf.on');if(!ab)return;ab.classList.remove('on');if(history.state&&history.state.fo){try{history.back()}catch(e){}}}
+const fechaPg=fechaFolha;
+$('#px').onclick=fechaFolha;$('#mx').onclick=fechaFolha;
+['prog','mf'].forEach(id=>$('#'+id).addEventListener('click',e=>{if(e.target.id===id)fechaFolha()}));$('#pq').oninput=pgRender;
+window.addEventListener('popstate',()=>{document.querySelectorAll('#prog,#mf').forEach(x=>x.classList.remove('on'))});
+// menu ☰
+function fechaMenu(){$('#mn').classList.remove('on');$('#menub').setAttribute('aria-expanded','false')}
+$('#menub').onclick=e=>{e.stopPropagation();const on=$('#mn').classList.toggle('on');$('#menub').setAttribute('aria-expanded',on)};
+$('#mi-pg').onclick=()=>abreFolha('prog');$('#mi-mf').onclick=()=>abreFolha('mf');
+document.addEventListener('click',e=>{if(!e.target.closest('#mn'))fechaMenu()});
+// ---- Multifunção: dado real = lista do OGMO + quem pegou (lido pelo robô); AGORA / 6h / 11h é CALCULADO pelo robô
+let MF=null;const MFSEL=new Set();let MFINI=false;
+const ST={agora:['AGORA','Acabou de pegar'],'6h':['6h','Descansando 6h'],'11h':['11h','Livre (11h)']},STC={agora:'agora','6h':'h6','11h':'h11'};
+function mfStatus(){if(!MF||!MF.atualizado_em)return;const h=(Date.now()-new Date(MF.atualizado_em))/36e5,vel=h>2;
+ document.querySelector('#mchip .live').className='live'+(vel?' old':'');$('#mchtx').textContent=(vel?'desatualizada · ':'ao vivo · ')+'atualizada '+ago(MF.atualizado_em)}
+function mfRender(){if(!MF||!MF.pessoas||!MF.pessoas.length){$('#mfl').innerHTML='<div class="empty">Ainda não há dados da multifunção.</div>';$('#mfc').innerHTML='';return}
+ const cats=MF.categorias||['Arrumador','Consertador','Vigia','Estivador'];
+ if(!MFINI){cats.forEach(c=>MFSEL.add(c));MFINI=true}
+ $('#mfc').innerHTML=cats.map(c=>{const r=MF.resumo[c]||{},n=(r.agora||0)+(r['6h']||0)+(r['11h']||0);return `<label><input type="checkbox" value="${esc(c)}"${MFSEL.has(c)?' checked':''}><span><i>✓</i>${esc(c)} <em>${n}</em></span></label>`}).join('');
+ const ps=MF.pessoas.filter(p=>MFSEL.has(p.cat)),ct={agora:0,'6h':0,'11h':0};ps.forEach(p=>ct[p.st]++);
+ $('#msub').textContent=`${ps.length} de ${MF.total} pessoas · último período: ${MF.atual||'—'}`;
+ let h=`<div class="lg"><div class="a"><b>${ct.agora}</b><strong>Acabou de pegar</strong><small>serviço em ${esc(MF.atual||'—')}</small></div><div class="h6"><b>${ct['6h']}</b><strong>6h de descanso</strong><small>pegou em ${esc(MF.anterior||'—')}</small></div><div class="h11"><b>${ct['11h']}</b><strong>11h livre</strong><small>2 períodos ou mais sem pegar</small></div></div>`;
+ if(!ps.length)h+='<div class="empty">Marque ao menos uma função acima.</div>';
+ for(const c of cats){if(!MFSEL.has(c))continue;const l=ps.filter(p=>p.cat===c);if(!l.length)continue;const k={agora:0,'6h':0,'11h':0};l.forEach(p=>k[p.st]++);
+  h+=`<div class="mfg">${esc(c.toUpperCase())}<span>${l.length} · ${k.agora} agora · ${k['6h']} 6h · ${k['11h']} 11h</span></div>`;
+  if(c==='Vigia')h+='<div class="vg">A vaga de <b>Vigia</b> só é preenchida por quem está <b>11h</b>.</div>';
+  h+=l.map(p=>`<div class="pe ${STC[p.st]}"><div class="nn">${p.num}</div><div class="nm2">${esc(p.nome)}${p.est?`<small>Estivador nº ${p.est}</small>`:''}</div><div class="sp" title="${ST[p.st][1]}">${ST[p.st][0]}</div></div>`).join('')}
+ h+=`<div class="fmf">Lista e quem pegou: dados do OGMO lidos pelo robô. <b>AGORA / 6h / 11h</b> é calculado pelo robô a partir dos últimos períodos processados (${esc(MF.anterior||'—')} e ${esc(MF.atual||'—')}); só muda depois que a chamada é processada.</div>`;
+ $('#mfl').innerHTML=h;mfStatus()}
+$('#mfc').addEventListener('change',e=>{const i=e.target;if(i.type!=='checkbox')return;i.checked?MFSEL.add(i.value):MFSEL.delete(i.value);mfRender()});
+async function multifuncao(){const d=await J('dados/multifuncao.json');if(d&&d.pessoas){MF=d;if($('#mf').classList.contains('on')||!$('#mfl').dataset.ok){mfRender();$('#mfl').dataset.ok=1}}else if(!MF)$('#mfl').innerHTML='<div class="empty">Ainda não há dados da multifunção.</div>';mfStatus()}
+setInterval(()=>{pStatus();mfStatus()},3e4);
 let B=[],selArq=null;const quandoB=b=>b.recebido_em||b.enviado_em,ehPdf=b=>/\.pdf$/i.test(b.arquivo||'');
 function bmostra(b){$('#btit').textContent=b.titulo||'Boletim';$('#bquando').textContent='Recebido em '+fmt(quandoB(b));
  const pdf=ehPdf(b);$('#bshot').hidden=pdf;if(!pdf)$('#bimg').src=b.arquivo;$('#bdl').href=b.arquivo;$('#bdl').textContent=pdf?'Abrir PDF':'Baixar imagem';
@@ -208,8 +278,8 @@ function abre(u){$('#lbi').src=u;$('#lbi').className='';$('#lb').classList.add('
 function fecha(){if(!$('#lb').classList.contains('on'))return;if(history.state&&history.state.lb){history.back()}else $('#lb').classList.remove('on')}
 window.addEventListener('popstate',()=>$('#lb').classList.remove('on'));   // botão Voltar do celular fecha só a imagem ampliada
 $('#lbi').onclick=e=>e.target.classList.toggle('z');$('#x').onclick=fecha;
-document.onkeydown=e=>{if(e.key==='Escape'){if($('#lb').classList.contains('on'))fecha();else fechaPg()}};
+document.onkeydown=e=>{if(e.key==='Escape'){if($('#lb').classList.contains('on'))fecha();else if(document.querySelector('#mn.on'))fechaMenu();else fechaFolha()}};
 document.querySelectorAll('nav button').forEach(b=>b.onclick=()=>{document.querySelectorAll('nav button,section').forEach(x=>x.classList.remove('on'));b.classList.add('on');$('#'+b.dataset.s).classList.add('on');history.replaceState(0,'','#'+b.dataset.s)});
 if(['#boletins','#chamada','#periodos'].includes(location.hash))document.querySelector('[data-s='+location.hash.slice(1)+']').click();
-const tudo=()=>{escala();chamada();periodos();programacao();bol()};tudo();setInterval(tudo,6e4);document.addEventListener('visibilitychange',()=>!document.hidden&&tudo());
+const tudo=()=>{escala();chamada();periodos();programacao();multifuncao();bol()};tudo();setInterval(tudo,6e4);document.addEventListener('visibilitychange',()=>!document.hidden&&tudo());
 </script></body></html>
