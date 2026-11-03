@@ -1,8 +1,14 @@
 {
- "atualizado_em": "2026-11-03T19:01:20-03:00",
- "titulo": "Escala 19h · 03/11/2026",
- "imagem": "chamada/20261103_190120_339577.png",
+ "atualizado_em": "2026-11-03T19:01:41-03:00",
+ "titulo": "Escala 1h · 03/11/2026",
+ "imagem": "chamada/20261103_190141_387682.png",
  "historico": [
+  {
+   "quando": "2026-11-03T19:01:41-03:00",
+   "titulo": "Escala 1h · 03/11/2026",
+   "imagem": "chamada/20261103_190141_387682.png",
+   "chave": "2026-11-03|4"
+  },
   {
    "quando": "2026-11-03T19:01:20-03:00",
    "titulo": "Escala 19h · 03/11/2026",
