@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-03T08:07:05-03:00",
+ "atualizado_em": "2026-11-03T08:53:43-03:00",
  "dias": [
   {
    "data": "2026-11-03",
@@ -18,7 +18,33 @@
       "rancho": false
      }
     ],
-    "2": [],
+    "2": [
+     {
+      "req": 60754,
+      "navio": "EAGLE CRATO",
+      "operador": "AQUARIUS",
+      "ternos": 1,
+      "categorias": [
+       "Arrumador",
+       "Conferente",
+       "Estivador"
+      ],
+      "rancho": true,
+      "posicao": "P1",
+      "cargas": [
+       {
+        "carga": "ENTREGA DTA'S",
+        "tons": 740,
+        "qtd": 11
+       },
+       {
+        "carga": "ENTREGA RANCHO",
+        "tons": 4200,
+        "qtd": 1
+       }
+      ]
+     }
+    ],
     "3": [],
     "4": []
    },
