@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-03T14:10:20-03:00",
+ "atualizado_em": "2026-11-03T14:14:47-03:00",
  "dias": [
   {
    "data": "2026-11-03",
@@ -82,7 +82,20 @@
       "rancho": false
      }
     ],
-    "4": []
+    "4": [
+     {
+      "req": 60767,
+      "navio": "INDIAN OCEAN",
+      "operador": "PRONAVE",
+      "ternos": 7,
+      "categorias": [
+       "Arrumador",
+       "Conferente",
+       "Estivador"
+      ],
+      "rancho": false
+     }
+    ]
    },
    "desc": {
     "1": "07-13",
@@ -94,7 +107,20 @@
   {
    "data": "2026-11-04",
    "periodos": {
-    "1": [],
+    "1": [
+     {
+      "req": 60768,
+      "navio": "INDIAN OCEAN",
+      "operador": "PRONAVE",
+      "ternos": 7,
+      "categorias": [
+       "Arrumador",
+       "Conferente",
+       "Estivador"
+      ],
+      "rancho": false
+     }
+    ],
     "2": [],
     "3": [],
     "4": []
