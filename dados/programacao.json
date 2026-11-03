@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-03T07:12:49-03:00",
+ "atualizado_em": "2026-11-03T07:22:17-03:00",
  "lido_em": "2026-11-03T07:12:49-03:00",
  "total": 17,
  "navios": [
@@ -43,7 +43,8 @@
    "qtd": "10.000 t",
    "operador": "PRONAVE",
    "local": "ARMAZEM CDSS",
-   "situacao": "PROGRAMADO"
+   "situacao": "PROGRAMADO",
+   "fundeado": true
   },
   {
    "nome": "S.ARAS",
