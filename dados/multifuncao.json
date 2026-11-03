@@ -1,12 +1,13 @@
 {
- "atualizado_em": "2026-11-03T16:53:10-03:00",
+ "atualizado_em": "2026-11-03T17:05:02-03:00",
  "atual": "03/11 13h",
  "anterior": "03/11 7h",
  "categorias": [
   "Estivador",
   "Arrumador",
   "Consertador",
-  "Vigia"
+  "Vigia",
+  "Conferente"
  ],
  "resumo": {
   "Estivador": {
@@ -28,14 +29,25 @@
    "agora": 0,
    "6h": 0,
    "11h": 5
+  },
+  "Conferente": {
+   "agora": 0,
+   "6h": 0,
+   "11h": 10
   }
  },
- "total": 136,
+ "total": 146,
  "pessoas": [
   {
    "num": 300,
    "nome": "HELIO DE OLIVEIRA",
    "cat": "Arrumador",
+   "st": "11h"
+  },
+  {
+   "num": 301,
+   "nome": "JOAQUIM ZENOBIO VEIGA FILHO",
+   "cat": "Conferente",
    "st": "11h"
   },
   {
@@ -64,6 +76,12 @@
    "st": "11h"
   },
   {
+   "num": 306,
+   "nome": "JORCELINO FRANCISCO DE FARIA",
+   "cat": "Conferente",
+   "st": "11h"
+  },
+  {
    "num": 307,
    "nome": "FABIO PINHEIRO BRAGA",
    "cat": "Consertador",
@@ -86,6 +104,12 @@
    "num": 310,
    "nome": "OSCAR PEREIRA REIS",
    "cat": "Arrumador",
+   "st": "11h"
+  },
+  {
+   "num": 311,
+   "nome": "REINALDO ALVES MOREIRA",
+   "cat": "Conferente",
    "st": "11h"
   },
   {
@@ -114,6 +138,12 @@
    "st": "11h"
   },
   {
+   "num": 316,
+   "nome": "JOSE LUIZ PACHECO DA SILVA",
+   "cat": "Conferente",
+   "st": "11h"
+  },
+  {
    "num": 317,
    "nome": "JOSE CARLOS DOS SANTOS",
    "cat": "Consertador",
@@ -136,6 +166,12 @@
    "num": 320,
    "nome": "PEDRO HENRIQUES DUARTE",
    "cat": "Arrumador",
+   "st": "11h"
+  },
+  {
+   "num": 321,
+   "nome": "MARCOS ALBERTO FORTES",
+   "cat": "Conferente",
    "st": "11h"
   },
   {
@@ -164,6 +200,12 @@
    "st": "11h"
   },
   {
+   "num": 326,
+   "nome": "FELIPE FELICIANO SOUZA MOREIRA",
+   "cat": "Conferente",
+   "st": "11h"
+  },
+  {
    "num": 327,
    "nome": "SANDRO DOS SANTOS FAUSTINO",
    "cat": "Estivador",
@@ -174,6 +216,12 @@
    "num": 328,
    "nome": "AILTON LIMA DOS SANTOS",
    "cat": "Arrumador",
+   "st": "11h"
+  },
+  {
+   "num": 329,
+   "nome": "RODOLFO FERNANDES MARTINS",
+   "cat": "Conferente",
    "st": "11h"
   },
   {
@@ -190,6 +238,12 @@
    "st": "11h"
   },
   {
+   "num": 332,
+   "nome": "FELIPE DE MATOS MORAIS",
+   "cat": "Conferente",
+   "st": "11h"
+  },
+  {
    "num": 333,
    "nome": "ERONALDO PEREIRA CAMPOS",
    "cat": "Estivador",
@@ -203,6 +257,12 @@
    "st": "11h"
   },
   {
+   "num": 335,
+   "nome": "LUIZ FELIPE DA COSTA SANTANA",
+   "cat": "Conferente",
+   "st": "11h"
+  },
+  {
    "num": 336,
    "nome": "EDSON LUIZ PINHEIRO BRAGA",
    "cat": "Estivador",
@@ -213,6 +273,12 @@
    "num": 337,
    "nome": "ANDRE LUIZ FERNANDES DE SOUSA",
    "cat": "Arrumador",
+   "st": "11h"
+  },
+  {
+   "num": 338,
+   "nome": "ALEX SANDRO ALMEIDA DA SILVA",
+   "cat": "Conferente",
    "st": "11h"
   },
   {
