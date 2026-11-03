@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-03T11:48:11-03:00",
+ "atualizado_em": "2026-11-03T12:11:07-03:00",
  "dias": [
   {
    "data": "2026-11-03",
@@ -59,7 +59,7 @@
       "req": 60758,
       "navio": "INDIAN OCEAN",
       "operador": "PRONAVE",
-      "ternos": 7,
+      "ternos": 3,
       "categorias": [
        "Arrumador",
        "Conferente",
