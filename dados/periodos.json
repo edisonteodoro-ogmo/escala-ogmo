@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-03T08:53:43-03:00",
+ "atualizado_em": "2026-11-03T08:58:49-03:00",
  "dias": [
   {
    "data": "2026-11-03",
@@ -41,8 +41,30 @@
         "carga": "ENTREGA RANCHO",
         "tons": 4200,
         "qtd": 1
+       },
+       {
+        "carga": "ENTREGA MATERIAL",
+        "tons": 85,
+        "qtd": 5
+       },
+       {
+        "carga": "RETIRADA MATERIAL",
+        "tons": 78,
+        "qtd": 5
        }
       ]
+     },
+     {
+      "req": 60758,
+      "navio": "INDIAN OCEAN",
+      "operador": "PRONAVE",
+      "ternos": 7,
+      "categorias": [
+       "Arrumador",
+       "Conferente",
+       "Estivador"
+      ],
+      "rancho": false
      }
     ],
     "3": [],
