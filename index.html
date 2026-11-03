@@ -255,10 +255,8 @@ function mfRender(){if(!MF||!MF.pessoas||!MF.pessoas.length){$('#mfl').innerHTML
  $('#msub').textContent=`${ps.length} de ${MF.total} pessoas · último período: ${MF.atual||'—'}`;
  let h=`<div class="lg"><div class="a"><b>${ct.agora}</b><strong>Acabou de pegar</strong><small>serviço em ${esc(MF.atual||'—')}</small></div><div class="h6"><b>${ct['6h']}</b><strong>6h de descanso</strong><small>pegou em ${esc(MF.anterior||'—')}</small></div><div class="h11"><b>${ct['11h']}</b><strong>11h livre</strong><small>2 períodos ou mais sem pegar</small></div></div>`;
  if(!ps.length)h+='<div class="empty">Marque ao menos uma função acima.</div>';
- for(const c of cats){if(!MFSEL.has(c))continue;const l=ps.filter(p=>p.cat===c);if(!l.length)continue;const k={agora:0,'6h':0,'11h':0};l.forEach(p=>k[p.st]++);
-  h+=`<div class="mfg">${esc(c.toUpperCase())}<span>${l.length} · ${k.agora} agora · ${k['6h']} 6h · ${k['11h']} 11h</span></div>`;
-  if(c==='Vigia')h+='<div class="vg">A vaga de <b>Vigia</b> só é preenchida por quem está <b>11h</b>.</div>';
-  h+=l.map(p=>`<div class="pe ${STC[p.st]}"><div class="nn">${p.num}</div><div class="nm2">${esc(p.nome)}${p.est?`<small>Estivador nº ${p.est}</small>`:''}</div><div class="sp" title="${ST[p.st][1]}">${ST[p.st][0]}</div></div>`).join('')}
+ if(MFSEL.has('Vigia'))h+='<div class="vg">A vaga de <b>Vigia</b> só é preenchida por quem está <b>11h</b>.</div>';
+ h+=ps.slice().sort((x,y)=>x.num-y.num).map(p=>`<div class="pe ${STC[p.st]}"><div class="nn">${p.num}</div><div class="nm2">${esc(p.nome)}<small>${esc(p.cat)}${p.est?` · estivador nº ${p.est}`:''}</small></div><div class="sp" title="${ST[p.st][1]}">${ST[p.st][0]}</div></div>`).join('');
  h+=`<div class="fmf">Lista e quem pegou: dados do OGMO lidos pelo robô. <b>AGORA / 6h / 11h</b> é calculado pelo robô a partir dos últimos períodos processados (${esc(MF.anterior||'—')} e ${esc(MF.atual||'—')}); só muda depois que a chamada é processada.</div>`;
  $('#mfl').innerHTML=h;mfStatus()}
 $('#mfc').addEventListener('change',e=>{const i=e.target;if(i.type!=='checkbox')return;i.checked?MFSEL.add(i.value):MFSEL.delete(i.value);mfRender()});
