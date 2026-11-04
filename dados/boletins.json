@@ -1,5 +1,16 @@
 [
  {
+  "arquivo": "boletins/2026-11-04_01-07_102529_290804.png",
+  "titulo": "BOLETIM 12 INDIAN OCEAN 01/07 · RETIFICAÇÃO",
+  "data": "04/11/2026",
+  "periodo": "01/07",
+  "chave": "<10f26dd6-810c-4c88-bde5-e40642878e21@uol.com.br>_78INDIANOCEANBOLETIM12pdf",
+  "grupo": "INDIAN OCEAN|12",
+  "retificacao": true,
+  "recebido_em": "2026-11-04T10:15:06-03:00",
+  "enviado_em": "2026-11-04T10:25:29-03:00"
+ },
+ {
   "arquivo": "boletins/2026-11-04_19-01_102522_344631.png",
   "titulo": "BOLETIM 11 INDIAN OCEAN 19/01 · RETIFICAÇÃO",
   "data": "04/11/2026",
@@ -31,17 +42,6 @@
   "retificacao": true,
   "recebido_em": "2026-11-04T10:15:06-03:00",
   "enviado_em": "2026-11-04T10:25:07-03:00"
- },
- {
-  "arquivo": "boletins/2026-11-04_01-07_091001_606729.png",
-  "titulo": "BOLETIM 12 INDIAN OCEAN 01/07 · RETIFICAÇÃO",
-  "data": "04/11/2026",
-  "periodo": "01/07",
-  "chave": "<acd6ef8a-475e-4456-b6cb-1a00be5342c5@uol.com.br>_78INDIANOCEANBOLETIM12pdf",
-  "grupo": "INDIAN OCEAN|12",
-  "retificacao": true,
-  "recebido_em": "2026-11-04T09:08:48-03:00",
-  "enviado_em": "2026-11-04T09:10:01-03:00"
  },
  {
   "arquivo": "boletins/2026-11-03_01-07_080959_633303.png",
