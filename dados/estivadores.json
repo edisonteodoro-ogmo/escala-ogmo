@@ -1,1 +1,527 @@
-{}
+{
+ "atualizado_em": "2026-11-04T14:47:44-03:00",
+ "total": 64,
+ "resumo": {
+  "total": 64,
+  "ativo": 35,
+  "afastado": 9,
+  "aposentado": 20,
+  "maq": 10,
+  "guin": 24,
+  "emp": 10
+ },
+ "pessoas": [
+  {
+   "num": 1,
+   "nome": "Ari Osvaldo dos Santos",
+   "status": "aposentado",
+   "maq": null,
+   "guin": 1,
+   "emp": null
+  },
+  {
+   "num": 2,
+   "nome": "José Carlos Marta",
+   "status": "aposentado",
+   "maq": null,
+   "guin": null,
+   "emp": null
+  },
+  {
+   "num": 3,
+   "nome": "João Batista de Paula",
+   "status": "aposentado",
+   "maq": null,
+   "guin": 2,
+   "emp": null
+  },
+  {
+   "num": 4,
+   "nome": "Osvaldo Pereira dos Santos",
+   "status": "aposentado",
+   "maq": null,
+   "guin": 3,
+   "emp": null
+  },
+  {
+   "num": 5,
+   "nome": "Reinaldo Prates Alves Pereira",
+   "status": "aposentado",
+   "maq": null,
+   "guin": null,
+   "emp": null
+  },
+  {
+   "num": 6,
+   "nome": "Sandro dos Santos Faustino",
+   "status": "ativo",
+   "maq": null,
+   "guin": null,
+   "emp": null
+  },
+  {
+   "num": 7,
+   "nome": "Valdinez Dias de Araujo",
+   "status": "ativo",
+   "maq": null,
+   "guin": 4,
+   "emp": null
+  },
+  {
+   "num": 8,
+   "nome": "Helio Rodrigues da Silva Junior",
+   "status": "aposentado",
+   "maq": null,
+   "guin": 5,
+   "emp": null
+  },
+  {
+   "num": 9,
+   "nome": "Edson Luiz Pinheiro Braga",
+   "status": "ativo",
+   "maq": 1,
+   "guin": 6,
+   "emp": 1
+  },
+  {
+   "num": 10,
+   "nome": "Rafael Sugino",
+   "status": "ativo",
+   "maq": null,
+   "guin": 7,
+   "emp": null
+  },
+  {
+   "num": 11,
+   "nome": "Silvio Fernandes dos Santos",
+   "status": "ativo",
+   "maq": null,
+   "guin": null,
+   "emp": null
+  },
+  {
+   "num": 12,
+   "nome": "Rubens Yoshiaki Sugino",
+   "status": "aposentado",
+   "maq": null,
+   "guin": null,
+   "emp": null
+  },
+  {
+   "num": 13,
+   "nome": "Robson Wilson dos Santos",
+   "status": "aposentado",
+   "maq": null,
+   "guin": 8,
+   "emp": null
+  },
+  {
+   "num": 14,
+   "nome": "João Batista de Oliveira Filho",
+   "status": "aposentado",
+   "maq": null,
+   "guin": null,
+   "emp": 2
+  },
+  {
+   "num": 15,
+   "nome": "Arnaldo Soares Nepomuceno",
+   "status": "ativo",
+   "maq": null,
+   "guin": null,
+   "emp": null
+  },
+  {
+   "num": 16,
+   "nome": "Lindolpho Tavares Filho",
+   "status": "ativo",
+   "maq": 2,
+   "guin": 9,
+   "emp": 3
+  },
+  {
+   "num": 17,
+   "nome": "Arnaldo dos Santos Silva",
+   "status": "afastado",
+   "maq": null,
+   "guin": null,
+   "emp": null
+  },
+  {
+   "num": 18,
+   "nome": "Adilson Fernandes de Jesus",
+   "status": "ativo",
+   "maq": 3,
+   "guin": null,
+   "emp": 4
+  },
+  {
+   "num": 19,
+   "nome": "Carlos Aparecido da Silva",
+   "status": "aposentado",
+   "maq": null,
+   "guin": null,
+   "emp": null
+  },
+  {
+   "num": 20,
+   "nome": "José Maria da Silva",
+   "status": "aposentado",
+   "maq": null,
+   "guin": 10,
+   "emp": null
+  },
+  {
+   "num": 21,
+   "nome": "Rogério Misseno",
+   "status": "ativo",
+   "maq": null,
+   "guin": 11,
+   "emp": 5
+  },
+  {
+   "num": 22,
+   "nome": "Arnaldo Luiz Rodrigues Teixeira",
+   "status": "afastado",
+   "maq": null,
+   "guin": null,
+   "emp": null
+  },
+  {
+   "num": 23,
+   "nome": "Luiz Anibal Fernandes de Jesus",
+   "status": "ativo",
+   "maq": 4,
+   "guin": 12,
+   "emp": 6
+  },
+  {
+   "num": 24,
+   "nome": "Claudemir dos Santos",
+   "status": "aposentado",
+   "maq": 5,
+   "guin": 13,
+   "emp": 7
+  },
+  {
+   "num": 25,
+   "nome": "Luiz Alberto dos Santos",
+   "status": "aposentado",
+   "maq": null,
+   "guin": 14,
+   "emp": null
+  },
+  {
+   "num": 26,
+   "nome": "Edvaldo Pereira Campos",
+   "status": "ativo",
+   "maq": null,
+   "guin": 15,
+   "emp": null
+  },
+  {
+   "num": 27,
+   "nome": "Augusto Pereira Nascimento",
+   "status": "ativo",
+   "maq": null,
+   "guin": 16,
+   "emp": null
+  },
+  {
+   "num": 28,
+   "nome": "Joel Aprigio dos Santos",
+   "status": "afastado",
+   "maq": null,
+   "guin": null,
+   "emp": null
+  },
+  {
+   "num": 29,
+   "nome": "Gilmar Batista de Oliveira",
+   "status": "aposentado",
+   "maq": null,
+   "guin": null,
+   "emp": null
+  },
+  {
+   "num": 30,
+   "nome": "Guilherme Rodrigues Moura Silva",
+   "status": "afastado",
+   "maq": null,
+   "guin": null,
+   "emp": null
+  },
+  {
+   "num": 31,
+   "nome": "Enoch Dias de Moura",
+   "status": "ativo",
+   "maq": null,
+   "guin": null,
+   "emp": null
+  },
+  {
+   "num": 32,
+   "nome": "Marcelino Migliorini",
+   "status": "aposentado",
+   "maq": null,
+   "guin": null,
+   "emp": null
+  },
+  {
+   "num": 33,
+   "nome": "José Cirilo do Prado",
+   "status": "aposentado",
+   "maq": null,
+   "guin": null,
+   "emp": null
+  },
+  {
+   "num": 34,
+   "nome": "Sérgio de Oliveira Costa",
+   "status": "afastado",
+   "maq": null,
+   "guin": null,
+   "emp": null
+  },
+  {
+   "num": 35,
+   "nome": "Marcos Antonio de Souza Januário",
+   "status": "ativo",
+   "maq": null,
+   "guin": null,
+   "emp": null
+  },
+  {
+   "num": 36,
+   "nome": "Marcelo Augusto dos Santos",
+   "status": "afastado",
+   "maq": null,
+   "guin": null,
+   "emp": null
+  },
+  {
+   "num": 37,
+   "nome": "Vitor Migliorini",
+   "status": "ativo",
+   "maq": null,
+   "guin": null,
+   "emp": null
+  },
+  {
+   "num": 38,
+   "nome": "Jurandir Rodrigues de Morais",
+   "status": "ativo",
+   "maq": null,
+   "guin": null,
+   "emp": null
+  },
+  {
+   "num": 39,
+   "nome": "Amarildo Donizeti Pereira dos Santos",
+   "status": "aposentado",
+   "maq": 6,
+   "guin": null,
+   "emp": 8
+  },
+  {
+   "num": 40,
+   "nome": "Adriano Getulio dos Santos",
+   "status": "ativo",
+   "maq": null,
+   "guin": null,
+   "emp": null
+  },
+  {
+   "num": 41,
+   "nome": "Wilson Alves dos Santos",
+   "status": "ativo",
+   "maq": null,
+   "guin": null,
+   "emp": null
+  },
+  {
+   "num": 42,
+   "nome": "José Augusto da Silva Junior",
+   "status": "ativo",
+   "maq": null,
+   "guin": null,
+   "emp": null
+  },
+  {
+   "num": 43,
+   "nome": "Robison da Silva Oliveira",
+   "status": "ativo",
+   "maq": 7,
+   "guin": 17,
+   "emp": 9
+  },
+  {
+   "num": 44,
+   "nome": "Silvio Santos",
+   "status": "afastado",
+   "maq": null,
+   "guin": null,
+   "emp": null
+  },
+  {
+   "num": 45,
+   "nome": "José Lourenço Faustino",
+   "status": "aposentado",
+   "maq": null,
+   "guin": null,
+   "emp": null
+  },
+  {
+   "num": 46,
+   "nome": "Carmo Benedito de Oliveira",
+   "status": "afastado",
+   "maq": null,
+   "guin": null,
+   "emp": null
+  },
+  {
+   "num": 47,
+   "nome": "Vagner de Oliveira",
+   "status": "ativo",
+   "maq": null,
+   "guin": null,
+   "emp": null
+  },
+  {
+   "num": 48,
+   "nome": "Paulo Marcos Fortunato",
+   "status": "ativo",
+   "maq": null,
+   "guin": 18,
+   "emp": null
+  },
+  {
+   "num": 49,
+   "nome": "Orlando Pegoraro Junior",
+   "status": "afastado",
+   "maq": null,
+   "guin": null,
+   "emp": null
+  },
+  {
+   "num": 50,
+   "nome": "Alexandre Getulio dos Santos",
+   "status": "aposentado",
+   "maq": 8,
+   "guin": null,
+   "emp": 10
+  },
+  {
+   "num": 51,
+   "nome": "Joaquim Reginaldo Faustino",
+   "status": "ativo",
+   "maq": null,
+   "guin": 19,
+   "emp": null
+  },
+  {
+   "num": 52,
+   "nome": "Antonio Marcos Feliciano dos Santos",
+   "status": "ativo",
+   "maq": null,
+   "guin": null,
+   "emp": null
+  },
+  {
+   "num": 53,
+   "nome": "Francisco de Paulo Galdino",
+   "status": "aposentado",
+   "maq": null,
+   "guin": null,
+   "emp": null
+  },
+  {
+   "num": 54,
+   "nome": "Eduardo Teodoro da Silva",
+   "status": "ativo",
+   "maq": null,
+   "guin": 20,
+   "emp": null
+  },
+  {
+   "num": 55,
+   "nome": "Bruno Chaves",
+   "status": "ativo",
+   "maq": 9,
+   "guin": 21,
+   "emp": null
+  },
+  {
+   "num": 56,
+   "nome": "Bruno Bugarin dos Santos Guerra",
+   "status": "ativo",
+   "maq": null,
+   "guin": 22,
+   "emp": null
+  },
+  {
+   "num": 57,
+   "nome": "Mauricio Cesar Bersani",
+   "status": "ativo",
+   "maq": null,
+   "guin": null,
+   "emp": null
+  },
+  {
+   "num": 58,
+   "nome": "Newton Brigatti",
+   "status": "ativo",
+   "maq": 10,
+   "guin": 23,
+   "emp": null
+  },
+  {
+   "num": 59,
+   "nome": "Manoel dos Santos Prado Junior",
+   "status": "ativo",
+   "maq": null,
+   "guin": null,
+   "emp": null
+  },
+  {
+   "num": 60,
+   "nome": "Rafael Henriques Duarte",
+   "status": "ativo",
+   "maq": null,
+   "guin": null,
+   "emp": null
+  },
+  {
+   "num": 61,
+   "nome": "Clarissa Cunha Mansour",
+   "status": "ativo",
+   "maq": null,
+   "guin": null,
+   "emp": null
+  },
+  {
+   "num": 62,
+   "nome": "Edison Teodoro da Silva Junior",
+   "status": "ativo",
+   "maq": null,
+   "guin": null,
+   "emp": null
+  },
+  {
+   "num": 63,
+   "nome": "Emerson Rieg Hoinaski",
+   "status": "ativo",
+   "maq": null,
+   "guin": null,
+   "emp": null
+  },
+  {
+   "num": 64,
+   "nome": "Eronaldo Pereira Campos",
+   "status": "ativo",
+   "maq": null,
+   "guin": 24,
+   "emp": null
+  }
+ ]
+}
