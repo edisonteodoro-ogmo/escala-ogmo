@@ -1,54 +1,12 @@
 {
- "atualizado_em": "2026-11-03T23:46:53-03:00",
+ "atualizado_em": "2026-11-04T07:10:17-03:00",
  "dias": [
   {
-   "data": "2026-11-03",
+   "data": "2026-11-04",
    "periodos": {
     "1": [
      {
-      "req": 60716,
-      "navio": "INDIAN OCEAN",
-      "operador": "PRONAVE",
-      "ternos": 4,
-      "categorias": [
-       "Arrumador",
-       "Conferente",
-       "Estivador"
-      ],
-      "rancho": false
-     }
-    ],
-    "2": [
-     {
-      "req": 60754,
-      "navio": "EAGLE CRATO",
-      "operador": "AQUARIUS",
-      "ternos": 1,
-      "categorias": [
-       "Arrumador",
-       "Conferente",
-       "Estivador"
-      ],
-      "rancho": true,
-      "posicao": "P1",
-      "extra": "📍 sai 04/11 18:30"
-     },
-     {
-      "req": 60758,
-      "navio": "INDIAN OCEAN",
-      "operador": "PRONAVE",
-      "ternos": 3,
-      "categorias": [
-       "Arrumador",
-       "Conferente",
-       "Estivador"
-      ],
-      "rancho": false
-     }
-    ],
-    "3": [
-     {
-      "req": 60766,
+      "req": 60768,
       "navio": "INDIAN OCEAN",
       "operador": "PRONAVE",
       "ternos": 2,
@@ -60,20 +18,9 @@
       "rancho": false
      }
     ],
-    "4": [
-     {
-      "req": 60767,
-      "navio": "INDIAN OCEAN",
-      "operador": "PRONAVE",
-      "ternos": 2,
-      "categorias": [
-       "Arrumador",
-       "Conferente",
-       "Estivador"
-      ],
-      "rancho": false
-     }
-    ]
+    "2": [],
+    "3": [],
+    "4": []
    },
    "desc": {
     "1": "07-13",
@@ -83,22 +30,9 @@
    }
   },
   {
-   "data": "2026-11-04",
+   "data": "2026-11-05",
    "periodos": {
-    "1": [
-     {
-      "req": 60768,
-      "navio": "INDIAN OCEAN",
-      "operador": "PRONAVE",
-      "ternos": 7,
-      "categorias": [
-       "Arrumador",
-       "Conferente",
-       "Estivador"
-      ],
-      "rancho": false
-     }
-    ],
+    "1": [],
     "2": [],
     "3": [],
     "4": []
