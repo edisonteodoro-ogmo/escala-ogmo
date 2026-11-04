@@ -58,12 +58,12 @@ header{position:relative}
 header h1{padding-right:46px}@media(max-width:420px){header h1{font-size:1.15rem}}
 .live{width:9px;height:9px;border-radius:50%;background:#35d07f;box-shadow:0 0 0 0 #35d07f99;animation:pulso 1.8s infinite;flex:none}.live.old{background:#e0a800;animation:none}
 @keyframes pulso{70%{box-shadow:0 0 0 9px #35d07f00}100%{box-shadow:0 0 0 0 #35d07f00}}@media(prefers-reduced-motion:reduce){.live{animation:none}}
-#prog,#mf{position:fixed;inset:0;z-index:9;display:none;background:#000a}#prog.on,#mf.on{display:block}
-#pp,#mp{position:absolute;left:50%;transform:translateX(-50%);bottom:0;width:100%;max-width:720px;height:92vh;height:92dvh;background:var(--bg);border-radius:20px 20px 0 0;display:flex;flex-direction:column;overflow:hidden;box-shadow:0 -10px 40px #0007;animation:sobe .22s ease-out}
+#prog,#mf,#ev{position:fixed;inset:0;z-index:9;display:none;background:#000a}#prog.on,#mf.on,#ev.on{display:block}
+#pp,#mp,#ep{position:absolute;left:50%;transform:translateX(-50%);bottom:0;width:100%;max-width:720px;height:92vh;height:92dvh;background:var(--bg);border-radius:20px 20px 0 0;display:flex;flex-direction:column;overflow:hidden;box-shadow:0 -10px 40px #0007;animation:sobe .22s ease-out}
 @keyframes sobe{from{transform:translate(-50%,40px);opacity:.4}to{transform:translate(-50%,0);opacity:1}}
 .ph{padding:14px 16px 10px;background:linear-gradient(135deg,#0b3a5b,#0e7c86);color:#fff;position:relative}.ph h2{margin:0;font-size:1.1rem;color:#fff;text-transform:none;letter-spacing:0}.ph p{margin:3px 0 8px;opacity:.85;font-size:.82rem}
 .ph .chip{background:#ffffff26;color:#fff}.ph .chip .live{margin-right:2px}
-#px,#mx{position:absolute;top:10px;right:12px;width:36px;height:36px;border-radius:99px;border:0;background:#ffffff30;color:#fff;font-size:1.05rem;cursor:pointer}
+#px,#mx,#ex{position:absolute;top:10px;right:12px;width:36px;height:36px;border-radius:99px;border:0;background:#ffffff30;color:#fff;font-size:1.05rem;cursor:pointer}
 .pb{padding:10px 12px 20px;overflow:auto;-webkit-overflow-scrolling:touch;flex:1}
 #pq{width:100%;font:inherit;border:1px solid var(--bd);background:var(--card);color:var(--tx);border-radius:12px;padding:9px 12px;margin-bottom:8px}
 .fx{position:sticky;top:-10px;z-index:1;margin:10px -2px 6px;padding:7px 12px;border-radius:10px;background:#2e7d50;color:#fff;font-weight:700;font-size:.78rem;font-family:inherit;letter-spacing:.5px}
@@ -102,8 +102,29 @@ header h1{padding-right:46px}@media(max-width:420px){header h1{font-size:1.15rem
 .pe.agora{background:color-mix(in srgb,var(--s-agora) 7%,var(--card))}
 .vg{margin:0 0 8px;padding:7px 11px;border-radius:10px;background:#0e7c8618;color:var(--tx);font-size:.8rem}.vg b{color:var(--ac)}
 .fmf{color:var(--mut);font-size:.74rem;margin:12px 2px 0;line-height:1.35}
+/* ---- Estivadores */
+:root{--k-g:#9b35c7;--k-t:#0090c8;--k-e:#b97817;--k-af:#e21b10;--k-ap:#1ba392}
+@media(prefers-color-scheme:dark){:root:not([data-theme=light]){--k-g:#cf87f2;--k-t:#4cc6f5;--k-e:#e8a94a;--k-af:#ff7b72;--k-ap:#4fd6c3}}
+:root[data-theme=dark]{--k-g:#cf87f2;--k-t:#4cc6f5;--k-e:#e8a94a;--k-af:#ff7b72;--k-ap:#4fd6c3}
+.lgd{background:var(--card);border:1px solid var(--bd);border-radius:14px;padding:10px 12px;margin:0 0 10px}
+.lgd h3{margin:0 0 7px;font-size:.7rem;font-weight:800;letter-spacing:.6px;color:var(--mut);text-transform:uppercase}
+.lgd .l{display:flex;flex-wrap:wrap;gap:6px 8px}.lgd .l+.l{margin-top:7px;padding-top:7px;border-top:1px dashed var(--bd)}
+.eb{display:inline-flex;align-items:center;gap:5px;font-weight:800;font-size:.72rem;letter-spacing:.2px;padding:3px 9px 3px 6px;border-radius:99px;color:var(--c);background:color-mix(in srgb,var(--c) 15%,transparent);border:1px solid color-mix(in srgb,var(--c) 38%,transparent);white-space:nowrap}
+.eb svg{width:16px;height:16px;flex:none}.eb b{font-weight:800;opacity:.8;padding-left:5px;border-left:1px solid color-mix(in srgb,var(--c) 40%,transparent)}
+.eb.g{--c:var(--k-g)}.eb.t{--c:var(--k-t)}.eb.e{--c:var(--k-e)}
+.es{display:inline-flex;align-items:center;gap:6px;font-weight:800;font-size:.7rem;letter-spacing:.4px;padding:3px 10px;border-radius:99px;color:var(--c);background:color-mix(in srgb,var(--c) 16%,transparent);white-space:nowrap}
+.es::before{content:"";width:8px;height:8px;border-radius:50%;background:var(--c)}
+.es.af{--c:var(--k-af)}.es.ap{--c:var(--k-ap)}
+.ev{display:grid;grid-template-columns:46px 1fr auto;gap:2px 10px;align-items:start;background:var(--card);border:1px solid var(--bd);border-left:6px solid var(--ac);border-radius:12px;padding:9px 10px;margin-bottom:6px}
+.ev .nn{font-weight:800;font-size:1.2rem;color:var(--ac);font-variant-numeric:tabular-nums;line-height:1.25}
+.ev .nm2{min-width:0;overflow-wrap:anywhere;font-weight:650;font-size:.93rem;line-height:1.25}
+.ev .bd{display:flex;flex-wrap:wrap;gap:5px;margin-top:6px}
+.ev.af{border-left-color:var(--k-af);background:color-mix(in srgb,var(--k-af) 6%,var(--card))}.ev.af .nn{color:var(--k-af)}
+.ev.ap{border-left-color:var(--k-ap);background:color-mix(in srgb,var(--k-ap) 6%,var(--card))}.ev.ap .nn{color:var(--k-ap)}
+.ev.af .nm2,.ev.ap .nm2{opacity:.82}
+.ev.s .nn{color:var(--mut)}
 </style></head><body>
-<header><button id="menub" type="button" aria-label="Menu" aria-haspopup="menu" aria-expanded="false" title="Menu">☰</button><div id="mn" role="menu"><button type="button" role="menuitem" id="mi-mf">👥 <span>Multifunção</span></button><button type="button" role="menuitem" id="mi-pg">🚢 <span>Programação de navios</span><small><span class="live" id="plive"></span>AO VIVO</small></button></div><h1>⚓ Escala OGMO · São Sebastião</h1><p>Chamada, escala e boletins de cada período, sempre atualizados</p></header>
+<header><button id="menub" type="button" aria-label="Menu" aria-haspopup="menu" aria-expanded="false" title="Menu">☰</button><div id="mn" role="menu"><button type="button" role="menuitem" id="mi-ev">⚓ <span>Estivadores</span></button><button type="button" role="menuitem" id="mi-mf">👥 <span>Multifunção</span></button><button type="button" role="menuitem" id="mi-pg">🚢 <span>Programação de navios</span><small><span class="live" id="plive"></span>AO VIVO</small></button></div><h1>⚓ Escala OGMO · São Sebastião</h1><p>Chamada, escala e boletins de cada período, sempre atualizados</p></header>
 <nav><button class="on" data-s="escala">Chamada</button><button data-s="chamada">Escala</button><button data-s="periodos">Períodos</button><button data-s="boletins">Boletins</button></nav>
 <main>
 <section id="escala" class="on">
@@ -135,6 +156,10 @@ header h1{padding-right:46px}@media(max-width:420px){header h1{font-size:1.15rem
 <div id="mf" role="dialog" aria-modal="true" aria-label="Multifunção"><div id="mp">
  <div class="ph"><button id="mx" type="button" aria-label="Fechar">✕</button><h2>Multifunção</h2><p id="msub">Vigias, consertadores, arrumadores e estivadores</p><span class="chip" id="mchip"><span class="live"></span><span id="mchtx">carregando…</span></span></div>
  <div class="pb"><div class="mfc" id="mfc" role="group" aria-label="Funções"></div><div id="mfl"><div class="empty">Carregando…</div></div></div>
+</div></div>
+<div id="ev" role="dialog" aria-modal="true" aria-label="Estivadores"><div id="ep">
+ <div class="ph"><button id="ex" type="button" aria-label="Fechar">✕</button><h2>Estivadores</h2><p id="esub">Relação dos estivadores de São Sebastião</p><span class="chip" id="echip"><span class="live"></span><span id="echtx">carregando…</span></span></div>
+ <div class="pb"><div class="mfc" id="efc" role="group" aria-label="Funções de máquina"></div><div id="efl"><div class="empty">Carregando…</div></div></div>
 </div></div>
 <div id="lb"><img id="lbi" alt=""></div><button id="x" aria-label="Fechar">✕</button>
 <script>
@@ -229,19 +254,42 @@ function pgRender(){if(!PG||!PG.navios){$('#pl').innerHTML='<div class="empty">A
  $('#pl').innerHTML=h||'<div class="empty">Nenhum navio encontrado.</div>';pStatus()}
 async function programacao(){const d=await J('dados/programacao.json');if(d&&d.navios){PG=d;pgRender()}else if(!PG)$('#pl').innerHTML='<div class="empty">Ainda não há programação publicada.</div>';pStatus()}
 // ---- Folhas (Programação e Multifunção): abrem pelo menu ☰; o botão Voltar do celular fecha a folha
-const FOLHAS={prog:()=>pgRender(),mf:()=>mfRender()};
-function abreFolha(id){fechaMenu();document.querySelectorAll('#prog,#mf').forEach(x=>x.classList.remove('on'));$('#'+id).classList.add('on');
+const FOLHAS={prog:()=>pgRender(),mf:()=>mfRender(),ev:()=>evRender()};
+function abreFolha(id){fechaMenu();document.querySelectorAll('#prog,#mf,#ev').forEach(x=>x.classList.remove('on'));$('#'+id).classList.add('on');
  try{if(!(history.state&&history.state.fo))history.pushState({fo:id},'');else history.replaceState({fo:id},'')}catch(e){}FOLHAS[id]()}
-function fechaFolha(){const ab=document.querySelector('#prog.on,#mf.on');if(!ab)return;ab.classList.remove('on');if(history.state&&history.state.fo){try{history.back()}catch(e){}}}
+function fechaFolha(){const ab=document.querySelector('#prog.on,#mf.on,#ev.on');if(!ab)return;ab.classList.remove('on');if(history.state&&history.state.fo){try{history.back()}catch(e){}}}
 const fechaPg=fechaFolha;
-$('#px').onclick=fechaFolha;$('#mx').onclick=fechaFolha;
-['prog','mf'].forEach(id=>$('#'+id).addEventListener('click',e=>{if(e.target.id===id)fechaFolha()}));$('#pq').oninput=pgRender;
-window.addEventListener('popstate',()=>{document.querySelectorAll('#prog,#mf').forEach(x=>x.classList.remove('on'))});
+$('#px').onclick=fechaFolha;$('#mx').onclick=fechaFolha;$('#ex').onclick=fechaFolha;
+['prog','mf','ev'].forEach(id=>$('#'+id).addEventListener('click',e=>{if(e.target.id===id)fechaFolha()}));$('#pq').oninput=pgRender;
+window.addEventListener('popstate',()=>{document.querySelectorAll('#prog,#mf,#ev').forEach(x=>x.classList.remove('on'))});
 // menu ☰
 function fechaMenu(){$('#mn').classList.remove('on');$('#menub').setAttribute('aria-expanded','false')}
 $('#menub').onclick=e=>{e.stopPropagation();const on=$('#mn').classList.toggle('on');$('#menub').setAttribute('aria-expanded',on)};
-$('#mi-pg').onclick=()=>abreFolha('prog');$('#mi-mf').onclick=()=>abreFolha('mf');
+$('#mi-pg').onclick=()=>abreFolha('prog');$('#mi-ev').onclick=()=>abreFolha('ev');$('#mi-mf').onclick=()=>abreFolha('mf');
 document.addEventListener('click',e=>{if(!e.target.closest('#mn'))fechaMenu()});
+// ---- Estivadores: dado real = planilha da relação (lida pelo robô); afastado/aposentado vem da COR do nome na planilha
+let EV=null;const ESEL=new Set(['maq','guin','emp']);
+const IC={guin:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 21V4M3 21h8M4 8h17M7 4l11 4M18 8v6"/><circle cx="18" cy="16.5" r="2"/></svg>',
+ maq:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="7" cy="16" r="4"/><circle cx="18.5" cy="17.5" r="2.5"/><path d="M11 14V7h5l2 5h3v3M3.5 12.5V8h4"/></svg>',
+ emp:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 3v16M17 17h4M3 17V9h6l2 3v5"/><circle cx="6.5" cy="18.5" r="2"/><circle cx="12.5" cy="18.5" r="2"/><path d="M6 9V6"/></svg>'};
+const EK={guin:['g','Guindaste','Guincheiros','guincheiro'],maq:['t','Trator','Tratoristas','operador de máquina'],emp:['e','Empilhadeira','Empilhadeiristas','empilhadeirista']};
+function evStatus(){if(!EV||!EV.atualizado_em)return;const h=(Date.now()-new Date(EV.atualizado_em))/36e5,vel=h>8;
+ document.querySelector('#echip .live').className='live'+(vel?' old':'');$('#echtx').textContent=(vel?'desatualizada · ':'ao vivo · ')+'lida da planilha '+ago(EV.atualizado_em)}
+function evRender(){if(!EV||!EV.pessoas||!EV.pessoas.length){$('#efl').innerHTML='<div class="empty">Ainda não há dados dos estivadores.</div>';$('#efc').innerHTML='';return}
+ const r=EV.resumo||{};
+ $('#efc').innerHTML=['guin','maq','emp'].map(k=>`<label><input type="checkbox" value="${k}"${ESEL.has(k)?' checked':''}><span><i>✓</i>${EK[k][2]} <em>${r[k]||0}</em></span></label>`).join('');
+ const todos=ESEL.size===3,ps=EV.pessoas.filter(p=>todos||[...ESEL].some(k=>p[k]));
+ $('#esub').textContent=`${ps.length} de ${EV.total} estivadores`+(todos?'':' · filtrado por função');
+ let h=`<div class="lgd"><h3>Opera</h3><div class="l">${['guin','maq','emp'].map(k=>`<span class="eb ${EK[k][0]}">${IC[k]}${EK[k][1]}</span>`).join('')}</div>
+  <h3 style="margin-top:9px">Situação</h3><div class="l"><span class="es af">AFASTADO · ${r.afastado||0}</span><span class="es ap">APOSENTADO · ${r.aposentado||0}</span></div></div>`;
+ if(!ps.length)h+='<div class="empty">Marque ao menos uma função acima.</div>';
+ h+=ps.map(p=>{const cl=p.status==='afastado'?'af':p.status==='aposentado'?'ap':'';
+  const bd=['guin','maq','emp'].filter(k=>p[k]).map(k=>`<span class="eb ${EK[k][0]}" title="${EK[k][3]} · nº ${p[k]} na lista">${IC[k]}${EK[k][1]}<b>${p[k]}</b></span>`).join('');
+  return `<div class="ev ${cl}"><div class="nn">${p.num}</div><div class="nm2">${esc(p.nome)}${bd?`<div class="bd">${bd}</div>`:''}</div>${cl?`<span class="es ${cl}">${cl==='af'?'AFASTADO':'APOSENTADO'}</span>`:'<span></span>'}</div>`}).join('');
+ h+=`<div class="fmf">Nome, número e listas de máquina: planilha da relação. <b>Afastado / aposentado</b> é lido pela cor do nome na planilha. O número no selo é a posição da pessoa naquela lista. Com as 3 funções marcadas aparecem todos; ao desmarcar, ficam só quem opera as que continuam marcadas.</div>`;
+ $('#efl').innerHTML=h;evStatus()}
+$('#efc').addEventListener('change',e=>{const i=e.target;if(i.type!=='checkbox')return;i.checked?ESEL.add(i.value):ESEL.delete(i.value);evRender()});
+async function estivadores(){const d=await J('dados/estivadores.json');if(d&&d.pessoas){EV=d;if($('#ev').classList.contains('on'))evRender()}else if(!EV)$('#efl').innerHTML='<div class="empty">Ainda não há dados dos estivadores.</div>';evStatus()}
 // ---- Multifunção: dado real = lista do OGMO + quem pegou (lido pelo robô); AGORA / 6h / 11h é CALCULADO pelo robô
 let MF=null;const MFSEL=new Set();let MFINI=false;
 const ST={agora:['AGORA','Acabou de pegar'],'6h':['6h','Descansando 6h'],'11h':['11h','Livre (11h)']},STC={agora:'agora','6h':'h6','11h':'h11'};
@@ -261,7 +309,7 @@ function mfRender(){if(!MF||!MF.pessoas||!MF.pessoas.length){$('#mfl').innerHTML
  $('#mfl').innerHTML=h;mfStatus()}
 $('#mfc').addEventListener('change',e=>{const i=e.target;if(i.type!=='checkbox')return;i.checked?MFSEL.add(i.value):MFSEL.delete(i.value);mfRender()});
 async function multifuncao(){const d=await J('dados/multifuncao.json');if(d&&d.pessoas){MF=d;if($('#mf').classList.contains('on')||!$('#mfl').dataset.ok){mfRender();$('#mfl').dataset.ok=1}}else if(!MF)$('#mfl').innerHTML='<div class="empty">Ainda não há dados da multifunção.</div>';mfStatus()}
-setInterval(()=>{pStatus();mfStatus()},3e4);
+setInterval(()=>{pStatus();mfStatus();evStatus()},3e4);
 let B=[],selArq=null;const quandoB=b=>b.recebido_em||b.enviado_em,ehPdf=b=>/\.pdf$/i.test(b.arquivo||'');
 function bmostra(b){$('#btit').textContent=b.titulo||'Boletim';$('#bquando').textContent='Recebido em '+fmt(quandoB(b));
  const pdf=ehPdf(b);$('#bshot').hidden=pdf;if(!pdf)$('#bimg').src=b.arquivo;$('#bdl').href=b.arquivo;$('#bdl').textContent=pdf?'Abrir PDF':'Baixar imagem';
@@ -279,5 +327,5 @@ $('#lbi').onclick=e=>e.target.classList.toggle('z');$('#x').onclick=fecha;
 document.onkeydown=e=>{if(e.key==='Escape'){if($('#lb').classList.contains('on'))fecha();else if(document.querySelector('#mn.on'))fechaMenu();else fechaFolha()}};
 document.querySelectorAll('nav button').forEach(b=>b.onclick=()=>{document.querySelectorAll('nav button,section').forEach(x=>x.classList.remove('on'));b.classList.add('on');$('#'+b.dataset.s).classList.add('on');history.replaceState(0,'','#'+b.dataset.s)});
 if(['#boletins','#chamada','#periodos'].includes(location.hash))document.querySelector('[data-s='+location.hash.slice(1)+']').click();
-const tudo=()=>{escala();chamada();periodos();programacao();multifuncao();bol()};tudo();setInterval(tudo,6e4);document.addEventListener('visibilitychange',()=>!document.hidden&&tudo());
+const tudo=()=>{escala();chamada();periodos();programacao();multifuncao();estivadores();bol()};tudo();setInterval(tudo,6e4);document.addEventListener('visibilitychange',()=>!document.hidden&&tudo());
 </script></body></html>
