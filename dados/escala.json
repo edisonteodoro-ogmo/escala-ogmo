@@ -1,17 +1,17 @@
 {
- "atualizado_em": "2026-11-04T19:01:07-03:00",
- "titulo": "04/11/2026 (19h + 01h)",
- "imagem": "planilha/20261104_190107_438731.png",
+ "atualizado_em": "2026-11-04T19:44:16-03:00",
+ "titulo": "Atualização manual",
+ "imagem": "planilha/20261104_194416_901024.png",
  "historico": [
+  {
+   "quando": "2026-11-04T19:44:16-03:00",
+   "titulo": "Atualização manual",
+   "imagem": "planilha/20261104_194416_901024.png"
+  },
   {
    "quando": "2026-11-04T19:01:07-03:00",
    "titulo": "04/11/2026 (19h + 01h)",
    "imagem": "planilha/20261104_190107_438731.png"
-  },
-  {
-   "quando": "2026-11-04T13:30:44-03:00",
-   "titulo": "Atualização manual",
-   "imagem": "planilha/20261104_133044_640607.png"
   },
   {
    "quando": "2026-11-04T12:57:21-03:00",
