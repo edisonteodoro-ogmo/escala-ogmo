@@ -1,8 +1,13 @@
 {
- "atualizado_em": "2026-11-05T19:01:56-03:00",
- "titulo": "05/11/2026 (19h + 01h)",
- "imagem": "planilha/20261105_190156_328856.png",
+ "atualizado_em": "2026-11-05T19:04:12-03:00",
+ "titulo": "05/11/2026 · 01/07",
+ "imagem": "planilha/20261105_190412_081373.png",
  "historico": [
+  {
+   "quando": "2026-11-05T19:04:12-03:00",
+   "titulo": "05/11/2026 · 01/07",
+   "imagem": "planilha/20261105_190412_081373.png"
+  },
   {
    "quando": "2026-11-05T19:01:56-03:00",
    "titulo": "05/11/2026 (19h + 01h)",
@@ -197,11 +202,6 @@
    "quando": "2026-10-26T06:58:24-03:00",
    "titulo": "Planilha: período sem trabalho",
    "imagem": "planilha/20261026_065824_530635.png"
-  },
-  {
-   "quando": "2026-10-25T19:05:48-03:00",
-   "titulo": "Planilha: período sem trabalho",
-   "imagem": "planilha/20261025_190548_253349.png"
   }
  ]
 }
