@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-05T18:35:02-03:00",
+ "atualizado_em": "2026-11-05T18:37:19-03:00",
  "lido_em": "2026-11-05T18:35:02-03:00",
  "total": 17,
  "navios": [
@@ -32,8 +32,7 @@
    "operador": "LOG LOGÍSTICA",
    "local": "DIRETO",
    "situacao": "FUNDEADO",
-   "fundeado": true,
-   "cais": "06/11 04:00"
+   "fundeado": true
   },
   {
    "nome": "UNITY SPIRIT",
@@ -44,7 +43,8 @@
    "operador": "PRONAVE",
    "local": "ARMAZEM CDSS",
    "situacao": "FUNDEADO",
-   "fundeado": true
+   "fundeado": true,
+   "cais": "06/11 04:00"
   },
   {
    "nome": "S.ARAS",
@@ -186,7 +186,7 @@
    }
   ],
   "proximo": {
-   "navio": "YOSOR",
+   "navio": "UNITY SPIRIT",
    "horario": "06/11 04:00"
   },
   "depois": []
