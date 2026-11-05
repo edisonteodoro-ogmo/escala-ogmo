@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-05T12:58:31-03:00",
+ "atualizado_em": "2026-11-05T13:06:00-03:00",
  "atual": "05/11 13h",
  "anterior": "05/11 7h",
  "categorias": [
@@ -11,9 +11,9 @@
  ],
  "resumo": {
   "Estivador": {
-   "agora": 19,
+   "agora": 21,
    "6h": 24,
-   "11h": 21
+   "11h": 19
   },
   "Arrumador": {
    "agora": 19,
@@ -228,7 +228,7 @@
    "num": 330,
    "nome": "VALDINEZ DIAS DE ARAUJO",
    "cat": "Estivador",
-   "st": "11h",
+   "st": "agora",
    "est": 7
   },
   {
@@ -856,7 +856,7 @@
    "num": 427,
    "nome": "FRANCISCO DE PAULO GALDINO",
    "cat": "Estivador",
-   "st": "11h",
+   "st": "agora",
    "est": 53
   },
   {
