@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-05T02:54:17-03:00",
+ "atualizado_em": "2026-11-05T02:56:41-03:00",
  "lido_em": "2026-11-05T02:54:17-03:00",
  "total": 17,
  "navios": [
@@ -32,7 +32,8 @@
    "operador": "LOG LOGÍSTICA",
    "local": "DIRETO",
    "situacao": "FUNDEADO",
-   "fundeado": true
+   "fundeado": true,
+   "cais": "05/11 23:30"
   },
   {
    "nome": "UNITY SPIRIT",
@@ -175,5 +176,19 @@
    "local": "DIRETO",
    "situacao": "PROGRAMADO"
   }
- ]
+ ],
+ "cais": {
+  "fonte": "praticagem",
+  "saindo": [
+   {
+    "navio": "INDIAN OCEAN",
+    "horario": "05/11 22:00"
+   }
+  ],
+  "proximo": {
+   "navio": "YOSOR",
+   "horario": "05/11 23:30"
+  },
+  "depois": []
+ }
 }
