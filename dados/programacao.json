@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-05T20:38:50-03:00",
- "lido_em": "2026-11-05T20:38:50-03:00",
+ "atualizado_em": "2026-11-05T20:55:56-03:00",
+ "lido_em": "2026-11-05T20:55:56-03:00",
  "total": 17,
  "navios": [
   {
@@ -44,7 +44,7 @@
    "local": "ARMAZEM CDSS",
    "situacao": "FUNDEADO",
    "fundeado": true,
-   "cais": "06/11 03:30"
+   "cais": "06/11 05:30"
   },
   {
    "nome": "S.ARAS",
@@ -182,12 +182,12 @@
   "saindo": [
    {
     "navio": "INDIAN OCEAN",
-    "horario": "06/11 02:30"
+    "horario": "06/11 04:00"
    }
   ],
   "proximo": {
    "navio": "UNITY SPIRIT",
-   "horario": "06/11 03:30"
+   "horario": "06/11 05:30"
   },
   "depois": []
  }
