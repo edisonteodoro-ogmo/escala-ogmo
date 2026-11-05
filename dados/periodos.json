@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-05T09:12:47-03:00",
+ "atualizado_em": "2026-11-05T09:31:29-03:00",
  "dias": [
   {
    "data": "2026-11-05",
@@ -44,6 +44,27 @@
      }
     ],
     "2": [
+     {
+      "req": 60791,
+      "navio": "HEDDA KNUTSEN",
+      "operador": "TRIAINA",
+      "ternos": 1,
+      "categorias": [
+       "Arrumador",
+       "Conferente",
+       "Estivador"
+      ],
+      "rancho": true,
+      "posicao": "P1",
+      "extra": "📍 sai 06/11 05:00",
+      "cargas": [
+       {
+        "carga": "EMBARQUE RANCHO",
+        "tons": 5826,
+        "qtd": 0
+       }
+      ]
+     },
      {
       "req": 60783,
       "navio": "INDIAN OCEAN",
