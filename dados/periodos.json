@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-05T19:15:29-03:00",
+ "atualizado_em": "2026-11-05T19:39:18-03:00",
  "dias": [
   {
    "data": "2026-11-05",
@@ -29,19 +29,7 @@
       ],
       "rancho": true,
       "posicao": "P4",
-      "extra": "📍 sai 07/11 20:00",
-      "cargas": [
-       {
-        "carga": "EMBARQUE RANCHO",
-        "tons": 4470,
-        "qtd": 9
-       },
-       {
-        "carga": "EMBARQUE MATERIAL",
-        "tons": 835,
-        "qtd": 5
-       }
-      ]
+      "extra": "📍 sai 07/11 20:00"
      }
     ],
     "2": [
@@ -57,14 +45,7 @@
       ],
       "rancho": true,
       "posicao": "P1",
-      "extra": "📍 sai 06/11 12:30",
-      "cargas": [
-       {
-        "carga": "EMBARQUE RANCHO",
-        "tons": 5826,
-        "qtd": 0
-       }
-      ]
+      "extra": "📍 sai 06/11 12:30"
      },
      {
       "req": 60783,
