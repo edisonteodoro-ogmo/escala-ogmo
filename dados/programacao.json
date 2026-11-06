@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-06T04:53:22-03:00",
+ "atualizado_em": "2026-11-06T05:05:03-03:00",
  "lido_em": "2026-11-06T04:51:07-03:00",
  "total": 17,
  "navios": [
@@ -43,7 +43,8 @@
    "operador": "PRONAVE",
    "local": "ARMAZEM CDSS",
    "situacao": "FUNDEADO",
-   "fundeado": true
+   "fundeado": true,
+   "cais": "06/11 08:30"
   },
   {
    "nome": "S.ARAS",
@@ -175,5 +176,19 @@
    "local": "DIRETO",
    "situacao": "PROGRAMADO"
   }
- ]
+ ],
+ "cais": {
+  "fonte": "praticagem",
+  "saindo": [
+   {
+    "navio": "INDIAN OCEAN",
+    "horario": "06/11 06:30"
+   }
+  ],
+  "proximo": {
+   "navio": "UNITY SPIRIT",
+   "horario": "06/11 08:30"
+  },
+  "depois": []
+ }
 }
