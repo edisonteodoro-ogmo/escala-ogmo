@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-06T08:35:02-03:00",
+ "atualizado_em": "2026-11-06T08:40:36-03:00",
  "dias": [
   {
    "data": "2026-11-06",
@@ -20,6 +20,41 @@
     ],
     "2": [
      {
+      "req": 60824,
+      "navio": "EAGLE CAMBE",
+      "operador": "AQUARIUS",
+      "ternos": 1,
+      "categorias": [
+       "Arrumador",
+       "Conferente",
+       "Estivador"
+      ],
+      "rancho": true,
+      "posicao": "P2",
+      "cargas": [
+       {
+        "carga": "ENTREGA DTA'S",
+        "tons": 740,
+        "qtd": 11
+       },
+       {
+        "carga": "ENTREGA RANCHO",
+        "tons": 4200,
+        "qtd": 1
+       },
+       {
+        "carga": "ENTREGA MATERIAL",
+        "tons": 85,
+        "qtd": 5
+       },
+       {
+        "carga": "RETIRADA MATERIAL",
+        "tons": 78,
+        "qtd": 5
+       }
+      ]
+     },
+     {
       "req": 60811,
       "navio": "ELKA LEBLON",
       "operador": "LOG LOGISTICA",
@@ -30,10 +65,48 @@
        "Estivador"
       ],
       "rancho": false
+     },
+     {
+      "req": 60814,
+      "navio": "UNITY SPIRIT",
+      "operador": "PRONAVE",
+      "ternos": 7,
+      "categorias": [
+       "Arrumador",
+       "Conferente",
+       "Estivador"
+      ],
+      "rancho": false
      }
     ],
-    "3": [],
-    "4": []
+    "3": [
+     {
+      "req": 60816,
+      "navio": "UNITY SPIRIT",
+      "operador": "PRONAVE",
+      "ternos": 7,
+      "categorias": [
+       "Arrumador",
+       "Conferente",
+       "Estivador"
+      ],
+      "rancho": false
+     }
+    ],
+    "4": [
+     {
+      "req": 60817,
+      "navio": "UNITY SPIRIT",
+      "operador": "PRONAVE",
+      "ternos": 7,
+      "categorias": [
+       "Arrumador",
+       "Conferente",
+       "Estivador"
+      ],
+      "rancho": false
+     }
+    ]
    },
    "desc": {
     "1": "07-13",
@@ -45,7 +118,20 @@
   {
    "data": "2026-11-07",
    "periodos": {
-    "1": [],
+    "1": [
+     {
+      "req": 60818,
+      "navio": "UNITY SPIRIT",
+      "operador": "PRONAVE",
+      "ternos": 7,
+      "categorias": [
+       "Arrumador",
+       "Conferente",
+       "Estivador"
+      ],
+      "rancho": false
+     }
+    ],
     "2": [],
     "3": [],
     "4": []
