@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-06T03:31:19-03:00",
+ "atualizado_em": "2026-11-06T03:42:46-03:00",
  "lido_em": "2026-11-06T03:29:02-03:00",
  "total": 17,
  "navios": [
@@ -44,7 +44,7 @@
    "local": "ARMAZEM CDSS",
    "situacao": "FUNDEADO",
    "fundeado": true,
-   "cais": "06/11 08:00"
+   "cais": "06/11 08:30"
   },
   {
    "nome": "S.ARAS",
@@ -187,7 +187,7 @@
   ],
   "proximo": {
    "navio": "UNITY SPIRIT",
-   "horario": "06/11 08:00"
+   "horario": "06/11 08:30"
   },
   "depois": []
  }
