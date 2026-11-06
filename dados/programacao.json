@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-06T16:36:10-03:00",
- "lido_em": "2026-11-06T16:36:10-03:00",
+ "atualizado_em": "2026-11-06T16:52:58-03:00",
+ "lido_em": "2026-11-06T16:52:58-03:00",
  "total": 18,
  "navios": [
   {
@@ -16,12 +16,13 @@
   {
    "nome": "SAGA PIONNER",
    "faixa": "NAVIOS PROGRAMADOS A",
-   "previsao": "15/11/2026",
+   "previsao": "17/11/2026",
    "carga": "BARRILHA",
    "qtd": "15.692 t",
    "operador": "PRONAVE",
    "local": "DIRETO",
-   "situacao": "PROGRAMADO"
+   "situacao": "PROGRAMADO",
+   "marca": "alterado"
   },
   {
    "nome": "YOSOR",
@@ -46,16 +47,6 @@
    "cais": "08/11 21:30"
   },
   {
-   "nome": "HANZE GENUA",
-   "faixa": "NAVIOS PROGRAMADOS E",
-   "previsao": "05/11/2026",
-   "carga": "MALTE",
-   "qtd": "25.000 t",
-   "operador": "PRONAVE",
-   "local": "ARMAZEM CDSS",
-   "situacao": "PROGRAMADO"
-  },
-  {
    "nome": "ASTRO NEKKAR",
    "faixa": "NAVIOS PROGRAMADOS E",
    "previsao": "11/11/2026",
@@ -66,14 +57,15 @@
    "situacao": "PROGRAMADO"
   },
   {
-   "nome": "APOGEE ENDEAVOUR",
+   "nome": "HANZE GENUA",
    "faixa": "NAVIOS PROGRAMADOS E",
-   "previsao": "30/11/2026",
-   "carga": "TRIGO",
-   "qtd": "30.000 t",
+   "previsao": "17/11/2026",
+   "carga": "MALTE",
+   "qtd": "25.000 t",
    "operador": "PRONAVE",
    "local": "ARMAZEM CDSS",
-   "situacao": "PROGRAMADO"
+   "situacao": "PROGRAMADO",
+   "marca": "alterado"
   },
   {
    "nome": "ELISABETTA",
@@ -96,24 +88,26 @@
    "situacao": "PROGRAMADO"
   },
   {
+   "nome": "APOGEE ENDEAVOUR",
+   "faixa": "NAVIOS PROGRAMADOS E",
+   "previsao": "05/12/2026",
+   "carga": "TRIGO",
+   "qtd": "30.000 t",
+   "operador": "PRONAVE",
+   "local": "ARMAZEM CDSS",
+   "situacao": "PROGRAMADO",
+   "marca": "alterado"
+  },
+  {
    "nome": "BOI BRANCO",
    "faixa": "NAVIOS PROGRAMADOS F",
-   "previsao": "08/11/2026",
+   "previsao": "11/11/2026",
    "carga": "ANIMAIS VIVOS",
    "qtd": "4.000 UN",
    "operador": "LOG LOGÍSTICA",
    "local": "DIRETO",
-   "situacao": "PROGRAMADO"
-  },
-  {
-   "nome": "PACIFICA",
-   "faixa": "NAVIOS PROGRAMADOS F",
-   "previsao": "09/11/2026",
-   "carga": "CARGA PROJETO",
-   "qtd": "900 t",
-   "operador": "LOG LOGÍSTICA",
-   "local": "ARMAZEM CDSS",
-   "situacao": "PROGRAMADO"
+   "situacao": "PROGRAMADO",
+   "marca": "alterado"
   },
   {
    "nome": "ATLANTIC ROSE",
@@ -124,6 +118,17 @@
    "operador": "LOG LOGÍSTICA",
    "local": "DIRETO",
    "situacao": "PROGRAMADO"
+  },
+  {
+   "nome": "PACIFICA",
+   "faixa": "NAVIOS PROGRAMADOS F",
+   "previsao": "13/11/2026",
+   "carga": "CARGA PROJETO",
+   "qtd": "900 t",
+   "operador": "LOG LOGÍSTICA",
+   "local": "ARMAZEM CDSS",
+   "situacao": "PROGRAMADO",
+   "marca": "alterado"
   },
   {
    "nome": "PACIFIC ROSE",
@@ -148,7 +153,7 @@
   {
    "nome": "APOGEE ENDEAVOUR",
    "faixa": "NAVIOS PROGRAMADOS G",
-   "previsao": "20/12/2026",
+   "previsao": "30/12/2026",
    "carga": "TRIGO",
    "qtd": "30.000 t",
    "operador": "PRONAVE",
