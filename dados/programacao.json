@@ -1,8 +1,18 @@
 {
- "atualizado_em": "2026-11-06T10:24:45-03:00",
- "lido_em": "2026-11-06T10:24:45-03:00",
+ "atualizado_em": "2026-11-06T10:41:33-03:00",
+ "lido_em": "2026-11-06T10:41:33-03:00",
  "total": 16,
  "navios": [
+  {
+   "nome": "UNITY SPIRIT",
+   "faixa": "NAVIOS ATRACADO",
+   "previsao": "02/11/2026",
+   "carga": "BARRILHA",
+   "qtd": "10.000 t",
+   "operador": "PRONAVE",
+   "local": "ARMAZEM CDSS",
+   "situacao": "ATRACADO"
+  },
   {
    "nome": "SAGA PIONNER",
    "faixa": "NAVIOS PROGRAMADOS A",
@@ -23,16 +33,6 @@
    "local": "DIRETO",
    "situacao": "FUNDEADO",
    "fundeado": true
-  },
-  {
-   "nome": "UNITY SPIRIT",
-   "faixa": "NAVIOS PROGRAMADOS C",
-   "previsao": "02/11/2026",
-   "carga": "BARRILHA",
-   "qtd": "10.000 t",
-   "operador": "PRONAVE",
-   "local": "ARMAZEM CDSS",
-   "situacao": "FUNDEADO"
   },
   {
    "nome": "S.ARAS",
