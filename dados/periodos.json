@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-06T13:13:04-03:00",
+ "atualizado_em": "2026-11-06T13:52:22-03:00",
  "dias": [
   {
    "data": "2026-11-06",
@@ -59,8 +59,7 @@
        "Estivador"
       ],
       "rancho": true,
-      "posicao": "fundeado",
-      "extra": "📍 entra P1 06/11 12:00",
+      "posicao": "P1",
       "obs": "TOTAL A SER MOVIMENTADO: 20 TAMBORES PESANDO 4.000 kGS.",
       "resumo": "20 TAMBORES · 4.000 KG"
      },
