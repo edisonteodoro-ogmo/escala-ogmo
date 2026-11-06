@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-06T10:41:40-03:00",
+ "atualizado_em": "2026-11-06T10:45:59-03:00",
  "dias": [
   {
    "data": "2026-11-06",
@@ -77,14 +77,14 @@
       "posicao": "CN1",
       "cargas": [
        {
-        "carga": "EMBARQUE RANCHO",
+        "carga": "EMBARQUE MATERIAL",
         "tons": 3405,
         "qtd": 0
        },
        {
-        "carga": "EMBARQUE MATERIAL",
-        "tons": 835,
-        "qtd": 5
+        "carga": "DESCARGA MATERIAL",
+        "tons": 280,
+        "qtd": 0
        }
       ]
      },
