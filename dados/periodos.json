@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-06T09:53:03-03:00",
+ "atualizado_em": "2026-11-06T10:41:40-03:00",
  "dias": [
   {
    "data": "2026-11-06",
@@ -62,6 +62,31 @@
       "extra": "📍 entra P1 06/11 12:00",
       "obs": "TOTAL A SER MOVIMENTADO: 20 TAMBORES PESANDO 4.000 kGS.",
       "resumo": "20 TAMBORES · 4.000 KG"
+     },
+     {
+      "req": 60831,
+      "navio": "HENRIQUE DIAS",
+      "operador": "PHOENIX SHIPPING",
+      "ternos": 1,
+      "categorias": [
+       "Arrumador",
+       "Conferente",
+       "Estivador"
+      ],
+      "rancho": true,
+      "posicao": "CN1",
+      "cargas": [
+       {
+        "carga": "EMBARQUE RANCHO",
+        "tons": 3405,
+        "qtd": 0
+       },
+       {
+        "carga": "EMBARQUE MATERIAL",
+        "tons": 835,
+        "qtd": 5
+       }
+      ]
      },
      {
       "req": 60814,
