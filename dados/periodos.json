@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-06T19:20:53-03:00",
+ "atualizado_em": "2026-11-06T19:35:10-03:00",
  "dias": [
   {
    "data": "2026-11-06",
@@ -16,9 +16,7 @@
        "Estivador"
       ],
       "rancho": true,
-      "posicao": "CN1",
-      "obs": "TOTAL A SER MOVIMENTADO: EMBARQUE DE 14 IBC DE 1.000 LITROS EMBARQUE DE 30 TAMBORES DE 200 LITROS DE ÓLEO LUBRIFICANTE PESANDO = 19.567 KGS. TODO O MATERIAL ACIMA MENCIONADO, SERÁ BOMBEADO DA BARCAÇA AO NAVIO. NÃO HAVERÁ IÇAMENTO DE NENHUM VOLUME. O TERNO SERÁ DISPENSADO APÓS CARREGAMENTO NA BARCAÇA.",
-      "resumo": "14 IBC (1.000 L) + 30 TAMBORES (200 L) · ÓLEO LUBRIFICANTE · 19.567 KG"
+      "posicao": "CN1"
      }
     ],
     "2": [
@@ -34,19 +32,7 @@
       ],
       "rancho": true,
       "posicao": "P2",
-      "extra": "📍 sai 07/11 04:30",
-      "cargas": [
-       {
-        "carga": "ENTREGA DTA'S",
-        "tons": 1375,
-        "qtd": 31
-       },
-       {
-        "carga": "ENTREGA RANCHO",
-        "tons": 4200,
-        "qtd": 1
-       }
-      ]
+      "extra": "📍 sai 07/11 04:30"
      },
      {
       "req": 60811,
@@ -59,9 +45,7 @@
        "Estivador"
       ],
       "rancho": true,
-      "posicao": "P1",
-      "obs": "TOTAL A SER MOVIMENTADO: 20 TAMBORES PESANDO 4.000 kGS.",
-      "resumo": "20 TAMBORES · 4.000 KG"
+      "posicao": "P1"
      },
      {
       "req": 60831,
@@ -74,19 +58,7 @@
        "Estivador"
       ],
       "rancho": true,
-      "posicao": "CN1",
-      "cargas": [
-       {
-        "carga": "EMBARQUE MATERIAL",
-        "tons": 3405,
-        "qtd": 0
-       },
-       {
-        "carga": "DESCARGA MATERIAL",
-        "tons": 280,
-        "qtd": 0
-       }
-      ]
+      "posicao": "CN1"
      },
      {
       "req": 60814,
