@@ -1,7 +1,7 @@
 {
- "atualizado_em": "2026-11-06T16:21:05-03:00",
- "lido_em": "2026-11-06T16:21:05-03:00",
- "total": 16,
+ "atualizado_em": "2026-11-06T16:36:10-03:00",
+ "lido_em": "2026-11-06T16:36:10-03:00",
+ "total": 18,
  "navios": [
   {
    "nome": "UNITY SPIRIT",
@@ -164,6 +164,28 @@
    "operador": "LOG LOGÍSTICA",
    "local": "DIRETO",
    "situacao": "PROGRAMADO"
+  },
+  {
+   "nome": "BLUE OCEAN A",
+   "faixa": "NAVIOS PROGRAMADOS I",
+   "previsao": "12/11/2026",
+   "carga": "ANIMAIS VIVOS",
+   "qtd": "4.500 UN",
+   "operador": "PRONAVE",
+   "local": "DIRETO",
+   "situacao": "PROGRAMADO",
+   "marca": "novo"
+  },
+  {
+   "nome": "QUEENSLAND",
+   "faixa": "NAVIOS PROGRAMADOS I",
+   "previsao": "30/11/2026",
+   "carga": "ANIMAIS VIVOS",
+   "qtd": "7.000 UN",
+   "operador": "LOG LOGÍSTICA",
+   "local": "DIRETO",
+   "situacao": "PROGRAMADO",
+   "marca": "novo"
   }
  ],
  "cais": {
