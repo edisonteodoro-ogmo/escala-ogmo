@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-06T13:32:16-03:00",
+ "atualizado_em": "2026-11-06T13:52:17-03:00",
  "atual": "06/11 13h",
  "anterior": "06/11 7h",
  "categorias": [
@@ -21,9 +21,9 @@
    "11h": 10
   },
   "Consertador": {
-   "agora": 3,
+   "agora": 4,
    "6h": 0,
-   "11h": 2
+   "11h": 1
   },
   "Vigia": {
    "agora": 0,
@@ -147,7 +147,7 @@
    "num": 317,
    "nome": "JOSE CARLOS DOS SANTOS",
    "cat": "Consertador",
-   "st": "11h"
+   "st": "agora"
   },
   {
    "num": 318,
