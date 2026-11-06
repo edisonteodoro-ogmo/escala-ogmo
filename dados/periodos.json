@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-06T19:35:10-03:00",
+ "atualizado_em": "2026-11-06T19:47:31-03:00",
  "dias": [
   {
    "data": "2026-11-06",
@@ -74,6 +74,17 @@
      }
     ],
     "3": [
+     {
+      "req": 60838,
+      "navio": "HENRIQUE DIAS",
+      "operador": "PHOENIX SHIPPING",
+      "ternos": 1,
+      "categorias": [
+       "Estivador"
+      ],
+      "rancho": true,
+      "posicao": "CN1"
+     },
      {
       "req": 60816,
       "navio": "UNITY SPIRIT",
