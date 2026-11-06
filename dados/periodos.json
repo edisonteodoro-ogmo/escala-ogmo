@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-06T08:45:33-03:00",
+ "atualizado_em": "2026-11-06T09:07:18-03:00",
  "dias": [
   {
    "data": "2026-11-06",
@@ -15,7 +15,8 @@
        "Conferente",
        "Estivador"
       ],
-      "rancho": false
+      "rancho": true,
+      "posicao": "CN1"
      }
     ],
     "2": [
@@ -54,7 +55,9 @@
        "Conferente",
        "Estivador"
       ],
-      "rancho": false
+      "rancho": true,
+      "posicao": "aguardando",
+      "extra": "📍 entra P1 06/11 12:00"
      },
      {
       "req": 60814,
