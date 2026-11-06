@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-06T15:48:41-03:00",
+ "atualizado_em": "2026-11-06T15:51:02-03:00",
  "lido_em": "2026-11-06T15:48:41-03:00",
  "total": 16,
  "navios": [
@@ -42,8 +42,7 @@
    "qtd": "20.000 UN",
    "operador": "LOG LOGÍSTICA",
    "local": "DIRETO",
-   "situacao": "PROGRAMADO",
-   "cais": "08/11 21:30"
+   "situacao": "PROGRAMADO"
   },
   {
    "nome": "HANZE GENUA",
@@ -165,19 +164,5 @@
    "local": "DIRETO",
    "situacao": "PROGRAMADO"
   }
- ],
- "cais": {
-  "fonte": "praticagem",
-  "saindo": [
-   {
-    "navio": "UNITY SPIRIT",
-    "horario": "07/11 10:00"
-   }
-  ],
-  "proximo": {
-   "navio": "S. ARAS",
-   "horario": "08/11 21:30"
-  },
-  "depois": []
- }
+ ]
 }
