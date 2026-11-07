@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-07T11:27:38-03:00",
+ "atualizado_em": "2026-11-07T12:06:07-03:00",
  "dias": [
   {
    "data": "2026-11-07",
@@ -23,7 +23,7 @@
       "req": 60827,
       "navio": "UNITY SPIRIT",
       "operador": "PRONAVE",
-      "ternos": 7,
+      "ternos": 2,
       "categorias": [
        "Arrumador",
        "Conferente",
