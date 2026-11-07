@@ -1,11 +1,11 @@
 {
- "atualizado_em": "2026-11-07T10:27:29-03:00",
+ "atualizado_em": "2026-11-07T11:44:34-03:00",
  "total": 64,
  "resumo": {
   "total": 64,
-  "ativo": 35,
+  "ativo": 34,
   "afastado": 9,
-  "aposentado": 20,
+  "aposentado": 21,
   "maq": 10,
   "guin": 24,
   "emp": 10,
@@ -457,7 +457,7 @@
   {
    "num": 51,
    "nome": "Joaquim Reginaldo Faustino",
-   "status": "ativo",
+   "status": "aposentado",
    "maq": null,
    "guin": 19,
    "emp": null,
