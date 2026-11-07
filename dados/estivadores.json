@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-07T06:59:14-03:00",
+ "atualizado_em": "2026-11-07T10:01:44-03:00",
  "total": 64,
  "resumo": {
   "total": 64,
@@ -9,8 +9,8 @@
   "maq": 10,
   "guin": 24,
   "emp": 10,
-  "pego": 12,
-  "livre": 23
+  "pego": 20,
+  "livre": 35
  },
  "pessoas": [
   {
@@ -19,7 +19,8 @@
    "status": "aposentado",
    "maq": null,
    "guin": 1,
-   "emp": null
+   "emp": null,
+   "sit": "pego"
   },
   {
    "num": 2,
@@ -27,7 +28,8 @@
    "status": "aposentado",
    "maq": null,
    "guin": null,
-   "emp": null
+   "emp": null,
+   "sit": "pego"
   },
   {
    "num": 3,
@@ -35,7 +37,8 @@
    "status": "aposentado",
    "maq": null,
    "guin": 2,
-   "emp": null
+   "emp": null,
+   "sit": "pego"
   },
   {
    "num": 4,
@@ -43,7 +46,8 @@
    "status": "aposentado",
    "maq": null,
    "guin": 3,
-   "emp": null
+   "emp": null,
+   "sit": "pego"
   },
   {
    "num": 5,
@@ -51,7 +55,8 @@
    "status": "aposentado",
    "maq": null,
    "guin": null,
-   "emp": null
+   "emp": null,
+   "sit": "pego"
   },
   {
    "num": 6,
@@ -77,7 +82,8 @@
    "status": "aposentado",
    "maq": null,
    "guin": 5,
-   "emp": null
+   "emp": null,
+   "sit": "livre"
   },
   {
    "num": 9,
@@ -112,7 +118,8 @@
    "status": "aposentado",
    "maq": null,
    "guin": null,
-   "emp": null
+   "emp": null,
+   "sit": "livre"
   },
   {
    "num": 13,
@@ -120,7 +127,8 @@
    "status": "aposentado",
    "maq": null,
    "guin": 8,
-   "emp": null
+   "emp": null,
+   "sit": "pego"
   },
   {
    "num": 14,
@@ -128,7 +136,8 @@
    "status": "aposentado",
    "maq": null,
    "guin": null,
-   "emp": 2
+   "emp": 2,
+   "sit": "pego"
   },
   {
    "num": 15,
@@ -171,7 +180,8 @@
    "status": "aposentado",
    "maq": null,
    "guin": null,
-   "emp": null
+   "emp": null,
+   "sit": "livre"
   },
   {
    "num": 20,
@@ -179,7 +189,8 @@
    "status": "aposentado",
    "maq": null,
    "guin": 10,
-   "emp": null
+   "emp": null,
+   "sit": "livre"
   },
   {
    "num": 21,
@@ -213,7 +224,8 @@
    "status": "aposentado",
    "maq": 5,
    "guin": 13,
-   "emp": 7
+   "emp": 7,
+   "sit": "livre"
   },
   {
    "num": 25,
@@ -221,7 +233,8 @@
    "status": "aposentado",
    "maq": null,
    "guin": 14,
-   "emp": null
+   "emp": null,
+   "sit": "livre"
   },
   {
    "num": 26,
@@ -255,7 +268,8 @@
    "status": "aposentado",
    "maq": null,
    "guin": null,
-   "emp": null
+   "emp": null,
+   "sit": "pego"
   },
   {
    "num": 30,
@@ -280,7 +294,8 @@
    "status": "aposentado",
    "maq": null,
    "guin": null,
-   "emp": null
+   "emp": null,
+   "sit": "livre"
   },
   {
    "num": 33,
@@ -288,7 +303,8 @@
    "status": "aposentado",
    "maq": null,
    "guin": null,
-   "emp": null
+   "emp": null,
+   "sit": "livre"
   },
   {
    "num": 34,
@@ -339,7 +355,8 @@
    "status": "aposentado",
    "maq": 6,
    "guin": null,
-   "emp": 8
+   "emp": 8,
+   "sit": "livre"
   },
   {
    "num": 40,
@@ -391,7 +408,8 @@
    "status": "aposentado",
    "maq": null,
    "guin": null,
-   "emp": null
+   "emp": null,
+   "sit": "livre"
   },
   {
    "num": 46,
@@ -433,7 +451,8 @@
    "status": "aposentado",
    "maq": 8,
    "guin": null,
-   "emp": 10
+   "emp": 10,
+   "sit": "livre"
   },
   {
    "num": 51,
@@ -459,7 +478,8 @@
    "status": "aposentado",
    "maq": null,
    "guin": null,
-   "emp": null
+   "emp": null,
+   "sit": "livre"
   },
   {
    "num": 54,
