@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-06T22:43:54-03:00",
+ "atualizado_em": "2026-11-06T22:57:48-03:00",
  "dias": [
   {
    "data": "2026-11-06",
@@ -32,7 +32,7 @@
       ],
       "rancho": true,
       "posicao": "P2",
-      "extra": "📍 sai 07/11 04:30"
+      "extra": "📍 sai 07/11 07:00"
      },
      {
       "req": 60811,
@@ -45,7 +45,8 @@
        "Estivador"
       ],
       "rancho": true,
-      "posicao": "P1"
+      "posicao": "P1",
+      "extra": "📍 sai 08/11 02:00"
      },
      {
       "req": 60831,
