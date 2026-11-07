@@ -1,126 +1,6 @@
 {
- "atualizado_em": "2026-11-06T23:59:57-03:00",
+ "atualizado_em": "2026-11-07T07:09:10-03:00",
  "dias": [
-  {
-   "data": "2026-11-06",
-   "periodos": {
-    "1": [
-     {
-      "req": 60792,
-      "navio": "HENRIQUE DIAS",
-      "operador": "LOG LOGISTICA",
-      "ternos": 1,
-      "categorias": [
-       "Arrumador",
-       "Conferente",
-       "Estivador"
-      ],
-      "rancho": true,
-      "posicao": "CN1"
-     }
-    ],
-    "2": [
-     {
-      "req": 60824,
-      "navio": "EAGLE CAMBE",
-      "operador": "AQUARIUS",
-      "ternos": 1,
-      "categorias": [
-       "Arrumador",
-       "Conferente",
-       "Estivador"
-      ],
-      "rancho": true,
-      "posicao": "P2",
-      "extra": "📍 sai 07/11 07:00"
-     },
-     {
-      "req": 60811,
-      "navio": "ELKA LEBLON",
-      "operador": "LOG LOGISTICA",
-      "ternos": 1,
-      "categorias": [
-       "Arrumador",
-       "Conferente",
-       "Estivador"
-      ],
-      "rancho": true,
-      "posicao": "P1",
-      "extra": "📍 sai 08/11 02:00"
-     },
-     {
-      "req": 60831,
-      "navio": "HENRIQUE DIAS",
-      "operador": "PHOENIX SHIPPING",
-      "ternos": 1,
-      "categorias": [
-       "Arrumador",
-       "Conferente",
-       "Estivador"
-      ],
-      "rancho": true,
-      "posicao": "CN1"
-     },
-     {
-      "req": 60814,
-      "navio": "UNITY SPIRIT",
-      "operador": "PRONAVE",
-      "ternos": 3,
-      "categorias": [
-       "Arrumador",
-       "Conferente",
-       "Estivador"
-      ],
-      "rancho": false
-     }
-    ],
-    "3": [
-     {
-      "req": 60838,
-      "navio": "HENRIQUE DIAS",
-      "operador": "PHOENIX SHIPPING",
-      "ternos": 1,
-      "categorias": [
-       "Estivador"
-      ],
-      "rancho": true,
-      "posicao": "CN1"
-     },
-     {
-      "req": 60816,
-      "navio": "UNITY SPIRIT",
-      "operador": "PRONAVE",
-      "ternos": 2,
-      "categorias": [
-       "Arrumador",
-       "Conferente",
-       "Estivador"
-      ],
-      "rancho": false
-     }
-    ],
-    "4": [
-     {
-      "req": 60817,
-      "navio": "UNITY SPIRIT",
-      "operador": "PRONAVE",
-      "ternos": 2,
-      "categorias": [
-       "Arrumador",
-       "Conferente",
-       "Estivador"
-      ],
-      "rancho": false
-     }
-    ]
-   },
-   "desc": {
-    "1": "07-13",
-    "2": "13-19",
-    "3": "19-01",
-    "4": "01-07"
-   }
-  },
   {
    "data": "2026-11-07",
    "periodos": {
@@ -129,7 +9,7 @@
       "req": 60818,
       "navio": "UNITY SPIRIT",
       "operador": "PRONAVE",
-      "ternos": 7,
+      "ternos": 2,
       "categorias": [
        "Arrumador",
        "Conferente",
@@ -152,6 +32,21 @@
       "rancho": false
      }
     ],
+    "3": [],
+    "4": []
+   },
+   "desc": {
+    "1": "07-13",
+    "2": "13-19",
+    "3": "19-01",
+    "4": "01-07"
+   }
+  },
+  {
+   "data": "2026-11-08",
+   "periodos": {
+    "1": [],
+    "2": [],
     "3": [],
     "4": []
    },
