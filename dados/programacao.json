@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-07T11:15:53-03:00",
+ "atualizado_em": "2026-11-07T11:30:00-03:00",
  "lido_em": "2026-11-07T11:15:53-03:00",
  "total": 18,
  "navios": [
@@ -44,7 +44,7 @@
    "operador": "LOG LOGÍSTICA",
    "local": "DIRETO",
    "situacao": "PROGRAMADO",
-   "cais": "08/11 21:30"
+   "cais": "09/11 06:30"
   },
   {
    "nome": "ASTRO NEKKAR",
@@ -203,7 +203,7 @@
   ],
   "proximo": {
    "navio": "S. ARAS",
-   "horario": "08/11 21:30"
+   "horario": "09/11 06:30"
   },
   "depois": []
  }
