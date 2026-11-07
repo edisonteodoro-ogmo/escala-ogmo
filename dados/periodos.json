@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-07T15:11:52-03:00",
+ "atualizado_em": "2026-11-07T16:08:19-03:00",
  "dias": [
   {
    "data": "2026-11-07",
@@ -32,8 +32,34 @@
       "rancho": false
      }
     ],
-    "3": [],
-    "4": []
+    "3": [
+     {
+      "req": 60841,
+      "navio": "UNITY SPIRIT",
+      "operador": "PRONAVE",
+      "ternos": 2,
+      "categorias": [
+       "Arrumador",
+       "Conferente",
+       "Estivador"
+      ],
+      "rancho": false
+     }
+    ],
+    "4": [
+     {
+      "req": 60842,
+      "navio": "UNITY SPIRIT",
+      "operador": "PRONAVE",
+      "ternos": 2,
+      "categorias": [
+       "Arrumador",
+       "Conferente",
+       "Estivador"
+      ],
+      "rancho": false
+     }
+    ]
    },
    "desc": {
     "1": "07-13",
@@ -45,7 +71,20 @@
   {
    "data": "2026-11-08",
    "periodos": {
-    "1": [],
+    "1": [
+     {
+      "req": 60843,
+      "navio": "UNITY SPIRIT",
+      "operador": "PRONAVE",
+      "ternos": 2,
+      "categorias": [
+       "Arrumador",
+       "Conferente",
+       "Estivador"
+      ],
+      "rancho": false
+     }
+    ],
     "2": [],
     "3": [],
     "4": []
