@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-08T18:07:59-03:00",
+ "atualizado_em": "2026-11-08T18:21:46-03:00",
  "dias": [
   {
    "data": "2026-11-08",
@@ -31,7 +31,19 @@
        "Estivador"
       ],
       "rancho": true,
-      "posicao": "P1"
+      "posicao": "P1",
+      "cargas": [
+       {
+        "carga": "ENTREGA DTA'S",
+        "tons": 404,
+        "qtd": 35
+       },
+       {
+        "carga": "ENTREGA RANCHO",
+        "tons": 4321,
+        "qtd": 1
+       }
+      ]
      },
      {
       "req": 60846,
@@ -43,7 +55,14 @@
        "Conferente",
        "Estivador"
       ],
-      "rancho": true
+      "rancho": true,
+      "cargas": [
+       {
+        "carga": "EMBARQUE MATERIAL",
+        "tons": 10000,
+        "qtd": 1
+       }
+      ]
      }
     ],
     "2": [],
