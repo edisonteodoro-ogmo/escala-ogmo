@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-08T14:07:30-03:00",
- "lido_em": "2026-11-08T14:07:30-03:00",
+ "atualizado_em": "2026-11-08T14:10:19-03:00",
+ "lido_em": "2026-11-08T14:10:19-03:00",
  "total": 17,
  "navios": [
   {
@@ -178,12 +178,6 @@
  ],
  "cais": {
   "fonte": "praticagem",
-  "saindo": [
-   {
-    "navio": "UNITY SPIRIT",
-    "horario": "08/11 12:00"
-   }
-  ],
   "proximo": {
    "navio": "S. ARAS",
    "horario": "09/11 06:30"
