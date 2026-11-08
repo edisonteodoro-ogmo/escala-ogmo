@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-08T05:10:28-03:00",
+ "atualizado_em": "2026-11-08T05:24:13-03:00",
  "lido_em": "2026-11-08T05:10:28-03:00",
  "total": 18,
  "navios": [
@@ -198,7 +198,7 @@
   "saindo": [
    {
     "navio": "UNITY SPIRIT",
-    "horario": "08/11 13:30"
+    "horario": "08/11 14:00"
    }
   ],
   "proximo": {
