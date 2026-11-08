@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-08T13:40:16-03:00",
+ "atualizado_em": "2026-11-08T13:44:47-03:00",
  "dias": [
   {
    "data": "2026-11-08",
@@ -20,6 +20,20 @@
    "data": "2026-11-09",
    "periodos": {
     "1": [
+     {
+      "req": 60847,
+      "navio": "EAGLE PARAIBA",
+      "operador": "AQUARIUS",
+      "ternos": 1,
+      "categorias": [
+       "Arrumador",
+       "Conferente",
+       "Estivador"
+      ],
+      "rancho": true,
+      "posicao": "aguardando",
+      "extra": "📍 entra P1 08/11 14:00"
+     },
      {
       "req": 60846,
       "navio": "TS 2",
