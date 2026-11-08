@@ -1,7 +1,7 @@
 {
- "atualizado_em": "2026-11-08T18:52:55-03:00",
- "atual": "08/11 13h",
- "anterior": "08/11 7h",
+ "atualizado_em": "2026-11-08T19:16:48-03:00",
+ "atual": "08/11 19h",
+ "anterior": "08/11 13h",
  "categorias": [
   "Estivador",
   "Arrumador",
@@ -27,8 +27,8 @@
   },
   "Vigia": {
    "agora": 0,
-   "6h": 1,
-   "11h": 4
+   "6h": 0,
+   "11h": 5
   },
   "Conferente": {
    "agora": 0,
@@ -160,7 +160,7 @@
    "num": 319,
    "nome": "LETICIA LUIZA VIEIRA VARGAS DA SILVA",
    "cat": "Vigia",
-   "st": "6h"
+   "st": "11h"
   },
   {
    "num": 320,
