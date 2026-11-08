@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-08T12:12:30-03:00",
- "lido_em": "2026-11-08T12:12:30-03:00",
+ "atualizado_em": "2026-11-08T12:29:12-03:00",
+ "lido_em": "2026-11-08T12:29:12-03:00",
  "total": 18,
  "navios": [
   {
@@ -43,7 +43,8 @@
    "qtd": "20.000 UN",
    "operador": "LOG LOGÍSTICA",
    "local": "DIRETO",
-   "situacao": "PROGRAMADO"
+   "situacao": "PROGRAMADO",
+   "cais": "09/11 06:30"
   },
   {
    "nome": "ASTRO NEKKAR",
@@ -191,5 +192,19 @@
    "situacao": "PROGRAMADO",
    "marca": "novo"
   }
- ]
+ ],
+ "cais": {
+  "fonte": "praticagem",
+  "saindo": [
+   {
+    "navio": "UNITY SPIRIT",
+    "horario": "08/11 12:00"
+   }
+  ],
+  "proximo": {
+   "navio": "S. ARAS",
+   "horario": "09/11 06:30"
+  },
+  "depois": []
+ }
 }
