@@ -1,18 +1,8 @@
 {
- "atualizado_em": "2026-11-08T12:29:12-03:00",
- "lido_em": "2026-11-08T12:29:12-03:00",
- "total": 18,
+ "atualizado_em": "2026-11-08T12:45:48-03:00",
+ "lido_em": "2026-11-08T12:45:45-03:00",
+ "total": 17,
  "navios": [
-  {
-   "nome": "UNITY SPIRIT",
-   "faixa": "NAVIOS OPERANDO",
-   "previsao": "02/11/2026",
-   "carga": "BARRILHA",
-   "qtd": "10.000 t",
-   "operador": "PRONAVE",
-   "local": "ARMAZEM CDSS",
-   "situacao": "OPERANDO"
-  },
   {
    "nome": "SAGA PIONNER",
    "faixa": "NAVIOS PROGRAMADOS A",
@@ -21,8 +11,7 @@
    "qtd": "15.692 t",
    "operador": "PRONAVE",
    "local": "DIRETO",
-   "situacao": "PROGRAMADO",
-   "marca": "alterado"
+   "situacao": "PROGRAMADO"
   },
   {
    "nome": "YOSOR",
@@ -64,8 +53,7 @@
    "qtd": "25.000 t",
    "operador": "PRONAVE",
    "local": "ARMAZEM CDSS",
-   "situacao": "PROGRAMADO",
-   "marca": "alterado"
+   "situacao": "PROGRAMADO"
   },
   {
    "nome": "ELISABETTA",
@@ -95,8 +83,7 @@
    "qtd": "30.000 t",
    "operador": "PRONAVE",
    "local": "ARMAZEM CDSS",
-   "situacao": "PROGRAMADO",
-   "marca": "alterado"
+   "situacao": "PROGRAMADO"
   },
   {
    "nome": "BOI BRANCO",
@@ -106,8 +93,7 @@
    "qtd": "4.000 UN",
    "operador": "LOG LOGÍSTICA",
    "local": "DIRETO",
-   "situacao": "PROGRAMADO",
-   "marca": "alterado"
+   "situacao": "PROGRAMADO"
   },
   {
    "nome": "ATLANTIC ROSE",
@@ -127,8 +113,7 @@
    "qtd": "900 t",
    "operador": "LOG LOGÍSTICA",
    "local": "ARMAZEM CDSS",
-   "situacao": "PROGRAMADO",
-   "marca": "alterado"
+   "situacao": "PROGRAMADO"
   },
   {
    "nome": "PACIFIC ROSE",
@@ -178,8 +163,7 @@
    "qtd": "4.500 UN",
    "operador": "PRONAVE",
    "local": "DIRETO",
-   "situacao": "PROGRAMADO",
-   "marca": "novo"
+   "situacao": "PROGRAMADO"
   },
   {
    "nome": "QUEENSLAND",
@@ -189,8 +173,7 @@
    "qtd": "7.000 UN",
    "operador": "LOG LOGÍSTICA",
    "local": "DIRETO",
-   "situacao": "PROGRAMADO",
-   "marca": "novo"
+   "situacao": "PROGRAMADO"
   }
  ],
  "cais": {
