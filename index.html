@@ -290,7 +290,7 @@ function evRender(){if(!EV||!EV.pessoas||!EV.pessoas.length){$('#efl').innerHTML
  $('#esub').textContent=`${ps.length} de ${EV.total} estivadores`+((todos&&(!temSit||todosS))?'':' · filtrado');
  let h=`<div class="lgd"><h3>Opera</h3><div class="l">${['guin','maq','emp'].map(k=>`<span class="eb ${EK[k][0]}">${IC[k]}${EK[k][1]}</span>`).join('')}</div>
   <h3 style="margin-top:9px">Situação</h3><div class="l"><span class="es af">AFASTADO · ${r.afastado||0}</span><span class="es ap">APOSENTADO · ${r.aposentado||0}</span></div>${temSit?`
-  <h3 style="margin-top:9px">Agora${EV.atual?' · serviço em '+esc(EV.atual):''}</h3><div class="l"><span class="es pg">AGORA · ${r.pego||0}</span><span class="es lv">LIVRE · ${r.livre||0}</span></div>`:''}</div>`;
+  <h3 style="margin-top:9px">Agora${EV.atual?(EV.sem_servico?' · sem serviço em ':' · serviço em ')+esc(EV.atual):''}</h3><div class="l"><span class="es pg">AGORA · ${r.pego||0}</span><span class="es lv">LIVRE · ${r.livre||0}</span></div>`:''}</div>`;
  if(!ps.length)h+='<div class="empty">Marque ao menos uma função acima.</div>';
  h+=ps.map(p=>{const cl=p.status==='afastado'?'af':p.status==='aposentado'?'ap':'',sc=p.sit==='pego'?'pg':p.sit==='livre'?'lv':'';
   const bd=['guin','maq','emp'].filter(k=>p[k]).map(k=>`<span class="eb ${EK[k][0]}" title="${EK[k][3]} · nº ${p[k]} na lista">${IC[k]}${EK[k][1]}<b>${p[k]}</b></span>`).join('');
@@ -310,7 +310,7 @@ function mfRender(){if(!MF||!MF.pessoas||!MF.pessoas.length){$('#mfl').innerHTML
  $('#mfc').innerHTML=cats.map(c=>{const r=MF.resumo[c]||{},n=(r.agora||0)+(r['6h']||0)+(r['11h']||0);return `<label><input type="checkbox" value="${esc(c)}"${MFSEL.has(c)?' checked':''}><span><i>✓</i>${esc(c)} <em>${n}</em></span></label>`}).join('');
  const ps=MF.pessoas.filter(p=>MFSEL.has(p.cat)),ct={agora:0,'6h':0,'11h':0};ps.forEach(p=>ct[p.st]++);
  $('#msub').textContent=`${ps.length} de ${MF.total} pessoas · último período: ${MF.atual||'—'}`;
- let h=`<div class="lg"><div class="a"><b>${ct.agora}</b><strong>Acabou de pegar</strong><small>serviço em ${esc(MF.atual||'—')}</small></div><div class="h6"><b>${ct['6h']}</b><strong>6h de descanso</strong><small>pegou em ${esc(MF.anterior||'—')}</small></div><div class="h11"><b>${ct['11h']}</b><strong>11h livre</strong><small>2 períodos ou mais sem pegar</small></div></div>`;
+ let h=`<div class="lg"><div class="a"><b>${ct.agora}</b><strong>Acabou de pegar</strong><small>${MF.sem_servico?'sem serviço em ':'serviço em '}${esc(MF.atual||'—')}</small></div><div class="h6"><b>${ct['6h']}</b><strong>6h de descanso</strong><small>pegou em ${esc(MF.anterior||'—')}</small></div><div class="h11"><b>${ct['11h']}</b><strong>11h livre</strong><small>2 períodos ou mais sem pegar</small></div></div>`;
  if(!ps.length)h+='<div class="empty">Marque ao menos uma função acima.</div>';
  if(MFSEL.has('Vigia'))h+='<div class="vg">A vaga de <b>Vigia</b> só é preenchida por quem está <b>11h</b>.</div>';
  h+=ps.slice().sort((x,y)=>x.num-y.num).map(p=>`<div class="pe ${STC[p.st]}"><div class="nn">${p.num}</div><div class="nm2">${esc(p.nome)}<small>${esc(p.cat)}${p.est?` · estivador nº ${p.est}`:''}</small></div><div class="sp" title="${ST[p.st][1]}">${ST[p.st][0]}</div></div>`).join('');
