@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-09T07:27:14-03:00",
+ "atualizado_em": "2026-11-09T13:00:33-03:00",
  "total": 64,
  "resumo": {
   "total": 64,
@@ -9,8 +9,8 @@
   "maq": 10,
   "guin": 24,
   "emp": 10,
-  "pego": 8,
-  "livre": 47
+  "pego": 6,
+  "livre": 49
  },
  "pessoas": [
   {
@@ -190,7 +190,7 @@
    "maq": null,
    "guin": 10,
    "emp": null,
-   "sit": "pego"
+   "sit": "livre"
   },
   {
    "num": 21,
@@ -199,7 +199,7 @@
    "maq": null,
    "guin": 11,
    "emp": 5,
-   "sit": "pego"
+   "sit": "livre"
   },
   {
    "num": 22,
@@ -365,7 +365,7 @@
    "maq": null,
    "guin": null,
    "emp": null,
-   "sit": "pego"
+   "sit": "livre"
   },
   {
    "num": 41,
@@ -374,7 +374,7 @@
    "maq": null,
    "guin": null,
    "emp": null,
-   "sit": "pego"
+   "sit": "livre"
   },
   {
    "num": 42,
@@ -383,7 +383,7 @@
    "maq": null,
    "guin": null,
    "emp": null,
-   "sit": "pego"
+   "sit": "livre"
   },
   {
    "num": 43,
@@ -392,7 +392,7 @@
    "maq": 7,
    "guin": 17,
    "emp": 9,
-   "sit": "pego"
+   "sit": "livre"
   },
   {
    "num": 44,
@@ -409,7 +409,7 @@
    "maq": null,
    "guin": null,
    "emp": null,
-   "sit": "pego"
+   "sit": "livre"
   },
   {
    "num": 46,
@@ -426,7 +426,7 @@
    "maq": null,
    "guin": null,
    "emp": null,
-   "sit": "pego"
+   "sit": "livre"
   },
   {
    "num": 48,
@@ -452,7 +452,7 @@
    "maq": 8,
    "guin": null,
    "emp": 10,
-   "sit": "livre"
+   "sit": "pego"
   },
   {
    "num": 51,
@@ -542,7 +542,7 @@
    "maq": null,
    "guin": null,
    "emp": null,
-   "sit": "livre"
+   "sit": "pego"
   },
   {
    "num": 61,
@@ -551,7 +551,7 @@
    "maq": null,
    "guin": null,
    "emp": null,
-   "sit": "livre"
+   "sit": "pego"
   },
   {
    "num": 62,
@@ -560,7 +560,7 @@
    "maq": null,
    "guin": null,
    "emp": null,
-   "sit": "livre"
+   "sit": "pego"
   },
   {
    "num": 63,
@@ -569,7 +569,7 @@
    "maq": null,
    "guin": null,
    "emp": null,
-   "sit": "livre"
+   "sit": "pego"
   },
   {
    "num": 64,
@@ -578,8 +578,8 @@
    "maq": null,
    "guin": 24,
    "emp": null,
-   "sit": "livre"
+   "sit": "pego"
   }
  ],
- "atual": "09/11 7h"
+ "atual": "09/11 13h"
 }
