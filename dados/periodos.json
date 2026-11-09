@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-09T15:25:12-03:00",
+ "atualizado_em": "2026-11-09T15:40:09-03:00",
  "dias": [
   {
    "data": "2026-11-09",
@@ -105,6 +105,29 @@
    "data": "2026-11-10",
    "periodos": {
     "1": [
+     {
+      "req": 60858,
+      "navio": "HENRIQUE DIAS",
+      "operador": "PHOENIX SHIPPING",
+      "ternos": 1,
+      "categorias": [
+       "Estivador"
+      ],
+      "rancho": true,
+      "posicao": "CN1",
+      "cargas": [
+       {
+        "carga": "EMBARQUE MATERIAL",
+        "tons": 3405,
+        "qtd": 0
+       },
+       {
+        "carga": "DESCARGA MATERIAL",
+        "tons": 280,
+        "qtd": 0
+       }
+      ]
+     },
      {
       "req": 60853,
       "navio": "S ARAS - ANIMAIS",
