@@ -1,8 +1,20 @@
 {
- "atualizado_em": "2026-11-09T08:00:36-03:00",
- "lido_em": "2026-11-09T08:00:36-03:00",
+ "atualizado_em": "2026-11-09T08:17:02-03:00",
+ "lido_em": "2026-11-09T08:17:02-03:00",
  "total": 17,
  "navios": [
+  {
+   "nome": "S.ARAS",
+   "faixa": "NAVIOS ATRACADO",
+   "previsao": "07/11/2026",
+   "carga": "ANIMAIS VIVOS",
+   "qtd": "20.000 UN",
+   "operador": "LOG LOGÍSTICA",
+   "local": "DIRETO",
+   "situacao": "ATRACADO",
+   "fundeado": true,
+   "cais": "09/11 06:30"
+  },
   {
    "nome": "SAGA PIONNER",
    "faixa": "NAVIOS PROGRAMADOS A",
@@ -23,18 +35,6 @@
    "local": "DIRETO",
    "situacao": "FUNDEADO",
    "fundeado": true
-  },
-  {
-   "nome": "S.ARAS",
-   "faixa": "NAVIOS PROGRAMADOS D",
-   "previsao": "07/11/2026",
-   "carga": "ANIMAIS VIVOS",
-   "qtd": "20.000 UN",
-   "operador": "LOG LOGÍSTICA",
-   "local": "DIRETO",
-   "situacao": "PROGRAMADO",
-   "fundeado": true,
-   "cais": "09/11 06:30"
   },
   {
    "nome": "ASTRO NEKKAR",
