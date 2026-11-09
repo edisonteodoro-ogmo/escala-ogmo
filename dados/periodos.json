@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-09T16:42:48-03:00",
+ "atualizado_em": "2026-11-09T17:25:48-03:00",
  "dias": [
   {
    "data": "2026-11-09",
@@ -16,8 +16,6 @@
        "Estivador"
       ],
       "rancho": true,
-      "posicao": "P1",
-      "extra": "📍 sai 09/11 15:45",
       "cargas": [
        {
         "carga": "ENTREGA DTA'S",
@@ -106,11 +104,13 @@
    "periodos": {
     "1": [
      {
-      "req": 60858,
+      "req": 60859,
       "navio": "HENRIQUE DIAS",
       "operador": "PHOENIX SHIPPING",
       "ternos": 1,
       "categorias": [
+       "Arrumador",
+       "Conferente",
        "Estivador"
       ],
       "rancho": true,
