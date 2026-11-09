@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-09T02:42:08-03:00",
+ "atualizado_em": "2026-11-09T06:59:05-03:00",
  "total": 64,
  "resumo": {
   "total": 64,
@@ -9,8 +9,8 @@
   "maq": 10,
   "guin": 24,
   "emp": 10,
-  "pego": 0,
-  "livre": 55
+  "pego": 8,
+  "livre": 47
  },
  "pessoas": [
   {
@@ -190,7 +190,7 @@
    "maq": null,
    "guin": 10,
    "emp": null,
-   "sit": "livre"
+   "sit": "pego"
   },
   {
    "num": 21,
@@ -199,7 +199,7 @@
    "maq": null,
    "guin": 11,
    "emp": 5,
-   "sit": "livre"
+   "sit": "pego"
   },
   {
    "num": 22,
@@ -365,7 +365,7 @@
    "maq": null,
    "guin": null,
    "emp": null,
-   "sit": "livre"
+   "sit": "pego"
   },
   {
    "num": 41,
@@ -374,7 +374,7 @@
    "maq": null,
    "guin": null,
    "emp": null,
-   "sit": "livre"
+   "sit": "pego"
   },
   {
    "num": 42,
@@ -383,7 +383,7 @@
    "maq": null,
    "guin": null,
    "emp": null,
-   "sit": "livre"
+   "sit": "pego"
   },
   {
    "num": 43,
@@ -392,7 +392,7 @@
    "maq": 7,
    "guin": 17,
    "emp": 9,
-   "sit": "livre"
+   "sit": "pego"
   },
   {
    "num": 44,
@@ -409,7 +409,7 @@
    "maq": null,
    "guin": null,
    "emp": null,
-   "sit": "livre"
+   "sit": "pego"
   },
   {
    "num": 46,
@@ -426,7 +426,7 @@
    "maq": null,
    "guin": null,
    "emp": null,
-   "sit": "livre"
+   "sit": "pego"
   },
   {
    "num": 48,
@@ -581,6 +581,5 @@
    "sit": "livre"
   }
  ],
- "atual": "08/11 1h",
- "sem_servico": true
+ "atual": "09/11 7h"
 }
