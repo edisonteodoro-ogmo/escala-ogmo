@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-10T18:50:42-03:00",
+ "atualizado_em": "2026-11-10T18:53:08-03:00",
  "total": 64,
  "resumo": {
   "total": 64,
@@ -9,8 +9,8 @@
   "maq": 10,
   "guin": 24,
   "emp": 10,
-  "pego": 11,
-  "livre": 44
+  "pego": 15,
+  "livre": 40
  },
  "pessoas": [
   {
@@ -29,7 +29,7 @@
    "maq": null,
    "guin": null,
    "emp": null,
-   "sit": "livre"
+   "sit": "pego"
   },
   {
    "num": 3,
@@ -234,7 +234,7 @@
    "maq": null,
    "guin": 14,
    "emp": null,
-   "sit": "livre"
+   "sit": "pego"
   },
   {
    "num": 26,
@@ -479,7 +479,7 @@
    "maq": null,
    "guin": null,
    "emp": null,
-   "sit": "livre"
+   "sit": "pego"
   },
   {
    "num": 54,
@@ -578,7 +578,7 @@
    "maq": null,
    "guin": 24,
    "emp": null,
-   "sit": "livre"
+   "sit": "pego"
   }
  ],
  "atual": "10/11 13h"
