@@ -1,8 +1,13 @@
 {
- "atualizado_em": "2026-11-10T18:51:35-03:00",
- "titulo": "Rancho virou",
- "imagem": "planilha/20261110_185135_707576.png",
+ "atualizado_em": "2026-11-10T18:55:50-03:00",
+ "titulo": "10/11/2026 · 19/01",
+ "imagem": "planilha/20261110_185550_555594.png",
  "historico": [
+  {
+   "quando": "2026-11-10T18:55:50-03:00",
+   "titulo": "10/11/2026 · 19/01",
+   "imagem": "planilha/20261110_185550_555594.png"
+  },
   {
    "quando": "2026-11-10T18:51:35-03:00",
    "titulo": "Rancho virou",
@@ -197,11 +202,6 @@
    "quando": "2026-10-29T18:59:03-03:00",
    "titulo": "Planilha: período sem trabalho",
    "imagem": "planilha/20261029_185903_123868.png"
-  },
-  {
-   "quando": "2026-10-29T12:56:44-03:00",
-   "titulo": "29/10/2026 · 13/19",
-   "imagem": "planilha/20261029_125644_846547.png"
   }
  ]
 }
