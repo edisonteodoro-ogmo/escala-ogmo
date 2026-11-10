@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-10T15:42:41-03:00",
+ "atualizado_em": "2026-11-10T16:35:46-03:00",
  "dias": [
   {
    "data": "2026-11-10",
@@ -16,8 +16,6 @@
        "Estivador"
       ],
       "rancho": true,
-      "posicao": "CN1",
-      "extra": "📍 sai 10/11 16:00",
       "cargas": [
        {
         "carga": "EMBARQUE MATERIAL",
@@ -75,8 +73,6 @@
        "Estivador"
       ],
       "rancho": true,
-      "posicao": "CN1",
-      "extra": "📍 sai 10/11 16:00",
       "cargas": [
        {
         "carga": "EMBARQUE MATERIAL",
