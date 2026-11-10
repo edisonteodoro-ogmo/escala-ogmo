@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-10T08:45:49-03:00",
+ "atualizado_em": "2026-11-10T08:51:02-03:00",
  "dias": [
   {
    "data": "2026-11-10",
@@ -17,6 +17,7 @@
       ],
       "rancho": true,
       "posicao": "CN1",
+      "extra": "📍 sai 10/11 17:00",
       "cargas": [
        {
         "carga": "EMBARQUE MATERIAL",
@@ -61,7 +62,9 @@
       ],
       "rancho": true,
       "posicao": "P1",
-      "extra": "📍 sai 11/11 07:00"
+      "extra": "📍 sai 11/11 07:00",
+      "obs": "TOTAL A SER MOVIMENTADO: DTA 07 CAIXAS 104 KGS RANCHO 350 KGS TOTALIZANDO 454 KGS",
+      "resumo": "07 CAIXAS · 454 KG"
      },
      {
       "req": 60854,
