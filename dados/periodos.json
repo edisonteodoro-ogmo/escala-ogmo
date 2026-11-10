@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-10T08:51:02-03:00",
+ "atualizado_em": "2026-11-10T09:15:05-03:00",
  "dias": [
   {
    "data": "2026-11-10",
@@ -68,7 +68,7 @@
      },
      {
       "req": 60854,
-      "navio": "S ARAS - ANIMAIS",
+      "navio": "S.ARAS-GADO",
       "operador": "LOG LOGISTICA",
       "ternos": 2,
       "categorias": [
@@ -82,7 +82,7 @@
     "3": [
      {
       "req": 60861,
-      "navio": "S ARAS - ANIMAIS",
+      "navio": "S.ARAS-GADO",
       "operador": "LOG LOGISTICA",
       "ternos": 2,
       "categorias": [
@@ -96,7 +96,7 @@
     "4": [
      {
       "req": 60862,
-      "navio": "S ARAS - ANIMAIS",
+      "navio": "S.ARAS-GADO",
       "operador": "LOG LOGISTICA",
       "ternos": 2,
       "categorias": [
@@ -121,7 +121,7 @@
     "1": [
      {
       "req": 60863,
-      "navio": "S ARAS - ANIMAIS",
+      "navio": "S.ARAS-GADO",
       "operador": "LOG LOGISTICA",
       "ternos": 2,
       "categorias": [
