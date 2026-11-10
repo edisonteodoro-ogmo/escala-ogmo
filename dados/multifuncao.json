@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-10T18:50:48-03:00",
+ "atualizado_em": "2026-11-10T18:53:13-03:00",
  "atual": "10/11 13h",
  "anterior": "10/11 7h",
  "categorias": [
@@ -11,8 +11,8 @@
  ],
  "resumo": {
   "Estivador": {
-   "agora": 11,
-   "6h": 10,
+   "agora": 15,
+   "6h": 6,
    "11h": 43
   },
   "Arrumador": {
@@ -91,7 +91,7 @@
    "num": 308,
    "nome": "JOSE CARLOS MARTA",
    "cat": "Estivador",
-   "st": "6h",
+   "st": "agora",
    "est": 2
   },
   {
@@ -247,7 +247,7 @@
    "num": 333,
    "nome": "ERONALDO PEREIRA CAMPOS",
    "cat": "Estivador",
-   "st": "6h",
+   "st": "agora",
    "est": 64
   },
   {
@@ -492,7 +492,7 @@
    "num": 371,
    "nome": "LUIZ ALBERTO DOS SANTOS",
    "cat": "Estivador",
-   "st": "6h",
+   "st": "agora",
    "est": 25
   },
   {
@@ -856,7 +856,7 @@
    "num": 427,
    "nome": "FRANCISCO DE PAULO GALDINO",
    "cat": "Estivador",
-   "st": "6h",
+   "st": "agora",
    "est": 53
   },
   {
