@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-10T13:13:52-03:00",
+ "atualizado_em": "2026-11-10T13:38:40-03:00",
  "dias": [
   {
    "data": "2026-11-10",
@@ -65,6 +65,35 @@
       "extra": "📍 sai 11/11 10:00",
       "obs": "TOTAL A SER MOVIMENTADO: DTA 07 CAIXAS 104 KGS RANCHO 350 KGS TOTALIZANDO 454 KGS",
       "resumo": "07 CAIXAS · 454 KG"
+     },
+     {
+      "req": 60877,
+      "navio": "HENRIQUE DIAS",
+      "operador": "PHOENIX SHIPPING",
+      "ternos": 1,
+      "categorias": [
+       "Estivador"
+      ],
+      "rancho": true,
+      "posicao": "CN1",
+      "extra": "📍 sai 10/11 16:00",
+      "cargas": [
+       {
+        "carga": "EMBARQUE MATERIAL",
+        "tons": 7832,
+        "qtd": 16
+       },
+       {
+        "carga": "DESCARGA MATERIAL",
+        "tons": 1095,
+        "qtd": 24
+       },
+       {
+        "carga": "EMBARQUE MATERIAL",
+        "tons": 690,
+        "qtd": 2
+       }
+      ]
      },
      {
       "req": 60854,
