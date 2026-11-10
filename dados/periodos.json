@@ -1,85 +1,6 @@
 {
- "atualizado_em": "2026-11-09T23:47:26-03:00",
+ "atualizado_em": "2026-11-10T07:00:13-03:00",
  "dias": [
-  {
-   "data": "2026-11-09",
-   "periodos": {
-    "1": [
-     {
-      "req": 60847,
-      "navio": "EAGLE PARAIBA",
-      "operador": "AQUARIUS",
-      "ternos": 1,
-      "categorias": [
-       "Arrumador",
-       "Conferente",
-       "Estivador"
-      ],
-      "rancho": true
-     },
-     {
-      "req": 60846,
-      "navio": "TS 2",
-      "operador": "TRANSPMAR",
-      "ternos": 1,
-      "categorias": [
-       "Arrumador",
-       "Conferente",
-       "Estivador"
-      ],
-      "rancho": true
-     }
-    ],
-    "2": [
-     {
-      "req": 60850,
-      "navio": "S ARAS - ANIMAIS",
-      "operador": "LOG LOGISTICA",
-      "ternos": 2,
-      "categorias": [
-       "Arrumador",
-       "Conferente",
-       "Estivador"
-      ],
-      "rancho": false
-     }
-    ],
-    "3": [
-     {
-      "req": 60851,
-      "navio": "S ARAS - ANIMAIS",
-      "operador": "LOG LOGISTICA",
-      "ternos": 2,
-      "categorias": [
-       "Arrumador",
-       "Conferente",
-       "Estivador"
-      ],
-      "rancho": false
-     }
-    ],
-    "4": [
-     {
-      "req": 60852,
-      "navio": "S ARAS - ANIMAIS",
-      "operador": "LOG LOGISTICA",
-      "ternos": 2,
-      "categorias": [
-       "Arrumador",
-       "Conferente",
-       "Estivador"
-      ],
-      "rancho": false
-     }
-    ]
-   },
-   "desc": {
-    "1": "07-13",
-    "2": "13-19",
-    "3": "19-01",
-    "4": "01-07"
-   }
-  },
   {
    "data": "2026-11-10",
    "periodos": {
@@ -141,6 +62,60 @@
       "rancho": false
      }
     ],
+    "3": [
+     {
+      "req": 60861,
+      "navio": "S ARAS - ANIMAIS",
+      "operador": "LOG LOGISTICA",
+      "ternos": 2,
+      "categorias": [
+       "Arrumador",
+       "Conferente",
+       "Estivador"
+      ],
+      "rancho": false
+     }
+    ],
+    "4": [
+     {
+      "req": 60862,
+      "navio": "S ARAS - ANIMAIS",
+      "operador": "LOG LOGISTICA",
+      "ternos": 2,
+      "categorias": [
+       "Arrumador",
+       "Conferente",
+       "Estivador"
+      ],
+      "rancho": false
+     }
+    ]
+   },
+   "desc": {
+    "1": "07-13",
+    "2": "13-19",
+    "3": "19-01",
+    "4": "01-07"
+   }
+  },
+  {
+   "data": "2026-11-11",
+   "periodos": {
+    "1": [
+     {
+      "req": 60863,
+      "navio": "S ARAS - ANIMAIS",
+      "operador": "LOG LOGISTICA",
+      "ternos": 2,
+      "categorias": [
+       "Arrumador",
+       "Conferente",
+       "Estivador"
+      ],
+      "rancho": false
+     }
+    ],
+    "2": [],
     "3": [],
     "4": []
    },
