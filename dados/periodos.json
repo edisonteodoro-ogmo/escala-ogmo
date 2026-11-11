@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-11T15:58:56-03:00",
+ "atualizado_em": "2026-11-11T16:18:53-03:00",
  "dias": [
   {
    "data": "2026-11-11",
@@ -60,7 +60,33 @@
   {
    "data": "2026-11-12",
    "periodos": {
-    "1": [],
+    "1": [
+     {
+      "req": 60887,
+      "navio": "IOANNIS ZAFIRAKIS",
+      "operador": "TRIAINA",
+      "ternos": 1,
+      "categorias": [
+       "Arrumador",
+       "Conferente",
+       "Estivador"
+      ],
+      "rancho": true,
+      "posicao": "P1",
+      "cargas": [
+       {
+        "carga": "EMBARQUE DTA'S",
+        "tons": 279,
+        "qtd": 0
+       },
+       {
+        "carga": "EMBARQUE RANCHO",
+        "tons": 5000,
+        "qtd": 0
+       }
+      ]
+     }
+    ],
     "2": [],
     "3": [],
     "4": []
