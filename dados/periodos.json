@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-11T19:03:39-03:00",
+ "atualizado_em": "2026-11-11T19:35:56-03:00",
  "dias": [
   {
    "data": "2026-11-11",
@@ -18,14 +18,7 @@
       ],
       "rancho": true,
       "posicao": "P2",
-      "extra": "📍 sai 12/11 16:00",
-      "cargas": [
-       {
-        "carga": "EMBARQUE DTA'S",
-        "tons": 9035,
-        "qtd": 0
-       }
-      ]
+      "extra": "📍 sai 12/11 16:00"
      },
      {
       "req": 60884,
@@ -37,14 +30,7 @@
        "Conferente",
        "Estivador"
       ],
-      "rancho": true,
-      "cargas": [
-       {
-        "carga": "EMBARQUE MATERIAL",
-        "tons": 10000,
-        "qtd": 1
-       }
-      ]
+      "rancho": true
      }
     ],
     "3": [],
