@@ -1,18 +1,8 @@
 {
- "atualizado_em": "2026-11-11T01:19:26-03:00",
- "lido_em": "2026-11-11T01:19:26-03:00",
- "total": 17,
+ "atualizado_em": "2026-11-11T09:29:46-03:00",
+ "lido_em": "2026-11-11T09:29:13-03:00",
+ "total": 16,
  "navios": [
-  {
-   "nome": "S.ARAS",
-   "faixa": "NAVIOS OPERANDO",
-   "previsao": "07/11/2026",
-   "carga": "ANIMAIS VIVOS",
-   "qtd": "20.000 UN",
-   "operador": "LOG LOGÍSTICA",
-   "local": "DIRETO",
-   "situacao": "OPERANDO"
-  },
   {
    "nome": "SAGA PIONNER",
    "faixa": "NAVIOS PROGRAMADOS A",
@@ -92,8 +82,7 @@
    "qtd": "4.000 UN",
    "operador": "LOG LOGÍSTICA",
    "local": "DIRETO",
-   "situacao": "PROGRAMADO",
-   "fundeado": true
+   "situacao": "PROGRAMADO"
   },
   {
    "nome": "ATLANTIC ROSE",
@@ -175,14 +164,5 @@
    "local": "DIRETO",
    "situacao": "PROGRAMADO"
   }
- ],
- "cais": {
-  "fonte": "praticagem",
-  "saindo": [
-   {
-    "navio": "S. ARAS",
-    "horario": "11/11 06:00"
-   }
-  ]
- }
+ ]
 }
