@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-10T23:24:05-03:00",
+ "atualizado_em": "2026-11-10T23:36:10-03:00",
  "lido_em": "2026-11-10T23:24:05-03:00",
  "total": 17,
  "navios": [
@@ -92,7 +92,8 @@
    "qtd": "4.000 UN",
    "operador": "LOG LOGÍSTICA",
    "local": "DIRETO",
-   "situacao": "PROGRAMADO"
+   "situacao": "PROGRAMADO",
+   "fundeado": true
   },
   {
    "nome": "ATLANTIC ROSE",
