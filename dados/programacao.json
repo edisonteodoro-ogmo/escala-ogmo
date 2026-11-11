@@ -1,7 +1,7 @@
 {
- "atualizado_em": "2026-11-11T15:29:28-03:00",
- "lido_em": "2026-11-11T15:29:28-03:00",
- "total": 17,
+ "atualizado_em": "2026-11-11T15:44:42-03:00",
+ "lido_em": "2026-11-11T15:44:42-03:00",
+ "total": 18,
  "navios": [
   {
    "nome": "SAGA PIONNER",
@@ -183,6 +183,17 @@
    "situacao": "FUNDEADO",
    "marca": "novo",
    "fundeado": true
+  },
+  {
+   "nome": "EKATERINA",
+   "faixa": "NAVIOS PROGRAMADOS H",
+   "previsao": "02/12/2026",
+   "carga": "CEVADA / MALTE",
+   "qtd": "20.000 t",
+   "operador": "PRONAVE",
+   "local": "ARMAZEM CDSS / ARMAZEM CDSS",
+   "situacao": "PROGRAMADO",
+   "marca": "novo"
   }
  ]
 }
