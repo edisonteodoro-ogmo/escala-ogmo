@@ -1,87 +1,12 @@
 {
- "atualizado_em": "2026-11-10T23:20:38-03:00",
+ "atualizado_em": "2026-11-11T09:30:12-03:00",
  "dias": [
   {
-   "data": "2026-11-10",
+   "data": "2026-11-11",
    "periodos": {
-    "1": [
-     {
-      "req": 60859,
-      "navio": "HENRIQUE DIAS",
-      "operador": "PHOENIX SHIPPING",
-      "ternos": 1,
-      "categorias": [
-       "Arrumador",
-       "Conferente",
-       "Estivador"
-      ],
-      "rancho": true
-     },
-     {
-      "req": 60853,
-      "navio": "S ARAS - ANIMAIS",
-      "operador": "LOG LOGISTICA",
-      "ternos": 2,
-      "categorias": [
-       "Arrumador",
-       "Conferente",
-       "Estivador"
-      ],
-      "rancho": false
-     }
-    ],
-    "2": [
-     {
-      "req": 60866,
-      "navio": "ELKA PARANA",
-      "operador": "LOG LOGISTICA",
-      "ternos": 1,
-      "categorias": [
-       "Arrumador",
-       "Conferente",
-       "Estivador"
-      ],
-      "rancho": true,
-      "posicao": "P1",
-      "extra": "📍 sai 11/11 13:00"
-     },
-     {
-      "req": 60877,
-      "navio": "HENRIQUE DIAS",
-      "operador": "PHOENIX SHIPPING",
-      "ternos": 1,
-      "categorias": [
-       "Estivador"
-      ],
-      "rancho": true
-     },
-     {
-      "req": 60854,
-      "navio": "S.ARAS-GADO",
-      "operador": "LOG LOGISTICA",
-      "ternos": 2,
-      "categorias": [
-       "Arrumador",
-       "Conferente",
-       "Estivador"
-      ],
-      "rancho": false
-     }
-    ],
-    "3": [
-     {
-      "req": 60861,
-      "navio": "S.ARAS-GADO",
-      "operador": "LOG LOGISTICA",
-      "ternos": 2,
-      "categorias": [
-       "Arrumador",
-       "Conferente",
-       "Estivador"
-      ],
-      "rancho": false
-     }
-    ],
+    "1": [],
+    "2": [],
+    "3": [],
     "4": []
    },
    "desc": {
@@ -92,22 +17,9 @@
    }
   },
   {
-   "data": "2026-11-11",
+   "data": "2026-11-12",
    "periodos": {
-    "1": [
-     {
-      "req": 60863,
-      "navio": "S.ARAS-GADO",
-      "operador": "LOG LOGISTICA",
-      "ternos": 2,
-      "categorias": [
-       "Arrumador",
-       "Conferente",
-       "Estivador"
-      ],
-      "rancho": false
-     }
-    ],
+    "1": [],
     "2": [],
     "3": [],
     "4": []
