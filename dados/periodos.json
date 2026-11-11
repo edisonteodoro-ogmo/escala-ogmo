@@ -1,11 +1,33 @@
 {
- "atualizado_em": "2026-11-11T09:30:12-03:00",
+ "atualizado_em": "2026-11-11T10:22:04-03:00",
  "dias": [
   {
    "data": "2026-11-11",
    "periodos": {
     "1": [],
-    "2": [],
+    "2": [
+     {
+      "req": 60883,
+      "navio": "RIO 2016",
+      "operador": "TRIAINA",
+      "ternos": 1,
+      "categorias": [
+       "Arrumador",
+       "Conferente",
+       "Estivador"
+      ],
+      "rancho": true,
+      "posicao": "fundeado",
+      "extra": "📍 entra P2 11/11 09:00",
+      "cargas": [
+       {
+        "carga": "EMBARQUE DTA'S",
+        "tons": 9035,
+        "qtd": 0
+       }
+      ]
+     }
+    ],
     "3": [],
     "4": []
    },
