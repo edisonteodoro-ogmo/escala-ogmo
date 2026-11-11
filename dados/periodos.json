@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-11T17:42:58-03:00",
+ "atualizado_em": "2026-11-11T17:57:17-03:00",
  "dias": [
   {
    "data": "2026-11-11",
@@ -83,6 +83,25 @@
         "carga": "EMBARQUE RANCHO",
         "tons": 5000,
         "qtd": 0
+       }
+      ]
+     },
+     {
+      "req": 60894,
+      "navio": "TS 2",
+      "operador": "TRANSPMAR",
+      "ternos": 1,
+      "categorias": [
+       "Arrumador",
+       "Conferente",
+       "Estivador"
+      ],
+      "rancho": true,
+      "cargas": [
+       {
+        "carga": "EMBARQUE MATERIAL",
+        "tons": 10000,
+        "qtd": 1
        }
       ]
      }
