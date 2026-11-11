@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-11T15:44:42-03:00",
- "lido_em": "2026-11-11T15:44:42-03:00",
+ "atualizado_em": "2026-11-11T16:01:33-03:00",
+ "lido_em": "2026-11-11T16:01:31-03:00",
  "total": 18,
  "navios": [
   {
@@ -142,14 +142,15 @@
    "marca": "alterado"
   },
   {
-   "nome": "MADONNA",
+   "nome": "BANA",
    "faixa": "NAVIOS PROGRAMADOS F",
    "previsao": "25/11/2026",
    "carga": "ANIMAIS VIVOS",
    "qtd": "8.000 UN",
    "operador": "LOG LOGÍSTICA",
    "local": "DIRETO",
-   "situacao": "PROGRAMADO"
+   "situacao": "PROGRAMADO",
+   "marca": "novo"
   },
   {
    "nome": "BLUE OCEAN A",
