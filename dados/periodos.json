@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-11T10:22:04-03:00",
+ "atualizado_em": "2026-11-11T10:59:54-03:00",
  "dias": [
   {
    "data": "2026-11-11",
@@ -17,13 +17,31 @@
        "Estivador"
       ],
       "rancho": true,
-      "posicao": "fundeado",
-      "extra": "📍 entra P2 11/11 09:00",
+      "posicao": "P2",
       "cargas": [
        {
         "carga": "EMBARQUE DTA'S",
         "tons": 9035,
         "qtd": 0
+       }
+      ]
+     },
+     {
+      "req": 60884,
+      "navio": "TS 2",
+      "operador": "TRANSPMAR",
+      "ternos": 1,
+      "categorias": [
+       "Arrumador",
+       "Conferente",
+       "Estivador"
+      ],
+      "rancho": true,
+      "cargas": [
+       {
+        "carga": "EMBARQUE MATERIAL",
+        "tons": 10000,
+        "qtd": 1
        }
       ]
      }
