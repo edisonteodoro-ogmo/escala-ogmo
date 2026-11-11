@@ -1,7 +1,7 @@
 {
- "atualizado_em": "2026-11-11T01:21:37-03:00",
- "atual": "10/11 1h",
- "anterior": "10/11 19h",
+ "atualizado_em": "2026-11-11T09:30:06-03:00",
+ "atual": "11/11 7h",
+ "anterior": "10/11 1h",
  "categorias": [
   "Estivador",
   "Arrumador",
@@ -12,13 +12,13 @@
  "resumo": {
   "Estivador": {
    "agora": 0,
-   "6h": 6,
-   "11h": 58
+   "6h": 0,
+   "11h": 64
   },
   "Arrumador": {
-   "agora": 3,
-   "6h": 12,
-   "11h": 47
+   "agora": 16,
+   "6h": 2,
+   "11h": 44
   },
   "Consertador": {
    "agora": 0,
@@ -32,8 +32,8 @@
   },
   "Conferente": {
    "agora": 0,
-   "6h": 3,
-   "11h": 7
+   "6h": 0,
+   "11h": 10
   }
  },
  "total": 146,
@@ -73,7 +73,7 @@
    "num": 305,
    "nome": "NELSON SIMOES DOS SANTOS",
    "cat": "Arrumador",
-   "st": "11h"
+   "st": "agora"
   },
   {
    "num": 306,
@@ -98,13 +98,13 @@
    "num": 309,
    "nome": "MARCOS JOSE",
    "cat": "Vigia",
-   "st": "6h"
+   "st": "11h"
   },
   {
    "num": 310,
    "nome": "OSCAR PEREIRA REIS",
    "cat": "Arrumador",
-   "st": "11h"
+   "st": "agora"
   },
   {
    "num": 311,
@@ -135,7 +135,7 @@
    "num": 315,
    "nome": "DANIEL NOBRE BORGES",
    "cat": "Arrumador",
-   "st": "11h"
+   "st": "agora"
   },
   {
    "num": 316,
@@ -160,13 +160,13 @@
    "num": 319,
    "nome": "LETICIA LUIZA VIEIRA VARGAS DA SILVA",
    "cat": "Vigia",
-   "st": "agora"
+   "st": "6h"
   },
   {
    "num": 320,
    "nome": "PEDRO HENRIQUES DUARTE",
    "cat": "Arrumador",
-   "st": "11h"
+   "st": "agora"
   },
   {
    "num": 321,
@@ -191,7 +191,7 @@
    "num": 324,
    "nome": "MARCIA DE PINHO TAMASIRO",
    "cat": "Vigia",
-   "st": "11h"
+   "st": "agora"
   },
   {
    "num": 325,
@@ -203,7 +203,7 @@
    "num": 326,
    "nome": "FELIPE FELICIANO SOUZA MOREIRA",
    "cat": "Conferente",
-   "st": "6h"
+   "st": "11h"
   },
   {
    "num": 327,
@@ -216,7 +216,7 @@
    "num": 328,
    "nome": "AILTON LIMA DOS SANTOS",
    "cat": "Arrumador",
-   "st": "11h"
+   "st": "agora"
   },
   {
    "num": 329,
@@ -235,13 +235,13 @@
    "num": 331,
    "nome": "FABIO RICARDO DOS SANTOS FERNANDES",
    "cat": "Arrumador",
-   "st": "6h"
+   "st": "agora"
   },
   {
    "num": 332,
    "nome": "FELIPE DE MATOS MORAIS",
    "cat": "Conferente",
-   "st": "6h"
+   "st": "11h"
   },
   {
    "num": 333,
@@ -254,13 +254,13 @@
    "num": 334,
    "nome": "GERALDO DA SILVA SOUZA",
    "cat": "Arrumador",
-   "st": "11h"
+   "st": "agora"
   },
   {
    "num": 335,
    "nome": "LUIZ FELIPE DA COSTA SANTANA",
    "cat": "Conferente",
-   "st": "6h"
+   "st": "11h"
   },
   {
    "num": 336,
@@ -273,7 +273,7 @@
    "num": 337,
    "nome": "ANDRE LUIZ FERNANDES DE SOUSA",
    "cat": "Arrumador",
-   "st": "11h"
+   "st": "agora"
   },
   {
    "num": 338,
@@ -292,7 +292,7 @@
    "num": 340,
    "nome": "OSVALDO LIMA DOS SANTOS",
    "cat": "Arrumador",
-   "st": "11h"
+   "st": "agora"
   },
   {
    "num": 341,
@@ -318,7 +318,7 @@
    "num": 344,
    "nome": "SILVIO DA SILVA",
    "cat": "Arrumador",
-   "st": "11h"
+   "st": "agora"
   },
   {
    "num": 345,
@@ -331,7 +331,7 @@
    "num": 346,
    "nome": "VLADIMIR GONCALVES TINOCO",
    "cat": "Arrumador",
-   "st": "6h"
+   "st": "11h"
   },
   {
    "num": 347,
@@ -460,7 +460,7 @@
    "num": 366,
    "nome": "ADILSON DE FREITAS",
    "cat": "Arrumador",
-   "st": "6h"
+   "st": "agora"
   },
   {
    "num": 367,
@@ -486,7 +486,7 @@
    "num": 370,
    "nome": "MARCO AURELIO POMBO BOKERMAN",
    "cat": "Arrumador",
-   "st": "6h"
+   "st": "11h"
   },
   {
    "num": 371,
@@ -499,13 +499,13 @@
    "num": 372,
    "nome": "CLAUDIO DE OLIVEIRA",
    "cat": "Arrumador",
-   "st": "11h"
+   "st": "agora"
   },
   {
    "num": 373,
    "nome": "EDIVALDO PEREIRA CAMPOS",
    "cat": "Estivador",
-   "st": "6h",
+   "st": "11h",
    "est": 26
   },
   {
@@ -525,13 +525,13 @@
    "num": 376,
    "nome": "LUIS ABRAO PEDROSO",
    "cat": "Arrumador",
-   "st": "6h"
+   "st": "11h"
   },
   {
    "num": 377,
    "nome": "GILMAR BAPTISTA DE OLIVEIRA",
    "cat": "Estivador",
-   "st": "6h",
+   "st": "11h",
    "est": 29
   },
   {
@@ -551,33 +551,33 @@
    "num": 380,
    "nome": "OZIAS JOAO DA SILVA",
    "cat": "Arrumador",
-   "st": "6h"
+   "st": "agora"
   },
   {
    "num": 381,
    "nome": "ENOCH DIAS DE MOURA",
    "cat": "Estivador",
-   "st": "6h",
+   "st": "11h",
    "est": 31
   },
   {
    "num": 382,
    "nome": "VALDELIRIO SANTANA FILHO",
    "cat": "Arrumador",
-   "st": "11h"
+   "st": "agora"
   },
   {
    "num": 383,
    "nome": "MARCELINO MIGLIORINI",
    "cat": "Estivador",
-   "st": "6h",
+   "st": "11h",
    "est": 32
   },
   {
    "num": 384,
    "nome": "PEDRO SILVA",
    "cat": "Arrumador",
-   "st": "agora"
+   "st": "6h"
   },
   {
    "num": 385,
@@ -590,7 +590,7 @@
    "num": 386,
    "nome": "JONAS MONTEIRO DO NASCIMENTO",
    "cat": "Arrumador",
-   "st": "11h"
+   "st": "agora"
   },
   {
    "num": 387,
@@ -603,7 +603,7 @@
    "num": 388,
    "nome": "GUSTAVO LIMA DE OLIVEIRA",
    "cat": "Arrumador",
-   "st": "6h"
+   "st": "11h"
   },
   {
    "num": 389,
@@ -655,7 +655,7 @@
    "num": 396,
    "nome": "MILTON DA SILVA MARQUES",
    "cat": "Arrumador",
-   "st": "6h"
+   "st": "11h"
   },
   {
    "num": 397,
@@ -694,7 +694,7 @@
    "num": 402,
    "nome": "WILLIAM ROCHA RODRIGUES",
    "cat": "Arrumador",
-   "st": "6h"
+   "st": "11h"
   },
   {
    "num": 403,
@@ -746,7 +746,7 @@
    "num": 410,
    "nome": "ROGERIO DE OLIVEIRA",
    "cat": "Arrumador",
-   "st": "6h"
+   "st": "11h"
   },
   {
    "num": 411,
@@ -759,7 +759,7 @@
    "num": 412,
    "nome": "LEONEL PEREIRA DA SILVA",
    "cat": "Arrumador",
-   "st": "6h"
+   "st": "11h"
   },
   {
    "num": 413,
@@ -772,7 +772,7 @@
    "num": 414,
    "nome": "GIVANILDO DE SOUZA SANTOS",
    "cat": "Arrumador",
-   "st": "agora"
+   "st": "6h"
   },
   {
    "num": 415,
@@ -811,13 +811,13 @@
    "num": 420,
    "nome": "MARCELO FRANCISCO RIBEIRO BARBOSA",
    "cat": "Arrumador",
-   "st": "6h"
+   "st": "11h"
   },
   {
    "num": 421,
    "nome": "CLAUDEMIR DOS SANTOS",
    "cat": "Estivador",
-   "st": "6h",
+   "st": "11h",
    "est": 24
   },
   {
@@ -882,7 +882,7 @@
    "num": 431,
    "nome": "BRUNO CHAVES",
    "cat": "Estivador",
-   "st": "6h",
+   "st": "11h",
    "est": 55
   },
   {
