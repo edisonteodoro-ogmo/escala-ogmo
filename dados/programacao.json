@@ -1,7 +1,7 @@
 {
- "atualizado_em": "2026-11-11T15:12:04-03:00",
- "lido_em": "2026-11-11T15:12:04-03:00",
- "total": 16,
+ "atualizado_em": "2026-11-11T15:29:28-03:00",
+ "lido_em": "2026-11-11T15:29:28-03:00",
+ "total": 17,
  "navios": [
   {
    "nome": "SAGA PIONNER",
@@ -111,17 +111,18 @@
   },
   {
    "nome": "PACIFIC ROSE",
-   "faixa": "NAVIOS PROGRAMADOS G",
-   "previsao": "12/11/2026",
+   "faixa": "NAVIOS PROGRAMADOS E",
+   "previsao": "14/11/2026",
    "carga": "ANIMAIS VIVOS",
    "qtd": "10.000 UN",
    "operador": "LOG LOGÍSTICA",
    "local": "DIRETO",
-   "situacao": "PROGRAMADO"
+   "situacao": "PROGRAMADO",
+   "marca": "alterado"
   },
   {
    "nome": "STAR POLLUX",
-   "faixa": "NAVIOS PROGRAMADOS G",
+   "faixa": "NAVIOS PROGRAMADOS E",
    "previsao": "02/12/2026",
    "carga": "BARRILHA",
    "qtd": "26.000 t",
@@ -131,10 +132,10 @@
   },
   {
    "nome": "APOGEE ENDEAVOUR",
-   "faixa": "NAVIOS PROGRAMADOS G",
+   "faixa": "NAVIOS PROGRAMADOS E",
    "previsao": "30/12/2026",
    "carga": "TRIGO",
-   "qtd": "30.000 t",
+   "qtd": "15.000 t",
    "operador": "PRONAVE",
    "local": "ARMAZEM CDSS",
    "situacao": "PROGRAMADO",
@@ -142,7 +143,7 @@
   },
   {
    "nome": "MADONNA",
-   "faixa": "NAVIOS PROGRAMADOS H",
+   "faixa": "NAVIOS PROGRAMADOS F",
    "previsao": "25/11/2026",
    "carga": "ANIMAIS VIVOS",
    "qtd": "8.000 UN",
@@ -152,23 +153,36 @@
   },
   {
    "nome": "BLUE OCEAN A",
-   "faixa": "NAVIOS PROGRAMADOS I",
-   "previsao": "12/11/2026",
+   "faixa": "NAVIOS PROGRAMADOS G",
+   "previsao": "18/11/2026",
    "carga": "ANIMAIS VIVOS",
    "qtd": "4.500 UN",
    "operador": "PRONAVE",
    "local": "DIRETO",
-   "situacao": "PROGRAMADO"
+   "situacao": "PROGRAMADO",
+   "marca": "alterado"
   },
   {
    "nome": "QUEENSLAND",
-   "faixa": "NAVIOS PROGRAMADOS I",
+   "faixa": "NAVIOS PROGRAMADOS G",
    "previsao": "30/11/2026",
    "carga": "ANIMAIS VIVOS",
    "qtd": "7.000 UN",
    "operador": "LOG LOGÍSTICA",
    "local": "DIRETO",
    "situacao": "PROGRAMADO"
+  },
+  {
+   "nome": "WHITE PEARL",
+   "faixa": "NAVIOS PROGRAMADOS H",
+   "previsao": "07/11/2026",
+   "carga": "ANIMAIS VIVOS",
+   "qtd": "4.500 UN",
+   "operador": "LOG LOGÍSTICA",
+   "local": "DIRETO",
+   "situacao": "FUNDEADO",
+   "marca": "novo",
+   "fundeado": true
   }
  ]
 }
