@@ -1,48 +1,6 @@
 {
- "atualizado_em": "2026-11-11T23:46:40-03:00",
+ "atualizado_em": "2026-11-12T07:02:26-03:00",
  "dias": [
-  {
-   "data": "2026-11-11",
-   "periodos": {
-    "1": [],
-    "2": [
-     {
-      "req": 60883,
-      "navio": "RIO 2016",
-      "operador": "TRIAINA",
-      "ternos": 1,
-      "categorias": [
-       "Arrumador",
-       "Conferente",
-       "Estivador"
-      ],
-      "rancho": true,
-      "posicao": "P2",
-      "extra": "📍 sai 12/11 16:00"
-     },
-     {
-      "req": 60884,
-      "navio": "TS 2",
-      "operador": "TRANSPMAR",
-      "ternos": 1,
-      "categorias": [
-       "Arrumador",
-       "Conferente",
-       "Estivador"
-      ],
-      "rancho": true
-     }
-    ],
-    "3": [],
-    "4": []
-   },
-   "desc": {
-    "1": "07-13",
-    "2": "13-19",
-    "3": "19-01",
-    "4": "01-07"
-   }
-  },
   {
    "data": "2026-11-12",
    "periodos": {
@@ -59,6 +17,7 @@
       ],
       "rancho": true,
       "posicao": "P1",
+      "extra": "📍 sai 12/11 12:00",
       "cargas": [
        {
         "carga": "EMBARQUE DTA'S",
@@ -92,6 +51,21 @@
       ]
      }
     ],
+    "2": [],
+    "3": [],
+    "4": []
+   },
+   "desc": {
+    "1": "07-13",
+    "2": "13-19",
+    "3": "19-01",
+    "4": "01-07"
+   }
+  },
+  {
+   "data": "2026-11-13",
+   "periodos": {
+    "1": [],
     "2": [],
     "3": [],
     "4": []
