@@ -1,8 +1,18 @@
 {
- "atualizado_em": "2026-11-12T15:53:39-03:00",
- "lido_em": "2026-11-12T15:53:39-03:00",
+ "atualizado_em": "2026-11-12T16:10:46-03:00",
+ "lido_em": "2026-11-12T16:10:44-03:00",
  "total": 18,
  "navios": [
+  {
+   "nome": "BOI BRANCO",
+   "faixa": "NAVIOS ATRACADO",
+   "previsao": "11/11/2026",
+   "carga": "ANIMAIS VIVOS",
+   "qtd": "4.000 UN",
+   "operador": "LOG LOGÍSTICA",
+   "local": "DIRETO",
+   "situacao": "ATRACADO"
+  },
   {
    "nome": "SAGA PIONNER",
    "faixa": "NAVIOS PROGRAMADOS A",
@@ -32,8 +42,7 @@
    "qtd": "10.000 t",
    "operador": "PRONAVE",
    "local": "ARMAZEM CDSS",
-   "situacao": "PROGRAMADO",
-   "marca": "alterado"
+   "situacao": "PROGRAMADO"
   },
   {
    "nome": "HANZE GENUA",
@@ -53,8 +62,7 @@
    "qtd": "28.000 t",
    "operador": "PRONAVE",
    "local": "ARMAZEM CDSS",
-   "situacao": "PROGRAMADO",
-   "marca": "alterado"
+   "situacao": "PROGRAMADO"
   },
   {
    "nome": "ELISABETTA",
@@ -74,18 +82,7 @@
    "qtd": "30.000 t",
    "operador": "PRONAVE",
    "local": "ARMAZEM CDSS",
-   "situacao": "PROGRAMADO",
-   "marca": "novo"
-  },
-  {
-   "nome": "BOI BRANCO",
-   "faixa": "NAVIOS PROGRAMADOS D",
-   "previsao": "11/11/2026",
-   "carga": "ANIMAIS VIVOS",
-   "qtd": "4.000 UN",
-   "operador": "LOG LOGÍSTICA",
-   "local": "DIRETO",
-   "situacao": "FUNDEADO"
+   "situacao": "PROGRAMADO"
   },
   {
    "nome": "ATLANTIC ROSE",
@@ -95,7 +92,7 @@
    "qtd": "4.500 UN",
    "operador": "LOG LOGÍSTICA",
    "local": "DIRETO",
-   "situacao": "PROGRAMADO"
+   "situacao": "FUNDEADO"
   },
   {
    "nome": "PACIFICA",
@@ -105,8 +102,7 @@
    "qtd": "900 t",
    "operador": "LOG LOGÍSTICA",
    "local": "ARMAZEM CDSS",
-   "situacao": "PROGRAMADO",
-   "marca": "alterado"
+   "situacao": "PROGRAMADO"
   },
   {
    "nome": "PACIFIC ROSE",
@@ -116,8 +112,7 @@
    "qtd": "10.000 UN",
    "operador": "LOG LOGÍSTICA",
    "local": "DIRETO",
-   "situacao": "PROGRAMADO",
-   "marca": "alterado"
+   "situacao": "PROGRAMADO"
   },
   {
    "nome": "STAR POLLUX",
@@ -137,8 +132,7 @@
    "qtd": "15.000 t",
    "operador": "PRONAVE",
    "local": "ARMAZEM CDSS",
-   "situacao": "PROGRAMADO",
-   "marca": "alterado"
+   "situacao": "PROGRAMADO"
   },
   {
    "nome": "BANA",
@@ -148,8 +142,7 @@
    "qtd": "8.000 UN",
    "operador": "LOG LOGÍSTICA",
    "local": "DIRETO",
-   "situacao": "PROGRAMADO",
-   "marca": "novo"
+   "situacao": "PROGRAMADO"
   },
   {
    "nome": "BLUE OCEAN A",
@@ -159,8 +152,7 @@
    "qtd": "4.500 UN",
    "operador": "PRONAVE",
    "local": "DIRETO",
-   "situacao": "PROGRAMADO",
-   "marca": "alterado"
+   "situacao": "PROGRAMADO"
   },
   {
    "nome": "QUEENSLAND",
@@ -181,7 +173,6 @@
    "operador": "LOG LOGÍSTICA",
    "local": "DIRETO",
    "situacao": "FUNDEADO",
-   "marca": "novo",
    "fundeado": true
   },
   {
@@ -192,8 +183,7 @@
    "qtd": "20.000 t",
    "operador": "PRONAVE",
    "local": "ARMAZEM CDSS / ARMAZEM CDSS",
-   "situacao": "PROGRAMADO",
-   "marca": "novo"
+   "situacao": "PROGRAMADO"
   }
  ]
 }
