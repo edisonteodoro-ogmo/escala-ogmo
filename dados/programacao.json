@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-12T08:13:18-03:00",
+ "atualizado_em": "2026-11-12T08:25:00-03:00",
  "lido_em": "2026-11-12T08:13:18-03:00",
  "total": 18,
  "navios": [
@@ -95,8 +95,7 @@
    "qtd": "4.500 UN",
    "operador": "LOG LOGÍSTICA",
    "local": "DIRETO",
-   "situacao": "PROGRAMADO",
-   "fundeado": true
+   "situacao": "PROGRAMADO"
   },
   {
    "nome": "PACIFICA",
