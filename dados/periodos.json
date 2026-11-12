@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-12T17:44:16-03:00",
+ "atualizado_em": "2026-11-12T17:58:36-03:00",
  "dias": [
   {
    "data": "2026-11-12",
@@ -75,6 +75,7 @@
       ],
       "rancho": true,
       "posicao": "P3",
+      "extra": "📍 sai 13/11 02:30",
       "cargas": [
        {
         "carga": "EMBARQUE DTA'S",
