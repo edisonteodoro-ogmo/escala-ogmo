@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-12T14:56:28-03:00",
+ "atualizado_em": "2026-11-12T15:49:01-03:00",
  "dias": [
   {
    "data": "2026-11-12",
@@ -16,8 +16,6 @@
        "Estivador"
       ],
       "rancho": true,
-      "posicao": "P1",
-      "extra": "📍 sai 12/11 14:30",
       "cargas": [
        {
         "carga": "EMBARQUE DTA'S",
