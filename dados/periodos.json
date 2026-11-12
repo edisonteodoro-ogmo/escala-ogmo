@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-12T13:29:18-03:00",
+ "atualizado_em": "2026-11-12T14:26:32-03:00",
  "dias": [
   {
    "data": "2026-11-12",
@@ -55,7 +55,7 @@
     "3": [
      {
       "req": 60902,
-      "navio": "BOI BRANCO - ANIMAIS",
+      "navio": "BOI BRANCO-GADO",
       "operador": "LOG LOGISTICA",
       "ternos": 2,
       "categorias": [
@@ -69,7 +69,7 @@
     "4": [
      {
       "req": 60903,
-      "navio": "BOI BRANCO - ANIMAIS",
+      "navio": "BOI BRANCO-GADO",
       "operador": "LOG LOGISTICA",
       "ternos": 2,
       "categorias": [
@@ -94,7 +94,7 @@
     "1": [
      {
       "req": 60904,
-      "navio": "BOI BRANCO - ANIMAIS",
+      "navio": "BOI BRANCO-GADO",
       "operador": "LOG LOGISTICA",
       "ternos": 2,
       "categorias": [
