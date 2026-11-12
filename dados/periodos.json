@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-12T19:00:50-03:00",
+ "atualizado_em": "2026-11-12T19:39:22-03:00",
  "dias": [
   {
    "data": "2026-11-12",
@@ -75,29 +75,7 @@
       ],
       "rancho": true,
       "posicao": "P3",
-      "extra": "📍 sai 13/11 02:30",
-      "cargas": [
-       {
-        "carga": "EMBARQUE DTA'S",
-        "tons": 506,
-        "qtd": 0
-       },
-       {
-        "carga": "EMBARQUE MATERIAL",
-        "tons": 1256,
-        "qtd": 0
-       },
-       {
-        "carga": "EMBARQUE MATERIAL",
-        "tons": 186,
-        "qtd": 0
-       },
-       {
-        "carga": "EMBARQUE TAMBORES",
-        "tons": 12560,
-        "qtd": 0
-       }
-      ]
+      "extra": "📍 sai 13/11 02:30"
      }
     ],
     "4": [
