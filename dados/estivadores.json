@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-12T13:17:04-03:00",
+ "atualizado_em": "2026-11-12T19:03:14-03:00",
  "total": 64,
  "resumo": {
   "total": 64,
@@ -9,8 +9,8 @@
   "maq": 10,
   "guin": 24,
   "emp": 10,
-  "pego": 1,
-  "livre": 54
+  "pego": 7,
+  "livre": 48
  },
  "pessoas": [
   {
@@ -225,7 +225,7 @@
    "maq": 5,
    "guin": 13,
    "emp": 7,
-   "sit": "livre"
+   "sit": "pego"
   },
   {
    "num": 25,
@@ -304,7 +304,7 @@
    "maq": null,
    "guin": null,
    "emp": null,
-   "sit": "livre"
+   "sit": "pego"
   },
   {
    "num": 34,
@@ -383,7 +383,7 @@
    "maq": null,
    "guin": null,
    "emp": null,
-   "sit": "livre"
+   "sit": "pego"
   },
   {
    "num": 43,
@@ -392,7 +392,7 @@
    "maq": 7,
    "guin": 17,
    "emp": 9,
-   "sit": "livre"
+   "sit": "pego"
   },
   {
    "num": 44,
@@ -409,7 +409,7 @@
    "maq": null,
    "guin": null,
    "emp": null,
-   "sit": "livre"
+   "sit": "pego"
   },
   {
    "num": 46,
@@ -506,7 +506,7 @@
    "maq": null,
    "guin": 22,
    "emp": null,
-   "sit": "livre"
+   "sit": "pego"
   },
   {
    "num": 57,
@@ -581,6 +581,5 @@
    "sit": "livre"
   }
  ],
- "atual": "12/11 13h",
- "sem_servico": true
+ "atual": "12/11 1h"
 }
