@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-13T11:10:35-03:00",
+ "atualizado_em": "2026-11-13T11:19:39-03:00",
  "lido_em": "2026-11-13T11:10:35-03:00",
  "total": 18,
  "navios": [
@@ -191,7 +191,7 @@
   "saindo": [
    {
     "navio": "BOI BRANCO",
-    "horario": "13/11 15:00"
+    "horario": "13/11 20:00"
    }
   ]
  }
