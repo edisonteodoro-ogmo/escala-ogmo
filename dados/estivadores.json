@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-13T01:04:16-03:00",
+ "atualizado_em": "2026-11-13T06:59:20-03:00",
  "total": 64,
  "resumo": {
   "total": 64,
@@ -9,8 +9,8 @@
   "maq": 10,
   "guin": 24,
   "emp": 10,
-  "pego": 7,
-  "livre": 48
+  "pego": 6,
+  "livre": 49
  },
  "pessoas": [
   {
@@ -225,7 +225,7 @@
    "maq": 5,
    "guin": 13,
    "emp": 7,
-   "sit": "pego"
+   "sit": "livre"
   },
   {
    "num": 25,
@@ -304,7 +304,7 @@
    "maq": null,
    "guin": null,
    "emp": null,
-   "sit": "pego"
+   "sit": "livre"
   },
   {
    "num": 34,
@@ -374,7 +374,7 @@
    "maq": null,
    "guin": null,
    "emp": null,
-   "sit": "pego"
+   "sit": "livre"
   },
   {
    "num": 42,
@@ -383,7 +383,7 @@
    "maq": null,
    "guin": null,
    "emp": null,
-   "sit": "pego"
+   "sit": "livre"
   },
   {
    "num": 43,
@@ -392,7 +392,7 @@
    "maq": 7,
    "guin": 17,
    "emp": 9,
-   "sit": "pego"
+   "sit": "livre"
   },
   {
    "num": 44,
@@ -409,7 +409,7 @@
    "maq": null,
    "guin": null,
    "emp": null,
-   "sit": "pego"
+   "sit": "livre"
   },
   {
    "num": 46,
@@ -452,7 +452,7 @@
    "maq": 8,
    "guin": null,
    "emp": 10,
-   "sit": "livre"
+   "sit": "pego"
   },
   {
    "num": 51,
@@ -461,7 +461,7 @@
    "maq": null,
    "guin": 19,
    "emp": null,
-   "sit": "livre"
+   "sit": "pego"
   },
   {
    "num": 52,
@@ -470,7 +470,7 @@
    "maq": null,
    "guin": null,
    "emp": null,
-   "sit": "livre"
+   "sit": "pego"
   },
   {
    "num": 53,
@@ -479,7 +479,7 @@
    "maq": null,
    "guin": null,
    "emp": null,
-   "sit": "livre"
+   "sit": "pego"
   },
   {
    "num": 54,
@@ -488,7 +488,7 @@
    "maq": null,
    "guin": 20,
    "emp": null,
-   "sit": "livre"
+   "sit": "pego"
   },
   {
    "num": 55,
@@ -506,7 +506,7 @@
    "maq": null,
    "guin": 22,
    "emp": null,
-   "sit": "pego"
+   "sit": "livre"
   },
   {
    "num": 57,
@@ -515,7 +515,7 @@
    "maq": null,
    "guin": null,
    "emp": null,
-   "sit": "livre"
+   "sit": "pego"
   },
   {
    "num": 58,
@@ -581,5 +581,5 @@
    "sit": "livre"
   }
  ],
- "atual": "12/11 1h"
+ "atual": "13/11 7h"
 }
