@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-13T12:59:38-03:00",
+ "atualizado_em": "2026-11-13T13:02:29-03:00",
  "atual": "13/11 13h",
  "anterior": "13/11 7h",
  "categorias": [
@@ -11,9 +11,9 @@
  ],
  "resumo": {
   "Estivador": {
-   "agora": 23,
+   "agora": 24,
    "6h": 6,
-   "11h": 35
+   "11h": 34
   },
   "Arrumador": {
    "agora": 27,
@@ -531,7 +531,7 @@
    "num": 377,
    "nome": "GILMAR BAPTISTA DE OLIVEIRA",
    "cat": "Estivador",
-   "st": "11h",
+   "st": "agora",
    "est": 29
   },
   {
