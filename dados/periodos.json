@@ -1,105 +1,6 @@
 {
- "atualizado_em": "2026-11-12T23:59:13-03:00",
+ "atualizado_em": "2026-11-13T07:11:43-03:00",
  "dias": [
-  {
-   "data": "2026-11-12",
-   "periodos": {
-    "1": [
-     {
-      "req": 60887,
-      "navio": "IOANNIS ZAFIRAKIS",
-      "operador": "TRIAINA",
-      "ternos": 1,
-      "categorias": [
-       "Arrumador",
-       "Conferente",
-       "Estivador"
-      ],
-      "rancho": true,
-      "cargas": [
-       {
-        "carga": "EMBARQUE DTA'S",
-        "tons": 279,
-        "qtd": 0
-       },
-       {
-        "carga": "EMBARQUE RANCHO",
-        "tons": 5000,
-        "qtd": 0
-       }
-      ]
-     },
-     {
-      "req": 60894,
-      "navio": "TS 2",
-      "operador": "TRANSPMAR",
-      "ternos": 1,
-      "categorias": [
-       "Arrumador",
-       "Conferente",
-       "Estivador"
-      ],
-      "rancho": true,
-      "cargas": [
-       {
-        "carga": "EMBARQUE MATERIAL",
-        "tons": 10000,
-        "qtd": 1
-       }
-      ]
-     }
-    ],
-    "2": [],
-    "3": [
-     {
-      "req": 60902,
-      "navio": "BOI BRANCO-GADO",
-      "operador": "LOG LOGISTICA",
-      "ternos": 2,
-      "categorias": [
-       "Arrumador",
-       "Conferente",
-       "Estivador"
-      ],
-      "rancho": false
-     },
-     {
-      "req": 60906,
-      "navio": "GAVI C",
-      "operador": "TRIAINA",
-      "ternos": 1,
-      "categorias": [
-       "Arrumador",
-       "Conferente",
-       "Estivador"
-      ],
-      "rancho": true,
-      "posicao": "P3",
-      "extra": "📍 sai 13/11 04:30"
-     }
-    ],
-    "4": [
-     {
-      "req": 60903,
-      "navio": "BOI BRANCO-GADO",
-      "operador": "LOG LOGISTICA",
-      "ternos": 2,
-      "categorias": [
-       "Arrumador",
-       "Conferente",
-       "Estivador"
-      ],
-      "rancho": false
-     }
-    ]
-   },
-   "desc": {
-    "1": "07-13",
-    "2": "13-19",
-    "3": "19-01",
-    "4": "01-07"
-   }
-  },
   {
    "data": "2026-11-13",
    "periodos": {
@@ -130,6 +31,7 @@
       ],
       "rancho": true,
       "posicao": "CN2",
+      "extra": "📍 muda CN2→P1 14/11 07:30",
       "cargas": [
        {
         "carga": "EMBARQUE MATERIAL",
@@ -161,6 +63,21 @@
       "rancho": false
      }
     ],
+    "3": [],
+    "4": []
+   },
+   "desc": {
+    "1": "07-13",
+    "2": "13-19",
+    "3": "19-01",
+    "4": "01-07"
+   }
+  },
+  {
+   "data": "2026-11-14",
+   "periodos": {
+    "1": [],
+    "2": [],
     "3": [],
     "4": []
    },
