@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-13T08:37:02-03:00",
+ "atualizado_em": "2026-11-13T09:11:28-03:00",
  "dias": [
   {
    "data": "2026-11-13",
@@ -88,6 +88,26 @@
        }
       ],
       "obs": "2.637 KG DE PEÇAS (DTA) ARMAZENADAS IGOR RODRIGUES DE OLIVEIRA +55 12 99659-4401"
+     },
+     {
+      "req": 60919,
+      "navio": "MAERSK KATALIN",
+      "operador": "AQUARIUS",
+      "ternos": 1,
+      "categorias": [
+       "Arrumador",
+       "Conferente",
+       "Estivador"
+      ],
+      "rancho": true,
+      "posicao": "P4",
+      "cargas": [
+       {
+        "carga": "ENTREGA DTA'S",
+        "tons": 730,
+        "qtd": 6
+       }
+      ]
      }
     ],
     "3": [],
