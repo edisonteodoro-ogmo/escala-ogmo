@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-13T08:12:50-03:00",
+ "atualizado_em": "2026-11-13T08:32:24-03:00",
  "dias": [
   {
    "data": "2026-11-13",
@@ -61,6 +61,42 @@
        "Estivador"
       ],
       "rancho": false
+     },
+     {
+      "req": 60913,
+      "navio": "JANEIRO KNUTSEN",
+      "operador": "TRIAINA",
+      "ternos": 1,
+      "categorias": [
+       "Arrumador",
+       "Conferente",
+       "Estivador"
+      ],
+      "rancho": true,
+      "posicao": "fundeado",
+      "extra": "📍 entra P3 13/11 08:15",
+      "cargas": [
+       {
+        "carga": "EMBARQUE DTA'S",
+        "tons": 506,
+        "qtd": 0
+       },
+       {
+        "carga": "EMBARQUE MATERIAL",
+        "tons": 1256,
+        "qtd": 0
+       },
+       {
+        "carga": "EMBARQUE MATERIAL",
+        "tons": 186,
+        "qtd": 0
+       },
+       {
+        "carga": "EMBARQUE TAMBORES",
+        "tons": 12560,
+        "qtd": 0
+       }
+      ]
      }
     ],
     "3": [],
