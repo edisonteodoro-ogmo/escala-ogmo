@@ -1,14 +1,14 @@
 [
  {
-  "arquivo": "boletins/2026-11-13_07-13_135457_309912.png",
-  "titulo": "BOLETIM 03 BOI BRANCO 07/13",
+  "arquivo": "boletins/2026-11-13_07-13_140958_192226.png",
+  "titulo": "BOLETIM 03 BOI BRANCO 07/13 · RETIFICAÇÃO",
   "data": "13/11/2026",
   "periodo": "07/13",
-  "chave": "<e262538f-e3e3-41f3-ad1c-70dcde591a1e@uol.com.br>_81BOIBRANCOBOLETIM03pdf",
+  "chave": "<c684c7e3-207c-463e-8cf0-45aaf549c5af@uol.com.br>_81BOIBRANCOBOLETIM03pdf",
   "grupo": "BOI BRANCO|03",
-  "retificacao": false,
-  "recebido_em": "2026-11-13T13:46:37-03:00",
-  "enviado_em": "2026-11-13T13:54:57-03:00"
+  "retificacao": true,
+  "recebido_em": "2026-11-13T14:06:19-03:00",
+  "enviado_em": "2026-11-13T14:09:58-03:00"
  },
  {
   "arquivo": "boletins/2026-11-13_01-07_132457_863556.png",
