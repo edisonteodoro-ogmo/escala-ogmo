@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-13T18:36:54-03:00",
+ "atualizado_em": "2026-11-13T19:38:33-03:00",
  "dias": [
   {
    "data": "2026-11-13",
@@ -31,24 +31,7 @@
       ],
       "rancho": true,
       "posicao": "CN2",
-      "extra": "📍 muda CN2→P1 14/11 08:30",
-      "cargas": [
-       {
-        "carga": "EMBARQUE RANCHO",
-        "tons": 2600,
-        "qtd": 7
-       },
-       {
-        "carga": "EMBARQUE MATERIAL",
-        "tons": 1600,
-        "qtd": 11
-       },
-       {
-        "carga": "DESCARGA MATERIAL",
-        "tons": 3000,
-        "qtd": 0
-       }
-      ]
+      "extra": "📍 muda CN2→P1 14/11 08:30"
      },
      {
       "req": 60910,
@@ -74,25 +57,7 @@
       ],
       "rancho": true,
       "posicao": "P3",
-      "extra": "📍 sai 14/11 19:00",
-      "cargas": [
-       {
-        "carga": "EMBARQUE DTA'S",
-        "tons": 1174,
-        "qtd": 4
-       },
-       {
-        "carga": "EMBARQUE DTA'S",
-        "tons": 1463,
-        "qtd": 4
-       },
-       {
-        "carga": "EMBARQUE DTA'S",
-        "tons": 330,
-        "qtd": 5
-       }
-      ],
-      "obs": "2.967 KG DE PEÇAS (DTA) ARMAZENADAS IGOR RODRIGUES DE OLIVEIRA +55 12 99659-4401"
+      "extra": "📍 sai 14/11 19:00"
      },
      {
       "req": 60919,
@@ -106,14 +71,7 @@
       ],
       "rancho": true,
       "posicao": "P4",
-      "extra": "📍 sai 14/11 01:00",
-      "cargas": [
-       {
-        "carga": "ENTREGA DTA'S",
-        "tons": 730,
-        "qtd": 6
-       }
-      ]
+      "extra": "📍 sai 14/11 01:00"
      }
     ],
     "3": [],
