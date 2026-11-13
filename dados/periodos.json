@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-13T11:21:59-03:00",
+ "atualizado_em": "2026-11-13T11:27:18-03:00",
  "dias": [
   {
    "data": "2026-11-13",
@@ -79,9 +79,14 @@
         "carga": "EMBARQUE DTA'S",
         "tons": 1463,
         "qtd": 4
+       },
+       {
+        "carga": "EMBARQUE DTA'S",
+        "tons": 330,
+        "qtd": 5
        }
       ],
-      "obs": "2.637 KG DE PEÇAS (DTA) ARMAZENADAS IGOR RODRIGUES DE OLIVEIRA +55 12 99659-4401"
+      "obs": "2.967 KG DE PEÇAS (DTA) ARMAZENADAS IGOR RODRIGUES DE OLIVEIRA +55 12 99659-4401"
      },
      {
       "req": 60919,
