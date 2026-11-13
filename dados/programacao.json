@@ -1,17 +1,17 @@
 {
- "atualizado_em": "2026-11-13T01:29:38-03:00",
- "lido_em": "2026-11-13T01:29:38-03:00",
+ "atualizado_em": "2026-11-13T01:46:09-03:00",
+ "lido_em": "2026-11-13T01:46:08-03:00",
  "total": 18,
  "navios": [
   {
    "nome": "BOI BRANCO",
-   "faixa": "NAVIOS ATRACADO",
+   "faixa": "NAVIOS OPERANDO",
    "previsao": "11/11/2026",
    "carga": "ANIMAIS VIVOS",
    "qtd": "4.000 UN",
    "operador": "LOG LOGÍSTICA",
    "local": "DIRETO",
-   "situacao": "ATRACADO"
+   "situacao": "OPERANDO"
   },
   {
    "nome": "SAGA PIONNER",
@@ -185,5 +185,14 @@
    "local": "ARMAZEM CDSS / ARMAZEM CDSS",
    "situacao": "PROGRAMADO"
   }
- ]
+ ],
+ "cais": {
+  "fonte": "praticagem",
+  "saindo": [
+   {
+    "navio": "BOI BRANCO",
+    "horario": "13/11 15:00"
+   }
+  ]
+ }
 }
