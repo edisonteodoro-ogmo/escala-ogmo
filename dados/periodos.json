@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-13T10:15:11-03:00",
+ "atualizado_em": "2026-11-13T10:29:48-03:00",
  "dias": [
   {
    "data": "2026-11-13",
@@ -73,8 +73,7 @@
        "Estivador"
       ],
       "rancho": true,
-      "posicao": "fundeado",
-      "extra": "📍 entra P3 13/11 08:15",
+      "posicao": "P3",
       "cargas": [
        {
         "carga": "EMBARQUE DTA'S",
