@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-14T00:39:47-03:00",
+ "atualizado_em": "2026-11-14T00:54:30-03:00",
  "lido_em": "2026-11-14T00:39:47-03:00",
  "total": 17,
  "navios": [
@@ -176,14 +176,5 @@
    "local": "ARMAZEM CDSS / ARMAZEM CDSS",
    "situacao": "PROGRAMADO"
   }
- ],
- "cais": {
-  "fonte": "praticagem",
-  "saindo": [
-   {
-    "navio": "BOI BRANCO",
-    "horario": "14/11 00:00"
-   }
-  ]
- }
+ ]
 }
