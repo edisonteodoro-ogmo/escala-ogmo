@@ -1,7 +1,7 @@
 {
- "atualizado_em": "2026-11-14T07:10:19-03:00",
- "atual": "13/11 1h",
- "anterior": "13/11 19h",
+ "atualizado_em": "2026-11-14T07:17:21-03:00",
+ "atual": "14/11 7h",
+ "anterior": "13/11 1h",
  "categorias": [
   "Estivador",
   "Arrumador",
@@ -12,13 +12,13 @@
  "resumo": {
   "Estivador": {
    "agora": 0,
-   "6h": 2,
-   "11h": 62
+   "6h": 0,
+   "11h": 64
   },
   "Arrumador": {
-   "agora": 0,
+   "agora": 11,
    "6h": 0,
-   "11h": 62
+   "11h": 51
   },
   "Consertador": {
    "agora": 0,
@@ -98,7 +98,7 @@
    "num": 309,
    "nome": "MARCOS JOSE",
    "cat": "Vigia",
-   "st": "6h"
+   "st": "11h"
   },
   {
    "num": 310,
@@ -160,7 +160,7 @@
    "num": 319,
    "nome": "LETICIA LUIZA VIEIRA VARGAS DA SILVA",
    "cat": "Vigia",
-   "st": "agora"
+   "st": "6h"
   },
   {
    "num": 320,
@@ -191,7 +191,7 @@
    "num": 324,
    "nome": "MARCIA DE PINHO TAMASIRO",
    "cat": "Vigia",
-   "st": "11h"
+   "st": "agora"
   },
   {
    "num": 325,
@@ -331,7 +331,7 @@
    "num": 346,
    "nome": "VLADIMIR GONCALVES TINOCO",
    "cat": "Arrumador",
-   "st": "11h"
+   "st": "agora"
   },
   {
    "num": 347,
@@ -344,7 +344,7 @@
    "num": 348,
    "nome": "ALEXANDER GARCEZ DOS SANTOS",
    "cat": "Arrumador",
-   "st": "11h"
+   "st": "agora"
   },
   {
    "num": 349,
@@ -357,7 +357,7 @@
    "num": 350,
    "nome": "ROBSON STOFFEL",
    "cat": "Arrumador",
-   "st": "11h"
+   "st": "agora"
   },
   {
    "num": 351,
@@ -370,7 +370,7 @@
    "num": 352,
    "nome": "LUIZ CARLOS GOMES PORCIUNCULA",
    "cat": "Arrumador",
-   "st": "11h"
+   "st": "agora"
   },
   {
    "num": 353,
@@ -383,7 +383,7 @@
    "num": 354,
    "nome": "ANDRE LUIS PIMENTA DA SILVA",
    "cat": "Arrumador",
-   "st": "11h"
+   "st": "agora"
   },
   {
    "num": 355,
@@ -396,7 +396,7 @@
    "num": 356,
    "nome": "RICARDO SANTANA",
    "cat": "Arrumador",
-   "st": "11h"
+   "st": "agora"
   },
   {
    "num": 357,
@@ -492,7 +492,7 @@
    "num": 371,
    "nome": "LUIZ ALBERTO DOS SANTOS",
    "cat": "Estivador",
-   "st": "6h",
+   "st": "11h",
    "est": 25
   },
   {
@@ -694,7 +694,7 @@
    "num": 402,
    "nome": "WILLIAM ROCHA RODRIGUES",
    "cat": "Arrumador",
-   "st": "11h"
+   "st": "agora"
   },
   {
    "num": 403,
@@ -720,7 +720,7 @@
    "num": 406,
    "nome": "HIAGO HENRIQUE SILVA PIMENTA",
    "cat": "Arrumador",
-   "st": "11h"
+   "st": "agora"
   },
   {
    "num": 407,
@@ -785,7 +785,7 @@
    "num": 416,
    "nome": "CLAUDEMIR VICENTE",
    "cat": "Arrumador",
-   "st": "11h"
+   "st": "agora"
   },
   {
    "num": 417,
@@ -798,7 +798,7 @@
    "num": 418,
    "nome": "JUAN FRANCISCO DE OLIVEIRA",
    "cat": "Arrumador",
-   "st": "11h"
+   "st": "agora"
   },
   {
    "num": 419,
@@ -811,13 +811,13 @@
    "num": 420,
    "nome": "MARCELO FRANCISCO RIBEIRO BARBOSA",
    "cat": "Arrumador",
-   "st": "11h"
+   "st": "agora"
   },
   {
    "num": 421,
    "nome": "CLAUDEMIR DOS SANTOS",
    "cat": "Estivador",
-   "st": "6h",
+   "st": "11h",
    "est": 24
   },
   {
