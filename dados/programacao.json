@@ -1,18 +1,8 @@
 {
- "atualizado_em": "2026-11-14T00:24:27-03:00",
- "lido_em": "2026-11-14T00:24:27-03:00",
- "total": 18,
+ "atualizado_em": "2026-11-14T00:39:47-03:00",
+ "lido_em": "2026-11-14T00:39:47-03:00",
+ "total": 17,
  "navios": [
-  {
-   "nome": "BOI BRANCO",
-   "faixa": "NAVIOS OPERANDO",
-   "previsao": "11/11/2026",
-   "carga": "ANIMAIS VIVOS",
-   "qtd": "4.000 UN",
-   "operador": "LOG LOGÍSTICA",
-   "local": "DIRETO",
-   "situacao": "OPERANDO"
-  },
   {
    "nome": "SAGA PIONNER",
    "faixa": "NAVIOS PROGRAMADOS A",
