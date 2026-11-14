@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-14T09:56:42-03:00",
+ "atualizado_em": "2026-11-14T10:25:35-03:00",
  "dias": [
   {
    "data": "2026-11-14",
@@ -26,6 +26,28 @@
         "qtd": 1
        }
       ]
+     },
+     {
+      "req": 60930,
+      "navio": "JANEIRO KNUTSEN",
+      "operador": "TRIAINA",
+      "ternos": 1,
+      "categorias": [
+       "Arrumador",
+       "Conferente",
+       "Estivador"
+      ],
+      "rancho": true,
+      "posicao": "P3",
+      "extra": "📍 sai 15/11 02:00",
+      "cargas": [
+       {
+        "carga": "EMBARQUE DTA'S",
+        "tons": 330,
+        "qtd": 5
+       }
+      ],
+      "obs": "330 KG DE PEÇAS (DTA) NO CARRO IGOR RODRIGUES DE OLIVEIRA +55 12 99659-4401"
      }
     ],
     "3": [
