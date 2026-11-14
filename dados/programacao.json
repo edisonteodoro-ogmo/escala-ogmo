@@ -1,8 +1,18 @@
 {
- "atualizado_em": "2026-11-14T14:40:14-03:00",
- "lido_em": "2026-11-14T14:40:14-03:00",
+ "atualizado_em": "2026-11-14T14:57:24-03:00",
+ "lido_em": "2026-11-14T14:57:24-03:00",
  "total": 17,
  "navios": [
+  {
+   "nome": "ATLANTIC ROSE",
+   "faixa": "NAVIOS ATRACADO",
+   "previsao": "11/11/2026",
+   "carga": "ANIMAIS VIVOS",
+   "qtd": "4.500 UN",
+   "operador": "LOG LOGÍSTICA",
+   "local": "DIRETO",
+   "situacao": "ATRACADO"
+  },
   {
    "nome": "SAGA PIONNER",
    "faixa": "NAVIOS PROGRAMADOS A",
@@ -73,16 +83,6 @@
    "operador": "PRONAVE",
    "local": "ARMAZEM CDSS",
    "situacao": "PROGRAMADO"
-  },
-  {
-   "nome": "ATLANTIC ROSE",
-   "faixa": "NAVIOS PROGRAMADOS D",
-   "previsao": "11/11/2026",
-   "carga": "ANIMAIS VIVOS",
-   "qtd": "4.500 UN",
-   "operador": "LOG LOGÍSTICA",
-   "local": "DIRETO",
-   "situacao": "FUNDEADO"
   },
   {
    "nome": "PACIFICA",
