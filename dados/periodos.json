@@ -1,89 +1,6 @@
 {
- "atualizado_em": "2026-11-13T23:33:10-03:00",
+ "atualizado_em": "2026-11-14T07:06:01-03:00",
  "dias": [
-  {
-   "data": "2026-11-13",
-   "periodos": {
-    "1": [
-     {
-      "req": 60904,
-      "navio": "BOI BRANCO-GADO",
-      "operador": "LOG LOGISTICA",
-      "ternos": 2,
-      "categorias": [
-       "Arrumador",
-       "Conferente",
-       "Estivador"
-      ],
-      "rancho": false
-     }
-    ],
-    "2": [
-     {
-      "req": 60905,
-      "navio": "ANDRE REBOUCAS",
-      "operador": "PHOENIX SHIPPING",
-      "ternos": 1,
-      "categorias": [
-       "Arrumador",
-       "Conferente",
-       "Estivador"
-      ],
-      "rancho": true,
-      "posicao": "CN2",
-      "extra": "📍 muda CN2→P1 14/11 08:30"
-     },
-     {
-      "req": 60910,
-      "navio": "BOI BRANCO-GADO",
-      "operador": "LOG LOGISTICA",
-      "ternos": 2,
-      "categorias": [
-       "Arrumador",
-       "Conferente",
-       "Estivador"
-      ],
-      "rancho": false
-     },
-     {
-      "req": 60913,
-      "navio": "JANEIRO KNUTSEN",
-      "operador": "TRIAINA",
-      "ternos": 1,
-      "categorias": [
-       "Arrumador",
-       "Conferente",
-       "Estivador"
-      ],
-      "rancho": true,
-      "posicao": "P3",
-      "extra": "📍 sai 14/11 19:00"
-     },
-     {
-      "req": 60919,
-      "navio": "MAERSK KATALIN",
-      "operador": "AQUARIUS",
-      "ternos": 1,
-      "categorias": [
-       "Arrumador",
-       "Conferente",
-       "Estivador"
-      ],
-      "rancho": true,
-      "posicao": "P4",
-      "extra": "📍 sai 14/11 03:00"
-     }
-    ],
-    "3": [],
-    "4": []
-   },
-   "desc": {
-    "1": "07-13",
-    "2": "13-19",
-    "3": "19-01",
-    "4": "01-07"
-   }
-  },
   {
    "data": "2026-11-14",
    "periodos": {
@@ -101,7 +18,7 @@
       ],
       "rancho": true,
       "posicao": "CN2",
-      "extra": "📍 muda CN2→P1 14/11 08:30",
+      "extra": "📍 muda CN2→P1 14/11 09:30",
       "cargas": [
        {
         "carga": "EMBARQUE MATERIAL",
@@ -111,6 +28,60 @@
       ]
      }
     ],
+    "3": [
+     {
+      "req": 60927,
+      "navio": "ATLANTIC ROSE - GADO",
+      "operador": "LOG LOGISTICA",
+      "ternos": 2,
+      "categorias": [
+       "Arrumador",
+       "Conferente",
+       "Estivador"
+      ],
+      "rancho": false
+     }
+    ],
+    "4": [
+     {
+      "req": 60928,
+      "navio": "ATLANTIC ROSE - GADO",
+      "operador": "LOG LOGISTICA",
+      "ternos": 2,
+      "categorias": [
+       "Arrumador",
+       "Conferente",
+       "Estivador"
+      ],
+      "rancho": false
+     }
+    ]
+   },
+   "desc": {
+    "1": "07-13",
+    "2": "13-19",
+    "3": "19-01",
+    "4": "01-07"
+   }
+  },
+  {
+   "data": "2026-11-15",
+   "periodos": {
+    "1": [
+     {
+      "req": 60929,
+      "navio": "ATLANTIC ROSE - GADO",
+      "operador": "LOG LOGISTICA",
+      "ternos": 2,
+      "categorias": [
+       "Arrumador",
+       "Conferente",
+       "Estivador"
+      ],
+      "rancho": false
+     }
+    ],
+    "2": [],
     "3": [],
     "4": []
    },
