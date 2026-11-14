@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-14T11:28:10-03:00",
+ "atualizado_em": "2026-11-14T11:56:50-03:00",
  "dias": [
   {
    "data": "2026-11-14",
@@ -17,8 +17,7 @@
        "Estivador"
       ],
       "rancho": true,
-      "posicao": "CN2",
-      "extra": "📍 muda CN2→P1 14/11 09:30",
+      "posicao": "P1",
       "cargas": [
        {
         "carga": "EMBARQUE MATERIAL",
