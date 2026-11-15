@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-14T21:09:31-03:00",
+ "atualizado_em": "2026-11-14T21:38:42-03:00",
  "dias": [
   {
    "data": "2026-11-14",
@@ -18,7 +18,7 @@
       ],
       "rancho": true,
       "posicao": "P1",
-      "extra": "📍 sai 15/11 08:00",
+      "extra": "📍 sai 15/11 06:00",
       "cargas": [
        {
         "carga": "EMBARQUE MATERIAL",
@@ -39,7 +39,7 @@
       ],
       "rancho": true,
       "posicao": "P3",
-      "extra": "📍 sai 15/11 02:00"
+      "extra": "📍 sai 15/11 00:30"
      }
     ],
     "3": [
