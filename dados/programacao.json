@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-15T12:10:38-03:00",
+ "atualizado_em": "2026-11-15T12:15:21-03:00",
  "lido_em": "2026-11-15T12:10:38-03:00",
  "total": 16,
  "navios": [
@@ -166,14 +166,5 @@
    "local": "ARMAZEM CDSS / ARMAZEM CDSS",
    "situacao": "PROGRAMADO"
   }
- ],
- "cais": {
-  "fonte": "praticagem",
-  "saindo": [
-   {
-    "navio": "ATLANTIC ROSE",
-    "horario": "15/11 11:00"
-   }
-  ]
- }
+ ]
 }
