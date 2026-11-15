@@ -1,17 +1,17 @@
 {
- "atualizado_em": "2026-11-15T01:40:33-03:00",
- "lido_em": "2026-11-15T01:40:33-03:00",
+ "atualizado_em": "2026-11-15T01:57:33-03:00",
+ "lido_em": "2026-11-15T01:57:33-03:00",
  "total": 17,
  "navios": [
   {
    "nome": "ATLANTIC ROSE",
-   "faixa": "NAVIOS ATRACADO",
+   "faixa": "NAVIOS OPERANDO",
    "previsao": "11/11/2026",
    "carga": "ANIMAIS VIVOS",
    "qtd": "4.500 UN",
    "operador": "LOG LOGÍSTICA",
    "local": "DIRETO",
-   "situacao": "ATRACADO"
+   "situacao": "OPERANDO"
   },
   {
    "nome": "SAGA PIONNER",
