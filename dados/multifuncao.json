@@ -1,7 +1,7 @@
 {
- "atualizado_em": "2026-11-15T18:59:51-03:00",
- "atual": "15/11 13h",
- "anterior": "15/11 7h",
+ "atualizado_em": "2026-11-15T19:15:58-03:00",
+ "atual": "15/11 19h",
+ "anterior": "15/11 13h",
  "categorias": [
   "Estivador",
   "Arrumador",
@@ -27,8 +27,8 @@
   },
   "Vigia": {
    "agora": 0,
-   "6h": 1,
-   "11h": 4
+   "6h": 0,
+   "11h": 5
   },
   "Conferente": {
    "agora": 0,
@@ -191,7 +191,7 @@
    "num": 324,
    "nome": "MARCIA DE PINHO TAMASIRO",
    "cat": "Vigia",
-   "st": "6h"
+   "st": "11h"
   },
   {
    "num": 325,
