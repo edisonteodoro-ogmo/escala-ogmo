@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-15T15:18:16-03:00",
+ "atualizado_em": "2026-11-15T15:33:06-03:00",
  "dias": [
   {
    "data": "2026-11-15",
@@ -19,7 +19,20 @@
   {
    "data": "2026-11-16",
    "periodos": {
-    "1": [],
+    "1": [
+     {
+      "req": 60936,
+      "navio": "SAGA PIONEER",
+      "operador": "PRONAVE",
+      "ternos": 7,
+      "categorias": [
+       "Arrumador",
+       "Conferente",
+       "Estivador"
+      ],
+      "rancho": false
+     }
+    ],
     "2": [],
     "3": [],
     "4": []
