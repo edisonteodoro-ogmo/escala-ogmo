@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-16T18:33:54-03:00",
+ "atualizado_em": "2026-11-16T19:04:06-03:00",
  "total": 64,
  "resumo": {
   "total": 64,
@@ -9,8 +9,8 @@
   "maq": 10,
   "guin": 24,
   "emp": 10,
-  "pego": 7,
-  "livre": 48
+  "pego": 17,
+  "livre": 38
  },
  "pessoas": [
   {
@@ -47,7 +47,7 @@
    "maq": null,
    "guin": 3,
    "emp": null,
-   "sit": "livre"
+   "sit": "pego"
   },
   {
    "num": 5,
@@ -65,7 +65,7 @@
    "maq": null,
    "guin": null,
    "emp": null,
-   "sit": "pego"
+   "sit": "livre"
   },
   {
    "num": 7,
@@ -321,7 +321,7 @@
    "maq": null,
    "guin": null,
    "emp": null,
-   "sit": "livre"
+   "sit": "pego"
   },
   {
    "num": 36,
@@ -347,7 +347,7 @@
    "maq": null,
    "guin": null,
    "emp": null,
-   "sit": "livre"
+   "sit": "pego"
   },
   {
    "num": 39,
@@ -356,7 +356,7 @@
    "maq": 6,
    "guin": null,
    "emp": 8,
-   "sit": "livre"
+   "sit": "pego"
   },
   {
    "num": 40,
@@ -365,7 +365,7 @@
    "maq": null,
    "guin": null,
    "emp": null,
-   "sit": "livre"
+   "sit": "pego"
   },
   {
    "num": 41,
@@ -374,7 +374,7 @@
    "maq": null,
    "guin": null,
    "emp": null,
-   "sit": "livre"
+   "sit": "pego"
   },
   {
    "num": 42,
@@ -383,7 +383,7 @@
    "maq": null,
    "guin": null,
    "emp": null,
-   "sit": "livre"
+   "sit": "pego"
   },
   {
    "num": 43,
@@ -409,7 +409,7 @@
    "maq": null,
    "guin": null,
    "emp": null,
-   "sit": "livre"
+   "sit": "pego"
   },
   {
    "num": 46,
@@ -461,7 +461,7 @@
    "maq": null,
    "guin": 19,
    "emp": null,
-   "sit": "livre"
+   "sit": "pego"
   },
   {
    "num": 52,
@@ -506,7 +506,7 @@
    "maq": null,
    "guin": 22,
    "emp": null,
-   "sit": "pego"
+   "sit": "livre"
   },
   {
    "num": 57,
@@ -524,7 +524,7 @@
    "maq": 10,
    "guin": 23,
    "emp": null,
-   "sit": "livre"
+   "sit": "pego"
   },
   {
    "num": 59,
@@ -533,7 +533,7 @@
    "maq": null,
    "guin": null,
    "emp": null,
-   "sit": "livre"
+   "sit": "pego"
   },
   {
    "num": 60,
@@ -542,7 +542,7 @@
    "maq": null,
    "guin": null,
    "emp": null,
-   "sit": "livre"
+   "sit": "pego"
   },
   {
    "num": 61,
@@ -560,7 +560,7 @@
    "maq": null,
    "guin": null,
    "emp": null,
-   "sit": "livre"
+   "sit": "pego"
   },
   {
    "num": 63,
@@ -578,8 +578,8 @@
    "maq": null,
    "guin": 24,
    "emp": null,
-   "sit": "pego"
+   "sit": "livre"
   }
  ],
- "atual": "16/11 13h"
+ "atual": "16/11 1h"
 }
