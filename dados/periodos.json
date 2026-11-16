@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-16T10:00:21-03:00",
+ "atualizado_em": "2026-11-16T10:54:10-03:00",
  "dias": [
   {
    "data": "2026-11-16",
@@ -23,6 +23,26 @@
         "carga": "EMBARQUE RANCHO",
         "tons": 8840,
         "qtd": 14
+       }
+      ]
+     },
+     {
+      "req": 60954,
+      "navio": "PS IMABARI",
+      "operador": "AQUARIUS",
+      "ternos": 1,
+      "categorias": [
+       "Arrumador",
+       "Conferente",
+       "Estivador"
+      ],
+      "rancho": true,
+      "posicao": "P4",
+      "cargas": [
+       {
+        "carga": "ENTREGA MATERIAL",
+        "tons": 1000,
+        "qtd": 1
        }
       ]
      },
