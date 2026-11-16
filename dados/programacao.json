@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-16T17:36:47-03:00",
+ "atualizado_em": "2026-11-16T17:39:59-03:00",
  "lido_em": "2026-11-16T17:28:16-03:00",
  "total": 16,
  "navios": [
@@ -19,13 +19,13 @@
     "mmsi": "311001626",
     "nome_ais": "SAGA PIONEER",
     "situacao": "caminho",
-    "texto": "navegando a 10.5 nós, a 54 mn · destino São Sebastião",
-    "lat": -24.0428,
-    "lon": -46.343,
-    "dist_mn": 53.5,
-    "visto_em": "2026-11-16T20:11:40+00:00",
-    "sog": 10.5,
-    "rumo": 119,
+    "texto": "navegando a 12.9 nós, a 51 mn · destino São Sebastião",
+    "lat": -24.0718,
+    "lon": -46.2823,
+    "dist_mn": 50.8,
+    "visto_em": "2026-11-16T20:30:18+00:00",
+    "sog": 12.9,
+    "rumo": 104,
     "calado": 8.4,
     "imo": 9380764,
     "status_ais": "navegando",
@@ -58,7 +58,12 @@
     "visto_em": "2026-11-16T20:28:11+00:00",
     "sog": 0.3,
     "rumo": 237,
-    "status_ais": "fundeado"
+    "calado": 7.8,
+    "imo": 7819113,
+    "status_ais": "fundeado",
+    "destino": "BR SSO",
+    "destino_aqui": true,
+    "eta": "2026-10-09T09:00+00:00"
    }
   },
   {
@@ -330,7 +335,25 @@
    "qtd": "4.500 UN",
    "operador": "PRONAVE",
    "local": "DIRETO",
-   "situacao": "PROGRAMADO"
+   "situacao": "PROGRAMADO",
+   "ais": {
+    "fonte": "vesselfinder",
+    "situacao": "velho",
+    "texto": "sem sinal há 6 dias",
+    "nome_ais": "BLUE OCEAN A",
+    "link": "https://www.vesselfinder.com/?imo=9045089",
+    "destino": "Sao Sebastiao, Brazil",
+    "eta": "2026-11-17T12:00+00:00",
+    "sog": 14.5,
+    "calado": "6.7 m",
+    "ultimo_porto": "Tarragona, Spain",
+    "saida": "2026-10-30T23:46+00:00",
+    "imo": 9045089,
+    "mmsi": 341515002,
+    "status_ais": "-",
+    "destino_aqui": true,
+    "visto_em": "2026-11-10T20:39:59+00:00"
+   }
   },
   {
    "nome": "QUEENSLAND",
@@ -353,12 +376,22 @@
    "situacao": "FUNDEADO",
    "fundeado": true,
    "ais": {
+    "link": "https://www.vesselfinder.com/?imo=9917957",
+    "ultimo_porto": "Reserve, United States (USA)",
+    "saida": "2026-11-09T20:07+00:00",
     "mmsi": "450430000",
     "nome_ais": "WHITE PEARL",
-    "situacao": "velho",
-    "texto": "sem posição recebida",
+    "situacao": "fundeado",
+    "texto": "fundeado na área do porto (a 8.5 mn)",
+    "lat": -23.6938,
+    "lon": -45.3139,
+    "dist_mn": 8.5,
+    "visto_em": "2026-11-16T20:34:23+00:00",
+    "sog": 0.2,
+    "rumo": 177,
     "calado": 5,
     "imo": 7615309,
+    "status_ais": "fundeado",
     "destino": "BR SSO",
     "destino_aqui": true,
     "eta": "2026-11-07T06:00+00:00"
@@ -375,7 +408,7 @@
    "situacao": "PROGRAMADO"
   }
  ],
- "ais_navios": 12,
+ "ais_navios": 13,
  "porto": {
   "lat": -23.8105,
   "lon": -45.401
