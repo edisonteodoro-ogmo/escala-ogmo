@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-16T18:06:37-03:00",
- "lido_em": "2026-11-16T17:58:37-03:00",
+ "atualizado_em": "2026-11-16T18:08:12-03:00",
+ "lido_em": "2026-11-16T18:08:12-03:00",
  "total": 16,
  "navios": [
   {
@@ -216,20 +216,22 @@
    "local": "ARMAZEM CDSS",
    "situacao": "PROGRAMADO",
    "ais": {
+    "fonte": "vesselfinder",
+    "situacao": "outro",
+    "texto": "fundeado em Itajai Anch., Brazil",
+    "nome_ais": "PACIFICA",
     "link": "https://www.vesselfinder.com/?imo=9431460",
+    "destino": "Itajai Anch., Brazil",
+    "chegou": "2026-11-12T15:42+00:00",
+    "sog": 0.5,
+    "calado": "6.5 m",
     "ultimo_porto": "Vitoria, Brazil",
     "saida": "2026-11-10T15:39+00:00",
-    "mmsi": "565227000",
-    "nome_ais": "PACIFICA",
-    "situacao": "outro",
-    "texto": "fundeado longe daqui (a 251 mn)",
-    "lat": -26.9026,
-    "lon": -48.5136,
-    "dist_mn": 250.9,
-    "visto_em": "2026-11-16T20:54:47+00:00",
-    "sog": 0.4,
-    "rumo": 79,
-    "status_ais": "fundeado"
+    "imo": 9431460,
+    "mmsi": 565227000,
+    "status_ais": "fundeado",
+    "destino_aqui": false,
+    "visto_em": "2026-11-16T21:03:37+00:00"
    }
   },
   {
@@ -295,7 +297,7 @@
     "mmsi": 372612000,
     "status_ais": "atracado",
     "destino_aqui": false,
-    "visto_em": "2026-11-16T20:34:47+00:00"
+    "visto_em": "2026-11-16T21:07:18+00:00"
    }
   },
   {
@@ -315,7 +317,7 @@
     "link": "https://www.vesselfinder.com/?imo=8417625",
     "destino": "CAR ES",
     "eta": "2026-11-08T18:00+00:00",
-    "sog": 0.0,
+    "sog": 0.4,
     "calado": "8.1 m",
     "ultimo_porto": "Cartagena Anch., Spain",
     "saida": "2026-11-08T17:32+00:00",
@@ -323,7 +325,7 @@
     "mmsi": 370141000,
     "status_ais": "fundeado",
     "destino_aqui": false,
-    "visto_em": "2026-11-16T20:34:47+00:00"
+    "visto_em": "2026-11-16T21:05:18+00:00"
    }
   },
   {
