@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-16T17:10:44-03:00",
+ "atualizado_em": "2026-11-16T17:17:38-03:00",
  "lido_em": "2026-11-16T17:10:44-03:00",
  "total": 16,
  "navios": [
@@ -16,14 +16,19 @@
     "mmsi": "311001626",
     "nome_ais": "SAGA PIONEER",
     "situacao": "caminho",
-    "texto": "navegando a 10.6 nós, a 54 mn · sem destino declarado",
-    "lat": -24.0291,
-    "lon": -46.3517,
-    "dist_mn": 53.8,
-    "visto_em": "2026-11-16T20:04:40+00:00",
-    "sog": 10.6,
-    "rumo": 206,
-    "status_ais": "navegando"
+    "texto": "navegando a 10.5 nós, a 54 mn · destino São Sebastião",
+    "lat": -24.0428,
+    "lon": -46.343,
+    "dist_mn": 53.5,
+    "visto_em": "2026-11-16T20:11:40+00:00",
+    "sog": 10.5,
+    "rumo": 119,
+    "calado": 8.4,
+    "imo": 9380764,
+    "status_ais": "navegando",
+    "destino": "BR SSO",
+    "destino_aqui": true,
+    "eta": "2026-11-16T23:00+00:00"
    }
   },
   {
@@ -118,7 +123,24 @@
    "qtd": "10.000 UN",
    "operador": "LOG LOGÍSTICA",
    "local": "DIRETO",
-   "situacao": "PROGRAMADO"
+   "situacao": "PROGRAMADO",
+   "ais": {
+    "mmsi": "341273002",
+    "nome_ais": "PACIFIC ROSE",
+    "situacao": "fundeado",
+    "texto": "fundeado na área do porto (a 2.1 mn)",
+    "lat": -23.8376,
+    "lon": -45.4246,
+    "dist_mn": 2.1,
+    "visto_em": "2026-11-16T20:11:11+00:00",
+    "sog": 0.1,
+    "calado": 7.7,
+    "imo": 9045936,
+    "status_ais": "fundeado",
+    "destino": "BR  SSO",
+    "destino_aqui": true,
+    "eta": "2026-11-13T10:00+00:00"
+   }
   },
   {
    "nome": "STAR POLLUX",
@@ -179,7 +201,18 @@
    "operador": "LOG LOGÍSTICA",
    "local": "DIRETO",
    "situacao": "FUNDEADO",
-   "fundeado": true
+   "fundeado": true,
+   "ais": {
+    "mmsi": "450430000",
+    "nome_ais": "WHITE PEARL",
+    "situacao": "velho",
+    "texto": "sem posição recebida",
+    "calado": 5,
+    "imo": 7615309,
+    "destino": "BR SSO",
+    "destino_aqui": true,
+    "eta": "2026-11-07T06:00+00:00"
+   }
   },
   {
    "nome": "EKATERINA",
@@ -192,7 +225,7 @@
    "situacao": "PROGRAMADO"
   }
  ],
- "ais_navios": 2,
+ "ais_navios": 4,
  "porto": {
   "lat": -23.8105,
   "lon": -45.401
