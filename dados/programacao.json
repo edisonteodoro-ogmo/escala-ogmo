@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-16T19:34:41-03:00",
- "lido_em": "2026-11-16T19:22:31-03:00",
+ "atualizado_em": "2026-11-16T19:38:23-03:00",
+ "lido_em": "2026-11-16T19:38:23-03:00",
  "total": 16,
  "navios": [
   {
@@ -106,12 +106,12 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "caminho",
-    "texto": "a caminho de São Sebastião a 12.6 nós",
+    "texto": "a caminho de São Sebastião a 12.7 nós",
     "nome_ais": "HANZE GENUA",
     "link": "https://www.vesselfinder.com/?imo=9746970",
     "destino": "Sao Sebastiao, Brazil",
     "eta": "2026-11-17T12:00+00:00",
-    "sog": 12.6,
+    "sog": 12.7,
     "calado": "8.5 m",
     "ultimo_porto": "Las Palmas, Spain",
     "saida": "2026-11-05T05:54+00:00",
@@ -119,7 +119,7 @@
     "mmsi": 244830401,
     "status_ais": "navegando",
     "destino_aqui": true,
-    "visto_em": "2026-11-16T22:02:38+00:00"
+    "visto_em": "2026-11-16T22:31:23+00:00"
    }
   },
   {
@@ -134,12 +134,12 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "movimento",
-    "texto": "navegando a 12.3 nós · destino Singapore, Singapore",
+    "texto": "navegando a 12.2 nós · destino Singapore, Singapore",
     "nome_ais": "OCEAN ENDEAVOR",
     "link": "https://www.vesselfinder.com/?imo=1023592",
     "destino": "Singapore, Singapore",
     "eta": "2026-11-18T07:00+00:00",
-    "sog": 12.3,
+    "sog": 12.2,
     "calado": "9.1 m",
     "ultimo_porto": "Fukuyama, Hiroshima Anch., Japan",
     "saida": "2026-11-08T04:30+00:00",
@@ -147,7 +147,7 @@
     "mmsi": 352005752,
     "status_ais": "navegando",
     "destino_aqui": false,
-    "visto_em": "2026-11-16T22:04:38+00:00"
+    "visto_em": "2026-11-16T22:35:23+00:00"
    }
   },
   {
@@ -175,7 +175,7 @@
     "mmsi": 538012957,
     "status_ais": "-",
     "destino_aqui": false,
-    "visto_em": "2026-11-15T13:06:38+00:00"
+    "visto_em": "2026-11-15T13:38:23+00:00"
    }
   },
   {
