@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-16T17:31:20-03:00",
+ "atualizado_em": "2026-11-16T17:34:17-03:00",
  "lido_em": "2026-11-16T17:28:16-03:00",
  "total": 16,
  "navios": [
@@ -181,7 +181,25 @@
    "qtd": "30.000 t",
    "operador": "PRONAVE",
    "local": "ARMAZEM CDSS",
-   "situacao": "PROGRAMADO"
+   "situacao": "PROGRAMADO",
+   "ais": {
+    "fonte": "vesselfinder",
+    "situacao": "outro",
+    "texto": "fundeado em Santos Anch., Brazil",
+    "nome_ais": "V ISALOS",
+    "link": "https://www.vesselfinder.com/?imo=9474254",
+    "destino": "Santos Anch., Brazil",
+    "chegou": "2026-11-15T19:24+00:00",
+    "sog": 0.1,
+    "calado": "10.2 m",
+    "ultimo_porto": "San Lorenzo, Argentina",
+    "saida": "2026-11-11T01:53+00:00",
+    "imo": 9474254,
+    "mmsi": 538007973,
+    "status_ais": "fundeado",
+    "destino_aqui": false,
+    "visto_em": "2026-11-16T18:34:17+00:00"
+   }
   },
   {
    "nome": "PACIFICA",
@@ -191,7 +209,25 @@
    "qtd": "900 t",
    "operador": "LOG LOGÍSTICA",
    "local": "ARMAZEM CDSS",
-   "situacao": "PROGRAMADO"
+   "situacao": "PROGRAMADO",
+   "ais": {
+    "fonte": "vesselfinder",
+    "situacao": "outro",
+    "texto": "fundeado em Itajai Anch., Brazil",
+    "nome_ais": "PACIFICA",
+    "link": "https://www.vesselfinder.com/?imo=9431460",
+    "destino": "Itajai Anch., Brazil",
+    "chegou": "2026-11-12T15:42+00:00",
+    "sog": 0.2,
+    "calado": "6.5 m",
+    "ultimo_porto": "Vitoria, Brazil",
+    "saida": "2026-11-10T15:39+00:00",
+    "imo": 9431460,
+    "mmsi": 565227000,
+    "status_ais": "fundeado",
+    "destino_aqui": false,
+    "visto_em": "2026-11-16T20:33:17+00:00"
+   }
   },
   {
    "nome": "PACIFIC ROSE",
@@ -303,7 +339,7 @@
    "situacao": "PROGRAMADO"
   }
  ],
- "ais_navios": 8,
+ "ais_navios": 10,
  "porto": {
   "lat": -23.8105,
   "lon": -45.401
