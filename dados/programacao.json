@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-16T17:17:38-03:00",
- "lido_em": "2026-11-16T17:10:44-03:00",
+ "atualizado_em": "2026-11-16T17:28:16-03:00",
+ "lido_em": "2026-11-16T17:28:16-03:00",
  "total": 16,
  "navios": [
   {
@@ -13,6 +13,9 @@
    "local": "DIRETO",
    "situacao": "PROGRAMADO",
    "ais": {
+    "link": "https://www.vesselfinder.com/?imo=9380764",
+    "ultimo_porto": "Santos, Brazil",
+    "saida": "2026-11-16T19:40+00:00",
     "mmsi": "311001626",
     "nome_ais": "SAGA PIONEER",
     "situacao": "caminho",
@@ -42,16 +45,19 @@
    "situacao": "FUNDEADO",
    "fundeado": true,
    "ais": {
+    "link": "https://www.vesselfinder.com/?imo=7819113",
+    "ultimo_porto": "Sao Sebastiao Anch., Brazil",
+    "saida": "2026-10-15T12:53+00:00",
     "mmsi": "677031200",
     "nome_ais": "YOSOR",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 9.0 mn)",
-    "lat": -23.7044,
+    "lat": -23.7045,
     "lon": -45.2854,
     "dist_mn": 9.0,
-    "visto_em": "2026-11-16T20:04:09+00:00",
+    "visto_em": "2026-11-16T20:28:11+00:00",
     "sog": 0.3,
-    "rumo": 236,
+    "rumo": 237,
     "status_ais": "fundeado"
    }
   },
@@ -63,7 +69,25 @@
    "qtd": "10.000 t",
    "operador": "PRONAVE",
    "local": "ARMAZEM CDSS",
-   "situacao": "PROGRAMADO"
+   "situacao": "PROGRAMADO",
+   "ais": {
+    "fonte": "vesselfinder",
+    "situacao": "outro",
+    "texto": "atracado em Sao Francisco do Sul, Brazil",
+    "nome_ais": "ASTRO NEKKAR",
+    "link": "https://www.vesselfinder.com/?imo=9720304",
+    "destino": "Sao Francisco do Sul, Brazil",
+    "chegou": "2026-11-13T15:45+00:00",
+    "sog": 0.0,
+    "calado": "12.0 m",
+    "ultimo_porto": "Sao Francisco do Sul Anch., Brazil",
+    "saida": "2026-11-12T15:25+00:00",
+    "imo": 9720304,
+    "mmsi": 538006205,
+    "status_ais": "atracado",
+    "destino_aqui": false,
+    "visto_em": "2026-11-16T20:25:22+00:00"
+   }
   },
   {
    "nome": "HANZE GENUA",
@@ -225,7 +249,7 @@
    "situacao": "PROGRAMADO"
   }
  ],
- "ais_navios": 4,
+ "ais_navios": 5,
  "porto": {
   "lat": -23.8105,
   "lon": -45.401
