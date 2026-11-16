@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-16T18:40:09-03:00",
+ "atualizado_em": "2026-11-16T18:43:01-03:00",
  "lido_em": "2026-11-16T18:33:30-03:00",
  "total": 16,
  "navios": [
@@ -353,7 +353,7 @@
     "mmsi": 341515002,
     "status_ais": "-",
     "destino_aqui": true,
-    "visto_em": "2026-11-10T21:10:59+00:00"
+    "visto_em": "2026-11-10T21:43:01+00:00"
    }
   },
   {
@@ -378,8 +378,8 @@
    "fundeado": true,
    "ais": {
     "link": "https://www.vesselfinder.com/?imo=9917957",
-    "ultimo_porto": "Reserve, United States (USA)",
-    "saida": "2026-11-09T20:07+00:00",
+    "ultimo_porto": "Panama Canal Anch. Atlantic, Panama",
+    "saida": "2026-11-16T21:00+00:00",
     "mmsi": "450430000",
     "nome_ais": "WHITE PEARL",
     "situacao": "fundeado",
