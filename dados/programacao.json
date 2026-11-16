@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-16T17:28:16-03:00",
+ "atualizado_em": "2026-11-16T17:31:20-03:00",
  "lido_em": "2026-11-16T17:28:16-03:00",
  "total": 16,
  "navios": [
@@ -97,7 +97,25 @@
    "qtd": "25.000 t",
    "operador": "PRONAVE",
    "local": "ARMAZEM CDSS",
-   "situacao": "PROGRAMADO"
+   "situacao": "PROGRAMADO",
+   "ais": {
+    "fonte": "vesselfinder",
+    "situacao": "caminho",
+    "texto": "a caminho de São Sebastião a 12.6 nós",
+    "nome_ais": "HANZE GENUA",
+    "link": "https://www.vesselfinder.com/?imo=9746970",
+    "destino": "Sao Sebastiao, Brazil",
+    "eta": "2026-11-17T12:00+00:00",
+    "sog": 12.6,
+    "calado": "8.5 m",
+    "ultimo_porto": "Las Palmas, Spain",
+    "saida": "2026-11-05T05:54+00:00",
+    "imo": 9746970,
+    "mmsi": 244830401,
+    "status_ais": "navegando",
+    "destino_aqui": true,
+    "visto_em": "2026-11-16T20:30:20+00:00"
+   }
   },
   {
    "nome": "OCEAN ENDEAVOR",
@@ -107,7 +125,25 @@
    "qtd": "28.000 t",
    "operador": "PRONAVE",
    "local": "ARMAZEM CDSS",
-   "situacao": "PROGRAMADO"
+   "situacao": "PROGRAMADO",
+   "ais": {
+    "fonte": "vesselfinder",
+    "situacao": "movimento",
+    "texto": "navegando a 12.3 nós · destino Singapore, Singapore",
+    "nome_ais": "OCEAN ENDEAVOR",
+    "link": "https://www.vesselfinder.com/?imo=1023592",
+    "destino": "Singapore, Singapore",
+    "eta": "2026-11-18T07:00+00:00",
+    "sog": 12.3,
+    "calado": "9.1 m",
+    "ultimo_porto": "Fukuyama, Hiroshima Anch., Japan",
+    "saida": "2026-11-08T04:30+00:00",
+    "imo": 1023592,
+    "mmsi": 352005752,
+    "status_ais": "navegando",
+    "destino_aqui": false,
+    "visto_em": "2026-11-16T20:24:20+00:00"
+   }
   },
   {
    "nome": "ELISABETTA",
@@ -117,7 +153,25 @@
    "qtd": "14.844 t",
    "operador": "LOG LOGÍSTICA",
    "local": "DIRETO / DIRETO",
-   "situacao": "PROGRAMADO"
+   "situacao": "PROGRAMADO",
+   "ais": {
+    "fonte": "vesselfinder",
+    "situacao": "velho",
+    "texto": "sem sinal há 31 h",
+    "nome_ais": "ELISABETTA",
+    "link": "https://www.vesselfinder.com/?imo=1058145",
+    "destino": "Callao, Peru",
+    "eta": "2026-11-15T10:00+00:00",
+    "sog": 3.0,
+    "calado": "9.6 m",
+    "ultimo_porto": "Buenaventura, Colombia",
+    "saida": "2026-11-11T13:35+00:00",
+    "imo": 1058145,
+    "mmsi": 538012957,
+    "status_ais": "-",
+    "destino_aqui": false,
+    "visto_em": "2026-11-15T13:31:20+00:00"
+   }
   },
   {
    "nome": "V ISALOS",
@@ -249,7 +303,7 @@
    "situacao": "PROGRAMADO"
   }
  ],
- "ais_navios": 5,
+ "ais_navios": 8,
  "porto": {
   "lat": -23.8105,
   "lon": -45.401
