@@ -1,11 +1,31 @@
 {
- "atualizado_em": "2026-11-16T09:41:12-03:00",
+ "atualizado_em": "2026-11-16T10:00:21-03:00",
  "dias": [
   {
    "data": "2026-11-16",
    "periodos": {
     "1": [],
     "2": [
+     {
+      "req": 60944,
+      "navio": "GARRINCHA",
+      "operador": "PHOENIX SHIPPING",
+      "ternos": 1,
+      "categorias": [
+       "Arrumador",
+       "Conferente",
+       "Estivador"
+      ],
+      "rancho": true,
+      "posicao": "P1",
+      "cargas": [
+       {
+        "carga": "EMBARQUE RANCHO",
+        "tons": 8840,
+        "qtd": 14
+       }
+      ]
+     },
      {
       "req": 60939,
       "navio": "SAGA PIONEER",
