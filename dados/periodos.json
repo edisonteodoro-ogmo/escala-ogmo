@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-16T19:04:18-03:00",
+ "atualizado_em": "2026-11-16T19:35:11-03:00",
  "dias": [
   {
    "data": "2026-11-16",
@@ -16,14 +16,7 @@
        "Conferente",
        "Estivador"
       ],
-      "rancho": true,
-      "cargas": [
-       {
-        "carga": "EMBARQUE RANCHO",
-        "tons": 8840,
-        "qtd": 14
-       }
-      ]
+      "rancho": true
      },
      {
       "req": 60954,
@@ -36,14 +29,7 @@
        "Estivador"
       ],
       "rancho": true,
-      "posicao": "P4",
-      "cargas": [
-       {
-        "carga": "ENTREGA MATERIAL",
-        "tons": 1000,
-        "qtd": 1
-       }
-      ]
+      "posicao": "P4"
      }
     ],
     "3": [],
@@ -59,7 +45,7 @@
        "Estivador"
       ],
       "rancho": false,
-      "extra": "🛰️ ETA 16/11 20:00 · a caminho de São Sebastião a 12.6 nós",
+      "extra": "🛰️ ETA 16/11 20:00 · a caminho de São Sebastião a 11.7 nós",
       "onde": true
      }
     ]
@@ -86,7 +72,7 @@
        "Estivador"
       ],
       "rancho": false,
-      "extra": "🛰️ ETA 16/11 20:00 · a caminho de São Sebastião a 12.6 nós",
+      "extra": "🛰️ ETA 16/11 20:00 · a caminho de São Sebastião a 11.7 nós",
       "onde": true
      }
     ],
