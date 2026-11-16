@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-16T17:43:59-03:00",
+ "atualizado_em": "2026-11-16T18:03:55-03:00",
  "dias": [
   {
    "data": "2026-11-16",
@@ -47,26 +47,13 @@
       ]
      }
     ],
-    "3": [
-     {
-      "req": 60958,
-      "navio": "SAGA PIONEER",
-      "operador": "PRONAVE",
-      "ternos": 7,
-      "categorias": [
-       "Arrumador",
-       "Conferente",
-       "Estivador"
-      ],
-      "rancho": false
-     }
-    ],
+    "3": [],
     "4": [
      {
       "req": 60959,
       "navio": "SAGA PIONEER",
       "operador": "PRONAVE",
-      "ternos": 7,
+      "ternos": 2,
       "categorias": [
        "Arrumador",
        "Conferente",
