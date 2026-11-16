@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-16T18:03:55-03:00",
+ "atualizado_em": "2026-11-16T18:08:43-03:00",
  "dias": [
   {
    "data": "2026-11-16",
@@ -59,7 +59,9 @@
        "Conferente",
        "Estivador"
       ],
-      "rancho": false
+      "rancho": false,
+      "extra": "🛰️ ETA 16/11 20:00 · a caminho de São Sebastião a 13.1 nós",
+      "onde": true
      }
     ]
    },
@@ -84,7 +86,9 @@
        "Conferente",
        "Estivador"
       ],
-      "rancho": false
+      "rancho": false,
+      "extra": "🛰️ ETA 16/11 20:00 · a caminho de São Sebastião a 13.1 nós",
+      "onde": true
      }
     ],
     "2": [],
