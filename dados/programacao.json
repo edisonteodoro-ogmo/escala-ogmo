@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-16T17:34:17-03:00",
+ "atualizado_em": "2026-11-16T17:36:47-03:00",
  "lido_em": "2026-11-16T17:28:16-03:00",
  "total": 16,
  "navios": [
@@ -274,7 +274,25 @@
    "qtd": "15.000 t",
    "operador": "PRONAVE",
    "local": "ARMAZEM CDSS",
-   "situacao": "PROGRAMADO"
+   "situacao": "PROGRAMADO",
+   "ais": {
+    "fonte": "vesselfinder",
+    "situacao": "outro",
+    "texto": "atracado em San Lorenzo, Argentina",
+    "nome_ais": "APOGEE ENDEAVOUR",
+    "link": "https://www.vesselfinder.com/?imo=9553141",
+    "destino": "San Lorenzo, Argentina",
+    "chegou": "2026-11-16T11:41+00:00",
+    "sog": 0.0,
+    "calado": "5.2 m",
+    "ultimo_porto": "San Lorenzo Anch., Argentina",
+    "saida": "2026-11-16T11:13+00:00",
+    "imo": 9553141,
+    "mmsi": 372612000,
+    "status_ais": "atracado",
+    "destino_aqui": false,
+    "visto_em": "2026-11-16T20:34:47+00:00"
+   }
   },
   {
    "nome": "BANA",
@@ -284,7 +302,25 @@
    "qtd": "8.000 UN",
    "operador": "LOG LOGÍSTICA",
    "local": "DIRETO",
-   "situacao": "PROGRAMADO"
+   "situacao": "PROGRAMADO",
+   "ais": {
+    "fonte": "vesselfinder",
+    "situacao": "outro",
+    "texto": "fundeado em Cartagena Anch., Spain · destino CAR ES",
+    "nome_ais": "BANA",
+    "link": "https://www.vesselfinder.com/?imo=8417625",
+    "destino": "CAR ES",
+    "eta": "2026-11-08T18:00+00:00",
+    "sog": 0.0,
+    "calado": "8.1 m",
+    "ultimo_porto": "Cartagena Anch., Spain",
+    "saida": "2026-11-08T17:32+00:00",
+    "imo": 8417625,
+    "mmsi": 370141000,
+    "status_ais": "fundeado",
+    "destino_aqui": false,
+    "visto_em": "2026-11-16T20:34:47+00:00"
+   }
   },
   {
    "nome": "BLUE OCEAN A",
@@ -339,7 +375,7 @@
    "situacao": "PROGRAMADO"
   }
  ],
- "ais_navios": 10,
+ "ais_navios": 12,
  "porto": {
   "lat": -23.8105,
   "lon": -45.401
