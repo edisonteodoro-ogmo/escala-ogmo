@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-16T20:37:58-03:00",
- "lido_em": "2026-11-16T20:25:23-03:00",
+ "atualizado_em": "2026-11-16T20:40:40-03:00",
+ "lido_em": "2026-11-16T20:40:40-03:00",
  "total": 16,
  "navios": [
   {
@@ -119,7 +119,7 @@
     "mmsi": 244830401,
     "status_ais": "navegando",
     "destino_aqui": true,
-    "visto_em": "2026-11-16T22:59:25+00:00"
+    "visto_em": "2026-11-16T22:58:40+00:00"
    }
   },
   {
@@ -134,12 +134,12 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "movimento",
-    "texto": "navegando a 12.1 nós · destino Singapore, Singapore",
+    "texto": "navegando a 11.3 nós · destino Singapore, Singapore",
     "nome_ais": "OCEAN ENDEAVOR",
     "link": "https://www.vesselfinder.com/?imo=1023592",
     "destino": "Singapore, Singapore",
     "eta": "2026-11-18T07:00+00:00",
-    "sog": 12.1,
+    "sog": 11.3,
     "calado": "9.1 m",
     "ultimo_porto": "Fukuyama, Hiroshima Anch., Japan",
     "saida": "2026-11-08T04:30+00:00",
@@ -147,7 +147,7 @@
     "mmsi": 352005752,
     "status_ais": "navegando",
     "destino_aqui": false,
-    "visto_em": "2026-11-16T23:04:25+00:00"
+    "visto_em": "2026-11-16T23:35:40+00:00"
    }
   },
   {
@@ -162,7 +162,7 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "velho",
-    "texto": "sem sinal há 34 h",
+    "texto": "sem sinal há 35 h",
     "nome_ais": "ELISABETTA",
     "link": "https://www.vesselfinder.com/?imo=1058145",
     "destino": "Callao, Peru",
@@ -175,7 +175,7 @@
     "mmsi": 538012957,
     "status_ais": "-",
     "destino_aqui": false,
-    "visto_em": "2026-11-15T13:09:25+00:00"
+    "visto_em": "2026-11-15T12:40:40+00:00"
    }
   },
   {
