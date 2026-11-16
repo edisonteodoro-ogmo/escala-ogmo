@@ -74,6 +74,11 @@ header h1{padding-right:46px}@media(max-width:420px){header h1{font-size:1.15rem
 .cais{background:var(--card);border:1px solid var(--ac);border-radius:14px;padding:10px 12px;margin-bottom:10px}.cais .ct{font-size:.72rem;font-weight:800;letter-spacing:.4px;color:var(--ac);margin-bottom:4px}.cais .cl{display:flex;justify-content:space-between;gap:10px;padding:3px 0;font-size:.92rem}.cais .cl b{overflow-wrap:anywhere}.cais .cl span{white-space:nowrap;font-weight:700}.cais .cs{color:var(--mut);font-size:.72rem;margin-top:4px}.cx{font-size:.66rem;font-weight:800;padding:2px 7px;border-radius:6px;background:#c2410c22;color:#c2410c;white-space:nowrap}
 .tg2{display:flex;gap:6px;flex-wrap:wrap;margin:3px 0 2px}.fd{font-size:.66rem;font-weight:800;padding:2px 7px;border-radius:6px;background:#0e7c8622;color:var(--ac);white-space:nowrap}
 .mk{font-size:.66rem;font-weight:800;padding:2px 7px;border-radius:6px;background:#e0a80033;color:#b07a00}.mk.alt{background:#e8731a33;color:#c2570c}
+.pbar{display:flex;gap:8px;margin-bottom:8px}.pbar #pq{margin-bottom:0;flex:1;min-width:0}#pmb{font:inherit;font-weight:700;white-space:nowrap;border:1px solid var(--ac);background:var(--card);color:var(--ac);border-radius:12px;padding:0 12px;cursor:pointer}#pmb.on{background:var(--ac);color:#fff}
+#pmapa{display:none}#pmapa.on{display:block}#pmap{height:58vh;height:58dvh;min-height:300px;border-radius:14px;border:1px solid var(--bd);overflow:hidden;background:var(--card);z-index:0}
+.mleg{display:flex;flex-wrap:wrap;gap:6px 12px;font-size:.74rem;color:var(--mut);margin:8px 2px}.mleg i{display:inline-block;width:10px;height:10px;border-radius:50%;margin-right:4px;vertical-align:-1px}.mfora{font-size:.8rem;color:var(--mut);margin:6px 2px}.mfora b{color:var(--tx)}
+.ais{grid-column:1;font-size:.76rem;color:var(--mut);margin-top:4px}.ais b{font-size:.76rem;font-weight:700}
+.nvi{width:26px;height:26px;display:flex;align-items:center;justify-content:center}.nvi svg{filter:drop-shadow(0 1px 2px #0009)}.nvt{background:#000c;color:#fff;border:0;border-radius:6px;padding:1px 6px;font-size:.68rem;font-weight:700;box-shadow:none}.nvt:before{display:none}
 .nv.novo{border-color:#e0a800}.nv.alterado{border-color:#e8731a}
 /* ---- Multifunção */
 .mfc{display:flex;gap:8px;flex-wrap:wrap;margin:0 0 10px}
@@ -156,7 +161,7 @@ header h1{padding-right:46px}@media(max-width:420px){header h1{font-size:1.15rem
 <button id="tema" type="button" aria-label="Alternar modo claro e noturno" title="Modo claro / noturno"></button>
 <div id="prog" role="dialog" aria-modal="true" aria-label="Programação de navios"><div id="pp">
  <div class="ph"><button id="px" type="button" aria-label="Fechar">✕</button><h2>Programação de navios</h2><p id="psub">Porto de São Sebastião</p><span class="chip" id="pchip2"><span class="live"></span><span id="pchtx">carregando…</span></span></div>
- <div class="pb"><input id="pq" type="search" placeholder="Buscar navio, carga ou operador" aria-label="Buscar na programação" autocomplete="off"><div id="pl"><div class="empty">Carregando…</div></div></div>
+ <div class="pb"><div class="pbar"><input id="pq" type="search" placeholder="Buscar navio, carga ou operador" aria-label="Buscar na programação" autocomplete="off"><button id="pmb" type="button" aria-pressed="false" title="Ver os navios no mapa">🗺️ Mapa</button></div><div id="pmapa"><div id="pmap"></div><div class="mleg" id="pmleg"></div><div class="mfora" id="pmfora"></div></div><div id="pl"><div class="empty">Carregando…</div></div></div>
 </div></div>
 <div id="mf" role="dialog" aria-modal="true" aria-label="Multifunção"><div id="mp">
  <div class="ph"><button id="mx" type="button" aria-label="Fechar">✕</button><h2>Multifunção</h2><p id="msub">Vigias, consertadores, arrumadores e estivadores</p><span class="chip" id="mchip"><span class="live"></span><span id="mchtx">carregando…</span></span></div>
@@ -256,9 +261,32 @@ function pgRender(){if(!PG||!PG.navios){$('#pl').innerHTML='<div class="empty">A
  const ls=PG.navios.filter(n=>!q||sem([n.nome,n.carga,n.operador].join(' ')).includes(sem(q)));
  $('#psub').textContent=`Porto de São Sebastião · ${PG.total||PG.navios.length} navios · publicada em ${fmt(PG.atualizado_em)}`;
  let h=q?'':caisHtml(PG.cais),f=null;for(const n of ls){if(n.faixa!==f){f=n.faixa;if(f)h+=`<div class="fx">${esc(f)}</div>`}
-  h+=`<div class="nv ${esc(n.marca||'')}"><div><b>${esc(n.nome)}</b>${n.fundeado||n.marca||n.cais?`<div class="tg2">${n.fundeado?'<span class="fd">⚓ FUNDEADO</span>':''}${n.cais?`<span class="cx">⚓ ENTRA NO CAIS ${esc(n.cais)}</span>`:''}${n.marca?`<span class="mk${n.marca==='alterado'?' alt':''}">${n.marca==='novo'?'NOVO':'ALTERADO'}</span>`:''}</div>`:''}<div class="s">${n.previsao?'Previsão '+esc(n.previsao):'Sem previsão'}${n.operador?' · '+esc(n.operador):''}</div><span class="cg">${esc(n.carga||'—')}</span></div><div class="q">${esc(n.qtd||'—')}</div></div>`}
+  h+=`<div class="nv ${esc(n.marca||'')}"><div><b>${esc(n.nome)}</b>${n.fundeado||n.marca||n.cais?`<div class="tg2">${n.fundeado?'<span class="fd">⚓ FUNDEADO</span>':''}${n.cais?`<span class="cx">⚓ ENTRA NO CAIS ${esc(n.cais)}</span>`:''}${n.marca?`<span class="mk${n.marca==='alterado'?' alt':''}">${n.marca==='novo'?'NOVO':'ALTERADO'}</span>`:''}</div>`:''}<div class="s">${n.previsao?'Previsão '+esc(n.previsao):'Sem previsão'}${n.operador?' · '+esc(n.operador):''}</div><span class="cg">${esc(n.carga||'—')}</span>${aisLinha(n.ais)}</div><div class="q">${esc(n.qtd||'—')}</div></div>`}
  $('#pl').innerHTML=h||'<div class="empty">Nenhum navio encontrado.</div>';pStatus()}
-async function programacao(){const d=await J('dados/programacao.json');if(d&&d.navios){PG=d;pgRender()}else if(!PG)$('#pl').innerHTML='<div class="empty">Ainda não há programação publicada.</div>';pStatus()}
+// ---- Mapa (AIS): posição = dado do transmissor do navio (aisstream.io); situação e distância = calculadas pelo robô
+const AISC={caminho:'#22c55e',fundeado:'#f59e0b',atracado:'#38bdf8',movimento:'#a78bfa',parado:'#94a3b8',outro:'#94a3b8',velho:'#64748b'},AISN={caminho:'a caminho',fundeado:'fundeado / parado na área',atracado:'atracado aqui',movimento:'navegando para outro destino',parado:'parado',outro:'em outro porto',velho:'sem sinal recente'};
+const hBR=d=>new Date(d).toLocaleString('pt-BR',{day:'2-digit',month:'2-digit',hour:'2-digit',minute:'2-digit'});
+function aisLinha(a){if(!a)return'';return`<div class="ais">🛰️ <b style="color:${AISC[a.situacao]||'inherit'}">${esc(a.texto||'')}</b>${a.eta?' · ETA do navio '+hBR(a.eta):''}${a.visto_em?' · sinal '+ago(a.visto_em):''}</div>`}
+let MAPA=null,MCAM=null,mapaOn=false,LFP=null;
+function leaflet(){if(window.L)return Promise.resolve();if(LFP)return LFP;LFP=new Promise((ok,er)=>{const c=document.createElement('link');c.rel='stylesheet';c.href='https://unpkg.com/leaflet@1.9.4/dist/leaflet.css';document.head.appendChild(c);
+ const j=document.createElement('script');j.src='https://unpkg.com/leaflet@1.9.4/dist/leaflet.js';j.onload=ok;j.onerror=()=>{LFP=null;er()};document.head.appendChild(j)});return LFP}
+function mapaRender(ajusta){if(!mapaOn||!PG)return;const com=[],vistos=new Set(),fora=[];
+ for(const n of PG.navios){if(vistos.has(n.nome))continue;vistos.add(n.nome);if(n.ais&&n.ais.lat!=null)com.push(n);else fora.push(n.nome)}
+ $('#pmleg').innerHTML=Object.keys(AISN).filter(k=>com.some(n=>n.ais.situacao===k)).map(k=>`<span><i style="background:${AISC[k]}"></i>${AISN[k]}</span>`).join('')+'<span>⚓ porto</span>';
+ $('#pmfora').innerHTML=(com.length?'':'<b>Nenhum navio da programação com sinal AIS agora.</b> ')+(fora.length?'Sem sinal na área (longe da costa ou AIS desligado): '+fora.map(esc).join(', ')+'.':'')+' <br>Posição: AIS do navio (aisstream.io). Situação e distância: calculadas pelo robô.';
+ leaflet().then(()=>{if(!MAPA){MAPA=L.map('pmap',{zoomControl:true,attributionControl:true}).setView([-23.81,-45.4],9);
+   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:17,attribution:'© OpenStreetMap'}).addTo(MAPA);MCAM=L.layerGroup().addTo(MAPA);ajusta=true}
+  MCAM.clearLayers();const pts=[];const P=PG.porto||{lat:-23.8105,lon:-45.401};pts.push([P.lat,P.lon]);
+  L.marker([P.lat,P.lon],{icon:L.divIcon({className:'',html:'<div class="nvi" style="font-size:20px">⚓</div>',iconSize:[26,26],iconAnchor:[13,13]})}).bindPopup('<b>Porto de São Sebastião</b>').addTo(MCAM);
+  for(const n of com){const a=n.ais,c=AISC[a.situacao]||'#94a3b8',gira=a.rumo!=null&&(a.sog||0)>=.5;
+   const ic=gira?`<svg width="22" height="22" viewBox="0 0 24 24" style="transform:rotate(${a.rumo}deg)"><path d="M12 2 19 21 12 17 5 21Z" fill="${c}" stroke="#fff" stroke-width="1.5"/></svg>`:`<svg width="16" height="16" viewBox="0 0 16 16"><circle cx="8" cy="8" r="6" fill="${c}" stroke="#fff" stroke-width="2"/></svg>`;
+   const pop=`<b>${esc(n.nome)}</b><br>${esc(n.carga||'')}${n.qtd?' · '+esc(n.qtd):''}<br>${esc(a.texto||'')}`+(a.destino?`<br>Destino no AIS: ${esc(a.destino)}`:'')+(a.eta?`<br>ETA do navio: ${hBR(a.eta)}`:'')+(n.previsao?`<br>Previsão da Docas: ${esc(n.previsao)}`:'')+(a.visto_em?`<br><small>sinal ${ago(a.visto_em)}</small>`:'');
+   L.marker([a.lat,a.lon],{icon:L.divIcon({className:'',html:`<div class="nvi">${ic}</div>`,iconSize:[26,26],iconAnchor:[13,13]})}).bindPopup(pop).bindTooltip(esc(n.nome),{permanent:true,direction:'right',offset:[10,0],className:'nvt'}).addTo(MCAM);pts.push([a.lat,a.lon])}
+  setTimeout(()=>{MAPA.invalidateSize();if(ajusta){pts.length>1?MAPA.fitBounds(pts,{padding:[40,40],maxZoom:12}):MAPA.setView(pts[0],11)}},60)
+ }).catch(()=>{$('#pmfora').innerHTML='Não consegui carregar o mapa (sem internet?). A situação de cada navio continua na lista.'})}
+function mapaLiga(on){mapaOn=on;$('#pmb').classList.toggle('on',on);$('#pmb').setAttribute('aria-pressed',on);$('#pmb').textContent=on?'📋 Lista':'🗺️ Mapa';$('#pmapa').classList.toggle('on',on);$('#pl').style.display=on?'none':'';if(on)mapaRender(true)}
+document.getElementById('pmb').onclick=()=>mapaLiga(!mapaOn);
+async function programacao(){const d=await J('dados/programacao.json');if(d&&d.navios){PG=d;pgRender();mapaRender(false)}else if(!PG)$('#pl').innerHTML='<div class="empty">Ainda não há programação publicada.</div>';pStatus()}
 // ---- Folhas (Programação e Multifunção): abrem pelo menu ☰; o botão Voltar do celular fecha a folha
 const FOLHAS={prog:()=>pgRender(),mf:()=>mfRender(),ev:()=>evRender()};
 function abreFolha(id){fechaMenu();document.querySelectorAll('#prog,#mf,#ev').forEach(x=>x.classList.remove('on'));$('#'+id).classList.add('on');
