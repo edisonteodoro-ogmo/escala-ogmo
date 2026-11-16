@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-16T16:54:27-03:00",
+ "atualizado_em": "2026-11-16T17:05:55-03:00",
  "lido_em": "2026-11-16T16:54:27-03:00",
  "total": 16,
  "navios": [
@@ -11,7 +11,20 @@
    "qtd": "15.692 t",
    "operador": "PRONAVE",
    "local": "DIRETO",
-   "situacao": "PROGRAMADO"
+   "situacao": "PROGRAMADO",
+   "ais": {
+    "mmsi": "311001626",
+    "nome_ais": "SAGA PIONEER",
+    "situacao": "caminho",
+    "texto": "navegando a 10.6 nós, a 54 mn · sem destino declarado",
+    "lat": -24.0291,
+    "lon": -46.3517,
+    "dist_mn": 53.8,
+    "visto_em": "2026-11-16T20:04:40+00:00",
+    "sog": 10.6,
+    "rumo": 206,
+    "status_ais": "navegando"
+   }
   },
   {
    "nome": "YOSOR",
@@ -22,7 +35,20 @@
    "operador": "LOG LOGÍSTICA",
    "local": "DIRETO",
    "situacao": "FUNDEADO",
-   "fundeado": true
+   "fundeado": true,
+   "ais": {
+    "mmsi": "677031200",
+    "nome_ais": "YOSOR",
+    "situacao": "fundeado",
+    "texto": "fundeado na área do porto (a 9.0 mn)",
+    "lat": -23.7044,
+    "lon": -45.2854,
+    "dist_mn": 9.0,
+    "visto_em": "2026-11-16T20:04:09+00:00",
+    "sog": 0.3,
+    "rumo": 236,
+    "status_ais": "fundeado"
+   }
   },
   {
    "nome": "ASTRO NEKKAR",
@@ -165,5 +191,10 @@
    "local": "ARMAZEM CDSS / ARMAZEM CDSS",
    "situacao": "PROGRAMADO"
   }
- ]
+ ],
+ "ais_navios": 2,
+ "porto": {
+  "lat": -23.8105,
+  "lon": -45.401
+ }
 }
