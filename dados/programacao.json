@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-16T19:38:23-03:00",
+ "atualizado_em": "2026-11-16T19:41:21-03:00",
  "lido_em": "2026-11-16T19:38:23-03:00",
  "total": 16,
  "navios": [
@@ -19,13 +19,13 @@
     "mmsi": "311001626",
     "nome_ais": "SAGA PIONEER",
     "situacao": "caminho",
-    "texto": "navegando a 12.3 nós, a 27 mn · destino São Sebastião",
-    "lat": -24.0222,
-    "lon": -45.8336,
-    "dist_mn": 26.9,
-    "visto_em": "2026-11-16T22:26:28+00:00",
-    "sog": 12.3,
-    "rumo": 75,
+    "texto": "navegando a 11.6 nós, a 24 mn · destino São Sebastião",
+    "lat": -24.0045,
+    "lon": -45.7868,
+    "dist_mn": 24.2,
+    "visto_em": "2026-11-16T22:40:39+00:00",
+    "sog": 11.6,
+    "rumo": 67,
     "calado": 8.4,
     "imo": 9380764,
     "status_ais": "navegando",
@@ -203,7 +203,7 @@
     "mmsi": 538007973,
     "status_ais": "fundeado",
     "destino_aqui": false,
-    "visto_em": "2026-11-16T22:09:39+00:00"
+    "visto_em": "2026-11-16T22:27:21+00:00"
    }
   },
   {
@@ -229,7 +229,12 @@
     "visto_em": "2026-11-16T21:48:50+00:00",
     "sog": 0.1,
     "rumo": 68,
-    "status_ais": "fundeado"
+    "calado": 6.5,
+    "imo": 9431460,
+    "status_ais": "fundeado",
+    "destino": "BRITJ",
+    "destino_aqui": false,
+    "eta": "2026-11-12T16:00+00:00"
    }
   },
   {
@@ -246,12 +251,12 @@
     "nome_ais": "PACIFIC ROSE",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 2.1 mn)",
-    "lat": -23.8374,
+    "lat": -23.8376,
     "lon": -45.4247,
     "dist_mn": 2.1,
-    "visto_em": "2026-11-16T22:26:10+00:00",
-    "sog": 0.2,
-    "rumo": 197,
+    "visto_em": "2026-11-16T22:41:14+00:00",
+    "sog": 0.1,
+    "rumo": 317,
     "calado": 7.7,
     "imo": 9045936,
     "status_ais": "fundeado",
