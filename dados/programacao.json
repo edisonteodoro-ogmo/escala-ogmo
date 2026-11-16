@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-16T20:09:25-03:00",
+ "atualizado_em": "2026-11-16T20:12:02-03:00",
  "lido_em": "2026-11-16T20:09:25-03:00",
  "total": 16,
  "navios": [
@@ -195,7 +195,7 @@
     "link": "https://www.vesselfinder.com/?imo=9474254",
     "destino": "Santos Anch., Brazil",
     "chegou": "2026-11-15T19:24+00:00",
-    "sog": 0.2,
+    "sog": 0.1,
     "calado": "10.2 m",
     "ultimo_porto": "San Lorenzo, Argentina",
     "saida": "2026-11-11T01:53+00:00",
@@ -203,7 +203,7 @@
     "mmsi": 538007973,
     "status_ais": "fundeado",
     "destino_aqui": false,
-    "visto_em": "2026-11-16T22:27:21+00:00"
+    "visto_em": "2026-11-16T23:06:02+00:00"
    }
   },
   {
