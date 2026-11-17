@@ -77,7 +77,7 @@ header h1{padding-right:46px}@media(max-width:420px){header h1{font-size:1.15rem
 .pbar{display:flex;gap:8px;margin-bottom:8px}.pbar #pq{margin-bottom:0;flex:1;min-width:0}#pmb{font:inherit;font-weight:700;white-space:nowrap;border:1px solid var(--ac);background:var(--card);color:var(--ac);border-radius:12px;padding:0 12px;cursor:pointer}#pmb.on{background:var(--ac);color:#fff}
 #pmapa{display:none}#pmapa.on{display:block}#pmap{height:58vh;height:58dvh;min-height:300px;border-radius:14px;border:1px solid var(--bd);overflow:hidden;background:var(--card);z-index:0}
 .mleg{display:flex;flex-wrap:wrap;gap:6px 12px;font-size:.74rem;color:var(--mut);margin:8px 2px}.mleg i{display:inline-block;width:10px;height:10px;border-radius:50%;margin-right:4px;vertical-align:-1px}.mfora{font-size:.8rem;color:var(--mut);margin:6px 2px}.mfora b{color:var(--tx)}
-.ais{grid-column:1;font-size:.76rem;color:var(--mut);margin-top:4px}.ais b{font-size:.76rem;font-weight:700}.ais a,.mfora a{color:var(--ac);font-weight:700;text-decoration:none;white-space:nowrap}
+.ais{grid-column:1;font-size:.76rem;color:var(--mut);margin-top:4px}.ais b{font-size:.76rem;font-weight:700}.etan{grid-column:1/-1;font-size:.78rem;color:var(--mut);margin-top:6px}.etan b{font-weight:700}.etan a,.ais a,.mfora a{color:var(--ac);font-weight:700;text-decoration:none;white-space:nowrap}
 .nvi{width:26px;height:26px;display:flex;align-items:center;justify-content:center}.nvi svg{filter:drop-shadow(0 1px 2px #0009)}.nvt{background:#000c;color:#fff;border:0;border-radius:6px;padding:1px 6px;font-size:.68rem;font-weight:700;box-shadow:none}.nvt:before{display:none}
 .nv.novo{border-color:#e0a800}.nv.alterado{border-color:#e8731a}
 /* ---- Multifunção */
@@ -226,6 +226,11 @@ function padraoP(){let alvo=null;for(const d of PD.dias)for(const k of chaves(d)
 const cont=j=>{const cs=(j.cargas||[]).filter(x=>x&&x.carga),ob=(j.obs||'').trim(),rs=(j.resumo||'').trim();if(!cs.length&&!ob)return '';
  return '<div class="cont">'+(cs.length?cs.map(x=>`<div>📦 <b>${esc(x.carga)}</b>${x.tons?' · '+Number(x.tons).toLocaleString('pt-BR'):''}${x.qtd?' · qtd '+esc(x.qtd):''}</div>`).join(''):'')
   +(rs?`<div class="rs">📦 <b>${esc(rs)}</b></div><details class="orig"><summary>texto do OGMO</summary><i>${esc(ob)}</i></details>`:(ob?`<div>📝 <i>${esc(ob)}</i></div>`:''))+'</div>'};
+// ETA do navio no card do período: vem da Programação (VesselFinder/AIS do navio). Liga pelo nome da Docas ou pelo nome no AIS.
+const nmN=t=>String(t||'').toUpperCase().normalize('NFD').replace(/[^A-Z0-9]+/g,' ').trim();
+function etaNavio(nome){if(typeof PG==='undefined'||!PG||!PG.navios)return'';const k=nmN(nome),n=PG.navios.find(x=>x.ais&&(nmN(x.nome)===k||nmN(x.ais.nome_ais)===k));if(!n)return'';const a=n.ais;
+ const tx=a.eta&&(a.situacao==='caminho'||a.situacao==='movimento')?`ETA ${hBR(a.eta)} · ${esc(a.texto||'')}`:esc(a.texto||'');
+ return tx?`<div class="etan">🛰️ <b style="color:${AISC[a.situacao]||'inherit'}">${tx}</b>${a.visto_em?' · sinal '+ago(a.visto_em):''}${a.link?` · <a href="${esc(a.link)}" target="_blank" rel="noopener">ver no mapa ↗</a>`:''}</div>`:''}
 function pRender(){
  const dia=PD.dias.find(d=>d.data===pDia)||PD.dias[0],ks=chaves(dia);if(!ks.includes(String(pPer)))pPer=ks[0];
  $('#pdias').innerHTML=PD.dias.map(d=>`<button class="${d.data===dia.data?'on':''}" data-d="${d.data}">${esc(rotDia(d.data))}</button>`).join('');
@@ -237,7 +242,7 @@ function pRender(){
  $('#pdsc').innerHTML=`Serviços que usam estivadores · <b>${rotP(dia,pPer).replace('–','h–')}h</b>`+((pPer==3||pPer==4)&&std?' (chamada 19h + 01h)':'')+(std?'':' · período extra');
  $('#plista').innerHTML=lst.length?lst.map(j=>{const t=j.ternos||1,cats=(j.categorias||[]).map(c=>`<span class="tag${/estivador/i.test(c)?' est':''}">${esc(c)}</span>`).join('');
   const pos=j.posicao?`<span class="tag pos">📍 ${esc(j.posicao)}</span>`:'',rn=j.rancho?(j.emergencia?'Rancho de Emergência':'Rancho'):(j.emergencia?'Emergência':'');
-  return `<div class="card job"><div class="ic">${j.rancho?'⚓':'🚢'}</div><div class="nm"><b>${esc(j.navio)}</b>${j.operador?`<span class="opc">${esc(j.operador)}</span>`:''}<div class="sub">${rn?esc(rn)+' · ':''}req. ${esc(j.req)}${j.extra?' · '+esc(String(j.extra).replace(/^📍\s*/,'')):''}</div></div><div class="tern"><strong>${t}</strong>terno${t>1?'s':''}</div><div class="tags">${cats}${rn?`<span class="tag ran">${esc(rn)}</span>`:''}${pos}</div>${cont(j)}</div>`}).join('')
+  return `<div class="card job"><div class="ic">${j.rancho?'⚓':'🚢'}</div><div class="nm"><b>${esc(j.navio)}</b>${j.operador?`<span class="opc">${esc(j.operador)}</span>`:''}<div class="sub">${rn?esc(rn)+' · ':''}req. ${esc(j.req)}${j.extra?' · '+esc(String(j.extra).replace(/^📍\s*/,'')):''}</div></div><div class="tern"><strong>${t}</strong>terno${t>1?'s':''}</div><div class="tags">${cats}${rn?`<span class="tag ran">${esc(rn)}</span>`:''}${pos}</div>${j.onde?'':etaNavio(j.navio)}${cont(j)}</div>`}).join('')
   :'<div class="empty">Sem serviço com estivadores neste período.</div>';
  const c=$('#pchip'),h=(Date.now()-new Date(PD.atualizado_em))/36e5;c.hidden=false;c.className='chip'+(h>2?' old':'');c.textContent='● lido '+ago(PD.atualizado_em)}
 async function periodos(){const d=await J('dados/periodos.json');
@@ -266,7 +271,7 @@ function pgRender(){if(!PG||!PG.navios){$('#pl').innerHTML='<div class="empty">A
 // ---- Mapa (AIS): posição = dado do transmissor do navio (aisstream.io); situação e distância = calculadas pelo robô
 const AISC={caminho:'#22c55e',fundeado:'#f59e0b',atracado:'#38bdf8',movimento:'#a78bfa',parado:'#94a3b8',outro:'#94a3b8',velho:'#64748b'},AISN={caminho:'a caminho',fundeado:'fundeado / parado na área',atracado:'atracado aqui',movimento:'navegando para outro destino',parado:'parado',outro:'em outro porto',velho:'sem sinal recente'};
 const hBR=d=>new Date(d).toLocaleString('pt-BR',{day:'2-digit',month:'2-digit',hour:'2-digit',minute:'2-digit'});
-function aisLinha(a){if(!a)return'';return`<div class="ais">🛰️ <b style="color:${AISC[a.situacao]||'inherit'}">${esc(a.texto||'')}</b>${a.eta?' · ETA do navio '+hBR(a.eta):''}${a.visto_em?' · sinal '+ago(a.visto_em):''}${a.link?` · <a href="${esc(a.link)}" target="_blank" rel="noopener">ver no mapa ↗</a>`:''}</div>`}
+function aisLinha(a){if(!a)return'';return`<div class="ais">🛰️ <b style="color:${AISC[a.situacao]||'inherit'}">${esc(a.texto||'')}</b>${a.eta&&(a.situacao==='caminho'||a.situacao==='movimento')?' · ETA do navio '+hBR(a.eta):''}${a.visto_em?' · sinal '+ago(a.visto_em):''}${a.link?` · <a href="${esc(a.link)}" target="_blank" rel="noopener">ver no mapa ↗</a>`:''}</div>`}
 let MAPA=null,MCAM=null,mapaOn=false,LFP=null;
 function leaflet(){if(window.L)return Promise.resolve();if(LFP)return LFP;LFP=new Promise((ok,er)=>{const c=document.createElement('link');c.rel='stylesheet';c.href='https://unpkg.com/leaflet@1.9.4/dist/leaflet.css';document.head.appendChild(c);
  const j=document.createElement('script');j.src='https://unpkg.com/leaflet@1.9.4/dist/leaflet.js';j.onload=ok;j.onerror=()=>{LFP=null;er()};document.head.appendChild(j)});return LFP}
@@ -280,13 +285,13 @@ function mapaRender(ajusta){if(!mapaOn||!PG)return;const com=[],vistos=new Set()
   L.marker([P.lat,P.lon],{icon:L.divIcon({className:'',html:'<div class="nvi" style="font-size:20px">⚓</div>',iconSize:[26,26],iconAnchor:[13,13]})}).bindPopup('<b>Porto de São Sebastião</b>').addTo(MCAM);
   for(const n of com){const a=n.ais,c=AISC[a.situacao]||'#94a3b8',gira=a.rumo!=null&&(a.sog||0)>=.5;
    const ic=gira?`<svg width="22" height="22" viewBox="0 0 24 24" style="transform:rotate(${a.rumo}deg)"><path d="M12 2 19 21 12 17 5 21Z" fill="${c}" stroke="#fff" stroke-width="1.5"/></svg>`:`<svg width="16" height="16" viewBox="0 0 16 16"><circle cx="8" cy="8" r="6" fill="${c}" stroke="#fff" stroke-width="2"/></svg>`;
-   const pop=`<b>${esc(n.nome)}</b><br>${esc(n.carga||'')}${n.qtd?' · '+esc(n.qtd):''}<br>${esc(a.texto||'')}`+(a.destino?`<br>Destino no AIS: ${esc(a.destino)}`:'')+(a.eta?`<br>ETA do navio: ${hBR(a.eta)}`:'')+(n.previsao?`<br>Previsão da Docas: ${esc(n.previsao)}`:'')+(a.visto_em?`<br><small>sinal ${ago(a.visto_em)}</small>`:'');
+   const pop=`<b>${esc(n.nome)}</b><br>${esc(n.carga||'')}${n.qtd?' · '+esc(n.qtd):''}<br>${esc(a.texto||'')}`+(a.destino?`<br>Destino no AIS: ${esc(a.destino)}`:'')+(a.eta&&(a.situacao==='caminho'||a.situacao==='movimento')?`<br>ETA do navio: ${hBR(a.eta)}`:'')+(n.previsao?`<br>Previsão da Docas: ${esc(n.previsao)}`:'')+(a.visto_em?`<br><small>sinal ${ago(a.visto_em)}</small>`:'');
    L.marker([a.lat,a.lon],{icon:L.divIcon({className:'',html:`<div class="nvi">${ic}</div>`,iconSize:[26,26],iconAnchor:[13,13]})}).bindPopup(pop).bindTooltip(esc(n.nome),{permanent:true,direction:'right',offset:[10,0],className:'nvt'}).addTo(MCAM);pts.push([a.lat,a.lon])}
   setTimeout(()=>{MAPA.invalidateSize();if(ajusta){pts.length>1?MAPA.fitBounds(pts,{padding:[40,40],maxZoom:12}):MAPA.setView(pts[0],11)}},60)
  }).catch(()=>{$('#pmfora').innerHTML='Não consegui carregar o mapa (sem internet?). A situação de cada navio continua na lista.'})}
 function mapaLiga(on){mapaOn=on;$('#pmb').classList.toggle('on',on);$('#pmb').setAttribute('aria-pressed',on);$('#pmb').textContent=on?'📋 Lista':'🗺️ Mapa';$('#pmapa').classList.toggle('on',on);$('#pl').style.display=on?'none':'';if(on)mapaRender(true)}
 document.getElementById('pmb').onclick=()=>mapaLiga(!mapaOn);
-async function programacao(){const d=await J('dados/programacao.json');if(d&&d.navios){PG=d;pgRender();mapaRender(false)}else if(!PG)$('#pl').innerHTML='<div class="empty">Ainda não há programação publicada.</div>';pStatus()}
+async function programacao(){const d=await J('dados/programacao.json');if(d&&d.navios){PG=d;pgRender();mapaRender(false);if(typeof PD!=='undefined'&&PD&&PD.dias)pRender()}else if(!PG)$('#pl').innerHTML='<div class="empty">Ainda não há programação publicada.</div>';pStatus()}
 // ---- Folhas (Programação e Multifunção): abrem pelo menu ☰; o botão Voltar do celular fecha a folha
 const FOLHAS={prog:()=>pgRender(),mf:()=>mfRender(),ev:()=>evRender()};
 function abreFolha(id){fechaMenu();document.querySelectorAll('#prog,#mf,#ev').forEach(x=>x.classList.remove('on'));$('#'+id).classList.add('on');
