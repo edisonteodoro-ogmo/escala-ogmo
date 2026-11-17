@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-17T17:45:13-03:00",
- "lido_em": "2026-11-17T16:20:21-03:00",
+ "atualizado_em": "2026-11-17T17:55:39-03:00",
+ "lido_em": "2026-11-17T17:55:39-03:00",
  "total": 16,
  "navios": [
   {
@@ -21,11 +21,11 @@
     "situacao": "atracado",
     "texto": "atracado em São Sebastião",
     "lat": -23.811,
-    "lon": -45.3967,
+    "lon": -45.3966,
     "dist_mn": 0.2,
-    "visto_em": "2026-11-17T20:29:21+00:00",
+    "visto_em": "2026-11-17T20:55:29+00:00",
     "sog": 0,
-    "rumo": 226,
+    "rumo": 225,
     "calado": 8.4,
     "imo": 9380764,
     "status_ais": "atracado",
