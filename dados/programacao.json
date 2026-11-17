@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-17T06:03:23-03:00",
+ "atualizado_em": "2026-11-17T06:08:21-03:00",
  "lido_em": "2026-11-17T06:00:54-03:00",
  "total": 16,
  "navios": [
@@ -160,7 +160,7 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "velho",
-    "texto": "sem sinal há 43 h",
+    "texto": "sem sinal há 44 h",
     "nome_ais": "ELISABETTA",
     "link": "https://www.vesselfinder.com/?imo=1058145",
     "destino": "Callao, Peru",
@@ -173,7 +173,7 @@
     "mmsi": 538012957,
     "status_ais": "-",
     "destino_aqui": false,
-    "visto_em": "2026-11-15T13:36:10+00:00"
+    "visto_em": "2026-11-15T13:08:21+00:00"
    }
   },
   {
