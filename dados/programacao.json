@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-17T15:39:31-03:00",
+ "atualizado_em": "2026-11-17T15:42:17-03:00",
  "lido_em": "2026-11-17T15:30:53-03:00",
  "total": 16,
  "navios": [
@@ -335,7 +335,7 @@
     "mmsi": 370141000,
     "status_ais": "atracado",
     "destino_aqui": false,
-    "visto_em": "2026-11-17T18:08:32+00:00"
+    "visto_em": "2026-11-17T18:41:17+00:00"
    }
   },
   {
@@ -349,21 +349,21 @@
    "situacao": "PROGRAMADO",
    "ais": {
     "fonte": "vesselfinder",
-    "situacao": "velho",
-    "texto": "sem sinal há 6 dias",
+    "situacao": "caminho",
+    "texto": "a caminho de São Sebastião a 13.3 nós",
     "nome_ais": "BLUE OCEAN A",
     "link": "https://www.vesselfinder.com/?imo=9045089",
     "destino": "Sao Sebastiao, Brazil",
     "eta": "2026-11-17T12:00+00:00",
-    "sog": 14.5,
+    "sog": 13.3,
     "calado": "6.7 m",
     "ultimo_porto": "Tarragona, Spain",
     "saida": "2026-10-30T23:46+00:00",
     "imo": 9045089,
     "mmsi": 341515002,
-    "status_ais": "-",
+    "status_ais": "navegando",
     "destino_aqui": true,
-    "visto_em": "2026-11-11T18:10:32+00:00"
+    "visto_em": "2026-11-17T18:23:17+00:00"
    }
   },
   {
