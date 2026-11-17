@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-17T03:31:22-03:00",
+ "atualizado_em": "2026-11-17T03:34:04-03:00",
  "lido_em": "2026-11-17T03:26:46-03:00",
  "total": 16,
  "navios": [
@@ -300,7 +300,7 @@
     "mmsi": 372612000,
     "status_ais": "atracado",
     "destino_aqui": false,
-    "visto_em": "2026-11-17T06:01:31+00:00"
+    "visto_em": "2026-11-17T06:32:04+00:00"
    }
   },
   {
@@ -320,7 +320,7 @@
     "link": "https://www.vesselfinder.com/?imo=8417625",
     "destino": "CAR ES",
     "eta": "2026-11-08T18:00+00:00",
-    "sog": 0.0,
+    "sog": 0.1,
     "calado": "8.1 m",
     "ultimo_porto": "Escombreras, Spain",
     "saida": "2026-11-16T23:50+00:00",
@@ -328,7 +328,7 @@
     "mmsi": 370141000,
     "status_ais": "atracado",
     "destino_aqui": false,
-    "visto_em": "2026-11-17T06:02:31+00:00"
+    "visto_em": "2026-11-17T06:32:04+00:00"
    }
   },
   {
