@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-17T16:20:21-03:00",
+ "atualizado_em": "2026-11-17T16:25:42-03:00",
  "lido_em": "2026-11-17T16:20:21-03:00",
  "total": 16,
  "navios": [
@@ -23,9 +23,9 @@
     "lat": -23.811,
     "lon": -45.3967,
     "dist_mn": 0.2,
-    "visto_em": "2026-11-17T18:46:57+00:00",
+    "visto_em": "2026-11-17T19:25:05+00:00",
     "sog": 0,
-    "rumo": 226,
+    "rumo": 225,
     "calado": 8.4,
     "imo": 9380764,
     "status_ais": "atracado",
@@ -92,7 +92,7 @@
     "mmsi": 538006205,
     "status_ais": "atracado",
     "destino_aqui": true,
-    "visto_em": "2026-11-17T18:52:56+00:00"
+    "visto_em": "2026-11-17T19:22:42+00:00"
    }
   },
   {
@@ -138,12 +138,12 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "movimento",
-    "texto": "navegando a 9.3 nós · destino Singapore, Singapore",
+    "texto": "navegando a 9.0 nós · destino Singapore, Singapore",
     "nome_ais": "OCEAN ENDEAVOR",
     "link": "https://www.vesselfinder.com/?imo=1023592",
     "destino": "Singapore, Singapore",
     "eta": "2026-11-18T07:00+00:00",
-    "sog": 9.3,
+    "sog": 9.0,
     "calado": "8.9 m",
     "ultimo_porto": "Fukuyama, Hiroshima Anch., Japan",
     "saida": "2026-11-08T04:30+00:00",
@@ -151,7 +151,7 @@
     "mmsi": 352005752,
     "status_ais": "navegando",
     "destino_aqui": false,
-    "visto_em": "2026-11-17T18:47:56+00:00"
+    "visto_em": "2026-11-17T19:24:42+00:00"
    }
   },
   {
@@ -197,14 +197,14 @@
     "saida": "2026-11-11T01:53+00:00",
     "mmsi": "538007973",
     "nome_ais": "V ISALOS",
-    "situacao": "velho",
-    "texto": "sem sinal há 12 h (última posição a 56 mn)",
-    "lat": -24.1796,
-    "lon": -46.3355,
+    "situacao": "outro",
+    "texto": "fundeado longe daqui (a 56 mn)",
+    "lat": -24.1791,
+    "lon": -46.3353,
     "dist_mn": 55.8,
-    "visto_em": "2026-11-17T06:18:23+00:00",
-    "sog": 0.3,
-    "rumo": 96,
+    "visto_em": "2026-11-17T19:21:26+00:00",
+    "sog": 0.1,
+    "rumo": 132,
     "calado": 10.2,
     "imo": 9474254,
     "status_ais": "fundeado",
@@ -394,12 +394,12 @@
     "nome_ais": "WHITE PEARL",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 8.4 mn)",
-    "lat": -23.6945,
-    "lon": -45.3156,
+    "lat": -23.6944,
+    "lon": -45.3155,
     "dist_mn": 8.4,
-    "visto_em": "2026-11-17T19:10:42+00:00",
-    "sog": 0.4,
-    "rumo": 120,
+    "visto_em": "2026-11-17T19:25:27+00:00",
+    "sog": 0.1,
+    "rumo": 96,
     "calado": 5,
     "imo": 7615309,
     "status_ais": "fundeado",
