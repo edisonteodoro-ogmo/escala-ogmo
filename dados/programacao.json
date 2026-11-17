@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-17T02:28:42-03:00",
+ "atualizado_em": "2026-11-17T02:31:17-03:00",
  "lido_em": "2026-11-17T02:21:18-03:00",
  "total": 16,
  "navios": [
@@ -217,12 +217,12 @@
     "nome_ais": "PACIFICA",
     "situacao": "outro",
     "texto": "fundeado longe daqui (a 251 mn)",
-    "lat": -26.9018,
+    "lat": -26.902,
     "lon": -48.5136,
     "dist_mn": 250.9,
-    "visto_em": "2026-11-17T05:13:06+00:00",
+    "visto_em": "2026-11-17T05:30:54+00:00",
     "sog": 0.2,
-    "rumo": 109,
+    "rumo": 80,
     "calado": 6.5,
     "imo": 9431460,
     "status_ais": "fundeado",
@@ -293,7 +293,7 @@
     "mmsi": 372612000,
     "status_ais": "atracado",
     "destino_aqui": false,
-    "visto_em": "2026-11-17T04:56:07+00:00"
+    "visto_em": "2026-11-17T05:29:17+00:00"
    }
   },
   {
@@ -321,7 +321,7 @@
     "mmsi": 370141000,
     "status_ais": "atracado",
     "destino_aqui": false,
-    "visto_em": "2026-11-17T04:59:07+00:00"
+    "visto_em": "2026-11-17T05:29:17+00:00"
    }
   },
   {
