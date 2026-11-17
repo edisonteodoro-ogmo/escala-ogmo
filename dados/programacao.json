@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-16T21:14:21-03:00",
+ "atualizado_em": "2026-11-16T21:17:01-03:00",
  "lido_em": "2026-11-16T21:11:57-03:00",
  "total": 16,
  "navios": [
@@ -299,7 +299,7 @@
     "mmsi": 372612000,
     "status_ais": "atracado",
     "destino_aqui": false,
-    "visto_em": "2026-11-16T23:43:54+00:00"
+    "visto_em": "2026-11-17T00:14:01+00:00"
    }
   },
   {
@@ -313,21 +313,21 @@
    "situacao": "PROGRAMADO",
    "ais": {
     "fonte": "vesselfinder",
-    "situacao": "movimento",
-    "texto": "navegando a 0.7 nós · destino CAR ES",
+    "situacao": "outro",
+    "texto": "atracado em Cartagena Anch., Spain · destino CAR ES",
     "nome_ais": "BANA",
     "link": "https://www.vesselfinder.com/?imo=8417625",
     "destino": "CAR ES",
     "eta": "2026-11-08T18:00+00:00",
-    "sog": 0.7,
+    "sog": 0.0,
     "calado": "8.1 m",
     "ultimo_porto": "Cartagena Anch., Spain",
     "saida": "2026-11-16T21:53+00:00",
     "imo": 8417625,
     "mmsi": 370141000,
-    "status_ais": "navegando",
+    "status_ais": "atracado",
     "destino_aqui": false,
-    "visto_em": "2026-11-16T23:46:54+00:00"
+    "visto_em": "2026-11-17T00:14:01+00:00"
    }
   },
   {
