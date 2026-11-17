@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-17T12:32:55-03:00",
+ "atualizado_em": "2026-11-17T12:45:17-03:00",
  "lido_em": "2026-11-17T12:32:55-03:00",
  "total": 16,
  "navios": [
@@ -389,12 +389,12 @@
     "nome_ais": "WHITE PEARL",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 8.4 mn)",
-    "lat": -23.6943,
+    "lat": -23.6942,
     "lon": -45.3149,
     "dist_mn": 8.4,
-    "visto_em": "2026-11-17T15:04:24+00:00",
-    "sog": 0.3,
-    "rumo": 119,
+    "visto_em": "2026-11-17T15:40:26+00:00",
+    "sog": 0.2,
+    "rumo": 131,
     "calado": 5,
     "imo": 7615309,
     "status_ais": "fundeado",
