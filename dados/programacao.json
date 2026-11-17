@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-17T17:57:53-03:00",
+ "atualizado_em": "2026-11-17T18:07:55-03:00",
  "lido_em": "2026-11-17T17:55:39-03:00",
  "total": 16,
  "navios": [
@@ -21,9 +21,9 @@
     "situacao": "atracado",
     "texto": "atracado em São Sebastião",
     "lat": -23.811,
-    "lon": -45.3966,
+    "lon": -45.3967,
     "dist_mn": 0.2,
-    "visto_em": "2026-11-17T20:55:29+00:00",
+    "visto_em": "2026-11-17T20:58:42+00:00",
     "sog": 0,
     "rumo": 225,
     "calado": 8.4,
@@ -179,7 +179,7 @@
     "mmsi": 538012957,
     "status_ais": "-",
     "destino_aqui": false,
-    "visto_em": "2026-11-15T20:37:33+00:00"
+    "visto_em": "2026-11-15T21:07:55+00:00"
    }
   },
   {
@@ -393,12 +393,12 @@
     "nome_ais": "WHITE PEARL",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 8.4 mn)",
-    "lat": -23.6944,
-    "lon": -45.3155,
+    "lat": -23.6945,
+    "lon": -45.3157,
     "dist_mn": 8.4,
-    "visto_em": "2026-11-17T20:43:23+00:00",
-    "sog": 0,
-    "rumo": 106,
+    "visto_em": "2026-11-17T21:04:26+00:00",
+    "sog": 0.2,
+    "rumo": 124,
     "calado": 5,
     "imo": 7615309,
     "status_ais": "fundeado",
