@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-17T12:27:51-03:00",
- "lido_em": "2026-11-17T12:20:20-03:00",
+ "atualizado_em": "2026-11-17T12:32:55-03:00",
+ "lido_em": "2026-11-17T12:32:55-03:00",
  "total": 16,
  "navios": [
   {
@@ -224,13 +224,13 @@
     "mmsi": "565227000",
     "nome_ais": "PACIFICA",
     "situacao": "movimento",
-    "texto": "navegando a 7.7 nós, a 252 mn · destino declarado: BRITJ",
-    "lat": -26.9067,
-    "lon": -48.5491,
-    "dist_mn": 252.4,
-    "visto_em": "2026-11-17T15:18:59+00:00",
-    "sog": 7.7,
-    "rumo": 280,
+    "texto": "navegando a 8.8 nós, a 254 mn · destino declarado: BRITJ",
+    "lat": -26.9072,
+    "lon": -48.5864,
+    "dist_mn": 253.8,
+    "visto_em": "2026-11-17T15:33:00+00:00",
+    "sog": 8.8,
+    "rumo": 259,
     "calado": 6.4,
     "imo": 9431460,
     "status_ais": "navegando",
@@ -330,7 +330,7 @@
     "mmsi": 370141000,
     "status_ais": "atracado",
     "destino_aqui": false,
-    "visto_em": "2026-11-17T14:59:16+00:00"
+    "visto_em": "2026-11-17T15:32:01+00:00"
    }
   },
   {
@@ -358,7 +358,7 @@
     "mmsi": 341515002,
     "status_ais": "-",
     "destino_aqui": true,
-    "visto_em": "2026-11-11T15:00:16+00:00"
+    "visto_em": "2026-11-11T15:33:01+00:00"
    }
   },
   {
