@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-17T14:35:28-03:00",
+ "atualizado_em": "2026-11-17T15:39:38-03:00",
  "dias": [
   {
    "data": "2026-11-17",
@@ -36,8 +36,38 @@
       "onde": true
      }
     ],
-    "3": [],
-    "4": []
+    "3": [
+     {
+      "req": 60987,
+      "navio": "SAGA PIONEER",
+      "operador": "PRONAVE",
+      "ternos": 6,
+      "categorias": [
+       "Arrumador",
+       "Conferente",
+       "Estivador"
+      ],
+      "rancho": false,
+      "extra": "🛰️ atracado em São Sebastião",
+      "onde": true
+     }
+    ],
+    "4": [
+     {
+      "req": 60988,
+      "navio": "SAGA PIONEER",
+      "operador": "PRONAVE",
+      "ternos": 6,
+      "categorias": [
+       "Arrumador",
+       "Conferente",
+       "Estivador"
+      ],
+      "rancho": false,
+      "extra": "🛰️ atracado em São Sebastião",
+      "onde": true
+     }
+    ]
    },
    "desc": {
     "1": "07-13",
@@ -69,6 +99,20 @@
         "qtd": 1
        }
       ]
+     },
+     {
+      "req": 60989,
+      "navio": "SAGA PIONEER",
+      "operador": "PRONAVE",
+      "ternos": 6,
+      "categorias": [
+       "Arrumador",
+       "Conferente",
+       "Estivador"
+      ],
+      "rancho": false,
+      "extra": "🛰️ atracado em São Sebastião",
+      "onde": true
      }
     ],
     "2": [],
