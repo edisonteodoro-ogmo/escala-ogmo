@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-17T19:05:09-03:00",
+ "atualizado_em": "2026-11-17T19:11:19-03:00",
  "atual": "17/11 1h",
  "anterior": "17/11 19h",
  "categorias": [
@@ -882,7 +882,7 @@
    "num": 431,
    "nome": "BRUNO CHAVES",
    "cat": "Estivador",
-   "st": "agora",
+   "st": "11h",
    "est": 55
   },
   {
@@ -895,7 +895,7 @@
    "num": 433,
    "nome": "BRUNO BUGARIN DOS SANTOS GUERRA",
    "cat": "Estivador",
-   "st": "11h",
+   "st": "agora",
    "est": 56
   },
   {
