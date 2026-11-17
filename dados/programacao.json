@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-17T18:38:20-03:00",
- "lido_em": "2026-11-17T18:26:23-03:00",
+ "atualizado_em": "2026-11-17T18:41:27-03:00",
+ "lido_em": "2026-11-17T18:41:27-03:00",
  "total": 16,
  "navios": [
   {
@@ -110,14 +110,14 @@
     "saida": "2026-11-05T05:54+00:00",
     "mmsi": "244830401",
     "nome_ais": "HANZE GENUA",
-    "situacao": "velho",
-    "texto": "sem sinal há 11 h (última posição a 9 mn)",
-    "lat": -23.7096,
-    "lon": -45.272,
+    "situacao": "fundeado",
+    "texto": "fundeado na área do porto (a 9.3 mn)",
+    "lat": -23.7098,
+    "lon": -45.2721,
     "dist_mn": 9.3,
-    "visto_em": "2026-11-17T10:10:52+00:00",
-    "sog": 0.1,
-    "rumo": 123,
+    "visto_em": "2026-11-17T21:40:56+00:00",
+    "sog": 0.2,
+    "rumo": 113,
     "calado": 8.5,
     "imo": 9746970,
     "status_ais": "fundeado",
@@ -229,7 +229,7 @@
     "mmsi": "565227000",
     "nome_ais": "PACIFICA",
     "situacao": "velho",
-    "texto": "sem sinal há 5 h (última posição a 254 mn)",
+    "texto": "sem sinal há 6 h (última posição a 254 mn)",
     "lat": -26.9072,
     "lon": -48.5864,
     "dist_mn": 253.8,
@@ -307,7 +307,7 @@
     "mmsi": 372612000,
     "status_ais": "atracado",
     "destino_aqui": false,
-    "visto_em": "2026-11-17T21:10:59+00:00"
+    "visto_em": "2026-11-17T21:40:27+00:00"
    }
   },
   {
