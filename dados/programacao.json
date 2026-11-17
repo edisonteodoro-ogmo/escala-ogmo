@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-17T01:32:46-03:00",
+ "atualizado_em": "2026-11-17T01:44:10-03:00",
  "lido_em": "2026-11-17T01:32:46-03:00",
  "total": 16,
  "navios": [
@@ -110,13 +110,13 @@
     "mmsi": "244830401",
     "nome_ais": "HANZE GENUA",
     "situacao": "caminho",
-    "texto": "navegando a 12.8 nós, a 19 mn · sem destino declarado",
-    "lat": -23.675,
-    "lon": -45.0983,
-    "dist_mn": 18.5,
-    "visto_em": "2026-11-17T04:28:18+00:00",
-    "sog": 12.8,
-    "rumo": 262,
+    "texto": "navegando a 12.4 nós, a 16 mn · sem destino declarado",
+    "lat": -23.6804,
+    "lon": -45.1402,
+    "dist_mn": 16.3,
+    "visto_em": "2026-11-17T04:39:17+00:00",
+    "sog": 12.4,
+    "rumo": 263,
     "status_ais": "navegando"
    }
   },
@@ -248,7 +248,7 @@
     "lat": -23.8375,
     "lon": -45.4247,
     "dist_mn": 2.1,
-    "visto_em": "2026-11-17T04:26:12+00:00",
+    "visto_em": "2026-11-17T04:38:11+00:00",
     "sog": 0,
     "calado": 7.7,
     "imo": 9045936,
