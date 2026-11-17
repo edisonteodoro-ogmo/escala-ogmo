@@ -1,61 +1,6 @@
 {
- "atualizado_em": "2026-11-16T23:45:17-03:00",
+ "atualizado_em": "2026-11-17T04:54:51-03:00",
  "dias": [
-  {
-   "data": "2026-11-16",
-   "periodos": {
-    "1": [],
-    "2": [
-     {
-      "req": 60944,
-      "navio": "GARRINCHA",
-      "operador": "PHOENIX SHIPPING",
-      "ternos": 1,
-      "categorias": [
-       "Arrumador",
-       "Conferente",
-       "Estivador"
-      ],
-      "rancho": true
-     },
-     {
-      "req": 60954,
-      "navio": "PS IMABARI",
-      "operador": "AQUARIUS",
-      "ternos": 1,
-      "categorias": [
-       "Arrumador",
-       "Conferente",
-       "Estivador"
-      ],
-      "rancho": true
-     }
-    ],
-    "3": [],
-    "4": [
-     {
-      "req": 60959,
-      "navio": "SAGA PIONEER",
-      "operador": "PRONAVE",
-      "ternos": 2,
-      "categorias": [
-       "Arrumador",
-       "Conferente",
-       "Estivador"
-      ],
-      "rancho": false,
-      "extra": "🛰️ atracado em Santos, Brazil · destino Sao Sebastiao, Brazil",
-      "onde": true
-     }
-    ]
-   },
-   "desc": {
-    "1": "07-13",
-    "2": "13-19",
-    "3": "19-01",
-    "4": "01-07"
-   }
-  },
   {
    "data": "2026-11-17",
    "periodos": {
@@ -71,10 +16,25 @@
        "Estivador"
       ],
       "rancho": false,
-      "extra": "🛰️ atracado em Santos, Brazil · destino Sao Sebastiao, Brazil",
+      "extra": "🛰️ atracado em São Sebastião",
       "onde": true
      }
     ],
+    "2": [],
+    "3": [],
+    "4": []
+   },
+   "desc": {
+    "1": "07-13",
+    "2": "13-19",
+    "3": "19-01",
+    "4": "01-07"
+   }
+  },
+  {
+   "data": "2026-11-18",
+   "periodos": {
+    "1": [],
     "2": [],
     "3": [],
     "4": []
