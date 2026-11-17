@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-17T19:44:48-03:00",
+ "atualizado_em": "2026-11-17T19:49:46-03:00",
  "lido_em": "2026-11-17T19:44:48-03:00",
  "total": 16,
  "navios": [
@@ -259,12 +259,11 @@
     "nome_ais": "PACIFIC ROSE",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 2.3 mn)",
-    "lat": -23.8395,
-    "lon": -45.427,
+    "lat": -23.8392,
+    "lon": -45.4275,
     "dist_mn": 2.3,
-    "visto_em": "2026-11-17T22:11:00+00:00",
-    "sog": 0.2,
-    "rumo": 283,
+    "visto_em": "2026-11-17T22:47:01+00:00",
+    "sog": 0,
     "calado": 7.7,
     "imo": 9045936,
     "status_ais": "fundeado",
@@ -322,21 +321,21 @@
    "situacao": "PROGRAMADO",
    "ais": {
     "fonte": "vesselfinder",
-    "situacao": "outro",
-    "texto": "atracado em Escombreras, Spain · destino Sao Sebastiao, Brazil",
+    "situacao": "caminho",
+    "texto": "a caminho de São Sebastião a 7.4 nós",
     "nome_ais": "BANA",
     "link": "https://www.vesselfinder.com/?imo=8417625",
     "destino": "Sao Sebastiao, Brazil",
     "eta": "2026-12-01T12:00+00:00",
-    "sog": 0.0,
+    "sog": 7.4,
     "calado": "8.1 m",
     "ultimo_porto": "Escombreras, Spain",
-    "saida": "2026-11-16T23:50+00:00",
+    "saida": "2026-11-17T22:36+00:00",
     "imo": 8417625,
     "mmsi": 370141000,
-    "status_ais": "atracado",
+    "status_ais": "navegando",
     "destino_aqui": true,
-    "visto_em": "2026-11-17T22:17:11+00:00"
+    "visto_em": "2026-11-17T22:49:46+00:00"
    }
   },
   {
@@ -364,7 +363,7 @@
     "mmsi": 341515002,
     "status_ais": "navegando",
     "destino_aqui": true,
-    "visto_em": "2026-11-17T18:19:11+00:00"
+    "visto_em": "2026-11-17T18:49:46+00:00"
    }
   },
   {
@@ -396,11 +395,11 @@
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 8.4 mn)",
     "lat": -23.6944,
-    "lon": -45.3157,
+    "lon": -45.3156,
     "dist_mn": 8.4,
-    "visto_em": "2026-11-17T22:13:30+00:00",
-    "sog": 0.3,
-    "rumo": 115,
+    "visto_em": "2026-11-17T22:43:30+00:00",
+    "sog": 0.1,
+    "rumo": 100,
     "calado": 5,
     "imo": 7615309,
     "status_ais": "fundeado",
