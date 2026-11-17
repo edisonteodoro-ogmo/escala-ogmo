@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-17T18:10:59-03:00",
+ "atualizado_em": "2026-11-17T18:15:37-03:00",
  "lido_em": "2026-11-17T18:10:59-03:00",
  "total": 16,
  "navios": [
@@ -321,11 +321,11 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "outro",
-    "texto": "atracado em Escombreras, Spain · destino CAR ES",
+    "texto": "atracado em Escombreras, Spain · destino Sao Sebastiao, Brazil",
     "nome_ais": "BANA",
     "link": "https://www.vesselfinder.com/?imo=8417625",
-    "destino": "CAR ES",
-    "eta": "2026-11-08T18:00+00:00",
+    "destino": "Sao Sebastiao, Brazil",
+    "eta": "2026-12-01T12:00+00:00",
     "sog": 0.0,
     "calado": "8.1 m",
     "ultimo_porto": "Escombreras, Spain",
@@ -333,8 +333,8 @@
     "imo": 8417625,
     "mmsi": 370141000,
     "status_ais": "atracado",
-    "destino_aqui": false,
-    "visto_em": "2026-11-17T20:44:13+00:00"
+    "destino_aqui": true,
+    "visto_em": "2026-11-17T21:14:37+00:00"
    }
   },
   {
@@ -362,7 +362,7 @@
     "mmsi": 341515002,
     "status_ais": "navegando",
     "destino_aqui": true,
-    "visto_em": "2026-11-17T18:45:13+00:00"
+    "visto_em": "2026-11-17T18:15:37+00:00"
    }
   },
   {
