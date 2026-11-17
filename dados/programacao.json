@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-17T12:20:20-03:00",
+ "atualizado_em": "2026-11-17T12:25:21-03:00",
  "lido_em": "2026-11-17T12:20:20-03:00",
  "total": 16,
  "navios": [
@@ -174,7 +174,7 @@
     "mmsi": 538012957,
     "status_ais": "-",
     "destino_aqui": false,
-    "visto_em": "2026-11-15T14:55:18+00:00"
+    "visto_em": "2026-11-15T15:25:21+00:00"
    }
   },
   {
@@ -193,7 +193,7 @@
     "mmsi": "538007973",
     "nome_ais": "V ISALOS",
     "situacao": "velho",
-    "texto": "sem sinal há 8 h (última posição a 56 mn)",
+    "texto": "sem sinal há 9 h (última posição a 56 mn)",
     "lat": -24.1796,
     "lon": -46.3355,
     "dist_mn": 55.8,
@@ -224,13 +224,13 @@
     "mmsi": "565227000",
     "nome_ais": "PACIFICA",
     "situacao": "movimento",
-    "texto": "navegando a 3.9 nós, a 252 mn · destino declarado: BRITJ",
-    "lat": -26.9059,
-    "lon": -48.5421,
-    "dist_mn": 252.1,
-    "visto_em": "2026-11-17T15:14:39+00:00",
-    "sog": 3.9,
-    "rumo": 265,
+    "texto": "navegando a 7.7 nós, a 252 mn · destino declarado: BRITJ",
+    "lat": -26.9067,
+    "lon": -48.5491,
+    "dist_mn": 252.4,
+    "visto_em": "2026-11-17T15:18:59+00:00",
+    "sog": 7.7,
+    "rumo": 280,
     "calado": 6.4,
     "imo": 9431460,
     "status_ais": "navegando",
