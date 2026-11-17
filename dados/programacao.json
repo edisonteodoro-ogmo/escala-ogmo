@@ -1,17 +1,17 @@
 {
- "atualizado_em": "2026-11-17T00:35:06-03:00",
- "lido_em": "2026-11-17T00:27:33-03:00",
+ "atualizado_em": "2026-11-17T00:44:22-03:00",
+ "lido_em": "2026-11-17T00:44:22-03:00",
  "total": 16,
  "navios": [
   {
    "nome": "SAGA PIONNER",
-   "faixa": "NAVIOS PROGRAMADOS A",
+   "faixa": "NAVIOS ATRACADO",
    "previsao": "17/11/2026",
    "carga": "BARRILHA",
    "qtd": "15.692 t",
    "operador": "PRONAVE",
    "local": "DIRETO",
-   "situacao": "PROGRAMADO",
+   "situacao": "ATRACADO",
    "ais": {
     "link": "https://www.vesselfinder.com/?imo=9380764",
     "ultimo_porto": "Santos, Brazil",
