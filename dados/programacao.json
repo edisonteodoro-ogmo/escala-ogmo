@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-16T23:48:31-03:00",
+ "atualizado_em": "2026-11-16T23:51:01-03:00",
  "lido_em": "2026-11-16T23:37:02-03:00",
  "total": 16,
  "navios": [
@@ -162,7 +162,7 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "velho",
-    "texto": "sem sinal há 37 h",
+    "texto": "sem sinal há 38 h",
     "nome_ais": "ELISABETTA",
     "link": "https://www.vesselfinder.com/?imo=1058145",
     "destino": "Callao, Peru",
@@ -175,7 +175,7 @@
     "mmsi": 538012957,
     "status_ais": "-",
     "destino_aqui": false,
-    "visto_em": "2026-11-15T13:16:18+00:00"
+    "visto_em": "2026-11-15T12:51:01+00:00"
    }
   },
   {
@@ -195,7 +195,7 @@
     "link": "https://www.vesselfinder.com/?imo=9474254",
     "destino": "Santos Anch., Brazil",
     "chegou": "2026-11-15T19:24+00:00",
-    "sog": 0.1,
+    "sog": 0.4,
     "calado": "10.2 m",
     "ultimo_porto": "San Lorenzo, Argentina",
     "saida": "2026-11-11T01:53+00:00",
@@ -203,7 +203,7 @@
     "mmsi": 538007973,
     "status_ais": "fundeado",
     "destino_aqui": false,
-    "visto_em": "2026-11-17T02:17:56+00:00"
+    "visto_em": "2026-11-17T02:48:01+00:00"
    }
   },
   {
@@ -389,9 +389,9 @@
     "lat": -23.6943,
     "lon": -45.3149,
     "dist_mn": 8.4,
-    "visto_em": "2026-11-17T02:25:21+00:00",
-    "sog": 0.1,
-    "rumo": 96,
+    "visto_em": "2026-11-17T02:43:20+00:00",
+    "sog": 0.2,
+    "rumo": 90,
     "calado": 5,
     "imo": 7615309,
     "status_ais": "fundeado",
