@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-17T18:15:37-03:00",
+ "atualizado_em": "2026-11-17T18:17:59-03:00",
  "lido_em": "2026-11-17T18:10:59-03:00",
  "total": 16,
  "navios": [
@@ -387,8 +387,8 @@
    "fundeado": true,
    "ais": {
     "link": "https://www.vesselfinder.com/?imo=9917957",
-    "ultimo_porto": "Panama Canal Anch. Atlantic, Panama",
-    "saida": "2026-11-17T19:06+00:00",
+    "ultimo_porto": "Limon Bay Marina Anch., Panama",
+    "saida": "2026-11-17T20:24+00:00",
     "mmsi": "450430000",
     "nome_ais": "WHITE PEARL",
     "situacao": "fundeado",
