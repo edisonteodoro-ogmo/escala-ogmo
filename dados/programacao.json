@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-17T06:10:52-03:00",
+ "atualizado_em": "2026-11-17T06:13:33-03:00",
  "lido_em": "2026-11-17T06:00:54-03:00",
  "total": 16,
  "navios": [
@@ -21,9 +21,9 @@
     "situacao": "atracado",
     "texto": "atracado em São Sebastião",
     "lat": -23.8109,
-    "lon": -45.3966,
+    "lon": -45.3967,
     "dist_mn": 0.2,
-    "visto_em": "2026-11-17T09:00:52+00:00",
+    "visto_em": "2026-11-17T09:03:52+00:00",
     "sog": 0,
     "rumo": 226,
     "calado": 8.4,
@@ -255,8 +255,8 @@
     "lat": -23.8376,
     "lon": -45.4247,
     "dist_mn": 2.1,
-    "visto_em": "2026-11-17T08:41:04+00:00",
-    "sog": 0,
+    "visto_em": "2026-11-17T09:05:04+00:00",
+    "sog": 0.1,
     "calado": 7.7,
     "imo": 9045936,
     "status_ais": "fundeado",
@@ -328,7 +328,7 @@
     "mmsi": 370141000,
     "status_ais": "atracado",
     "destino_aqui": false,
-    "visto_em": "2026-11-17T08:41:18+00:00"
+    "visto_em": "2026-11-17T09:11:33+00:00"
    }
   },
   {
@@ -356,7 +356,7 @@
     "mmsi": 341515002,
     "status_ais": "-",
     "destino_aqui": true,
-    "visto_em": "2026-11-11T08:41:18+00:00"
+    "visto_em": "2026-11-11T09:13:33+00:00"
    }
   },
   {
@@ -388,11 +388,11 @@
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 8.5 mn)",
     "lat": -23.6939,
-    "lon": -45.3147,
+    "lon": -45.3146,
     "dist_mn": 8.5,
-    "visto_em": "2026-11-17T08:55:22+00:00",
-    "sog": 0.1,
-    "rumo": 140,
+    "visto_em": "2026-11-17T09:07:24+00:00",
+    "sog": 0.4,
+    "rumo": 138,
     "calado": 5,
     "imo": 7615309,
     "status_ais": "fundeado",
