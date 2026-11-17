@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-16T21:45:55-03:00",
+ "atualizado_em": "2026-11-16T21:48:29-03:00",
  "lido_em": "2026-11-16T21:43:13-03:00",
  "total": 16,
  "navios": [
@@ -299,7 +299,7 @@
     "mmsi": 372612000,
     "status_ais": "atracado",
     "destino_aqui": false,
-    "visto_em": "2026-11-17T00:14:01+00:00"
+    "visto_em": "2026-11-17T00:46:29+00:00"
    }
   },
   {
@@ -314,20 +314,20 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "outro",
-    "texto": "atracado em Cartagena Anch., Spain · destino CAR ES",
+    "texto": "atracado em Escombreras, Spain · destino CAR ES",
     "nome_ais": "BANA",
     "link": "https://www.vesselfinder.com/?imo=8417625",
     "destino": "CAR ES",
     "eta": "2026-11-08T18:00+00:00",
     "sog": 0.0,
     "calado": "8.1 m",
-    "ultimo_porto": "Cartagena Anch., Spain",
-    "saida": "2026-11-16T21:53+00:00",
+    "ultimo_porto": "Escombreras, Spain",
+    "saida": "2026-11-16T23:50+00:00",
     "imo": 8417625,
     "mmsi": 370141000,
     "status_ais": "atracado",
     "destino_aqui": false,
-    "visto_em": "2026-11-17T00:14:01+00:00"
+    "visto_em": "2026-11-17T00:47:29+00:00"
    }
   },
   {
