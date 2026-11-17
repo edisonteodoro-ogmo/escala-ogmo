@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-17T06:40:38-03:00",
+ "atualizado_em": "2026-11-17T06:42:58-03:00",
  "lido_em": "2026-11-17T06:33:02-03:00",
  "total": 16,
  "navios": [
@@ -300,7 +300,7 @@
     "mmsi": 372612000,
     "status_ais": "atracado",
     "destino_aqui": false,
-    "visto_em": "2026-11-17T09:07:52+00:00"
+    "visto_em": "2026-11-17T09:41:04+00:00"
    }
   },
   {
