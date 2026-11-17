@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-17T10:09:02-03:00",
+ "atualizado_em": "2026-11-17T10:13:43-03:00",
  "lido_em": "2026-11-17T10:09:02-03:00",
  "total": 16,
  "navios": [
@@ -92,7 +92,7 @@
     "mmsi": 538006205,
     "status_ais": "atracado",
     "destino_aqui": false,
-    "visto_em": "2026-11-17T12:41:05+00:00"
+    "visto_em": "2026-11-17T13:10:43+00:00"
    }
   },
   {
@@ -110,8 +110,8 @@
     "saida": "2026-11-05T05:54+00:00",
     "mmsi": "244830401",
     "nome_ais": "HANZE GENUA",
-    "situacao": "fundeado",
-    "texto": "fundeado na área do porto (a 9.3 mn)",
+    "situacao": "velho",
+    "texto": "sem sinal há 3 h (última posição a 9 mn)",
     "lat": -23.7096,
     "lon": -45.272,
     "dist_mn": 9.3,
@@ -133,12 +133,12 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "movimento",
-    "texto": "navegando a 10.8 nós · destino Singapore, Singapore",
+    "texto": "navegando a 10.9 nós · destino Singapore, Singapore",
     "nome_ais": "OCEAN ENDEAVOR",
     "link": "https://www.vesselfinder.com/?imo=1023592",
     "destino": "Singapore, Singapore",
     "eta": "2026-11-18T07:00+00:00",
-    "sog": 10.8,
+    "sog": 10.9,
     "calado": "8.9 m",
     "ultimo_porto": "Fukuyama, Hiroshima Anch., Japan",
     "saida": "2026-11-08T04:30+00:00",
@@ -146,7 +146,7 @@
     "mmsi": 352005752,
     "status_ais": "navegando",
     "destino_aqui": false,
-    "visto_em": "2026-11-17T12:41:05+00:00"
+    "visto_em": "2026-11-17T13:12:43+00:00"
    }
   },
   {
