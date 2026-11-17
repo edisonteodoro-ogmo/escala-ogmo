@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-17T07:34:59-03:00",
- "lido_em": "2026-11-17T07:22:16-03:00",
+ "atualizado_em": "2026-11-17T07:37:26-03:00",
+ "lido_em": "2026-11-17T07:37:26-03:00",
  "total": 16,
  "navios": [
   {
@@ -91,7 +91,7 @@
     "mmsi": 538006205,
     "status_ais": "atracado",
     "destino_aqui": false,
-    "visto_em": "2026-11-17T10:04:33+00:00"
+    "visto_em": "2026-11-17T10:34:26+00:00"
    }
   },
   {
@@ -132,12 +132,12 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "movimento",
-    "texto": "navegando a 2.6 nós · destino Singapore, Singapore",
+    "texto": "navegando a 10.5 nós · destino Singapore, Singapore",
     "nome_ais": "OCEAN ENDEAVOR",
     "link": "https://www.vesselfinder.com/?imo=1023592",
     "destino": "Singapore, Singapore",
     "eta": "2026-11-18T07:00+00:00",
-    "sog": 2.6,
+    "sog": 10.5,
     "calado": "9.1 m",
     "ultimo_porto": "Fukuyama, Hiroshima Anch., Japan",
     "saida": "2026-11-08T04:30+00:00",
@@ -145,7 +145,7 @@
     "mmsi": 352005752,
     "status_ais": "navegando",
     "destino_aqui": false,
-    "visto_em": "2026-11-17T10:05:33+00:00"
+    "visto_em": "2026-11-17T10:33:26+00:00"
    }
   },
   {
