@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-17T10:21:35-03:00",
+ "atualizado_em": "2026-11-17T10:23:55-03:00",
  "lido_em": "2026-11-17T10:09:02-03:00",
  "total": 16,
  "navios": [
@@ -53,12 +53,12 @@
     "nome_ais": "YOSOR",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 8.9 mn)",
-    "lat": -23.7044,
-    "lon": -45.2877,
+    "lat": -23.7042,
+    "lon": -45.2875,
     "dist_mn": 8.9,
-    "visto_em": "2026-11-17T11:58:09+00:00",
+    "visto_em": "2026-11-17T13:16:19+00:00",
     "sog": 0.1,
-    "rumo": 117,
+    "rumo": 129,
     "calado": 7.8,
     "imo": 7819113,
     "status_ais": "fundeado",
@@ -193,7 +193,7 @@
     "mmsi": "538007973",
     "nome_ais": "V ISALOS",
     "situacao": "velho",
-    "texto": "sem sinal há 6 h (última posição a 56 mn)",
+    "texto": "sem sinal há 7 h (última posição a 56 mn)",
     "lat": -24.1796,
     "lon": -46.3355,
     "dist_mn": 55.8,
@@ -254,10 +254,11 @@
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 2.1 mn)",
     "lat": -23.8372,
-    "lon": -45.4251,
+    "lon": -45.4255,
     "dist_mn": 2.1,
-    "visto_em": "2026-11-17T12:37:59+00:00",
-    "sog": 0,
+    "visto_em": "2026-11-17T13:17:01+00:00",
+    "sog": 0.1,
+    "rumo": 81,
     "calado": 7.7,
     "imo": 9045936,
     "status_ais": "fundeado",
@@ -301,7 +302,7 @@
     "mmsi": 372612000,
     "status_ais": "atracado",
     "destino_aqui": false,
-    "visto_em": "2026-11-17T12:49:48+00:00"
+    "visto_em": "2026-11-17T13:22:55+00:00"
    }
   },
   {
