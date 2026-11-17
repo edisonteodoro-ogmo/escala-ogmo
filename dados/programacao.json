@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-17T09:42:05-03:00",
+ "atualizado_em": "2026-11-17T09:49:22-03:00",
  "lido_em": "2026-11-17T09:34:58-03:00",
  "total": 16,
  "navios": [
@@ -160,7 +160,7 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "velho",
-    "texto": "sem sinal há 47 h",
+    "texto": "sem sinal há 2 dias",
     "nome_ais": "ELISABETTA",
     "link": "https://www.vesselfinder.com/?imo=1058145",
     "destino": "Callao, Peru",
@@ -173,7 +173,7 @@
     "mmsi": 538012957,
     "status_ais": "-",
     "destino_aqui": false,
-    "visto_em": "2026-11-15T13:18:03+00:00"
+    "visto_em": "2026-11-15T12:49:22+00:00"
    }
   },
   {
@@ -252,10 +252,10 @@
     "nome_ais": "PACIFIC ROSE",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 2.1 mn)",
-    "lat": -23.8374,
-    "lon": -45.4249,
+    "lat": -23.8372,
+    "lon": -45.4251,
     "dist_mn": 2.1,
-    "visto_em": "2026-11-17T12:26:02+00:00",
+    "visto_em": "2026-11-17T12:37:59+00:00",
     "sog": 0,
     "calado": 7.7,
     "imo": 9045936,
@@ -390,9 +390,9 @@
     "lat": -23.694,
     "lon": -45.3148,
     "dist_mn": 8.4,
-    "visto_em": "2026-11-17T12:04:31+00:00",
+    "visto_em": "2026-11-17T12:49:23+00:00",
     "sog": 0.1,
-    "rumo": 109,
+    "rumo": 122,
     "calado": 5,
     "imo": 7615309,
     "status_ais": "fundeado",
