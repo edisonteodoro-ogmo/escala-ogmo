@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-18T17:46:05-03:00",
- "lido_em": "2026-11-18T17:33:57-03:00",
+ "atualizado_em": "2026-11-18T17:49:05-03:00",
+ "lido_em": "2026-11-18T17:49:05-03:00",
  "total": 16,
  "navios": [
   {
@@ -53,12 +53,12 @@
     "nome_ais": "YOSOR",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 7.1 mn)",
-    "lat": -23.8701,
+    "lat": -23.8702,
     "lon": -45.5131,
     "dist_mn": 7.1,
-    "visto_em": "2026-11-18T20:34:55+00:00",
+    "visto_em": "2026-11-18T20:40:53+00:00",
     "sog": 0.3,
-    "rumo": 126,
+    "rumo": 122,
     "calado": 7.8,
     "imo": 7819113,
     "status_ais": "fundeado",
@@ -266,9 +266,8 @@
     "lat": -23.8395,
     "lon": -45.4276,
     "dist_mn": 2.3,
-    "visto_em": "2026-11-18T20:34:54+00:00",
-    "sog": 0.1,
-    "rumo": 153,
+    "visto_em": "2026-11-18T20:37:52+00:00",
+    "sog": 0,
     "calado": 7.7,
     "imo": 9045936,
     "status_ais": "fundeado",
@@ -368,7 +367,7 @@
     "mmsi": 341515002,
     "status_ais": "-",
     "destino_aqui": true,
-    "visto_em": "2026-11-17T18:13:53+00:00"
+    "visto_em": "2026-11-17T18:49:05+00:00"
    }
   },
   {
