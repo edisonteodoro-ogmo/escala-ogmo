@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-18T10:37:48-03:00",
+ "atualizado_em": "2026-11-18T10:49:52-03:00",
  "lido_em": "2026-11-18T10:37:48-03:00",
  "total": 16,
  "navios": [
@@ -44,7 +44,7 @@
    "local": "DIRETO",
    "situacao": "FUNDEADO",
    "fundeado": true,
-   "cais": "19/11 11:30",
+   "cais": "19/11 12:00",
    "ais": {
     "link": "https://www.vesselfinder.com/?imo=7819113",
     "ultimo_porto": "Sao Sebastiao Anch., Brazil",
@@ -180,7 +180,7 @@
     "mmsi": 538012957,
     "status_ais": "-",
     "destino_aqui": false,
-    "visto_em": "2026-11-15T13:18:02+00:00"
+    "visto_em": "2026-11-15T13:49:52+00:00"
    }
   },
   {
@@ -199,7 +199,7 @@
     "mmsi": "538007973",
     "nome_ais": "V ISALOS",
     "situacao": "velho",
-    "texto": "sem sinal há 3 h (última posição a 56 mn)",
+    "texto": "sem sinal há 4 h (última posição a 56 mn)",
     "lat": -24.181,
     "lon": -46.3357,
     "dist_mn": 55.9,
@@ -260,11 +260,10 @@
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 2.3 mn)",
     "lat": -23.8393,
-    "lon": -45.4276,
+    "lon": -45.4277,
     "dist_mn": 2.3,
-    "visto_em": "2026-11-18T13:31:52+00:00",
-    "sog": 0.1,
-    "rumo": 136,
+    "visto_em": "2026-11-18T13:40:52+00:00",
+    "sog": 0,
     "calado": 7.7,
     "imo": 9045936,
     "status_ais": "fundeado",
@@ -422,15 +421,9 @@
  ],
  "cais": {
   "fonte": "praticagem",
-  "saindo": [
-   {
-    "navio": "SAGA PIONEER",
-    "horario": "19/11 10:00"
-   }
-  ],
   "proximo": {
    "navio": "YOSOR",
-   "horario": "19/11 11:30"
+   "horario": "19/11 12:00"
   },
   "depois": []
  },
