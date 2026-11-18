@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-18T11:23:01-03:00",
+ "atualizado_em": "2026-11-18T11:25:51-03:00",
  "lido_em": "2026-11-18T11:11:32-03:00",
  "total": 16,
  "navios": [
@@ -23,7 +23,7 @@
     "lat": -23.811,
     "lon": -45.3967,
     "dist_mn": 0.2,
-    "visto_em": "2026-11-18T14:12:19+00:00",
+    "visto_em": "2026-11-18T14:21:19+00:00",
     "sog": 0,
     "rumo": 226,
     "calado": 8.4,
@@ -259,11 +259,11 @@
     "nome_ais": "PACIFIC ROSE",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 2.3 mn)",
-    "lat": -23.8394,
+    "lat": -23.8393,
     "lon": -45.4276,
     "dist_mn": 2.3,
-    "visto_em": "2026-11-18T13:52:52+00:00",
-    "sog": 0,
+    "visto_em": "2026-11-18T14:16:54+00:00",
+    "sog": 0.1,
     "calado": 7.7,
     "imo": 9045936,
     "status_ais": "fundeado",
@@ -322,12 +322,12 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "caminho",
-    "texto": "a caminho de São Sebastião a 12.1 nós",
+    "texto": "a caminho de São Sebastião a 11.7 nós",
     "nome_ais": "BANA",
     "link": "https://www.vesselfinder.com/?imo=8417625",
     "destino": "Sao Sebastiao, Brazil",
     "eta": "2026-12-01T12:00+00:00",
-    "sog": 12.1,
+    "sog": 11.7,
     "calado": "8.1 m",
     "ultimo_porto": "Escombreras, Spain",
     "saida": "2026-11-17T22:36+00:00",
@@ -335,7 +335,7 @@
     "mmsi": 370141000,
     "status_ais": "navegando",
     "destino_aqui": true,
-    "visto_em": "2026-11-18T13:53:46+00:00"
+    "visto_em": "2026-11-18T14:24:51+00:00"
    }
   },
   {
@@ -363,7 +363,7 @@
     "mmsi": 341515002,
     "status_ais": "-",
     "destino_aqui": true,
-    "visto_em": "2026-11-17T17:54:46+00:00"
+    "visto_em": "2026-11-17T18:25:51+00:00"
    }
   },
   {
@@ -388,8 +388,8 @@
    "fundeado": true,
    "ais": {
     "link": "https://www.vesselfinder.com/?imo=9917957",
-    "ultimo_porto": "Limon Bay Marina Anch., Panama",
-    "saida": "2026-11-18T10:23+00:00",
+    "ultimo_porto": "Pena Blanca Anch., Panama",
+    "saida": "2026-11-18T13:53+00:00",
     "mmsi": "450430000",
     "nome_ais": "WHITE PEARL",
     "situacao": "caminho",
