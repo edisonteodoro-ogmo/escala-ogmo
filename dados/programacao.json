@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-18T13:58:47-03:00",
+ "atualizado_em": "2026-11-18T14:01:26-03:00",
  "lido_em": "2026-11-18T13:56:10-03:00",
  "total": 16,
  "navios": [
@@ -20,10 +20,10 @@
     "nome_ais": "SAGA PIONEER",
     "situacao": "atracado",
     "texto": "atracado em São Sebastião",
-    "lat": -23.811,
-    "lon": -45.3967,
+    "lat": -23.8109,
+    "lon": -45.3966,
     "dist_mn": 0.2,
-    "visto_em": "2026-11-18T16:05:47+00:00",
+    "visto_em": "2026-11-18T16:59:52+00:00",
     "sog": 0,
     "rumo": 226,
     "calado": 8.4,
@@ -83,13 +83,13 @@
     "mmsi": "538006205",
     "nome_ais": "ASTRO NEKKAR",
     "situacao": "caminho",
-    "texto": "navegando a 12.4 nós, a 24 mn · sem destino declarado",
-    "lat": -24.0051,
-    "lon": -45.777,
-    "dist_mn": 23.7,
-    "visto_em": "2026-11-18T16:50:32+00:00",
+    "texto": "navegando a 12.4 nós, a 23 mn · sem destino declarado",
+    "lat": -23.9918,
+    "lon": -45.7642,
+    "dist_mn": 22.7,
+    "visto_em": "2026-11-18T16:55:42+00:00",
     "sog": 12.4,
-    "rumo": 40,
+    "rumo": 59,
     "status_ais": "navegando"
    }
   },
@@ -257,10 +257,10 @@
     "nome_ais": "PACIFIC ROSE",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 2.3 mn)",
-    "lat": -23.8392,
-    "lon": -45.4279,
+    "lat": -23.8393,
+    "lon": -45.4278,
     "dist_mn": 2.3,
-    "visto_em": "2026-11-18T16:40:54+00:00",
+    "visto_em": "2026-11-18T16:52:54+00:00",
     "sog": 0,
     "calado": 7.7,
     "imo": 9045936,
@@ -320,12 +320,12 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "caminho",
-    "texto": "a caminho de São Sebastião a 12.3 nós",
+    "texto": "a caminho de São Sebastião a 11.8 nós",
     "nome_ais": "BANA",
     "link": "https://www.vesselfinder.com/?imo=8417625",
     "destino": "Sao Sebastiao, Brazil",
     "eta": "2026-12-01T12:00+00:00",
-    "sog": 12.3,
+    "sog": 11.8,
     "calado": "8.1 m",
     "ultimo_porto": "Escombreras, Spain",
     "saida": "2026-11-17T22:36+00:00",
@@ -333,7 +333,7 @@
     "mmsi": 370141000,
     "status_ais": "navegando",
     "destino_aqui": true,
-    "visto_em": "2026-11-18T16:29:48+00:00"
+    "visto_em": "2026-11-18T17:00:26+00:00"
    }
   },
   {
@@ -348,7 +348,7 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "velho",
-    "texto": "sem sinal há 22 h",
+    "texto": "sem sinal há 23 h",
     "nome_ais": "BLUE OCEAN A",
     "link": "https://www.vesselfinder.com/?imo=9045089",
     "destino": "Sao Sebastiao, Brazil",
@@ -361,7 +361,7 @@
     "mmsi": 341515002,
     "status_ais": "-",
     "destino_aqui": true,
-    "visto_em": "2026-11-17T18:29:48+00:00"
+    "visto_em": "2026-11-17T18:01:26+00:00"
    }
   },
   {
@@ -391,13 +391,13 @@
     "mmsi": "450430000",
     "nome_ais": "WHITE PEARL",
     "situacao": "caminho",
-    "texto": "navegando a 8.1 nós, a 8 mn · destino São Sebastião",
-    "lat": -23.9087,
-    "lon": -45.4961,
-    "dist_mn": 7.9,
-    "visto_em": "2026-11-18T16:34:27+00:00",
-    "sog": 8.1,
-    "rumo": 40,
+    "texto": "navegando a 6.9 nós, a 6 mn · destino São Sebastião",
+    "lat": -23.8841,
+    "lon": -45.4701,
+    "dist_mn": 5.8,
+    "visto_em": "2026-11-18T16:51:27+00:00",
+    "sog": 6.9,
+    "rumo": 53,
     "calado": 5,
     "imo": 7615309,
     "status_ais": "navegando",
