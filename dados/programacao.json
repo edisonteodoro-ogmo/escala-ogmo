@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-17T21:05:44-03:00",
+ "atualizado_em": "2026-11-17T21:08:35-03:00",
  "lido_em": "2026-11-17T21:05:44-03:00",
  "total": 16,
  "navios": [
@@ -44,7 +44,6 @@
    "local": "DIRETO",
    "situacao": "FUNDEADO",
    "fundeado": true,
-   "cais": "19/11 11:30",
    "ais": {
     "link": "https://www.vesselfinder.com/?imo=7819113",
     "ultimo_porto": "Sao Sebastiao Anch., Brazil",
@@ -419,20 +418,6 @@
    "situacao": "PROGRAMADO"
   }
  ],
- "cais": {
-  "fonte": "praticagem",
-  "saindo": [
-   {
-    "navio": "SAGA PIONEER",
-    "horario": "19/11 10:00"
-   }
-  ],
-  "proximo": {
-   "navio": "YOSOR",
-   "horario": "19/11 11:30"
-  },
-  "depois": []
- },
  "ais_navios": 13,
  "porto": {
   "lat": -23.8105,
