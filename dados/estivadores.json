@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-17T19:11:15-03:00",
+ "atualizado_em": "2026-11-18T00:06:51-03:00",
  "total": 64,
  "resumo": {
   "total": 64,
@@ -9,6 +9,7 @@
   "maq": 10,
   "guin": 24,
   "emp": 10,
+  "pte": 17,
   "pego": 19,
   "livre": 36
  },
@@ -20,6 +21,7 @@
    "maq": null,
    "guin": 1,
    "emp": null,
+   "pte": 1,
    "sit": "livre"
   },
   {
@@ -29,6 +31,7 @@
    "maq": null,
    "guin": null,
    "emp": null,
+   "pte": null,
    "sit": "livre"
   },
   {
@@ -38,6 +41,7 @@
    "maq": null,
    "guin": 2,
    "emp": null,
+   "pte": 2,
    "sit": "pego"
   },
   {
@@ -47,6 +51,7 @@
    "maq": null,
    "guin": 3,
    "emp": null,
+   "pte": 3,
    "sit": "pego"
   },
   {
@@ -56,6 +61,7 @@
    "maq": null,
    "guin": null,
    "emp": null,
+   "pte": null,
    "sit": "livre"
   },
   {
@@ -65,6 +71,7 @@
    "maq": null,
    "guin": null,
    "emp": null,
+   "pte": null,
    "sit": "livre"
   },
   {
@@ -74,6 +81,7 @@
    "maq": null,
    "guin": 4,
    "emp": null,
+   "pte": 4,
    "sit": "livre"
   },
   {
@@ -83,6 +91,7 @@
    "maq": null,
    "guin": 5,
    "emp": null,
+   "pte": 5,
    "sit": "livre"
   },
   {
@@ -92,6 +101,7 @@
    "maq": 1,
    "guin": 6,
    "emp": 1,
+   "pte": 6,
    "sit": "livre"
   },
   {
@@ -101,6 +111,7 @@
    "maq": null,
    "guin": 7,
    "emp": null,
+   "pte": null,
    "sit": "livre"
   },
   {
@@ -110,6 +121,7 @@
    "maq": null,
    "guin": null,
    "emp": null,
+   "pte": null,
    "sit": "livre"
   },
   {
@@ -119,6 +131,7 @@
    "maq": null,
    "guin": null,
    "emp": null,
+   "pte": null,
    "sit": "livre"
   },
   {
@@ -128,6 +141,7 @@
    "maq": null,
    "guin": 8,
    "emp": null,
+   "pte": 7,
    "sit": "livre"
   },
   {
@@ -137,6 +151,7 @@
    "maq": null,
    "guin": null,
    "emp": 2,
+   "pte": null,
    "sit": "livre"
   },
   {
@@ -146,6 +161,7 @@
    "maq": null,
    "guin": null,
    "emp": null,
+   "pte": null,
    "sit": "livre"
   },
   {
@@ -155,6 +171,7 @@
    "maq": 2,
    "guin": 9,
    "emp": 3,
+   "pte": 8,
    "sit": "livre"
   },
   {
@@ -163,7 +180,8 @@
    "status": "afastado",
    "maq": null,
    "guin": null,
-   "emp": null
+   "emp": null,
+   "pte": null
   },
   {
    "num": 18,
@@ -172,6 +190,7 @@
    "maq": 3,
    "guin": null,
    "emp": 4,
+   "pte": null,
    "sit": "pego"
   },
   {
@@ -181,6 +200,7 @@
    "maq": null,
    "guin": null,
    "emp": null,
+   "pte": null,
    "sit": "pego"
   },
   {
@@ -190,6 +210,7 @@
    "maq": null,
    "guin": 10,
    "emp": null,
+   "pte": 9,
    "sit": "livre"
   },
   {
@@ -199,6 +220,7 @@
    "maq": null,
    "guin": 11,
    "emp": 5,
+   "pte": 10,
    "sit": "livre"
   },
   {
@@ -207,7 +229,8 @@
    "status": "afastado",
    "maq": null,
    "guin": null,
-   "emp": null
+   "emp": null,
+   "pte": null
   },
   {
    "num": 23,
@@ -216,6 +239,7 @@
    "maq": 4,
    "guin": 12,
    "emp": 6,
+   "pte": 11,
    "sit": "livre"
   },
   {
@@ -225,6 +249,7 @@
    "maq": 5,
    "guin": 13,
    "emp": 7,
+   "pte": 12,
    "sit": "livre"
   },
   {
@@ -234,6 +259,7 @@
    "maq": null,
    "guin": 14,
    "emp": null,
+   "pte": null,
    "sit": "pego"
   },
   {
@@ -243,6 +269,7 @@
    "maq": null,
    "guin": 15,
    "emp": null,
+   "pte": 13,
    "sit": "pego"
   },
   {
@@ -252,6 +279,7 @@
    "maq": null,
    "guin": 16,
    "emp": null,
+   "pte": null,
    "sit": "pego"
   },
   {
@@ -260,7 +288,8 @@
    "status": "afastado",
    "maq": null,
    "guin": null,
-   "emp": null
+   "emp": null,
+   "pte": null
   },
   {
    "num": 29,
@@ -269,6 +298,7 @@
    "maq": null,
    "guin": null,
    "emp": null,
+   "pte": null,
    "sit": "pego"
   },
   {
@@ -277,7 +307,8 @@
    "status": "afastado",
    "maq": null,
    "guin": null,
-   "emp": null
+   "emp": null,
+   "pte": null
   },
   {
    "num": 31,
@@ -286,6 +317,7 @@
    "maq": null,
    "guin": null,
    "emp": null,
+   "pte": null,
    "sit": "pego"
   },
   {
@@ -295,6 +327,7 @@
    "maq": null,
    "guin": null,
    "emp": null,
+   "pte": null,
    "sit": "livre"
   },
   {
@@ -304,6 +337,7 @@
    "maq": null,
    "guin": null,
    "emp": null,
+   "pte": null,
    "sit": "pego"
   },
   {
@@ -312,7 +346,8 @@
    "status": "afastado",
    "maq": null,
    "guin": null,
-   "emp": null
+   "emp": null,
+   "pte": null
   },
   {
    "num": 35,
@@ -321,6 +356,7 @@
    "maq": null,
    "guin": null,
    "emp": null,
+   "pte": null,
    "sit": "livre"
   },
   {
@@ -329,7 +365,8 @@
    "status": "afastado",
    "maq": null,
    "guin": null,
-   "emp": null
+   "emp": null,
+   "pte": null
   },
   {
    "num": 37,
@@ -338,6 +375,7 @@
    "maq": null,
    "guin": null,
    "emp": null,
+   "pte": null,
    "sit": "livre"
   },
   {
@@ -347,6 +385,7 @@
    "maq": null,
    "guin": null,
    "emp": null,
+   "pte": null,
    "sit": "pego"
   },
   {
@@ -356,6 +395,7 @@
    "maq": 6,
    "guin": null,
    "emp": 8,
+   "pte": null,
    "sit": "pego"
   },
   {
@@ -365,6 +405,7 @@
    "maq": null,
    "guin": null,
    "emp": null,
+   "pte": null,
    "sit": "pego"
   },
   {
@@ -374,6 +415,7 @@
    "maq": null,
    "guin": null,
    "emp": null,
+   "pte": null,
    "sit": "livre"
   },
   {
@@ -383,6 +425,7 @@
    "maq": null,
    "guin": null,
    "emp": null,
+   "pte": null,
    "sit": "livre"
   },
   {
@@ -392,6 +435,7 @@
    "maq": 7,
    "guin": 17,
    "emp": 9,
+   "pte": 14,
    "sit": "livre"
   },
   {
@@ -400,7 +444,8 @@
    "status": "afastado",
    "maq": null,
    "guin": null,
-   "emp": null
+   "emp": null,
+   "pte": null
   },
   {
    "num": 45,
@@ -409,6 +454,7 @@
    "maq": null,
    "guin": null,
    "emp": null,
+   "pte": null,
    "sit": "livre"
   },
   {
@@ -417,7 +463,8 @@
    "status": "afastado",
    "maq": null,
    "guin": null,
-   "emp": null
+   "emp": null,
+   "pte": null
   },
   {
    "num": 47,
@@ -426,6 +473,7 @@
    "maq": null,
    "guin": null,
    "emp": null,
+   "pte": null,
    "sit": "pego"
   },
   {
@@ -435,6 +483,7 @@
    "maq": null,
    "guin": 18,
    "emp": null,
+   "pte": 15,
    "sit": "pego"
   },
   {
@@ -443,7 +492,8 @@
    "status": "afastado",
    "maq": null,
    "guin": null,
-   "emp": null
+   "emp": null,
+   "pte": null
   },
   {
    "num": 50,
@@ -452,6 +502,7 @@
    "maq": 8,
    "guin": null,
    "emp": 10,
+   "pte": null,
    "sit": "livre"
   },
   {
@@ -461,6 +512,7 @@
    "maq": null,
    "guin": 19,
    "emp": null,
+   "pte": 16,
    "sit": "livre"
   },
   {
@@ -470,6 +522,7 @@
    "maq": null,
    "guin": null,
    "emp": null,
+   "pte": null,
    "sit": "pego"
   },
   {
@@ -479,6 +532,7 @@
    "maq": null,
    "guin": null,
    "emp": null,
+   "pte": null,
    "sit": "livre"
   },
   {
@@ -488,6 +542,7 @@
    "maq": null,
    "guin": 20,
    "emp": null,
+   "pte": null,
    "sit": "pego"
   },
   {
@@ -497,6 +552,7 @@
    "maq": 9,
    "guin": 21,
    "emp": null,
+   "pte": null,
    "sit": "livre"
   },
   {
@@ -506,6 +562,7 @@
    "maq": null,
    "guin": 22,
    "emp": null,
+   "pte": null,
    "sit": "pego"
   },
   {
@@ -515,6 +572,7 @@
    "maq": null,
    "guin": null,
    "emp": null,
+   "pte": null,
    "sit": "livre"
   },
   {
@@ -524,6 +582,7 @@
    "maq": 10,
    "guin": 23,
    "emp": null,
+   "pte": null,
    "sit": "pego"
   },
   {
@@ -533,6 +592,7 @@
    "maq": null,
    "guin": null,
    "emp": null,
+   "pte": null,
    "sit": "livre"
   },
   {
@@ -542,6 +602,7 @@
    "maq": null,
    "guin": null,
    "emp": null,
+   "pte": null,
    "sit": "livre"
   },
   {
@@ -551,6 +612,7 @@
    "maq": null,
    "guin": null,
    "emp": null,
+   "pte": null,
    "sit": "livre"
   },
   {
@@ -560,6 +622,7 @@
    "maq": null,
    "guin": null,
    "emp": null,
+   "pte": null,
    "sit": "livre"
   },
   {
@@ -569,6 +632,7 @@
    "maq": null,
    "guin": null,
    "emp": null,
+   "pte": null,
    "sit": "livre"
   },
   {
@@ -578,6 +642,7 @@
    "maq": null,
    "guin": 24,
    "emp": null,
+   "pte": 17,
    "sit": "livre"
   }
  ],
