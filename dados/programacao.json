@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-18T13:27:11-03:00",
+ "atualizado_em": "2026-11-18T13:29:48-03:00",
  "lido_em": "2026-11-18T13:18:55-03:00",
  "total": 16,
  "navios": [
@@ -83,12 +83,12 @@
     "mmsi": "538006205",
     "nome_ais": "ASTRO NEKKAR",
     "situacao": "caminho",
-    "texto": "navegando a 12.4 nós, a 31 mn · sem destino declarado",
-    "lat": -24.1207,
-    "lon": -45.8578,
-    "dist_mn": 31.2,
-    "visto_em": "2026-11-18T16:11:01+00:00",
-    "sog": 12.4,
+    "texto": "navegando a 12.5 nós, a 28 mn · sem destino declarado",
+    "lat": -24.0765,
+    "lon": -45.8269,
+    "dist_mn": 28.3,
+    "visto_em": "2026-11-18T16:26:11+00:00",
+    "sog": 12.5,
     "rumo": 34,
     "status_ais": "navegando"
    }
@@ -257,11 +257,11 @@
     "nome_ais": "PACIFIC ROSE",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 2.3 mn)",
-    "lat": -23.8395,
-    "lon": -45.4276,
+    "lat": -23.8393,
+    "lon": -45.4278,
     "dist_mn": 2.3,
-    "visto_em": "2026-11-18T15:55:55+00:00",
-    "sog": 0.1,
+    "visto_em": "2026-11-18T16:19:54+00:00",
+    "sog": 0,
     "calado": 7.7,
     "imo": 9045936,
     "status_ais": "fundeado",
@@ -320,12 +320,12 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "caminho",
-    "texto": "a caminho de São Sebastião a 12.7 nós",
+    "texto": "a caminho de São Sebastião a 12.3 nós",
     "nome_ais": "BANA",
     "link": "https://www.vesselfinder.com/?imo=8417625",
     "destino": "Sao Sebastiao, Brazil",
     "eta": "2026-12-01T12:00+00:00",
-    "sog": 12.7,
+    "sog": 12.3,
     "calado": "8.1 m",
     "ultimo_porto": "Escombreras, Spain",
     "saida": "2026-11-17T22:36+00:00",
@@ -333,7 +333,7 @@
     "mmsi": 370141000,
     "status_ais": "navegando",
     "destino_aqui": true,
-    "visto_em": "2026-11-18T15:56:25+00:00"
+    "visto_em": "2026-11-18T16:29:48+00:00"
    }
   },
   {
@@ -361,7 +361,7 @@
     "mmsi": 341515002,
     "status_ais": "-",
     "destino_aqui": true,
-    "visto_em": "2026-11-17T17:57:25+00:00"
+    "visto_em": "2026-11-17T18:29:48+00:00"
    }
   },
   {
@@ -390,14 +390,14 @@
     "saida": "2026-11-18T14:46+00:00",
     "mmsi": "450430000",
     "nome_ais": "WHITE PEARL",
-    "situacao": "fundeado",
-    "texto": "parado na área do porto (a 8.7 mn)",
+    "situacao": "caminho",
+    "texto": "navegando a 0.7 nós, a 9 mn · destino São Sebastião",
     "lat": -23.9198,
-    "lon": -45.5047,
+    "lon": -45.5049,
     "dist_mn": 8.7,
-    "visto_em": "2026-11-18T16:17:56+00:00",
-    "sog": 0.1,
-    "rumo": 50,
+    "visto_em": "2026-11-18T16:24:17+00:00",
+    "sog": 0.7,
+    "rumo": 52,
     "calado": 5,
     "imo": 7615309,
     "status_ais": "navegando",
