@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-18T02:12:43-03:00",
+ "atualizado_em": "2026-11-18T02:15:12-03:00",
  "lido_em": "2026-11-18T02:12:43-03:00",
  "total": 16,
  "navios": [
@@ -79,12 +79,12 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "caminho",
-    "texto": "a caminho de São Sebastião a 11.3 nós",
+    "texto": "a caminho de São Sebastião a 11.6 nós",
     "nome_ais": "ASTRO NEKKAR",
     "link": "https://www.vesselfinder.com/?imo=9720304",
     "destino": "Sao Sebastiao, Brazil",
     "eta": "2026-11-18T17:00+00:00",
-    "sog": 11.3,
+    "sog": 11.6,
     "calado": "8.4 m",
     "ultimo_porto": "Sao Francisco do Sul, Brazil",
     "saida": "2026-11-17T22:03+00:00",
@@ -92,7 +92,7 @@
     "mmsi": 538006205,
     "status_ais": "navegando",
     "destino_aqui": true,
-    "visto_em": "2026-11-18T03:58:25+00:00"
+    "visto_em": "2026-11-18T04:46:12+00:00"
    }
   },
   {
@@ -139,11 +139,11 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "movimento",
-    "texto": "navegando · destino Singapore, Singapore",
+    "texto": "navegando · destino Singapore Anch. 4, Singapore",
     "nome_ais": "OCEAN ENDEAVOR",
     "link": "https://www.vesselfinder.com/?imo=1023592",
-    "destino": "Singapore, Singapore",
-    "eta": "2026-11-18T03:30+00:00",
+    "destino": "Singapore Anch. 4, Singapore",
+    "chegou": "2026-11-18T04:18+00:00",
     "sog": 0.0,
     "calado": "8.9 m",
     "ultimo_porto": "Fukuyama, Hiroshima Anch., Japan",
@@ -152,7 +152,7 @@
     "mmsi": 352005752,
     "status_ais": "navegando",
     "destino_aqui": false,
-    "visto_em": "2026-11-18T04:44:25+00:00"
+    "visto_em": "2026-11-18T05:15:12+00:00"
    }
   },
   {
