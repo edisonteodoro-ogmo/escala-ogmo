@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-17T21:16:07-03:00",
+ "atualizado_em": "2026-11-17T21:18:54-03:00",
  "lido_em": "2026-11-17T21:05:44-03:00",
  "total": 16,
  "navios": [
@@ -23,7 +23,7 @@
     "lat": -23.811,
     "lon": -45.3966,
     "dist_mn": 0.2,
-    "visto_em": "2026-11-17T23:46:01+00:00",
+    "visto_em": "2026-11-18T00:16:11+00:00",
     "sog": 0,
     "rumo": 225,
     "calado": 8.4,
@@ -44,6 +44,7 @@
    "local": "DIRETO",
    "situacao": "FUNDEADO",
    "fundeado": true,
+   "cais": "19/11 11:30",
    "ais": {
     "link": "https://www.vesselfinder.com/?imo=7819113",
     "ultimo_porto": "Sao Sebastiao Anch., Brazil",
@@ -306,7 +307,7 @@
     "mmsi": 372612000,
     "status_ais": "atracado",
     "destino_aqui": false,
-    "visto_em": "2026-11-17T23:46:44+00:00"
+    "visto_em": "2026-11-18T00:16:54+00:00"
    }
   },
   {
@@ -393,12 +394,12 @@
     "nome_ais": "WHITE PEARL",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 8.4 mn)",
-    "lat": -23.6948,
+    "lat": -23.6947,
     "lon": -45.3159,
     "dist_mn": 8.4,
-    "visto_em": "2026-11-17T23:55:25+00:00",
-    "sog": 0.3,
-    "rumo": 110,
+    "visto_em": "2026-11-18T00:16:26+00:00",
+    "sog": 0.2,
+    "rumo": 84,
     "calado": 5,
     "imo": 7615309,
     "status_ais": "fundeado",
@@ -418,6 +419,20 @@
    "situacao": "PROGRAMADO"
   }
  ],
+ "cais": {
+  "fonte": "praticagem",
+  "saindo": [
+   {
+    "navio": "SAGA PIONEER",
+    "horario": "19/11 10:00"
+   }
+  ],
+  "proximo": {
+   "navio": "YOSOR",
+   "horario": "19/11 11:30"
+  },
+  "depois": []
+ },
  "ais_navios": 13,
  "porto": {
   "lat": -23.8105,
