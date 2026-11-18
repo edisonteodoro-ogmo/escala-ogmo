@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-18T07:45:46-03:00",
+ "atualizado_em": "2026-11-18T07:48:43-03:00",
  "lido_em": "2026-11-18T07:35:34-03:00",
  "total": 16,
  "navios": [
@@ -23,7 +23,7 @@
     "lat": -23.8109,
     "lon": -45.3967,
     "dist_mn": 0.2,
-    "visto_em": "2026-11-18T10:32:29+00:00",
+    "visto_em": "2026-11-18T10:38:29+00:00",
     "sog": 0,
     "rumo": 226,
     "calado": 8.4,
@@ -54,11 +54,11 @@
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 8.9 mn)",
     "lat": -23.7049,
-    "lon": -45.2881,
+    "lon": -45.288,
     "dist_mn": 8.9,
-    "visto_em": "2026-11-18T10:28:09+00:00",
-    "sog": 0.1,
-    "rumo": 94,
+    "visto_em": "2026-11-18T10:43:09+00:00",
+    "sog": 0.5,
+    "rumo": 96,
     "calado": 7.8,
     "imo": 7819113,
     "status_ais": "fundeado",
@@ -259,10 +259,10 @@
     "nome_ais": "PACIFIC ROSE",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 2.3 mn)",
-    "lat": -23.8393,
-    "lon": -45.4277,
+    "lat": -23.8391,
+    "lon": -45.4278,
     "dist_mn": 2.3,
-    "visto_em": "2026-11-18T10:28:56+00:00",
+    "visto_em": "2026-11-18T10:46:55+00:00",
     "sog": 0,
     "calado": 7.7,
     "imo": 9045936,
@@ -322,12 +322,12 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "caminho",
-    "texto": "a caminho de São Sebastião a 13.0 nós",
+    "texto": "a caminho de São Sebastião a 12.8 nós",
     "nome_ais": "BANA",
     "link": "https://www.vesselfinder.com/?imo=8417625",
     "destino": "Sao Sebastiao, Brazil",
     "eta": "2026-12-01T12:00+00:00",
-    "sog": 13.0,
+    "sog": 12.8,
     "calado": "8.1 m",
     "ultimo_porto": "Escombreras, Spain",
     "saida": "2026-11-17T22:36+00:00",
@@ -335,7 +335,7 @@
     "mmsi": 370141000,
     "status_ais": "navegando",
     "destino_aqui": true,
-    "visto_em": "2026-11-18T10:16:37+00:00"
+    "visto_em": "2026-11-18T10:46:43+00:00"
    }
   },
   {
@@ -363,7 +363,7 @@
     "mmsi": 341515002,
     "status_ais": "-",
     "destino_aqui": true,
-    "visto_em": "2026-11-17T18:17:37+00:00"
+    "visto_em": "2026-11-17T18:48:43+00:00"
    }
   },
   {
@@ -389,17 +389,17 @@
    "ais": {
     "link": "https://www.vesselfinder.com/?imo=9917957",
     "ultimo_porto": "Limon Bay Marina Anch., Panama",
-    "saida": "2026-11-17T20:24+00:00",
+    "saida": "2026-11-18T10:23+00:00",
     "mmsi": "450430000",
     "nome_ais": "WHITE PEARL",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 8.4 mn)",
-    "lat": -23.6944,
+    "lat": -23.6945,
     "lon": -45.3157,
     "dist_mn": 8.4,
-    "visto_em": "2026-11-18T10:37:30+00:00",
-    "sog": 0.2,
-    "rumo": 96,
+    "visto_em": "2026-11-18T10:40:24+00:00",
+    "sog": 0,
+    "rumo": 98,
     "calado": 5,
     "imo": 7615309,
     "status_ais": "fundeado",
