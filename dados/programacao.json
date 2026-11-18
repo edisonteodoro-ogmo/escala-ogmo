@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-18T09:50:03-03:00",
+ "atualizado_em": "2026-11-18T09:52:30-03:00",
  "lido_em": "2026-11-18T09:47:53-03:00",
  "total": 16,
  "navios": [
@@ -23,7 +23,7 @@
     "lat": -23.8109,
     "lon": -45.3967,
     "dist_mn": 0.2,
-    "visto_em": "2026-11-18T12:34:10+00:00",
+    "visto_em": "2026-11-18T12:46:10+00:00",
     "sog": 0,
     "rumo": 226,
     "calado": 8.4,
@@ -113,12 +113,12 @@
     "nome_ais": "HANZE GENUA",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 9.3 mn)",
-    "lat": -23.7101,
-    "lon": -45.2722,
+    "lat": -23.7102,
+    "lon": -45.2723,
     "dist_mn": 9.3,
-    "visto_em": "2026-11-18T12:16:58+00:00",
+    "visto_em": "2026-11-18T12:41:01+00:00",
     "sog": 0.1,
-    "rumo": 102,
+    "rumo": 100,
     "calado": 8.5,
     "imo": 9746970,
     "status_ais": "fundeado",
@@ -322,12 +322,12 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "caminho",
-    "texto": "a caminho de São Sebastião a 12.4 nós",
+    "texto": "a caminho de São Sebastião a 13.0 nós",
     "nome_ais": "BANA",
     "link": "https://www.vesselfinder.com/?imo=8417625",
     "destino": "Sao Sebastiao, Brazil",
     "eta": "2026-12-01T12:00+00:00",
-    "sog": 12.4,
+    "sog": 13.0,
     "calado": "8.1 m",
     "ultimo_porto": "Escombreras, Spain",
     "saida": "2026-11-17T22:36+00:00",
@@ -335,7 +335,7 @@
     "mmsi": 370141000,
     "status_ais": "navegando",
     "destino_aqui": true,
-    "visto_em": "2026-11-18T12:19:30+00:00"
+    "visto_em": "2026-11-18T12:51:30+00:00"
    }
   },
   {
@@ -363,7 +363,7 @@
     "mmsi": 341515002,
     "status_ais": "-",
     "destino_aqui": true,
-    "visto_em": "2026-11-17T18:20:30+00:00"
+    "visto_em": "2026-11-17T18:52:30+00:00"
    }
   },
   {
