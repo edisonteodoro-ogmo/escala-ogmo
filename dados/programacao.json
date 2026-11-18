@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-18T10:35:18-03:00",
- "lido_em": "2026-11-18T10:20:33-03:00",
+ "atualizado_em": "2026-11-18T10:37:48-03:00",
+ "lido_em": "2026-11-18T10:37:48-03:00",
  "total": 16,
  "navios": [
   {
@@ -230,7 +230,7 @@
     "mmsi": "565227000",
     "nome_ais": "PACIFICA",
     "situacao": "velho",
-    "texto": "sem sinal há 21 h (última posição a 254 mn)",
+    "texto": "sem sinal há 22 h (última posição a 254 mn)",
     "lat": -26.9072,
     "lon": -48.5864,
     "dist_mn": 253.8,
@@ -259,11 +259,12 @@
     "nome_ais": "PACIFIC ROSE",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 2.3 mn)",
-    "lat": -23.8389,
-    "lon": -45.428,
+    "lat": -23.8393,
+    "lon": -45.4276,
     "dist_mn": 2.3,
-    "visto_em": "2026-11-18T13:01:53+00:00",
+    "visto_em": "2026-11-18T13:31:52+00:00",
     "sog": 0.1,
+    "rumo": 136,
     "calado": 7.7,
     "imo": 9045936,
     "status_ais": "fundeado",
