@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-17T22:09:22-03:00",
+ "atualizado_em": "2026-11-17T22:18:53-03:00",
  "lido_em": "2026-11-17T22:09:22-03:00",
  "total": 16,
  "navios": [
@@ -23,9 +23,9 @@
     "lat": -23.811,
     "lon": -45.3966,
     "dist_mn": 0.2,
-    "visto_em": "2026-11-18T01:02:25+00:00",
+    "visto_em": "2026-11-18T01:17:27+00:00",
     "sog": 0,
-    "rumo": 225,
+    "rumo": 226,
     "calado": 8.4,
     "imo": 9380764,
     "status_ais": "atracado",
@@ -44,7 +44,6 @@
    "local": "DIRETO",
    "situacao": "FUNDEADO",
    "fundeado": true,
-   "cais": "19/11 11:30",
    "ais": {
     "link": "https://www.vesselfinder.com/?imo=7819113",
     "ultimo_porto": "Sao Sebastiao Anch., Brazil",
@@ -53,12 +52,12 @@
     "nome_ais": "YOSOR",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 8.9 mn)",
-    "lat": -23.7048,
+    "lat": -23.7047,
     "lon": -45.288,
     "dist_mn": 8.9,
-    "visto_em": "2026-11-18T00:31:10+00:00",
-    "sog": 0.2,
-    "rumo": 101,
+    "visto_em": "2026-11-18T01:13:10+00:00",
+    "sog": 0.1,
+    "rumo": 105,
     "calado": 7.8,
     "imo": 7819113,
     "status_ais": "fundeado",
@@ -167,7 +166,7 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "velho",
-    "texto": "sem sinal há 2 dias",
+    "texto": "sem sinal há 3 dias",
     "nome_ais": "ELISABETTA",
     "link": "https://www.vesselfinder.com/?imo=1058145",
     "destino": "Callao, Peru",
@@ -180,7 +179,7 @@
     "mmsi": 538012957,
     "status_ais": "-",
     "destino_aqui": false,
-    "visto_em": "2026-11-16T00:46:40+00:00"
+    "visto_em": "2026-11-15T01:18:53+00:00"
    }
   },
   {
@@ -419,20 +418,6 @@
    "situacao": "PROGRAMADO"
   }
  ],
- "cais": {
-  "fonte": "praticagem",
-  "saindo": [
-   {
-    "navio": "SAGA PIONEER",
-    "horario": "19/11 10:00"
-   }
-  ],
-  "proximo": {
-   "navio": "YOSOR",
-   "horario": "19/11 11:30"
-  },
-  "depois": []
- },
  "ais_navios": 13,
  "porto": {
   "lat": -23.8105,
