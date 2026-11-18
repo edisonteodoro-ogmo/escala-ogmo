@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-18T11:28:28-03:00",
+ "atualizado_em": "2026-11-18T11:38:28-03:00",
  "lido_em": "2026-11-18T11:28:28-03:00",
  "total": 16,
  "navios": [
@@ -23,9 +23,9 @@
     "lat": -23.811,
     "lon": -45.3967,
     "dist_mn": 0.2,
-    "visto_em": "2026-11-18T14:21:19+00:00",
+    "visto_em": "2026-11-18T14:29:27+00:00",
     "sog": 0,
-    "rumo": 226,
+    "rumo": 225,
     "calado": 8.4,
     "imo": 9380764,
     "status_ais": "atracado",
@@ -78,13 +78,13 @@
    "situacao": "PROGRAMADO",
    "ais": {
     "fonte": "vesselfinder",
-    "situacao": "velho",
-    "texto": "sem sinal há 5 h",
+    "situacao": "caminho",
+    "texto": "a caminho de São Sebastião a 11.2 nós",
     "nome_ais": "ASTRO NEKKAR",
     "link": "https://www.vesselfinder.com/?imo=9720304",
     "destino": "Sao Sebastiao, Brazil",
     "eta": "2026-11-18T17:00+00:00",
-    "sog": 11.5,
+    "sog": 11.2,
     "calado": "8.4 m",
     "ultimo_porto": "Sao Francisco do Sul, Brazil",
     "saida": "2026-11-17T22:03+00:00",
@@ -92,7 +92,7 @@
     "mmsi": 538006205,
     "status_ais": "navegando",
     "destino_aqui": true,
-    "visto_em": "2026-11-18T09:06:39+00:00"
+    "visto_em": "2026-11-18T14:36:28+00:00"
    }
   },
   {
@@ -152,7 +152,7 @@
     "mmsi": 352005752,
     "status_ais": "navegando",
     "destino_aqui": false,
-    "visto_em": "2026-11-18T14:05:39+00:00"
+    "visto_em": "2026-11-18T14:38:28+00:00"
    }
   },
   {
@@ -230,7 +230,7 @@
     "mmsi": "565227000",
     "nome_ais": "PACIFICA",
     "situacao": "velho",
-    "texto": "sem sinal há 22 h (última posição a 254 mn)",
+    "texto": "sem sinal há 23 h (última posição a 254 mn)",
     "lat": -26.9072,
     "lon": -48.5864,
     "dist_mn": 253.8,
@@ -259,11 +259,11 @@
     "nome_ais": "PACIFIC ROSE",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 2.3 mn)",
-    "lat": -23.8393,
-    "lon": -45.4276,
+    "lat": -23.8394,
+    "lon": -45.4275,
     "dist_mn": 2.3,
-    "visto_em": "2026-11-18T14:16:54+00:00",
-    "sog": 0.1,
+    "visto_em": "2026-11-18T14:28:56+00:00",
+    "sog": 0,
     "calado": 7.7,
     "imo": 9045936,
     "status_ais": "fundeado",
