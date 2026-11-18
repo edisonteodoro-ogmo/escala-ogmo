@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-18T16:01:50-03:00",
+ "atualizado_em": "2026-11-18T16:04:47-03:00",
  "lido_em": "2026-11-18T15:51:02-03:00",
  "total": 16,
  "navios": [
@@ -325,12 +325,12 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "caminho",
-    "texto": "a caminho de São Sebastião a 10.0 nós",
+    "texto": "a caminho de São Sebastião a 10.5 nós",
     "nome_ais": "BANA",
     "link": "https://www.vesselfinder.com/?imo=8417625",
     "destino": "Sao Sebastiao, Brazil",
     "eta": "2026-12-01T12:00+00:00",
-    "sog": 10.0,
+    "sog": 10.5,
     "calado": "8.1 m",
     "ultimo_porto": "Escombreras, Spain",
     "saida": "2026-11-17T22:36+00:00",
@@ -338,7 +338,7 @@
     "mmsi": 370141000,
     "status_ais": "navegando",
     "destino_aqui": true,
-    "visto_em": "2026-11-18T18:32:43+00:00"
+    "visto_em": "2026-11-18T19:03:47+00:00"
    }
   },
   {
@@ -353,7 +353,7 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "velho",
-    "texto": "sem sinal há 24 h",
+    "texto": "sem sinal há 25 h",
     "nome_ais": "BLUE OCEAN A",
     "link": "https://www.vesselfinder.com/?imo=9045089",
     "destino": "Sao Sebastiao, Brazil",
@@ -366,7 +366,7 @@
     "mmsi": 341515002,
     "status_ais": "-",
     "destino_aqui": true,
-    "visto_em": "2026-11-17T18:33:43+00:00"
+    "visto_em": "2026-11-17T18:04:47+00:00"
    }
   },
   {
