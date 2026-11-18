@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-18T13:51:08-03:00",
- "lido_em": "2026-11-18T13:40:13-03:00",
+ "atualizado_em": "2026-11-18T13:56:10-03:00",
+ "lido_em": "2026-11-18T13:56:10-03:00",
  "total": 16,
  "navios": [
   {
@@ -178,7 +178,7 @@
     "mmsi": 538012957,
     "status_ais": "-",
     "destino_aqui": false,
-    "visto_em": "2026-11-15T16:24:11+00:00"
+    "visto_em": "2026-11-15T16:56:10+00:00"
    }
   },
   {
@@ -192,8 +192,8 @@
    "situacao": "PROGRAMADO",
    "ais": {
     "link": "https://www.vesselfinder.com/?imo=9474254",
-    "ultimo_porto": "San Lorenzo, Argentina",
-    "saida": "2026-11-11T01:53+00:00",
+    "ultimo_porto": "Santos Anch., Brazil",
+    "saida": "2026-11-18T16:45+00:00",
     "mmsi": "538007973",
     "nome_ais": "V ISALOS",
     "situacao": "velho",
