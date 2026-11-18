@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-18T17:07:33-03:00",
+ "atualizado_em": "2026-11-18T17:13:53-03:00",
  "lido_em": "2026-11-18T17:01:54-03:00",
  "total": 16,
  "navios": [
@@ -23,9 +23,9 @@
     "lat": -23.811,
     "lon": -45.3967,
     "dist_mn": 0.2,
-    "visto_em": "2026-11-18T19:49:40+00:00",
+    "visto_em": "2026-11-18T20:04:33+00:00",
     "sog": 0,
-    "rumo": 226,
+    "rumo": 225,
     "calado": 8.4,
     "imo": 9380764,
     "status_ais": "atracado",
@@ -52,13 +52,13 @@
     "mmsi": "677031200",
     "nome_ais": "YOSOR",
     "situacao": "fundeado",
-    "texto": "fundeado na área do porto (a 7.0 mn)",
-    "lat": -23.8696,
-    "lon": -45.5117,
-    "dist_mn": 7.0,
-    "visto_em": "2026-11-18T19:49:55+00:00",
-    "sog": 0.1,
-    "rumo": 198,
+    "texto": "fundeado na área do porto (a 7.1 mn)",
+    "lat": -23.8697,
+    "lon": -45.5123,
+    "dist_mn": 7.1,
+    "visto_em": "2026-11-18T20:07:52+00:00",
+    "sog": 0.2,
+    "rumo": 163,
     "calado": 7.8,
     "imo": 7819113,
     "status_ais": "fundeado",
@@ -207,7 +207,7 @@
     "lat": -23.9619,
     "lon": -46.3033,
     "dist_mn": 50.4,
-    "visto_em": "2026-11-18T19:41:34+00:00",
+    "visto_em": "2026-11-18T20:05:33+00:00",
     "sog": 0,
     "rumo": 143,
     "calado": 10.2,
@@ -263,12 +263,12 @@
     "nome_ais": "PACIFIC ROSE",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 2.3 mn)",
-    "lat": -23.8393,
+    "lat": -23.8392,
     "lon": -45.4278,
     "dist_mn": 2.3,
-    "visto_em": "2026-11-18T19:40:54+00:00",
+    "visto_em": "2026-11-18T20:13:54+00:00",
     "sog": 0.1,
-    "rumo": 140,
+    "rumo": 141,
     "calado": 7.7,
     "imo": 9045936,
     "status_ais": "fundeado",
@@ -299,12 +299,12 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "movimento",
-    "texto": "navegando a 12.0 nós · destino Paranagua, Brazil",
+    "texto": "navegando a 12.6 nós · destino Paranagua, Brazil",
     "nome_ais": "APOGEE ENDEAVOUR",
     "link": "https://www.vesselfinder.com/?imo=9553141",
     "destino": "Paranagua, Brazil",
     "eta": "2026-11-22T15:00+00:00",
-    "sog": 12.0,
+    "sog": 12.6,
     "calado": "10.3 m",
     "ultimo_porto": "San Lorenzo, Argentina",
     "saida": "2026-11-18T15:43+00:00",
@@ -312,7 +312,7 @@
     "mmsi": 372612000,
     "status_ais": "navegando",
     "destino_aqui": false,
-    "visto_em": "2026-11-18T19:31:21+00:00"
+    "visto_em": "2026-11-18T20:12:53+00:00"
    }
   },
   {
@@ -327,12 +327,12 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "caminho",
-    "texto": "a caminho de São Sebastião a 11.6 nós",
+    "texto": "a caminho de São Sebastião a 12.1 nós",
     "nome_ais": "BANA",
     "link": "https://www.vesselfinder.com/?imo=8417625",
     "destino": "Sao Sebastiao, Brazil",
     "eta": "2026-12-01T12:00+00:00",
-    "sog": 11.6,
+    "sog": 12.1,
     "calado": "8.1 m",
     "ultimo_porto": "Escombreras, Spain",
     "saida": "2026-11-17T22:36+00:00",
@@ -340,7 +340,7 @@
     "mmsi": 370141000,
     "status_ais": "navegando",
     "destino_aqui": true,
-    "visto_em": "2026-11-18T19:34:04+00:00"
+    "visto_em": "2026-11-18T20:12:53+00:00"
    }
   },
   {
@@ -355,7 +355,7 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "velho",
-    "texto": "sem sinal há 25 h",
+    "texto": "sem sinal há 26 h",
     "nome_ais": "BLUE OCEAN A",
     "link": "https://www.vesselfinder.com/?imo=9045089",
     "destino": "Sao Sebastiao, Brazil",
@@ -368,7 +368,7 @@
     "mmsi": 341515002,
     "status_ais": "-",
     "destino_aqui": true,
-    "visto_em": "2026-11-17T18:35:04+00:00"
+    "visto_em": "2026-11-17T18:13:53+00:00"
    }
   },
   {
