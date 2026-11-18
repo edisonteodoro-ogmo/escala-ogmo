@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-18T02:31:40-03:00",
+ "atualizado_em": "2026-11-18T02:34:10-03:00",
  "lido_em": "2026-11-18T02:29:17-03:00",
  "total": 16,
  "navios": [
@@ -230,7 +230,7 @@
     "mmsi": "565227000",
     "nome_ais": "PACIFICA",
     "situacao": "velho",
-    "texto": "sem sinal há 13 h (última posição a 254 mn)",
+    "texto": "sem sinal há 14 h (última posição a 254 mn)",
     "lat": -26.9072,
     "lon": -48.5864,
     "dist_mn": 253.8,
@@ -307,7 +307,7 @@
     "mmsi": 372612000,
     "status_ais": "atracado",
     "destino_aqui": false,
-    "visto_em": "2026-11-18T04:59:21+00:00"
+    "visto_em": "2026-11-18T05:32:10+00:00"
    }
   },
   {
@@ -322,12 +322,12 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "caminho",
-    "texto": "a caminho de São Sebastião a 11.9 nós",
+    "texto": "a caminho de São Sebastião a 11.8 nós",
     "nome_ais": "BANA",
     "link": "https://www.vesselfinder.com/?imo=8417625",
     "destino": "Sao Sebastiao, Brazil",
     "eta": "2026-12-01T12:00+00:00",
-    "sog": 11.9,
+    "sog": 11.8,
     "calado": "8.1 m",
     "ultimo_porto": "Escombreras, Spain",
     "saida": "2026-11-17T22:36+00:00",
@@ -335,7 +335,7 @@
     "mmsi": 370141000,
     "status_ais": "navegando",
     "destino_aqui": true,
-    "visto_em": "2026-11-18T04:56:21+00:00"
+    "visto_em": "2026-11-18T05:32:10+00:00"
    }
   },
   {
@@ -394,12 +394,12 @@
     "nome_ais": "WHITE PEARL",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 8.4 mn)",
-    "lat": -23.6945,
+    "lat": -23.6948,
     "lon": -45.3158,
     "dist_mn": 8.4,
-    "visto_em": "2026-11-18T05:01:32+00:00",
-    "sog": 0.2,
-    "rumo": 90,
+    "visto_em": "2026-11-18T05:28:29+00:00",
+    "sog": 0,
+    "rumo": 92,
     "calado": 5,
     "imo": 7615309,
     "status_ais": "fundeado",
