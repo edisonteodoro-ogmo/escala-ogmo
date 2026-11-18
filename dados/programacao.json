@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-17T20:58:11-03:00",
- "lido_em": "2026-11-17T20:50:11-03:00",
+ "atualizado_em": "2026-11-17T21:05:44-03:00",
+ "lido_em": "2026-11-17T21:05:44-03:00",
  "total": 16,
  "navios": [
   {
@@ -79,12 +79,12 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "caminho",
-    "texto": "a caminho de São Sebastião a 10.2 nós",
+    "texto": "a caminho de São Sebastião a 11.0 nós",
     "nome_ais": "ASTRO NEKKAR",
     "link": "https://www.vesselfinder.com/?imo=9720304",
     "destino": "Sao Sebastiao, Brazil",
     "eta": "2026-11-18T17:00+00:00",
-    "sog": 10.2,
+    "sog": 11.0,
     "calado": "8.4 m",
     "ultimo_porto": "Sao Francisco do Sul, Brazil",
     "saida": "2026-11-17T22:03+00:00",
@@ -92,7 +92,7 @@
     "mmsi": 538006205,
     "status_ais": "navegando",
     "destino_aqui": true,
-    "visto_em": "2026-11-17T23:33:05+00:00"
+    "visto_em": "2026-11-18T00:04:44+00:00"
    }
   },
   {
@@ -152,7 +152,7 @@
     "mmsi": 352005752,
     "status_ais": "navegando",
     "destino_aqui": false,
-    "visto_em": "2026-11-17T23:33:05+00:00"
+    "visto_em": "2026-11-18T00:04:44+00:00"
    }
   },
   {
