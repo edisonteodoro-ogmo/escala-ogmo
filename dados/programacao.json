@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-18T10:18:02-03:00",
- "lido_em": "2026-11-18T10:03:10-03:00",
+ "atualizado_em": "2026-11-18T10:20:34-03:00",
+ "lido_em": "2026-11-18T10:20:33-03:00",
  "total": 16,
  "navios": [
   {
@@ -294,20 +294,20 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "outro",
-    "texto": "atracado em San Lorenzo, Argentina",
+    "texto": "atracado em San Lorenzo, Argentina · destino Paranagua, Brazil",
     "nome_ais": "APOGEE ENDEAVOUR",
     "link": "https://www.vesselfinder.com/?imo=9553141",
-    "destino": "San Lorenzo, Argentina",
-    "chegou": "2026-11-16T11:41+00:00",
+    "destino": "Paranagua, Brazil",
+    "eta": "2026-11-22T15:00+00:00",
     "sog": 0.0,
-    "calado": "5.2 m",
-    "ultimo_porto": "San Lorenzo Anch., Argentina",
-    "saida": "2026-11-16T11:13+00:00",
+    "calado": "10.3 m",
+    "ultimo_porto": "San Lorenzo, Argentina",
+    "saida": "2026-11-16T11:41+00:00",
     "imo": 9553141,
     "mmsi": 372612000,
     "status_ais": "atracado",
     "destino_aqui": false,
-    "visto_em": "2026-11-18T12:50:03+00:00"
+    "visto_em": "2026-11-18T13:19:34+00:00"
    }
   },
   {
