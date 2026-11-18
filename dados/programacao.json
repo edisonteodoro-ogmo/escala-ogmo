@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-18T05:25:22-03:00",
+ "atualizado_em": "2026-11-18T05:34:02-03:00",
  "lido_em": "2026-11-18T05:25:22-03:00",
  "total": 16,
  "navios": [
@@ -230,7 +230,7 @@
     "mmsi": "565227000",
     "nome_ais": "PACIFICA",
     "situacao": "velho",
-    "texto": "sem sinal há 16 h (última posição a 254 mn)",
+    "texto": "sem sinal há 17 h (última posição a 254 mn)",
     "lat": -26.9072,
     "lon": -48.5864,
     "dist_mn": 253.8,
