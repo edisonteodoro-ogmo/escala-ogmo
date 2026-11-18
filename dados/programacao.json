@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-18T03:39:39-03:00",
- "lido_em": "2026-11-18T03:34:25-03:00",
+ "atualizado_em": "2026-11-18T03:49:41-03:00",
+ "lido_em": "2026-11-18T03:49:41-03:00",
  "total": 16,
  "navios": [
   {
@@ -20,12 +20,12 @@
     "nome_ais": "SAGA PIONEER",
     "situacao": "atracado",
     "texto": "atracado em São Sebastião",
-    "lat": -23.811,
+    "lat": -23.8109,
     "lon": -45.3966,
     "dist_mn": 0.2,
-    "visto_em": "2026-11-18T06:33:16+00:00",
+    "visto_em": "2026-11-18T06:45:16+00:00",
     "sog": 0,
-    "rumo": 226,
+    "rumo": 225,
     "calado": 8.4,
     "imo": 9380764,
     "status_ais": "atracado",
@@ -51,8 +51,8 @@
     "saida": "2026-10-15T12:53+00:00",
     "mmsi": "677031200",
     "nome_ais": "YOSOR",
-    "situacao": "fundeado",
-    "texto": "fundeado na área do porto (a 8.9 mn)",
+    "situacao": "velho",
+    "texto": "sem sinal há 3 h (última posição a 9 mn)",
     "lat": -23.7051,
     "lon": -45.288,
     "dist_mn": 8.9,
@@ -92,7 +92,7 @@
     "mmsi": 538006205,
     "status_ais": "navegando",
     "destino_aqui": true,
-    "visto_em": "2026-11-18T04:19:28+00:00"
+    "visto_em": "2026-11-18T04:49:41+00:00"
    }
   },
   {
@@ -152,7 +152,7 @@
     "mmsi": 352005752,
     "status_ais": "navegando",
     "destino_aqui": false,
-    "visto_em": "2026-11-18T06:19:28+00:00"
+    "visto_em": "2026-11-18T06:49:41+00:00"
    }
   },
   {
@@ -394,12 +394,12 @@
     "nome_ais": "WHITE PEARL",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 8.4 mn)",
-    "lat": -23.6946,
-    "lon": -45.3158,
+    "lat": -23.6948,
+    "lon": -45.3159,
     "dist_mn": 8.4,
-    "visto_em": "2026-11-18T06:07:30+00:00",
-    "sog": 0.1,
-    "rumo": 67,
+    "visto_em": "2026-11-18T06:49:28+00:00",
+    "sog": 0.2,
+    "rumo": 99,
     "calado": 5,
     "imo": 7615309,
     "status_ais": "fundeado",
