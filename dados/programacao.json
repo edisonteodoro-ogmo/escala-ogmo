@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-18T05:06:40-03:00",
- "lido_em": "2026-11-18T04:52:04-03:00",
+ "atualizado_em": "2026-11-18T05:09:56-03:00",
+ "lido_em": "2026-11-18T05:09:56-03:00",
  "total": 16,
  "navios": [
   {
@@ -200,12 +200,12 @@
     "nome_ais": "V ISALOS",
     "situacao": "outro",
     "texto": "fundeado longe daqui (a 56 mn)",
-    "lat": -24.1814,
-    "lon": -46.3354,
+    "lat": -24.181,
+    "lon": -46.3356,
     "dist_mn": 55.9,
-    "visto_em": "2026-11-18T06:18:29+00:00",
-    "sog": 0.4,
-    "rumo": 67,
+    "visto_em": "2026-11-18T08:09:25+00:00",
+    "sog": 0.2,
+    "rumo": 83,
     "calado": 10.2,
     "imo": 9474254,
     "status_ais": "fundeado",
@@ -307,7 +307,7 @@
     "mmsi": 372612000,
     "status_ais": "atracado",
     "destino_aqui": false,
-    "visto_em": "2026-11-18T07:37:57+00:00"
+    "visto_em": "2026-11-18T08:07:56+00:00"
    }
   },
   {
@@ -335,7 +335,7 @@
     "mmsi": 370141000,
     "status_ais": "navegando",
     "destino_aqui": true,
-    "visto_em": "2026-11-18T07:28:57+00:00"
+    "visto_em": "2026-11-18T08:08:56+00:00"
    }
   },
   {
@@ -350,7 +350,7 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "velho",
-    "texto": "sem sinal há 13 h",
+    "texto": "sem sinal há 14 h",
     "nome_ais": "BLUE OCEAN A",
     "link": "https://www.vesselfinder.com/?imo=9045089",
     "destino": "Sao Sebastiao, Brazil",
@@ -363,7 +363,7 @@
     "mmsi": 341515002,
     "status_ais": "-",
     "destino_aqui": true,
-    "visto_em": "2026-11-17T18:38:57+00:00"
+    "visto_em": "2026-11-17T18:09:56+00:00"
    }
   },
   {
