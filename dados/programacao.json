@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-18T03:04:23-03:00",
+ "atualizado_em": "2026-11-18T03:07:04-03:00",
  "lido_em": "2026-11-18T03:01:59-03:00",
  "total": 16,
  "navios": [
@@ -350,7 +350,7 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "velho",
-    "texto": "sem sinal há 11 h",
+    "texto": "sem sinal há 12 h",
     "nome_ais": "BLUE OCEAN A",
     "link": "https://www.vesselfinder.com/?imo=9045089",
     "destino": "Sao Sebastiao, Brazil",
@@ -363,7 +363,7 @@
     "mmsi": 341515002,
     "status_ais": "navegando",
     "destino_aqui": true,
-    "visto_em": "2026-11-17T18:36:51+00:00"
+    "visto_em": "2026-11-17T18:07:04+00:00"
    }
   },
   {
