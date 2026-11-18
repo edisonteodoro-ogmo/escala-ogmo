@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-18T19:06:53-03:00",
+ "atualizado_em": "2026-11-18T19:09:19-03:00",
  "atual": "18/11 1h",
  "anterior": "18/11 19h",
  "categorias": [
@@ -11,9 +11,9 @@
  ],
  "resumo": {
   "Estivador": {
-   "agora": 12,
+   "agora": 11,
    "6h": 12,
-   "11h": 40
+   "11h": 41
   },
   "Arrumador": {
    "agora": 17,
@@ -91,7 +91,7 @@
    "num": 308,
    "nome": "JOSE CARLOS MARTA",
    "cat": "Estivador",
-   "st": "agora",
+   "st": "11h",
    "est": 2
   },
   {
