@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-18T09:15:28-03:00",
+ "atualizado_em": "2026-11-18T09:18:12-03:00",
  "lido_em": "2026-11-18T09:15:28-03:00",
  "total": 16,
  "navios": [
@@ -44,20 +44,21 @@
    "local": "DIRETO",
    "situacao": "FUNDEADO",
    "fundeado": true,
+   "cais": "19/11 11:30",
    "ais": {
     "link": "https://www.vesselfinder.com/?imo=7819113",
     "ultimo_porto": "Sao Sebastiao Anch., Brazil",
     "saida": "2026-10-15T12:53+00:00",
     "mmsi": "677031200",
     "nome_ais": "YOSOR",
-    "situacao": "fundeado",
-    "texto": "parado na área do porto (a 8.9 mn)",
-    "lat": -23.7059,
-    "lon": -45.2871,
-    "dist_mn": 8.9,
-    "visto_em": "2026-11-18T12:05:04+00:00",
-    "sog": 0.3,
-    "rumo": 132,
+    "situacao": "caminho",
+    "texto": "navegando a 3.5 nós, a 9 mn · destino São Sebastião",
+    "lat": -23.7061,
+    "lon": -45.2839,
+    "dist_mn": 9.0,
+    "visto_em": "2026-11-18T12:13:13+00:00",
+    "sog": 3.5,
+    "rumo": 79,
     "calado": 7.8,
     "imo": 7819113,
     "status_ais": "navegando",
@@ -110,14 +111,14 @@
     "saida": "2026-11-05T05:54+00:00",
     "mmsi": "244830401",
     "nome_ais": "HANZE GENUA",
-    "situacao": "velho",
-    "texto": "sem sinal há 3 h (última posição a 9 mn)",
-    "lat": -23.7106,
+    "situacao": "fundeado",
+    "texto": "fundeado na área do porto (a 9.3 mn)",
+    "lat": -23.7101,
     "lon": -45.2722,
     "dist_mn": 9.3,
-    "visto_em": "2026-11-18T08:10:59+00:00",
+    "visto_em": "2026-11-18T12:16:58+00:00",
     "sog": 0.1,
-    "rumo": 92,
+    "rumo": 102,
     "calado": 8.5,
     "imo": 9746970,
     "status_ais": "fundeado",
@@ -307,7 +308,7 @@
     "mmsi": 372612000,
     "status_ais": "atracado",
     "destino_aqui": false,
-    "visto_em": "2026-11-18T11:46:33+00:00"
+    "visto_em": "2026-11-18T12:17:12+00:00"
    }
   },
   {
@@ -419,6 +420,20 @@
    "situacao": "PROGRAMADO"
   }
  ],
+ "cais": {
+  "fonte": "praticagem",
+  "saindo": [
+   {
+    "navio": "SAGA PIONEER",
+    "horario": "19/11 10:00"
+   }
+  ],
+  "proximo": {
+   "navio": "YOSOR",
+   "horario": "19/11 11:30"
+  },
+  "depois": []
+ },
  "ais_navios": 13,
  "porto": {
   "lat": -23.8105,
