@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-17T21:54:09-03:00",
+ "atualizado_em": "2026-11-17T22:06:52-03:00",
  "lido_em": "2026-11-17T21:54:09-03:00",
  "total": 16,
  "navios": [
@@ -23,9 +23,9 @@
     "lat": -23.811,
     "lon": -45.3966,
     "dist_mn": 0.2,
-    "visto_em": "2026-11-18T00:51:19+00:00",
+    "visto_em": "2026-11-18T01:02:25+00:00",
     "sog": 0,
-    "rumo": 226,
+    "rumo": 225,
     "calado": 8.4,
     "imo": 9380764,
     "status_ais": "atracado",
@@ -79,12 +79,12 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "caminho",
-    "texto": "a caminho de São Sebastião a 11.5 nós",
+    "texto": "a caminho de São Sebastião a 11.3 nós",
     "nome_ais": "ASTRO NEKKAR",
     "link": "https://www.vesselfinder.com/?imo=9720304",
     "destino": "Sao Sebastiao, Brazil",
     "eta": "2026-11-18T17:00+00:00",
-    "sog": 11.5,
+    "sog": 11.3,
     "calado": "8.4 m",
     "ultimo_porto": "Sao Francisco do Sul, Brazil",
     "saida": "2026-11-17T22:03+00:00",
@@ -92,7 +92,7 @@
     "mmsi": 538006205,
     "status_ais": "navegando",
     "destino_aqui": true,
-    "visto_em": "2026-11-18T00:36:47+00:00"
+    "visto_em": "2026-11-18T01:05:52+00:00"
    }
   },
   {
@@ -139,12 +139,12 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "movimento",
-    "texto": "navegando a 9.6 nós · destino Singapore, Singapore",
+    "texto": "navegando a 9.9 nós · destino Singapore, Singapore",
     "nome_ais": "OCEAN ENDEAVOR",
     "link": "https://www.vesselfinder.com/?imo=1023592",
     "destino": "Singapore, Singapore",
     "eta": "2026-11-18T07:00+00:00",
-    "sog": 9.6,
+    "sog": 9.9,
     "calado": "8.9 m",
     "ultimo_porto": "Fukuyama, Hiroshima Anch., Japan",
     "saida": "2026-11-08T04:30+00:00",
@@ -152,7 +152,7 @@
     "mmsi": 352005752,
     "status_ais": "navegando",
     "destino_aqui": false,
-    "visto_em": "2026-11-18T00:35:47+00:00"
+    "visto_em": "2026-11-18T01:05:52+00:00"
    }
   },
   {
@@ -259,12 +259,11 @@
     "nome_ais": "PACIFIC ROSE",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 2.3 mn)",
-    "lat": -23.8395,
-    "lon": -45.427,
+    "lat": -23.8394,
+    "lon": -45.4272,
     "dist_mn": 2.3,
-    "visto_em": "2026-11-18T00:20:00+00:00",
-    "sog": 0.3,
-    "rumo": 319,
+    "visto_em": "2026-11-18T01:04:57+00:00",
+    "sog": 0.1,
     "calado": 7.7,
     "imo": 9045936,
     "status_ais": "fundeado",
@@ -395,12 +394,12 @@
     "nome_ais": "WHITE PEARL",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 8.4 mn)",
-    "lat": -23.6948,
+    "lat": -23.6949,
     "lon": -45.3159,
     "dist_mn": 8.4,
-    "visto_em": "2026-11-18T00:43:26+00:00",
-    "sog": 0.3,
-    "rumo": 109,
+    "visto_em": "2026-11-18T01:01:27+00:00",
+    "sog": 0.1,
+    "rumo": 113,
     "calado": 5,
     "imo": 7615309,
     "status_ais": "fundeado",
