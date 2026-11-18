@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-17T22:26:55-03:00",
+ "atualizado_em": "2026-11-17T22:29:23-03:00",
  "lido_em": "2026-11-17T22:26:55-03:00",
  "total": 16,
  "navios": [
@@ -44,6 +44,7 @@
    "local": "DIRETO",
    "situacao": "FUNDEADO",
    "fundeado": true,
+   "cais": "19/11 11:30",
    "ais": {
     "link": "https://www.vesselfinder.com/?imo=7819113",
     "ultimo_porto": "Sao Sebastiao Anch., Brazil",
@@ -198,7 +199,7 @@
     "mmsi": "538007973",
     "nome_ais": "V ISALOS",
     "situacao": "velho",
-    "texto": "sem sinal há 5 h (última posição a 56 mn)",
+    "texto": "sem sinal há 6 h (última posição a 56 mn)",
     "lat": -24.1791,
     "lon": -46.3353,
     "dist_mn": 55.8,
@@ -258,11 +259,12 @@
     "nome_ais": "PACIFIC ROSE",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 2.3 mn)",
-    "lat": -23.8394,
-    "lon": -45.4272,
+    "lat": -23.8393,
+    "lon": -45.4275,
     "dist_mn": 2.3,
-    "visto_em": "2026-11-18T01:04:57+00:00",
-    "sog": 0.1,
+    "visto_em": "2026-11-18T01:28:57+00:00",
+    "sog": 0,
+    "rumo": 331,
     "calado": 7.7,
     "imo": 9045936,
     "status_ais": "fundeado",
@@ -393,12 +395,12 @@
     "nome_ais": "WHITE PEARL",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 8.4 mn)",
-    "lat": -23.6949,
+    "lat": -23.6946,
     "lon": -45.3159,
     "dist_mn": 8.4,
-    "visto_em": "2026-11-18T01:01:27+00:00",
-    "sog": 0.1,
-    "rumo": 113,
+    "visto_em": "2026-11-18T01:22:25+00:00",
+    "sog": 0.4,
+    "rumo": 76,
     "calado": 5,
     "imo": 7615309,
     "status_ais": "fundeado",
@@ -418,6 +420,20 @@
    "situacao": "PROGRAMADO"
   }
  ],
+ "cais": {
+  "fonte": "praticagem",
+  "saindo": [
+   {
+    "navio": "SAGA PIONEER",
+    "horario": "19/11 10:00"
+   }
+  ],
+  "proximo": {
+   "navio": "YOSOR",
+   "horario": "19/11 11:30"
+  },
+  "depois": []
+ },
  "ais_navios": 13,
  "porto": {
   "lat": -23.8105,
