@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-18T00:29:45-03:00",
+ "atualizado_em": "2026-11-18T00:34:45-03:00",
  "lido_em": "2026-11-18T00:21:59-03:00",
  "total": 16,
  "navios": [
@@ -20,12 +20,12 @@
     "nome_ais": "SAGA PIONEER",
     "situacao": "atracado",
     "texto": "atracado em São Sebastião",
-    "lat": -23.811,
+    "lat": -23.8109,
     "lon": -45.3966,
     "dist_mn": 0.2,
-    "visto_em": "2026-11-18T02:41:27+00:00",
+    "visto_em": "2026-11-18T03:26:28+00:00",
     "sog": 0,
-    "rumo": 225,
+    "rumo": 226,
     "calado": 8.4,
     "imo": 9380764,
     "status_ais": "atracado",
@@ -44,6 +44,7 @@
    "local": "DIRETO",
    "situacao": "FUNDEADO",
    "fundeado": true,
+   "cais": "19/11 11:30",
    "ais": {
     "link": "https://www.vesselfinder.com/?imo=7819113",
     "ultimo_porto": "Sao Sebastiao Anch., Brazil",
@@ -229,7 +230,7 @@
     "mmsi": "565227000",
     "nome_ais": "PACIFICA",
     "situacao": "velho",
-    "texto": "sem sinal há 11 h (última posição a 254 mn)",
+    "texto": "sem sinal há 12 h (última posição a 254 mn)",
     "lat": -26.9072,
     "lon": -48.5864,
     "dist_mn": 253.8,
@@ -418,6 +419,20 @@
    "situacao": "PROGRAMADO"
   }
  ],
+ "cais": {
+  "fonte": "praticagem",
+  "saindo": [
+   {
+    "navio": "SAGA PIONEER",
+    "horario": "19/11 10:00"
+   }
+  ],
+  "proximo": {
+   "navio": "YOSOR",
+   "horario": "19/11 11:30"
+  },
+  "depois": []
+ },
  "ais_navios": 13,
  "porto": {
   "lat": -23.8105,
