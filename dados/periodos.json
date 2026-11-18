@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-18T08:04:10-03:00",
+ "atualizado_em": "2026-11-18T08:19:28-03:00",
  "dias": [
   {
    "data": "2026-11-18",
@@ -17,14 +17,7 @@
       ],
       "rancho": true,
       "posicao": "P1",
-      "extra": "📍 sai 18/11 18:30",
-      "cargas": [
-       {
-        "carga": "ENTREGA RANCHO",
-        "tons": 5000,
-        "qtd": 1
-       }
-      ]
+      "extra": "📍 sai 18/11 18:30"
      },
      {
       "req": 60989,
