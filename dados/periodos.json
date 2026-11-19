@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-19T15:07:41-03:00",
+ "atualizado_em": "2026-11-19T15:15:46-03:00",
  "dias": [
   {
    "data": "2026-11-19",
@@ -59,6 +59,32 @@
    "data": "2026-11-20",
    "periodos": {
     "1": [
+     {
+      "req": 61057,
+      "navio": "BRASIL 2014 DP",
+      "operador": "TRIAINA",
+      "ternos": 1,
+      "categorias": [
+       "Arrumador",
+       "Conferente",
+       "Estivador"
+      ],
+      "rancho": true,
+      "posicao": "aguardando",
+      "extra": "📍 entra P2 20/11 00:30",
+      "cargas": [
+       {
+        "carga": "EMBARQUE MASTER MARINE",
+        "tons": 5000,
+        "qtd": 0
+       },
+       {
+        "carga": "EMBARQUE BALDE DE TINTA",
+        "tons": 240,
+        "qtd": 0
+       }
+      ]
+     },
      {
       "req": 61039,
       "navio": "YOSOR-GADO",
