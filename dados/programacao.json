@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-19T00:55:52-03:00",
+ "atualizado_em": "2026-11-19T01:05:29-03:00",
  "lido_em": "2026-11-19T00:55:52-03:00",
  "total": 16,
  "navios": [
@@ -298,12 +298,12 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "movimento",
-    "texto": "navegando a 9.0 nós · destino Paranagua, Brazil",
+    "texto": "navegando a 11.4 nós · destino Paranagua, Brazil",
     "nome_ais": "APOGEE ENDEAVOUR",
     "link": "https://www.vesselfinder.com/?imo=9553141",
     "destino": "Paranagua, Brazil",
     "eta": "2026-11-22T15:00+00:00",
-    "sog": 9.0,
+    "sog": 11.4,
     "calado": "10.3 m",
     "ultimo_porto": "San Lorenzo, Argentina",
     "saida": "2026-11-18T15:43+00:00",
@@ -311,7 +311,7 @@
     "mmsi": 372612000,
     "status_ais": "navegando",
     "destino_aqui": false,
-    "visto_em": "2026-11-19T03:34:29+00:00"
+    "visto_em": "2026-11-19T04:04:29+00:00"
    }
   },
   {
@@ -339,7 +339,7 @@
     "mmsi": 370141000,
     "status_ais": "navegando",
     "destino_aqui": true,
-    "visto_em": "2026-11-19T03:02:29+00:00"
+    "visto_em": "2026-11-19T03:05:29+00:00"
    }
   },
   {
