@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-19T08:08:14-03:00",
+ "atualizado_em": "2026-11-19T08:28:29-03:00",
  "dias": [
   {
    "data": "2026-11-19",
@@ -21,8 +21,34 @@
      }
     ],
     "2": [],
-    "3": [],
-    "4": []
+    "3": [
+     {
+      "req": 61037,
+      "navio": "YOSOR - CARGA VIVA",
+      "operador": "LOG LOGISTICA",
+      "ternos": 2,
+      "categorias": [
+       "Arrumador",
+       "Conferente",
+       "Estivador"
+      ],
+      "rancho": false
+     }
+    ],
+    "4": [
+     {
+      "req": 61038,
+      "navio": "YOSOR - CARGA VIVA",
+      "operador": "LOG LOGISTICA",
+      "ternos": 2,
+      "categorias": [
+       "Arrumador",
+       "Conferente",
+       "Estivador"
+      ],
+      "rancho": false
+     }
+    ]
    },
    "desc": {
     "1": "07-13",
@@ -34,9 +60,48 @@
   {
    "data": "2026-11-20",
    "periodos": {
-    "1": [],
-    "2": [],
-    "3": [],
+    "1": [
+     {
+      "req": 61039,
+      "navio": "YOSOR - CARGA VIVA",
+      "operador": "LOG LOGISTICA",
+      "ternos": 2,
+      "categorias": [
+       "Arrumador",
+       "Conferente",
+       "Estivador"
+      ],
+      "rancho": false
+     }
+    ],
+    "2": [
+     {
+      "req": 61040,
+      "navio": "YOSOR - CARGA VIVA",
+      "operador": "LOG LOGISTICA",
+      "ternos": 2,
+      "categorias": [
+       "Arrumador",
+       "Conferente",
+       "Estivador"
+      ],
+      "rancho": false
+     }
+    ],
+    "3": [
+     {
+      "req": 61041,
+      "navio": "YOSOR - CARGA VIVA",
+      "operador": "LOG LOGISTICA",
+      "ternos": 2,
+      "categorias": [
+       "Arrumador",
+       "Conferente",
+       "Estivador"
+      ],
+      "rancho": false
+     }
+    ],
     "4": []
    },
    "desc": {
