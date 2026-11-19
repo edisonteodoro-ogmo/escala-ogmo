@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-19T11:41:55-03:00",
+ "atualizado_em": "2026-11-19T11:54:54-03:00",
  "dias": [
   {
    "data": "2026-11-19",
@@ -15,9 +15,7 @@
        "Conferente",
        "Estivador"
       ],
-      "rancho": false,
-      "extra": "🛰️ ETA 16/11 20:00 · navegando a 7.8 nós, a 3 mn · destino São Sebastião",
-      "onde": true
+      "rancho": false
      }
     ],
     "2": [],
