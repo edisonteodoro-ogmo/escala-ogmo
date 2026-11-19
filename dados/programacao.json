@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-19T19:51:07-03:00",
- "lido_em": "2026-11-19T19:38:24-03:00",
+ "atualizado_em": "2026-11-19T19:53:35-03:00",
+ "lido_em": "2026-11-19T19:53:35-03:00",
  "total": 20,
  "navios": [
   {
@@ -23,7 +23,7 @@
     "lat": -23.8117,
     "lon": -45.3975,
     "dist_mn": 0.2,
-    "visto_em": "2026-11-19T22:24:01+00:00",
+    "visto_em": "2026-11-19T22:48:00+00:00",
     "sog": 0,
     "rumo": 56,
     "calado": 7.8,
@@ -121,7 +121,7 @@
     "lat": -23.962,
     "lon": -46.3033,
     "dist_mn": 50.4,
-    "visto_em": "2026-11-19T22:41:45+00:00",
+    "visto_em": "2026-11-19T22:53:43+00:00",
     "sog": 0,
     "rumo": 143,
     "calado": 10.2,
@@ -143,8 +143,8 @@
    "situacao": "PROGRAMADO",
    "ais": {
     "fonte": "vesselfinder",
-    "situacao": "outro",
-    "texto": "fundeado em Buenaventura, Colombia · destino Callao, Peru",
+    "situacao": "velho",
+    "texto": "sem sinal há 4 h",
     "nome_ais": "ELISABETTA",
     "link": "https://www.vesselfinder.com/?imo=1058145",
     "destino": "Callao, Peru",
@@ -157,7 +157,7 @@
     "mmsi": 538012957,
     "status_ais": "fundeado",
     "destino_aqui": false,
-    "visto_em": "2026-11-19T19:21:48+00:00"
+    "visto_em": "2026-11-19T18:53:35+00:00"
    }
   },
   {
@@ -234,10 +234,10 @@
     "nome_ais": "PACIFIC ROSE",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 2.3 mn)",
-    "lat": -23.8395,
-    "lon": -45.4277,
+    "lat": -23.8394,
+    "lon": -45.4279,
     "dist_mn": 2.3,
-    "visto_em": "2026-11-19T22:40:45+00:00",
+    "visto_em": "2026-11-19T22:49:47+00:00",
     "sog": 0.1,
     "calado": 7.7,
     "imo": 9045936,
@@ -375,9 +375,9 @@
     "lat": -23.8453,
     "lon": -45.4385,
     "dist_mn": 2.9,
-    "visto_em": "2026-11-19T22:30:03+00:00",
+    "visto_em": "2026-11-19T22:48:04+00:00",
     "sog": 0,
-    "rumo": 25,
+    "rumo": 43,
     "calado": 5,
     "imo": 7615309,
     "status_ais": "fundeado",
@@ -465,7 +465,7 @@
     "mmsi": "538007656",
     "nome_ais": "STAR NAVARRA",
     "situacao": "velho",
-    "texto": "sem sinal há 8 h (última posição a 44 mn)",
+    "texto": "sem sinal há 9 h (última posição a 44 mn)",
     "lat": -24.4068,
     "lon": -44.9483,
     "dist_mn": 43.6,
