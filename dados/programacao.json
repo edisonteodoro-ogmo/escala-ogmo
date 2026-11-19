@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-18T22:09:21-03:00",
- "lido_em": "2026-11-18T21:55:25-03:00",
+ "atualizado_em": "2026-11-18T22:11:47-03:00",
+ "lido_em": "2026-11-18T22:11:47-03:00",
  "total": 16,
  "navios": [
   {
@@ -351,6 +351,7 @@
    "operador": "PRONAVE",
    "local": "DIRETO",
    "situacao": "PROGRAMADO",
+   "fundeado": true,
    "ais": {
     "link": "https://www.vesselfinder.com/?imo=9045089",
     "ultimo_porto": "Tarragona, Spain",
