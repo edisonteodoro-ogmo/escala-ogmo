@@ -1,17 +1,17 @@
 {
- "atualizado_em": "2026-11-19T14:19:22-03:00",
- "lido_em": "2026-11-19T14:10:05-03:00",
+ "atualizado_em": "2026-11-19T14:27:09-03:00",
+ "lido_em": "2026-11-19T14:27:09-03:00",
  "total": 15,
  "navios": [
   {
    "nome": "YOSOR",
-   "faixa": "NAVIOS PROGRAMADOS B",
+   "faixa": "NAVIOS ATRACADO",
    "previsao": "09/10/2026",
    "carga": "ANIMAIS VIVOS",
    "qtd": "5.000 UN",
    "operador": "LOG LOGÍSTICA",
    "local": "DIRETO",
-   "situacao": "FUNDEADO",
+   "situacao": "ATRACADO",
    "fundeado": true,
    "cais": "19/11 13:00",
    "ais": {
