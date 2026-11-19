@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-19T15:15:46-03:00",
+ "atualizado_em": "2026-11-19T15:21:00-03:00",
  "dias": [
   {
    "data": "2026-11-19",
@@ -100,6 +100,20 @@
     ],
     "2": [
      {
+      "req": 61058,
+      "navio": "HANZE GENUA",
+      "operador": "PRONAVE",
+      "ternos": 6,
+      "categorias": [
+       "Arrumador",
+       "Conferente",
+       "Estivador"
+      ],
+      "rancho": false,
+      "extra": "🛰️ fundeado na área do porto (a 9.3 mn)",
+      "onde": true
+     },
+     {
       "req": 61040,
       "navio": "YOSOR-GADO",
       "operador": "LOG LOGISTICA",
@@ -114,6 +128,20 @@
     ],
     "3": [
      {
+      "req": 61059,
+      "navio": "HANZE GENUA",
+      "operador": "PRONAVE",
+      "ternos": 6,
+      "categorias": [
+       "Arrumador",
+       "Conferente",
+       "Estivador"
+      ],
+      "rancho": false,
+      "extra": "🛰️ fundeado na área do porto (a 9.3 mn)",
+      "onde": true
+     },
+     {
       "req": 61041,
       "navio": "YOSOR-GADO",
       "operador": "LOG LOGISTICA",
@@ -126,7 +154,22 @@
       "rancho": false
      }
     ],
-    "4": []
+    "4": [
+     {
+      "req": 61060,
+      "navio": "HANZE GENUA",
+      "operador": "PRONAVE",
+      "ternos": 6,
+      "categorias": [
+       "Arrumador",
+       "Conferente",
+       "Estivador"
+      ],
+      "rancho": false,
+      "extra": "🛰️ fundeado na área do porto (a 9.3 mn)",
+      "onde": true
+     }
+    ]
    },
    "desc": {
     "1": "07-13",
