@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-19T12:37:38-03:00",
- "lido_em": "2026-11-19T12:25:25-03:00",
+ "atualizado_em": "2026-11-19T12:43:02-03:00",
+ "lido_em": "2026-11-19T12:43:02-03:00",
  "total": 15,
  "navios": [
   {
@@ -13,7 +13,7 @@
    "local": "DIRETO",
    "situacao": "FUNDEADO",
    "fundeado": true,
-   "cais": "19/11 13:30",
+   "cais": "19/11 13:00",
    "ais": {
     "link": "https://www.vesselfinder.com/?imo=7819113",
     "ultimo_porto": "Sao Sebastiao Anch., Brazil",
@@ -399,7 +399,7 @@
   "fonte": "praticagem",
   "proximo": {
    "navio": "YOSOR",
-   "horario": "19/11 13:30"
+   "horario": "19/11 13:00"
   },
   "depois": []
  },
