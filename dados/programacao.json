@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-19T20:25:47-03:00",
+ "atualizado_em": "2026-11-19T20:28:42-03:00",
  "lido_em": "2026-11-19T20:25:47-03:00",
  "total": 20,
  "navios": [
@@ -44,7 +44,6 @@
    "local": "ARMAZEM CDSS",
    "situacao": "FUNDEADO",
    "fundeado": true,
-   "cais": "21/11 00:30",
    "ais": {
     "link": "https://www.vesselfinder.com/?imo=9746970",
     "ultimo_porto": "Las Palmas, Spain",
@@ -269,20 +268,20 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "movimento",
-    "texto": "navegando a 10.1 nós · destino Paranagua, Brazil",
+    "texto": "- a 10.4 nós · destino Paranagua, Brazil",
     "nome_ais": "APOGEE ENDEAVOUR",
     "link": "https://www.vesselfinder.com/?imo=9553141",
     "destino": "Paranagua, Brazil",
     "eta": "2026-11-22T15:00+00:00",
-    "sog": 10.1,
+    "sog": 10.4,
     "calado": "10.3 m",
     "ultimo_porto": "La Plata Anch., Argentina",
     "saida": "2026-11-19T16:21+00:00",
     "imo": 9553141,
     "mmsi": 372612000,
-    "status_ais": "navegando",
+    "status_ais": "-",
     "destino_aqui": false,
-    "visto_em": "2026-11-19T22:54:02+00:00"
+    "visto_em": "2026-11-19T23:23:42+00:00"
    }
   },
   {
@@ -297,7 +296,7 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "velho",
-    "texto": "sem sinal há 14 h",
+    "texto": "sem sinal há 15 h",
     "nome_ais": "BANA",
     "link": "https://www.vesselfinder.com/?imo=8417625",
     "destino": "Sao Sebastiao, Brazil",
@@ -310,7 +309,7 @@
     "mmsi": 370141000,
     "status_ais": "-",
     "destino_aqui": true,
-    "visto_em": "2026-11-19T08:56:02+00:00"
+    "visto_em": "2026-11-19T08:28:42+00:00"
    }
   },
   {
@@ -510,20 +509,6 @@
    }
   }
  ],
- "cais": {
-  "fonte": "praticagem",
-  "saindo": [
-   {
-    "navio": "YOSOR",
-    "horario": "20/11 23:00"
-   }
-  ],
-  "proximo": {
-   "navio": "HANZE GENUA",
-   "horario": "21/11 00:30"
-  },
-  "depois": []
- },
  "ais_navios": 15,
  "porto": {
   "lat": -23.8105,
