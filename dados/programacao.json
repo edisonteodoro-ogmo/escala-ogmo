@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-19T16:03:28-03:00",
+ "atualizado_em": "2026-11-19T16:06:22-03:00",
  "lido_em": "2026-11-19T16:03:28-03:00",
  "total": 20,
  "navios": [
@@ -456,7 +456,25 @@
    "operador": "LOG LOGÍSTICA",
    "local": "DIRETO",
    "situacao": "PROGRAMADO",
-   "marca": "novo"
+   "marca": "novo",
+   "ais": {
+    "fonte": "vesselfinder",
+    "situacao": "velho",
+    "texto": "sem sinal há 5 h",
+    "nome_ais": "STAR NAVARRA",
+    "link": "https://www.vesselfinder.com/?imo=9548823",
+    "destino": "Palamos, Spain",
+    "eta": "2026-12-10T11:00+00:00",
+    "sog": 9.2,
+    "calado": "12.0 m",
+    "ultimo_porto": "Paranagua, Brazil",
+    "saida": "2026-11-17T22:22+00:00",
+    "imo": 9548823,
+    "mmsi": 538007656,
+    "status_ais": "navegando",
+    "destino_aqui": false,
+    "visto_em": "2026-11-19T14:06:22+00:00"
+   }
   },
   {
    "nome": "V BROS",
@@ -467,10 +485,28 @@
    "operador": "PRONAVE",
    "local": "ARMAZEM CDSS",
    "situacao": "PROGRAMADO",
-   "marca": "novo"
+   "marca": "novo",
+   "ais": {
+    "fonte": "vesselfinder",
+    "situacao": "outro",
+    "texto": "fundeado em Rio Grande Anch., Brazil",
+    "nome_ais": "V BROS",
+    "link": "https://www.vesselfinder.com/?imo=9474204",
+    "destino": "Rio Grande Anch., Brazil",
+    "chegou": "2026-11-17T17:50+00:00",
+    "sog": 0.0,
+    "calado": "9.5 m",
+    "ultimo_porto": "Rosario, Argentina",
+    "saida": "2026-11-15T03:56+00:00",
+    "imo": 9474204,
+    "mmsi": 538010087,
+    "status_ais": "fundeado",
+    "destino_aqui": false,
+    "visto_em": "2026-11-19T18:59:22+00:00"
+   }
   }
  ],
- "ais_navios": 13,
+ "ais_navios": 15,
  "porto": {
   "lat": -23.8105,
   "lon": -45.401
