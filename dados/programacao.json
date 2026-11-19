@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-19T16:35:01-03:00",
+ "atualizado_em": "2026-11-19T16:37:42-03:00",
  "lido_em": "2026-11-19T16:35:01-03:00",
  "total": 20,
  "navios": [
@@ -497,7 +497,7 @@
     "link": "https://www.vesselfinder.com/?imo=9474204",
     "destino": "Rio Grande Anch., Brazil",
     "chegou": "2026-11-17T17:50+00:00",
-    "sog": 0.0,
+    "sog": 0.3,
     "calado": "9.5 m",
     "ultimo_porto": "Rosario, Argentina",
     "saida": "2026-11-15T03:56+00:00",
@@ -505,7 +505,7 @@
     "mmsi": 538010087,
     "status_ais": "fundeado",
     "destino_aqui": false,
-    "visto_em": "2026-11-19T18:59:22+00:00"
+    "visto_em": "2026-11-19T19:35:42+00:00"
    }
   }
  ],
