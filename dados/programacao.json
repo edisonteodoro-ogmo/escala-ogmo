@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-19T11:31:23-03:00",
- "lido_em": "2026-11-19T11:19:43-03:00",
+ "atualizado_em": "2026-11-19T11:36:53-03:00",
+ "lido_em": "2026-11-19T11:36:53-03:00",
  "total": 16,
  "navios": [
   {
@@ -14,8 +14,8 @@
    "situacao": "OPERANDO",
    "ais": {
     "link": "https://www.vesselfinder.com/?imo=9380764",
-    "ultimo_porto": "Santos, Brazil",
-    "saida": "2026-11-16T19:40+00:00",
+    "ultimo_porto": "Sao Sebastiao, Brazil",
+    "saida": "2026-11-19T14:20+00:00",
     "mmsi": "311001626",
     "nome_ais": "SAGA PIONEER",
     "situacao": "caminho",
