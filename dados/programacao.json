@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-19T18:30:33-03:00",
+ "atualizado_em": "2026-11-19T18:35:07-03:00",
  "lido_em": "2026-11-19T18:30:33-03:00",
  "total": 20,
  "navios": [
@@ -44,6 +44,7 @@
    "local": "ARMAZEM CDSS",
    "situacao": "FUNDEADO",
    "fundeado": true,
+   "cais": "21/11 00:30",
    "ais": {
     "link": "https://www.vesselfinder.com/?imo=9746970",
     "ultimo_porto": "Las Palmas, Spain",
@@ -506,6 +507,20 @@
    }
   }
  ],
+ "cais": {
+  "fonte": "praticagem",
+  "saindo": [
+   {
+    "navio": "YOSOR",
+    "horario": "20/11 23:00"
+   }
+  ],
+  "proximo": {
+   "navio": "HANZE GENUA",
+   "horario": "21/11 00:30"
+  },
+  "depois": []
+ },
  "ais_navios": 15,
  "porto": {
   "lat": -23.8105,
