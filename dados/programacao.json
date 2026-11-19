@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-19T14:27:09-03:00",
+ "atualizado_em": "2026-11-19T14:29:24-03:00",
  "lido_em": "2026-11-19T14:27:09-03:00",
  "total": 15,
  "navios": [
@@ -12,25 +12,23 @@
    "operador": "LOG LOGÍSTICA",
    "local": "DIRETO",
    "situacao": "ATRACADO",
-   "fundeado": true,
-   "cais": "19/11 13:00",
    "ais": {
     "link": "https://www.vesselfinder.com/?imo=7819113",
     "ultimo_porto": "Sao Sebastiao Anch., Brazil",
     "saida": "2026-11-19T15:48+00:00",
     "mmsi": "677031200",
     "nome_ais": "YOSOR",
-    "situacao": "fundeado",
-    "texto": "parado na área do porto (a 0.2 mn)",
+    "situacao": "atracado",
+    "texto": "atracado em São Sebastião",
     "lat": -23.8116,
-    "lon": -45.3974,
+    "lon": -45.3975,
     "dist_mn": 0.2,
-    "visto_em": "2026-11-19T17:08:58+00:00",
-    "sog": 0.1,
-    "rumo": 54,
+    "visto_em": "2026-11-19T17:27:00+00:00",
+    "sog": 0,
+    "rumo": 56,
     "calado": 7.8,
     "imo": 7819113,
-    "status_ais": "navegando",
+    "status_ais": "atracado",
     "destino": "BR SSO",
     "destino_aqui": true,
     "eta": "2026-10-09T09:00+00:00"
@@ -176,7 +174,7 @@
     "lat": -23.9619,
     "lon": -46.3033,
     "dist_mn": 50.4,
-    "visto_em": "2026-11-19T17:11:37+00:00",
+    "visto_em": "2026-11-19T17:23:38+00:00",
     "sog": 0,
     "rumo": 143,
     "calado": 10.2,
@@ -235,7 +233,7 @@
     "lat": -23.8391,
     "lon": -45.4281,
     "dist_mn": 2.3,
-    "visto_em": "2026-11-19T17:01:46+00:00",
+    "visto_em": "2026-11-19T17:22:45+00:00",
     "sog": 0.1,
     "calado": 7.7,
     "imo": 9045936,
@@ -395,14 +393,6 @@
    "situacao": "PROGRAMADO"
   }
  ],
- "cais": {
-  "fonte": "praticagem",
-  "proximo": {
-   "navio": "YOSOR",
-   "horario": "19/11 13:00"
-  },
-  "depois": []
- },
  "ais_navios": 12,
  "porto": {
   "lat": -23.8105,
