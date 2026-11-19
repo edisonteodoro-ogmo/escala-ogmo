@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-19T03:32:47-03:00",
- "lido_em": "2026-11-19T03:25:16-03:00",
+ "atualizado_em": "2026-11-19T03:42:34-03:00",
+ "lido_em": "2026-11-19T03:42:34-03:00",
  "total": 16,
  "navios": [
   {
@@ -234,7 +234,7 @@
     "mmsi": "565227000",
     "nome_ais": "PACIFICA",
     "situacao": "velho",
-    "texto": "sem sinal há 38 h (última posição a 254 mn)",
+    "texto": "sem sinal há 39 h (última posição a 254 mn)",
     "lat": -26.9072,
     "lon": -48.5864,
     "dist_mn": 253.8,
@@ -298,12 +298,12 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "movimento",
-    "texto": "navegando a 9.0 nós · destino Paranagua, Brazil",
+    "texto": "navegando a 8.4 nós · destino Paranagua, Brazil",
     "nome_ais": "APOGEE ENDEAVOUR",
     "link": "https://www.vesselfinder.com/?imo=9553141",
     "destino": "Paranagua, Brazil",
     "eta": "2026-11-22T15:00+00:00",
-    "sog": 9.0,
+    "sog": 8.4,
     "calado": "10.3 m",
     "ultimo_porto": "San Lorenzo, Argentina",
     "saida": "2026-11-18T15:43+00:00",
@@ -311,7 +311,7 @@
     "mmsi": 372612000,
     "status_ais": "navegando",
     "destino_aqui": false,
-    "visto_em": "2026-11-19T06:10:19+00:00"
+    "visto_em": "2026-11-19T06:41:34+00:00"
    }
   },
   {
@@ -326,12 +326,12 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "caminho",
-    "texto": "a caminho de São Sebastião a 13.4 nós",
+    "texto": "a caminho de São Sebastião a 13.5 nós",
     "nome_ais": "BANA",
     "link": "https://www.vesselfinder.com/?imo=8417625",
     "destino": "Sao Sebastiao, Brazil",
     "eta": "2026-12-01T12:00+00:00",
-    "sog": 13.4,
+    "sog": 13.5,
     "calado": "8.1 m",
     "ultimo_porto": "Escombreras, Spain",
     "saida": "2026-11-17T22:36+00:00",
@@ -339,7 +339,7 @@
     "mmsi": 370141000,
     "status_ais": "navegando",
     "destino_aqui": true,
-    "visto_em": "2026-11-19T05:59:19+00:00"
+    "visto_em": "2026-11-19T06:41:34+00:00"
    }
   },
   {
@@ -360,12 +360,12 @@
     "nome_ais": "BLUE OCEAN A",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 9.5 mn)",
-    "lat": -23.9012,
-    "lon": -45.5425,
+    "lat": -23.9015,
+    "lon": -45.5424,
     "dist_mn": 9.5,
-    "visto_em": "2026-11-19T06:27:23+00:00",
-    "sog": 0.8,
-    "rumo": 66,
+    "visto_em": "2026-11-19T06:41:13+00:00",
+    "sog": 0.2,
+    "rumo": 49,
     "calado": 6.7,
     "imo": 9045089,
     "status_ais": "fundeado",
@@ -401,12 +401,12 @@
     "nome_ais": "WHITE PEARL",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 2.9 mn)",
-    "lat": -23.8455,
-    "lon": -45.4383,
+    "lat": -23.8452,
+    "lon": -45.4385,
     "dist_mn": 2.9,
-    "visto_em": "2026-11-19T06:05:59+00:00",
-    "sog": 0.6,
-    "rumo": 84,
+    "visto_em": "2026-11-19T06:38:58+00:00",
+    "sog": 0.5,
+    "rumo": 71,
     "calado": 5,
     "imo": 7615309,
     "status_ais": "fundeado",
