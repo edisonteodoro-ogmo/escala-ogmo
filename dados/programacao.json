@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-19T10:13:44-03:00",
+ "atualizado_em": "2026-11-19T10:21:18-03:00",
  "lido_em": "2026-11-19T10:13:44-03:00",
  "total": 16,
  "navios": [
@@ -115,14 +115,14 @@
     "saida": "2026-11-05T05:54+00:00",
     "mmsi": "244830401",
     "nome_ais": "HANZE GENUA",
-    "situacao": "velho",
-    "texto": "sem sinal há 7 h (última posição a 9 mn)",
-    "lat": -23.7105,
+    "situacao": "fundeado",
+    "texto": "fundeado na área do porto (a 9.3 mn)",
+    "lat": -23.71,
     "lon": -45.2722,
     "dist_mn": 9.3,
-    "visto_em": "2026-11-19T05:59:04+00:00",
+    "visto_em": "2026-11-19T13:17:09+00:00",
     "sog": 0.1,
-    "rumo": 87,
+    "rumo": 108,
     "calado": 8.5,
     "imo": 9746970,
     "status_ais": "fundeado",
@@ -143,12 +143,12 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "movimento",
-    "texto": "navegando a 12.6 nós · destino Port Qasim, Pakistan",
+    "texto": "navegando a 12.5 nós · destino Port Qasim, Pakistan",
     "nome_ais": "OCEAN ENDEAVOR",
     "link": "https://www.vesselfinder.com/?imo=1023592",
     "destino": "Port Qasim, Pakistan",
     "eta": "2026-11-30T15:00+00:00",
-    "sog": 12.6,
+    "sog": 12.5,
     "calado": "9.2 m",
     "ultimo_porto": "Singapore Anch. 4, Singapore",
     "saida": "2026-11-19T02:03+00:00",
@@ -156,7 +156,7 @@
     "mmsi": 352005752,
     "status_ais": "navegando",
     "destino_aqui": false,
-    "visto_em": "2026-11-19T12:49:34+00:00"
+    "visto_em": "2026-11-19T13:18:18+00:00"
    }
   },
   {
@@ -184,7 +184,7 @@
     "mmsi": 538012957,
     "status_ais": "-",
     "destino_aqui": false,
-    "visto_em": "2026-11-15T12:50:34+00:00"
+    "visto_em": "2026-11-15T13:21:18+00:00"
    }
   },
   {
@@ -263,10 +263,10 @@
     "nome_ais": "PACIFIC ROSE",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 2.3 mn)",
-    "lat": -23.839,
-    "lon": -45.4282,
+    "lat": -23.8387,
+    "lon": -45.4283,
     "dist_mn": 2.3,
-    "visto_em": "2026-11-19T12:46:50+00:00",
+    "visto_em": "2026-11-19T13:13:46+00:00",
     "sog": 0,
     "calado": 7.7,
     "imo": 9045936,
