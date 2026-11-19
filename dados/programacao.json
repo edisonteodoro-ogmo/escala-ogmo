@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-19T16:19:16-03:00",
+ "atualizado_em": "2026-11-19T16:21:48-03:00",
  "lido_em": "2026-11-19T16:19:16-03:00",
  "total": 20,
  "navios": [
@@ -23,7 +23,7 @@
     "lat": -23.8117,
     "lon": -45.3975,
     "dist_mn": 0.2,
-    "visto_em": "2026-11-19T19:09:00+00:00",
+    "visto_em": "2026-11-19T19:17:58+00:00",
     "sog": 0,
     "rumo": 56,
     "calado": 7.8,
@@ -117,10 +117,10 @@
     "nome_ais": "V ISALOS",
     "situacao": "outro",
     "texto": "atracado em outro porto (a 50 mn)",
-    "lat": -23.962,
+    "lat": -23.9619,
     "lon": -46.3033,
     "dist_mn": 50.4,
-    "visto_em": "2026-11-19T19:08:43+00:00",
+    "visto_em": "2026-11-19T19:17:39+00:00",
     "sog": 0,
     "rumo": 143,
     "calado": 10.2,
