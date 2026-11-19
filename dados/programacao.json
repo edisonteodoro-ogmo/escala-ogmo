@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-19T17:14:49-03:00",
+ "atualizado_em": "2026-11-19T17:17:34-03:00",
  "lido_em": "2026-11-19T17:07:04-03:00",
  "total": 20,
  "navios": [
@@ -117,10 +117,10 @@
     "nome_ais": "V ISALOS",
     "situacao": "outro",
     "texto": "atracado em outro porto (a 50 mn)",
-    "lat": -23.962,
+    "lat": -23.9619,
     "lon": -46.3033,
     "dist_mn": 50.4,
-    "visto_em": "2026-11-19T20:02:36+00:00",
+    "visto_em": "2026-11-19T20:14:42+00:00",
     "sog": 0,
     "rumo": 143,
     "calado": 10.2,
@@ -233,11 +233,11 @@
     "nome_ais": "PACIFIC ROSE",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 2.3 mn)",
-    "lat": -23.8392,
-    "lon": -45.4278,
+    "lat": -23.8394,
+    "lon": -45.4275,
     "dist_mn": 2.3,
-    "visto_em": "2026-11-19T19:49:46+00:00",
-    "sog": 0,
+    "visto_em": "2026-11-19T20:16:46+00:00",
+    "sog": 0.1,
     "calado": 7.7,
     "imo": 9045936,
     "status_ais": "fundeado",
@@ -268,12 +268,12 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "movimento",
-    "texto": "navegando a 9.8 nós · destino Paranagua, Brazil",
+    "texto": "navegando a 8.9 nós · destino Paranagua, Brazil",
     "nome_ais": "APOGEE ENDEAVOUR",
     "link": "https://www.vesselfinder.com/?imo=9553141",
     "destino": "Paranagua, Brazil",
     "eta": "2026-11-22T15:00+00:00",
-    "sog": 9.8,
+    "sog": 8.9,
     "calado": "10.3 m",
     "ultimo_porto": "La Plata Anch., Argentina",
     "saida": "2026-11-19T16:21+00:00",
@@ -281,7 +281,7 @@
     "mmsi": 372612000,
     "status_ais": "navegando",
     "destino_aqui": false,
-    "visto_em": "2026-11-19T19:45:08+00:00"
+    "visto_em": "2026-11-19T20:17:34+00:00"
    }
   },
   {
@@ -296,7 +296,7 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "velho",
-    "texto": "sem sinal há 11 h",
+    "texto": "sem sinal há 12 h",
     "nome_ais": "BANA",
     "link": "https://www.vesselfinder.com/?imo=8417625",
     "destino": "Sao Sebastiao, Brazil",
@@ -309,7 +309,7 @@
     "mmsi": 370141000,
     "status_ais": "navegando",
     "destino_aqui": true,
-    "visto_em": "2026-11-19T08:45:08+00:00"
+    "visto_em": "2026-11-19T08:17:34+00:00"
    }
   },
   {
