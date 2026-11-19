@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-18T22:42:32-03:00",
- "lido_em": "2026-11-18T22:28:02-03:00",
+ "atualizado_em": "2026-11-18T22:45:55-03:00",
+ "lido_em": "2026-11-18T22:45:55-03:00",
  "total": 16,
  "navios": [
   {
@@ -142,21 +142,21 @@
    "situacao": "PROGRAMADO",
    "ais": {
     "fonte": "vesselfinder",
-    "situacao": "outro",
-    "texto": "fundeado em Singapore Anch. 4, Singapore · destino Port Qasim, Pakistan",
+    "situacao": "movimento",
+    "texto": "navegando a 2.1 nós · destino Port Qasim, Pakistan",
     "nome_ais": "OCEAN ENDEAVOR",
     "link": "https://www.vesselfinder.com/?imo=1023592",
     "destino": "Port Qasim, Pakistan",
-    "eta": "2026-11-30T12:20+00:00",
-    "sog": 0.0,
+    "eta": "2026-11-30T15:00+00:00",
+    "sog": 2.1,
     "calado": "9.2 m",
     "ultimo_porto": "Singapore Anch. 4, Singapore",
     "saida": "2026-11-18T04:18+00:00",
     "imo": 1023592,
     "mmsi": 352005752,
-    "status_ais": "fundeado",
+    "status_ais": "navegando",
     "destino_aqui": false,
-    "visto_em": "2026-11-19T01:13:35+00:00"
+    "visto_em": "2026-11-19T01:45:55+00:00"
    }
   },
   {
