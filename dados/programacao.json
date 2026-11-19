@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-19T20:56:16-03:00",
- "lido_em": "2026-11-19T20:41:53-03:00",
+ "atualizado_em": "2026-11-19T20:58:52-03:00",
+ "lido_em": "2026-11-19T20:58:52-03:00",
  "total": 20,
  "navios": [
   {
@@ -177,7 +177,7 @@
     "mmsi": "565227000",
     "nome_ais": "PACIFICA",
     "situacao": "velho",
-    "texto": "sem sinal há 8 h (última posição a 250 mn)",
+    "texto": "sem sinal há 9 h (última posição a 250 mn)",
     "lat": -26.8605,
     "lon": -48.5376,
     "dist_mn": 250.0,
@@ -269,20 +269,20 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "movimento",
-    "texto": "- a 10.4 nós · destino Paranagua, Brazil",
+    "texto": "navegando a 10.8 nós · destino Paranagua, Brazil",
     "nome_ais": "APOGEE ENDEAVOUR",
     "link": "https://www.vesselfinder.com/?imo=9553141",
     "destino": "Paranagua, Brazil",
     "eta": "2026-11-22T15:00+00:00",
-    "sog": 10.4,
+    "sog": 10.8,
     "calado": "10.3 m",
     "ultimo_porto": "La Plata Anch., Argentina",
     "saida": "2026-11-19T16:21+00:00",
     "imo": 9553141,
     "mmsi": 372612000,
-    "status_ais": "-",
+    "status_ais": "navegando",
     "destino_aqui": false,
-    "visto_em": "2026-11-19T23:23:42+00:00"
+    "visto_em": "2026-11-19T23:58:52+00:00"
    }
   },
   {
@@ -310,7 +310,7 @@
     "mmsi": 370141000,
     "status_ais": "-",
     "destino_aqui": true,
-    "visto_em": "2026-11-19T08:28:42+00:00"
+    "visto_em": "2026-11-19T08:58:52+00:00"
    }
   },
   {
