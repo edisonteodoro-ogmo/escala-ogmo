@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-19T19:19:20-03:00",
- "lido_em": "2026-11-19T19:04:38-03:00",
+ "atualizado_em": "2026-11-19T19:21:48-03:00",
+ "lido_em": "2026-11-19T19:21:48-03:00",
  "total": 20,
  "navios": [
   {
@@ -20,10 +20,10 @@
     "nome_ais": "YOSOR",
     "situacao": "atracado",
     "texto": "atracado em São Sebastião",
-    "lat": -23.8116,
+    "lat": -23.8117,
     "lon": -45.3975,
     "dist_mn": 0.2,
-    "visto_em": "2026-11-19T22:03:02+00:00",
+    "visto_em": "2026-11-19T22:15:01+00:00",
     "sog": 0,
     "rumo": 56,
     "calado": 7.8,
@@ -157,7 +157,7 @@
     "mmsi": 538012957,
     "status_ais": "fundeado",
     "destino_aqui": false,
-    "visto_em": "2026-11-19T18:50:27+00:00"
+    "visto_em": "2026-11-19T19:21:48+00:00"
    }
   },
   {
@@ -333,11 +333,11 @@
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 9.5 mn)",
     "lat": -23.9015,
-    "lon": -45.5432,
+    "lon": -45.5433,
     "dist_mn": 9.5,
-    "visto_em": "2026-11-19T22:03:15+00:00",
-    "sog": 0.2,
-    "rumo": 48,
+    "visto_em": "2026-11-19T22:18:14+00:00",
+    "sog": 0.1,
+    "rumo": 51,
     "calado": 6.7,
     "imo": 9045089,
     "status_ais": "fundeado",
