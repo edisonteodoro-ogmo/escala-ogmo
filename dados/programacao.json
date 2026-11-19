@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-19T17:56:15-03:00",
+ "atualizado_em": "2026-11-19T18:06:09-03:00",
  "lido_em": "2026-11-19T17:56:15-03:00",
  "total": 20,
  "navios": [
@@ -23,7 +23,7 @@
     "lat": -23.8117,
     "lon": -45.3975,
     "dist_mn": 0.2,
-    "visto_em": "2026-11-19T20:35:58+00:00",
+    "visto_em": "2026-11-19T21:00:01+00:00",
     "sog": 0,
     "rumo": 56,
     "calado": 7.8,
@@ -176,7 +176,7 @@
     "mmsi": "565227000",
     "nome_ais": "PACIFICA",
     "situacao": "velho",
-    "texto": "sem sinal há 5 h (última posição a 250 mn)",
+    "texto": "sem sinal há 6 h (última posição a 250 mn)",
     "lat": -26.8605,
     "lon": -48.5376,
     "dist_mn": 250.0,
