@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-19T18:10:57-03:00",
- "lido_em": "2026-11-19T17:56:15-03:00",
+ "atualizado_em": "2026-11-19T18:13:38-03:00",
+ "lido_em": "2026-11-19T18:13:38-03:00",
  "total": 20,
  "navios": [
   {
@@ -491,21 +491,18 @@
    "marca": "novo",
    "ais": {
     "fonte": "vesselfinder",
-    "situacao": "movimento",
-    "texto": "navegando a 10.0 nós · destino Rio Grande Anch., Brazil",
+    "situacao": "outro",
+    "texto": "navegando a 12.1 nós · sem destino declarado · último porto Rio Grande Anch., Brazil",
     "nome_ais": "V BROS",
     "link": "https://www.vesselfinder.com/?imo=9474204",
-    "destino": "Rio Grande Anch., Brazil",
-    "chegou": "2026-11-17T17:50+00:00",
-    "sog": 10.0,
+    "sog": 12.1,
     "calado": "9.5 m",
-    "ultimo_porto": "Rosario, Argentina",
-    "saida": "2026-11-15T03:56+00:00",
+    "ultimo_porto": "Rio Grande Anch., Brazil",
+    "saida": "2026-11-19T20:37+00:00",
     "imo": 9474204,
     "mmsi": 538010087,
     "status_ais": "navegando",
-    "destino_aqui": false,
-    "visto_em": "2026-11-19T20:42:34+00:00"
+    "visto_em": "2026-11-19T21:12:38+00:00"
    }
   }
  ],
