@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-20T10:45:18-03:00",
+ "atualizado_em": "2026-11-20T11:03:46-03:00",
  "dias": [
   {
    "data": "2026-11-20",
@@ -17,6 +17,7 @@
       ],
       "rancho": true,
       "posicao": "P2",
+      "extra": "📍 sai 21/11 13:00",
       "cargas": [
        {
         "carga": "EMBARQUE MASTER MARINE",
