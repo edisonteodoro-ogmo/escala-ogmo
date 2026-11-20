@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-20T14:21:00-03:00",
+ "atualizado_em": "2026-11-20T14:25:38-03:00",
  "lido_em": "2026-11-20T14:14:20-03:00",
  "total": 20,
  "navios": [
@@ -121,7 +121,7 @@
     "lat": -23.9619,
     "lon": -46.3033,
     "dist_mn": 50.4,
-    "visto_em": "2026-11-20T17:08:49+00:00",
+    "visto_em": "2026-11-20T17:20:47+00:00",
     "sog": 0,
     "rumo": 143,
     "calado": 10.2,
@@ -178,12 +178,12 @@
     "nome_ais": "PACIFICA",
     "situacao": "outro",
     "texto": "atracado em outro porto (a 52 mn)",
-    "lat": -23.9282,
+    "lat": -23.9281,
     "lon": -46.3348,
     "dist_mn": 51.8,
-    "visto_em": "2026-11-20T16:41:54+00:00",
+    "visto_em": "2026-11-20T17:20:57+00:00",
     "sog": 0,
-    "rumo": 336,
+    "rumo": 337,
     "calado": 6.4,
     "imo": 9431460,
     "status_ais": "atracado",
@@ -519,7 +519,7 @@
     "mmsi": 538010087,
     "status_ais": "atracado",
     "destino_aqui": false,
-    "visto_em": "2026-11-20T16:50:42+00:00"
+    "visto_em": "2026-11-20T17:23:38+00:00"
    }
   }
  ],
