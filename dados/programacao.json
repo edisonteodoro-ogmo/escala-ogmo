@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-20T16:46:10-03:00",
- "lido_em": "2026-11-20T16:39:04-03:00",
+ "atualizado_em": "2026-11-20T16:55:33-03:00",
+ "lido_em": "2026-11-20T16:55:33-03:00",
  "total": 20,
  "navios": [
   {
@@ -181,9 +181,9 @@
     "lat": -23.9282,
     "lon": -46.3348,
     "dist_mn": 51.8,
-    "visto_em": "2026-11-20T19:05:55+00:00",
+    "visto_em": "2026-11-20T19:50:55+00:00",
     "sog": 0,
-    "rumo": 337,
+    "rumo": 336,
     "calado": 6.4,
     "imo": 9431460,
     "status_ais": "atracado",
@@ -434,12 +434,12 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "movimento",
-    "texto": "navegando a 9.6 nós · destino San Lorenzo, Argentina",
+    "texto": "navegando a 9.3 nós · destino San Lorenzo, Argentina",
     "nome_ais": "DISCOVERER",
     "link": "https://www.vesselfinder.com/?imo=9577886",
     "destino": "San Lorenzo, Argentina",
     "eta": "2026-11-19T19:00+00:00",
-    "sog": 9.6,
+    "sog": 9.3,
     "calado": "5.8 m",
     "ultimo_porto": "Paranagua, Brazil",
     "saida": "2026-11-17T00:58+00:00",
@@ -447,7 +447,7 @@
     "mmsi": 538007659,
     "status_ais": "navegando",
     "destino_aqui": false,
-    "visto_em": "2026-11-20T19:17:24+00:00"
+    "visto_em": "2026-11-20T19:55:33+00:00"
    }
   },
   {
@@ -478,7 +478,7 @@
     "mmsi": "538007656",
     "nome_ais": "STAR NAVARRA",
     "situacao": "velho",
-    "texto": "sem sinal há 29 h (última posição a 44 mn)",
+    "texto": "sem sinal há 30 h (última posição a 44 mn)",
     "lat": -24.4068,
     "lon": -44.9483,
     "dist_mn": 43.6,
