@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-20T10:31:03-03:00",
+ "atualizado_em": "2026-11-20T10:33:29-03:00",
  "lido_em": "2026-11-20T10:26:24-03:00",
  "total": 20,
  "navios": [
@@ -19,7 +19,7 @@
     "mmsi": "677031200",
     "nome_ais": "YOSOR",
     "situacao": "velho",
-    "texto": "sem sinal há 13 h (última posição a 0 mn)",
+    "texto": "sem sinal há 14 h (última posição a 0 mn)",
     "lat": -23.8117,
     "lon": -45.3975,
     "dist_mn": 0.2,
@@ -52,7 +52,7 @@
     "mmsi": "244830401",
     "nome_ais": "HANZE GENUA",
     "situacao": "velho",
-    "texto": "sem sinal há 21 h (última posição a 9 mn)",
+    "texto": "sem sinal há 22 h (última posição a 9 mn)",
     "lat": -23.7101,
     "lon": -45.2722,
     "dist_mn": 9.3,
@@ -119,9 +119,9 @@
     "situacao": "outro",
     "texto": "atracado em outro porto (a 50 mn)",
     "lat": -23.9619,
-    "lon": -46.3032,
+    "lon": -46.3033,
     "dist_mn": 50.4,
-    "visto_em": "2026-11-20T13:20:46+00:00",
+    "visto_em": "2026-11-20T13:29:49+00:00",
     "sog": 0,
     "rumo": 143,
     "calado": 10.2,
@@ -297,12 +297,12 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "caminho",
-    "texto": "a caminho de São Sebastião a 13.8 nós",
+    "texto": "a caminho de São Sebastião a 13.7 nós",
     "nome_ais": "BANA",
     "link": "https://www.vesselfinder.com/?imo=8417625",
     "destino": "Sao Sebastiao, Brazil",
     "eta": "2026-12-01T12:00+00:00",
-    "sog": 13.8,
+    "sog": 13.7,
     "calado": "8.1 m",
     "ultimo_porto": "Escombreras, Spain",
     "saida": "2026-11-17T22:36+00:00",
@@ -310,7 +310,7 @@
     "mmsi": 370141000,
     "status_ais": "navegando",
     "destino_aqui": true,
-    "visto_em": "2026-11-20T13:02:24+00:00"
+    "visto_em": "2026-11-20T13:33:29+00:00"
    }
   },
   {
