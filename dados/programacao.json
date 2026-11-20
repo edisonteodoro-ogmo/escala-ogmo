@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-20T15:53:12-03:00",
+ "atualizado_em": "2026-11-20T15:57:51-03:00",
  "lido_em": "2026-11-20T15:50:54-03:00",
  "total": 20,
  "navios": [
@@ -121,7 +121,7 @@
     "lat": -23.9619,
     "lon": -46.3033,
     "dist_mn": 50.4,
-    "visto_em": "2026-11-20T18:38:48+00:00",
+    "visto_em": "2026-11-20T18:53:47+00:00",
     "sog": 0,
     "rumo": 143,
     "calado": 10.2,
@@ -181,7 +181,7 @@
     "lat": -23.9282,
     "lon": -46.3348,
     "dist_mn": 51.8,
-    "visto_em": "2026-11-20T18:32:57+00:00",
+    "visto_em": "2026-11-20T18:47:55+00:00",
     "sog": 0,
     "rumo": 336,
     "calado": 6.4,
@@ -478,7 +478,7 @@
     "mmsi": "538007656",
     "nome_ais": "STAR NAVARRA",
     "situacao": "velho",
-    "texto": "sem sinal há 28 h (última posição a 44 mn)",
+    "texto": "sem sinal há 29 h (última posição a 44 mn)",
     "lat": -24.4068,
     "lon": -44.9483,
     "dist_mn": 43.6,
@@ -519,7 +519,7 @@
     "mmsi": 538010087,
     "status_ais": "atracado",
     "destino_aqui": false,
-    "visto_em": "2026-11-20T18:23:43+00:00"
+    "visto_em": "2026-11-20T18:56:51+00:00"
    }
   }
  ],
