@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-20T18:49:14-03:00",
+ "atualizado_em": "2026-11-20T18:51:32-03:00",
  "lido_em": "2026-11-20T18:39:25-03:00",
  "total": 20,
  "navios": [
@@ -233,7 +233,7 @@
     "mmsi": "341273002",
     "nome_ais": "PACIFIC ROSE",
     "situacao": "velho",
-    "texto": "sem sinal há 21 h (última posição a 2 mn)",
+    "texto": "sem sinal há 22 h (última posição a 2 mn)",
     "lat": -23.8393,
     "lon": -45.428,
     "dist_mn": 2.3,
@@ -371,7 +371,7 @@
     "mmsi": "450430000",
     "nome_ais": "WHITE PEARL",
     "situacao": "velho",
-    "texto": "sem sinal há 21 h (última posição a 3 mn)",
+    "texto": "sem sinal há 22 h (última posição a 3 mn)",
     "lat": -23.845,
     "lon": -45.4385,
     "dist_mn": 2.9,
@@ -478,7 +478,7 @@
     "mmsi": "538007656",
     "nome_ais": "STAR NAVARRA",
     "situacao": "velho",
-    "texto": "sem sinal há 31 h (última posição a 44 mn)",
+    "texto": "sem sinal há 32 h (última posição a 44 mn)",
     "lat": -24.4068,
     "lon": -44.9483,
     "dist_mn": 43.6,
