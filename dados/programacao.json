@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-19T23:20:54-03:00",
- "lido_em": "2026-11-19T23:08:50-03:00",
+ "atualizado_em": "2026-11-19T23:26:03-03:00",
+ "lido_em": "2026-11-19T23:26:02-03:00",
  "total": 20,
  "navios": [
   {
@@ -52,7 +52,7 @@
     "mmsi": "244830401",
     "nome_ais": "HANZE GENUA",
     "situacao": "velho",
-    "texto": "sem sinal há 10 h (última posição a 9 mn)",
+    "texto": "sem sinal há 11 h (última posição a 9 mn)",
     "lat": -23.7101,
     "lon": -45.2722,
     "dist_mn": 9.3,
@@ -506,7 +506,7 @@
     "mmsi": 538010087,
     "status_ais": "atracado",
     "destino_aqui": false,
-    "visto_em": "2026-11-20T01:54:01+00:00"
+    "visto_em": "2026-11-20T02:24:03+00:00"
    }
   }
  ],
