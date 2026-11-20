@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-19T23:49:21-03:00",
+ "atualizado_em": "2026-11-20T00:05:28-03:00",
  "dias": [
   {
    "data": "2026-11-19",
@@ -185,6 +185,81 @@
     "4": [
      {
       "req": 61060,
+      "navio": "HANZE GENUA",
+      "operador": "PRONAVE",
+      "ternos": 6,
+      "categorias": [
+       "Arrumador",
+       "Conferente",
+       "Estivador"
+      ],
+      "rancho": false,
+      "extra": "🛰️ sem sinal há 11 h (última posição a 9 mn)",
+      "onde": true
+     }
+    ]
+   },
+   "desc": {
+    "1": "07-13",
+    "2": "13-19",
+    "3": "19-01",
+    "4": "01-07"
+   }
+  },
+  {
+   "data": "2026-11-21",
+   "periodos": {
+    "1": [
+     {
+      "req": 61061,
+      "navio": "HANZE GENUA",
+      "operador": "PRONAVE",
+      "ternos": 6,
+      "categorias": [
+       "Arrumador",
+       "Conferente",
+       "Estivador"
+      ],
+      "rancho": false,
+      "extra": "🛰️ sem sinal há 11 h (última posição a 9 mn)",
+      "onde": true
+     }
+    ],
+    "2": [
+     {
+      "req": 61062,
+      "navio": "HANZE GENUA",
+      "operador": "PRONAVE",
+      "ternos": 6,
+      "categorias": [
+       "Arrumador",
+       "Conferente",
+       "Estivador"
+      ],
+      "rancho": false,
+      "extra": "🛰️ sem sinal há 11 h (última posição a 9 mn)",
+      "onde": true
+     }
+    ],
+    "3": [
+     {
+      "req": 61063,
+      "navio": "HANZE GENUA",
+      "operador": "PRONAVE",
+      "ternos": 6,
+      "categorias": [
+       "Arrumador",
+       "Conferente",
+       "Estivador"
+      ],
+      "rancho": false,
+      "extra": "🛰️ sem sinal há 11 h (última posição a 9 mn)",
+      "onde": true
+     }
+    ],
+    "4": [
+     {
+      "req": 61064,
       "navio": "HANZE GENUA",
       "operador": "PRONAVE",
       "ternos": 6,
