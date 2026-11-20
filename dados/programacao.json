@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-19T21:33:28-03:00",
- "lido_em": "2026-11-19T21:30:38-03:00",
+ "atualizado_em": "2026-11-19T21:45:57-03:00",
+ "lido_em": "2026-11-19T21:45:57-03:00",
  "total": 20,
  "navios": [
   {
@@ -119,9 +119,9 @@
     "situacao": "outro",
     "texto": "atracado em outro porto (a 50 mn)",
     "lat": -23.962,
-    "lon": -46.3032,
+    "lon": -46.3033,
     "dist_mn": 50.4,
-    "visto_em": "2026-11-20T00:26:43+00:00",
+    "visto_em": "2026-11-20T00:35:42+00:00",
     "sog": 0,
     "rumo": 143,
     "calado": 10.2,
