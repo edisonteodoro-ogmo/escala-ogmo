@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-20T11:06:04-03:00",
+ "atualizado_em": "2026-11-20T11:08:21-03:00",
  "lido_em": "2026-11-20T10:58:39-03:00",
  "total": 20,
  "navios": [
@@ -85,7 +85,7 @@
     "mmsi": "538006205",
     "nome_ais": "ASTRO NEKKAR",
     "situacao": "velho",
-    "texto": "sem sinal há 4 h (última posição a 9 mn)",
+    "texto": "sem sinal há 5 h (última posição a 9 mn)",
     "lat": -23.8814,
     "lon": -45.5433,
     "dist_mn": 8.9,
