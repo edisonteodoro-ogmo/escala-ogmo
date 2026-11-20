@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-20T06:21:50-03:00",
- "lido_em": "2026-11-20T06:08:16-03:00",
+ "atualizado_em": "2026-11-20T06:24:29-03:00",
+ "lido_em": "2026-11-20T06:24:29-03:00",
  "total": 20,
  "navios": [
   {
@@ -44,7 +44,7 @@
    "local": "ARMAZEM CDSS",
    "situacao": "FUNDEADO",
    "fundeado": true,
-   "cais": "21/11 00:30",
+   "cais": "21/11 02:00",
    "ais": {
     "link": "https://www.vesselfinder.com/?imo=9746970",
     "ultimo_porto": "Las Palmas, Spain",
@@ -297,12 +297,12 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "caminho",
-    "texto": "a caminho de São Sebastião a 14.2 nós",
+    "texto": "a caminho de São Sebastião a 13.6 nós",
     "nome_ais": "BANA",
     "link": "https://www.vesselfinder.com/?imo=8417625",
     "destino": "Sao Sebastiao, Brazil",
     "eta": "2026-12-01T12:00+00:00",
-    "sog": 14.2,
+    "sog": 13.6,
     "calado": "8.1 m",
     "ultimo_porto": "Escombreras, Spain",
     "saida": "2026-11-17T22:36+00:00",
@@ -310,7 +310,7 @@
     "mmsi": 370141000,
     "status_ais": "navegando",
     "destino_aqui": true,
-    "visto_em": "2026-11-20T08:53:06+00:00"
+    "visto_em": "2026-11-20T09:24:29+00:00"
    }
   },
   {
@@ -515,12 +515,12 @@
   "saindo": [
    {
     "navio": "YOSOR",
-    "horario": "20/11 23:00"
+    "horario": "21/11 00:30"
    }
   ],
   "proximo": {
    "navio": "HANZE GENUA",
-   "horario": "21/11 00:30"
+   "horario": "21/11 02:00"
   },
   "depois": []
  },
