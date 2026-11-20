@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-20T01:28:49-03:00",
+ "atualizado_em": "2026-11-20T01:31:12-03:00",
  "lido_em": "2026-11-20T01:17:41-03:00",
  "total": 20,
  "navios": [
@@ -19,7 +19,7 @@
     "mmsi": "677031200",
     "nome_ais": "YOSOR",
     "situacao": "velho",
-    "texto": "sem sinal há 4 h (última posição a 0 mn)",
+    "texto": "sem sinal há 5 h (última posição a 0 mn)",
     "lat": -23.8117,
     "lon": -45.3975,
     "dist_mn": 0.2,
@@ -52,7 +52,7 @@
     "mmsi": "244830401",
     "nome_ais": "HANZE GENUA",
     "situacao": "velho",
-    "texto": "sem sinal há 12 h (última posição a 9 mn)",
+    "texto": "sem sinal há 13 h (última posição a 9 mn)",
     "lat": -23.7101,
     "lon": -45.2722,
     "dist_mn": 9.3,
