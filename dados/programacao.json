@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-20T15:25:43-03:00",
- "lido_em": "2026-11-20T15:18:49-03:00",
+ "atualizado_em": "2026-11-20T15:34:35-03:00",
+ "lido_em": "2026-11-20T15:34:35-03:00",
  "total": 20,
  "navios": [
   {
@@ -19,7 +19,7 @@
     "mmsi": "677031200",
     "nome_ais": "YOSOR",
     "situacao": "velho",
-    "texto": "sem sinal há 18 h (última posição a 0 mn)",
+    "texto": "sem sinal há 19 h (última posição a 0 mn)",
     "lat": -23.8117,
     "lon": -45.3975,
     "dist_mn": 0.2,
@@ -52,7 +52,7 @@
     "mmsi": "244830401",
     "nome_ais": "HANZE GENUA",
     "situacao": "velho",
-    "texto": "sem sinal há 26 h (última posição a 9 mn)",
+    "texto": "sem sinal há 27 h (última posição a 9 mn)",
     "lat": -23.7101,
     "lon": -45.2722,
     "dist_mn": 9.3,
@@ -121,7 +121,7 @@
     "lat": -23.9619,
     "lon": -46.3033,
     "dist_mn": 50.4,
-    "visto_em": "2026-11-20T17:50:47+00:00",
+    "visto_em": "2026-11-20T18:32:42+00:00",
     "sog": 0,
     "rumo": 143,
     "calado": 10.2,
@@ -181,7 +181,7 @@
     "lat": -23.9282,
     "lon": -46.3348,
     "dist_mn": 51.8,
-    "visto_em": "2026-11-20T18:17:56+00:00",
+    "visto_em": "2026-11-20T18:32:57+00:00",
     "sog": 0,
     "rumo": 336,
     "calado": 6.4,
@@ -204,12 +204,12 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "movimento",
-    "texto": "navegando a 12.1 nós · destino Port Qasim, Pakistan",
+    "texto": "navegando a 12.2 nós · destino Port Qasim, Pakistan",
     "nome_ais": "OCEAN ENDEAVOR",
     "link": "https://www.vesselfinder.com/?imo=1023592",
     "destino": "Port Qasim, Pakistan",
     "eta": "2026-11-30T15:00+00:00",
-    "sog": 12.1,
+    "sog": 12.2,
     "calado": "9.2 m",
     "ultimo_porto": "Singapore Anch. 4, Singapore",
     "saida": "2026-11-19T02:03+00:00",
@@ -217,7 +217,7 @@
     "mmsi": 352005752,
     "status_ais": "navegando",
     "destino_aqui": false,
-    "visto_em": "2026-11-20T17:59:31+00:00"
+    "visto_em": "2026-11-20T18:32:35+00:00"
    }
   },
   {
@@ -400,7 +400,7 @@
     "mmsi": "352005786",
     "nome_ais": "EKATERINA",
     "situacao": "velho",
-    "texto": "sem sinal há 6 h (última posição a 345 mn)",
+    "texto": "sem sinal há 7 h (última posição a 345 mn)",
     "lat": -20.8599,
     "lon": -40.0751,
     "dist_mn": 344.7,
