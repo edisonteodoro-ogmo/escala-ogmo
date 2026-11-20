@@ -1,17 +1,17 @@
 {
- "atualizado_em": "2026-11-20T02:13:00-03:00",
- "lido_em": "2026-11-20T02:05:51-03:00",
+ "atualizado_em": "2026-11-20T02:22:19-03:00",
+ "lido_em": "2026-11-20T02:22:19-03:00",
  "total": 20,
  "navios": [
   {
    "nome": "YOSOR",
-   "faixa": "NAVIOS PROGRAMADOS A",
+   "faixa": "NAVIOS OPERANDO",
    "previsao": "09/10/2026",
    "carga": "ANIMAIS VIVOS",
    "qtd": "5.000 UN",
    "operador": "LOG LOGÍSTICA",
    "local": "DIRETO",
-   "situacao": "",
+   "situacao": "OPERANDO",
    "ais": {
     "link": "https://www.vesselfinder.com/?imo=7819113",
     "ultimo_porto": "Sao Sebastiao, Brazil",
