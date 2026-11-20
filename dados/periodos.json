@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-20T18:53:57-03:00",
+ "atualizado_em": "2026-11-20T19:35:23-03:00",
  "dias": [
   {
    "data": "2026-11-20",
@@ -17,20 +17,7 @@
       ],
       "rancho": true,
       "posicao": "P2",
-      "extra": "📍 sai 21/11 15:00",
-      "cargas": [
-       {
-        "carga": "EMBARQUE MASTER MARINE",
-        "tons": 5000,
-        "qtd": 0
-       },
-       {
-        "carga": "EMBARQUE DTA'S",
-        "tons": 3544,
-        "qtd": 0
-       }
-      ],
-      "obs": "SOLICITADO POR FABIO RODRIGUES PEÇAS ARMAZENADAS - 3.544 KG RANCHO MASTERMARINE - 5.000 KG"
+      "extra": "📍 sai 21/11 15:00"
      },
      {
       "req": 61039,
@@ -58,18 +45,6 @@
       ],
       "rancho": true,
       "posicao": "CS2",
-      "cargas": [
-       {
-        "carga": "EMBARQUE RANCHO",
-        "tons": 4100,
-        "qtd": 1
-       },
-       {
-        "carga": "EMBARQUE DTA'S",
-        "tons": 10,
-        "qtd": 1
-       }
-      ],
       "extra": "🛰️ sem sinal há 22 h (última posição a 3 mn)",
       "onde": true
      },
@@ -137,7 +112,7 @@
        "Estivador"
       ],
       "rancho": false,
-      "extra": "🛰️ sem sinal há 30 h (última posição a 9 mn)",
+      "extra": "🛰️ sem sinal há 31 h (última posição a 9 mn)",
       "onde": true
      },
      {
@@ -165,7 +140,7 @@
        "Estivador"
       ],
       "rancho": false,
-      "extra": "🛰️ sem sinal há 30 h (última posição a 9 mn)",
+      "extra": "🛰️ sem sinal há 31 h (última posição a 9 mn)",
       "onde": true
      }
     ],
@@ -181,7 +156,7 @@
        "Estivador"
       ],
       "rancho": false,
-      "extra": "🛰️ sem sinal há 30 h (última posição a 9 mn)",
+      "extra": "🛰️ sem sinal há 31 h (última posição a 9 mn)",
       "onde": true
      }
     ],
@@ -197,7 +172,7 @@
        "Estivador"
       ],
       "rancho": false,
-      "extra": "🛰️ sem sinal há 30 h (última posição a 9 mn)",
+      "extra": "🛰️ sem sinal há 31 h (última posição a 9 mn)",
       "onde": true
      }
     ]
