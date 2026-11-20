@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-19T22:28:20-03:00",
+ "atualizado_em": "2026-11-19T22:30:51-03:00",
  "lido_em": "2026-11-19T22:20:41-03:00",
  "total": 20,
  "navios": [
@@ -52,7 +52,7 @@
     "mmsi": "244830401",
     "nome_ais": "HANZE GENUA",
     "situacao": "velho",
-    "texto": "sem sinal há 9 h (última posição a 9 mn)",
+    "texto": "sem sinal há 10 h (última posição a 9 mn)",
     "lat": -23.7101,
     "lon": -45.2722,
     "dist_mn": 9.3,
@@ -119,9 +119,9 @@
     "situacao": "outro",
     "texto": "atracado em outro porto (a 50 mn)",
     "lat": -23.962,
-    "lon": -46.3033,
+    "lon": -46.3032,
     "dist_mn": 50.4,
-    "visto_em": "2026-11-20T00:35:42+00:00",
+    "visto_em": "2026-11-20T01:29:42+00:00",
     "sog": 0,
     "rumo": 143,
     "calado": 10.2,
@@ -144,7 +144,7 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "velho",
-    "texto": "sem sinal há 6 h",
+    "texto": "sem sinal há 7 h",
     "nome_ais": "ELISABETTA",
     "link": "https://www.vesselfinder.com/?imo=1058145",
     "destino": "Callao, Peru",
@@ -157,7 +157,7 @@
     "mmsi": 538012957,
     "status_ais": "fundeado",
     "destino_aqui": false,
-    "visto_em": "2026-11-19T19:00:43+00:00"
+    "visto_em": "2026-11-19T18:30:51+00:00"
    }
   },
   {
@@ -269,12 +269,12 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "movimento",
-    "texto": "navegando a 10.9 nós · destino Paranagua, Brazil",
+    "texto": "navegando a 11.0 nós · destino Paranagua, Brazil",
     "nome_ais": "APOGEE ENDEAVOUR",
     "link": "https://www.vesselfinder.com/?imo=9553141",
     "destino": "Paranagua, Brazil",
     "eta": "2026-11-22T15:00+00:00",
-    "sog": 10.9,
+    "sog": 11.0,
     "calado": "10.3 m",
     "ultimo_porto": "La Plata Anch., Argentina",
     "saida": "2026-11-19T16:21+00:00",
@@ -282,7 +282,7 @@
     "mmsi": 372612000,
     "status_ais": "navegando",
     "destino_aqui": false,
-    "visto_em": "2026-11-20T00:59:43+00:00"
+    "visto_em": "2026-11-20T01:30:51+00:00"
    }
   },
   {
