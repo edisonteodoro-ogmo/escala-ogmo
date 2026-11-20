@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-20T00:53:41-03:00",
+ "atualizado_em": "2026-11-20T00:56:00-03:00",
  "lido_em": "2026-11-20T00:44:41-03:00",
  "total": 20,
  "navios": [
@@ -121,7 +121,7 @@
     "lat": -23.9619,
     "lon": -46.3033,
     "dist_mn": 50.4,
-    "visto_em": "2026-11-20T03:41:41+00:00",
+    "visto_em": "2026-11-20T03:53:41+00:00",
     "sog": 0,
     "rumo": 143,
     "calado": 10.2,
@@ -177,7 +177,7 @@
     "mmsi": "565227000",
     "nome_ais": "PACIFICA",
     "situacao": "velho",
-    "texto": "sem sinal há 12 h (última posição a 250 mn)",
+    "texto": "sem sinal há 13 h (última posição a 250 mn)",
     "lat": -26.8605,
     "lon": -48.5376,
     "dist_mn": 250.0,
@@ -465,7 +465,7 @@
     "mmsi": "538007656",
     "nome_ais": "STAR NAVARRA",
     "situacao": "velho",
-    "texto": "sem sinal há 13 h (última posição a 44 mn)",
+    "texto": "sem sinal há 14 h (última posição a 44 mn)",
     "lat": -24.4068,
     "lon": -44.9483,
     "dist_mn": 43.6,
