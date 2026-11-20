@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-19T23:28:34-03:00",
+ "atualizado_em": "2026-11-19T23:44:22-03:00",
  "dias": [
   {
    "data": "2026-11-19",
@@ -112,6 +112,33 @@
       ],
       "rancho": false,
       "extra": "🛰️ sem sinal há 11 h (última posição a 9 mn)",
+      "onde": true
+     },
+     {
+      "req": 61075,
+      "navio": "WHITE PEARL",
+      "operador": "IRV",
+      "ternos": 1,
+      "categorias": [
+       "Arrumador",
+       "Conferente",
+       "Estivador"
+      ],
+      "rancho": true,
+      "posicao": "CS2",
+      "cargas": [
+       {
+        "carga": "EMBARQUE RANCHO",
+        "tons": 4100,
+        "qtd": 1
+       },
+       {
+        "carga": "EMBARQUE DTA'S",
+        "tons": 10,
+        "qtd": 1
+       }
+      ],
+      "extra": "🛰️ fundeado na área do porto (a 2.9 mn)",
       "onde": true
      },
      {
