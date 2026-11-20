@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-20T18:17:48-03:00",
+ "atualizado_em": "2026-11-20T18:26:37-03:00",
  "lido_em": "2026-11-20T18:17:48-03:00",
  "total": 20,
  "navios": [
@@ -52,7 +52,7 @@
     "mmsi": "244830401",
     "nome_ais": "HANZE GENUA",
     "situacao": "velho",
-    "texto": "sem sinal há 29 h (última posição a 9 mn)",
+    "texto": "sem sinal há 30 h (última posição a 9 mn)",
     "lat": -23.7101,
     "lon": -45.2722,
     "dist_mn": 9.3,
@@ -434,12 +434,12 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "movimento",
-    "texto": "navegando a 9.5 nós · destino San Lorenzo, Argentina",
+    "texto": "navegando a 9.3 nós · destino San Lorenzo, Argentina",
     "nome_ais": "DISCOVERER",
     "link": "https://www.vesselfinder.com/?imo=9577886",
     "destino": "San Lorenzo, Argentina",
     "eta": "2026-11-19T19:00+00:00",
-    "sog": 9.5,
+    "sog": 9.3,
     "calado": "5.8 m",
     "ultimo_porto": "Paranagua, Brazil",
     "saida": "2026-11-17T00:58+00:00",
@@ -447,7 +447,7 @@
     "mmsi": 538007659,
     "status_ais": "navegando",
     "destino_aqui": false,
-    "visto_em": "2026-11-20T20:55:18+00:00"
+    "visto_em": "2026-11-20T21:25:37+00:00"
    }
   },
   {
