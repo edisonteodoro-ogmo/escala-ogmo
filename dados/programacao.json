@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-20T10:26:24-03:00",
+ "atualizado_em": "2026-11-20T10:31:03-03:00",
  "lido_em": "2026-11-20T10:26:24-03:00",
  "total": 20,
  "navios": [
@@ -144,7 +144,7 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "velho",
-    "texto": "sem sinal há 18 h",
+    "texto": "sem sinal há 19 h",
     "nome_ais": "ELISABETTA",
     "link": "https://www.vesselfinder.com/?imo=1058145",
     "destino": "Callao, Peru",
@@ -157,7 +157,7 @@
     "mmsi": 538012957,
     "status_ais": "-",
     "destino_aqui": false,
-    "visto_em": "2026-11-19T19:00:59+00:00"
+    "visto_em": "2026-11-19T18:31:03+00:00"
    }
   },
   {
@@ -269,7 +269,7 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "velho",
-    "texto": "sem sinal há 9 h",
+    "texto": "sem sinal há 10 h",
     "nome_ais": "APOGEE ENDEAVOUR",
     "link": "https://www.vesselfinder.com/?imo=9553141",
     "destino": "Paranagua, Brazil",
@@ -282,7 +282,7 @@
     "mmsi": 372612000,
     "status_ais": "navegando",
     "destino_aqui": false,
-    "visto_em": "2026-11-20T04:00:59+00:00"
+    "visto_em": "2026-11-20T03:31:03+00:00"
    }
   },
   {
