@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-20T11:03:46-03:00",
+ "atualizado_em": "2026-11-20T11:22:17-03:00",
  "dias": [
   {
    "data": "2026-11-20",
@@ -47,20 +47,6 @@
     ],
     "2": [
      {
-      "req": 61058,
-      "navio": "HANZE GENUA",
-      "operador": "PRONAVE",
-      "ternos": 6,
-      "categorias": [
-       "Arrumador",
-       "Conferente",
-       "Estivador"
-      ],
-      "rancho": false,
-      "extra": "🛰️ sem sinal há 22 h (última posição a 9 mn)",
-      "onde": true
-     },
-     {
       "req": 61075,
       "navio": "WHITE PEARL",
       "operador": "IRV",
@@ -102,20 +88,6 @@
     ],
     "3": [
      {
-      "req": 61059,
-      "navio": "HANZE GENUA",
-      "operador": "PRONAVE",
-      "ternos": 6,
-      "categorias": [
-       "Arrumador",
-       "Conferente",
-       "Estivador"
-      ],
-      "rancho": false,
-      "extra": "🛰️ sem sinal há 22 h (última posição a 9 mn)",
-      "onde": true
-     },
-     {
       "req": 61041,
       "navio": "YOSOR-GADO",
       "operador": "LOG LOGISTICA",
@@ -129,20 +101,6 @@
      }
     ],
     "4": [
-     {
-      "req": 61060,
-      "navio": "HANZE GENUA",
-      "operador": "PRONAVE",
-      "ternos": 6,
-      "categorias": [
-       "Arrumador",
-       "Conferente",
-       "Estivador"
-      ],
-      "rancho": false,
-      "extra": "🛰️ sem sinal há 22 h (última posição a 9 mn)",
-      "onde": true
-     },
      {
       "req": 61076,
       "navio": "YOSOR-GADO",
