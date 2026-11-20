@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-20T00:10:44-03:00",
+ "atualizado_em": "2026-11-20T00:22:38-03:00",
  "lido_em": "2026-11-20T00:10:44-03:00",
  "total": 20,
  "navios": [
@@ -118,9 +118,9 @@
     "situacao": "outro",
     "texto": "atracado em outro porto (a 50 mn)",
     "lat": -23.9619,
-    "lon": -46.3033,
+    "lon": -46.3032,
     "dist_mn": 50.4,
-    "visto_em": "2026-11-20T02:56:48+00:00",
+    "visto_em": "2026-11-20T03:14:44+00:00",
     "sog": 0,
     "rumo": 143,
     "calado": 10.2,
@@ -420,12 +420,12 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "movimento",
-    "texto": "navegando a 11.8 nós · destino San Lorenzo, Argentina",
+    "texto": "navegando a 11.2 nós · destino San Lorenzo, Argentina",
     "nome_ais": "DISCOVERER",
     "link": "https://www.vesselfinder.com/?imo=9577886",
     "destino": "San Lorenzo, Argentina",
     "eta": "2026-11-19T19:00+00:00",
-    "sog": 11.8,
+    "sog": 11.2,
     "calado": "5.8 m",
     "ultimo_porto": "Paranagua, Brazil",
     "saida": "2026-11-17T00:58+00:00",
@@ -433,7 +433,7 @@
     "mmsi": 538007659,
     "status_ais": "navegando",
     "destino_aqui": false,
-    "visto_em": "2026-11-20T02:51:48+00:00"
+    "visto_em": "2026-11-20T03:21:38+00:00"
    }
   },
   {
