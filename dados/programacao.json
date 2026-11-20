@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-20T08:22:01-03:00",
+ "atualizado_em": "2026-11-20T08:26:39-03:00",
  "lido_em": "2026-11-20T08:17:42-03:00",
  "total": 20,
  "navios": [
@@ -52,7 +52,7 @@
     "mmsi": "244830401",
     "nome_ais": "HANZE GENUA",
     "situacao": "velho",
-    "texto": "sem sinal há 19 h (última posição a 9 mn)",
+    "texto": "sem sinal há 20 h (última posição a 9 mn)",
     "lat": -23.7101,
     "lon": -45.2722,
     "dist_mn": 9.3,
@@ -121,7 +121,7 @@
     "lat": -23.9619,
     "lon": -46.3033,
     "dist_mn": 50.4,
-    "visto_em": "2026-11-20T11:08:45+00:00",
+    "visto_em": "2026-11-20T11:20:45+00:00",
     "sog": 0,
     "rumo": 143,
     "calado": 10.2,
@@ -157,7 +157,7 @@
     "mmsi": 538012957,
     "status_ais": "-",
     "destino_aqui": false,
-    "visto_em": "2026-11-19T18:54:34+00:00"
+    "visto_em": "2026-11-19T19:26:39+00:00"
    }
   },
   {
@@ -179,11 +179,11 @@
     "situacao": "parado",
     "texto": "parado a 52 mn",
     "lat": -23.9282,
-    "lon": -46.3347,
-    "dist_mn": 51.7,
-    "visto_em": "2026-11-20T11:14:23+00:00",
-    "sog": 0.1,
-    "rumo": 344,
+    "lon": -46.3348,
+    "dist_mn": 51.8,
+    "visto_em": "2026-11-20T11:25:44+00:00",
+    "sog": 0,
+    "rumo": 334,
     "calado": 6.4,
     "imo": 9431460,
     "status_ais": "navegando",
@@ -269,7 +269,7 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "velho",
-    "texto": "sem sinal há 7 h",
+    "texto": "sem sinal há 8 h",
     "nome_ais": "APOGEE ENDEAVOUR",
     "link": "https://www.vesselfinder.com/?imo=9553141",
     "destino": "Paranagua, Brazil",
@@ -282,7 +282,7 @@
     "mmsi": 372612000,
     "status_ais": "navegando",
     "destino_aqui": false,
-    "visto_em": "2026-11-20T03:54:34+00:00"
+    "visto_em": "2026-11-20T03:26:39+00:00"
    }
   },
   {
@@ -395,7 +395,20 @@
    "operador": "PRONAVE",
    "local": "ARMAZEM CDSS / ARMAZEM CDSS",
    "situacao": "PROGRAMADO",
-   "marca": "alterado"
+   "marca": "alterado",
+   "ais": {
+    "mmsi": "352005786",
+    "nome_ais": "EKATERINA",
+    "situacao": "caminho",
+    "texto": "navegando a 12.5 nós, a 345 mn · sem destino declarado",
+    "lat": -20.8493,
+    "lon": -40.0715,
+    "dist_mn": 345.2,
+    "visto_em": "2026-11-20T11:26:05+00:00",
+    "sog": 12.5,
+    "rumo": 197,
+    "status_ais": "navegando"
+   }
   },
   {
    "nome": "ADRIATIC ROSE",
@@ -524,7 +537,7 @@
   },
   "depois": []
  },
- "ais_navios": 15,
+ "ais_navios": 16,
  "porto": {
   "lat": -23.8105,
   "lon": -45.401
