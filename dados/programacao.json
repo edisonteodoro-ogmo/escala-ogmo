@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-20T05:54:06-03:00",
+ "atualizado_em": "2026-11-20T05:56:40-03:00",
  "lido_em": "2026-11-20T05:51:42-03:00",
  "total": 20,
  "navios": [
@@ -177,7 +177,7 @@
     "mmsi": "565227000",
     "nome_ais": "PACIFICA",
     "situacao": "velho",
-    "texto": "sem sinal há 17 h (última posição a 250 mn)",
+    "texto": "sem sinal há 18 h (última posição a 250 mn)",
     "lat": -26.8605,
     "lon": -48.5376,
     "dist_mn": 250.0,
@@ -189,7 +189,7 @@
     "status_ais": "navegando",
     "destino": "BRSSZ",
     "destino_aqui": false,
-    "eta": "2026-11-20T00:00+00:00"
+    "eta": "2026-11-20T10:00+00:00"
    }
   },
   {
@@ -465,7 +465,7 @@
     "mmsi": "538007656",
     "nome_ais": "STAR NAVARRA",
     "situacao": "velho",
-    "texto": "sem sinal há 18 h (última posição a 44 mn)",
+    "texto": "sem sinal há 19 h (última posição a 44 mn)",
     "lat": -24.4068,
     "lon": -44.9483,
     "dist_mn": 43.6,
