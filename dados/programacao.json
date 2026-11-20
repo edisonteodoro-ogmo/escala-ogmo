@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-20T10:58:39-03:00",
+ "atualizado_em": "2026-11-20T11:01:06-03:00",
  "lido_em": "2026-11-20T10:58:39-03:00",
  "total": 20,
  "navios": [
@@ -142,8 +142,8 @@
    "situacao": "PROGRAMADO",
    "ais": {
     "fonte": "vesselfinder",
-    "situacao": "velho",
-    "texto": "sem sinal há 19 h",
+    "situacao": "outro",
+    "texto": "fundeado em Buenaventura, Colombia · destino Callao, Peru",
     "nome_ais": "ELISABETTA",
     "link": "https://www.vesselfinder.com/?imo=1058145",
     "destino": "Callao, Peru",
@@ -154,9 +154,9 @@
     "saida": "2026-11-11T13:35+00:00",
     "imo": 1058145,
     "mmsi": 538012957,
-    "status_ais": "-",
+    "status_ais": "fundeado",
     "destino_aqui": false,
-    "visto_em": "2026-11-19T18:31:03+00:00"
+    "visto_em": "2026-11-20T13:36:06+00:00"
    }
   },
   {
@@ -281,7 +281,7 @@
     "mmsi": 372612000,
     "status_ais": "navegando",
     "destino_aqui": false,
-    "visto_em": "2026-11-20T03:31:03+00:00"
+    "visto_em": "2026-11-20T04:01:06+00:00"
    }
   },
   {
