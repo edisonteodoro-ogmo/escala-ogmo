@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-20T07:13:37-03:00",
+ "atualizado_em": "2026-11-20T07:18:05-03:00",
  "lido_em": "2026-11-20T07:13:37-03:00",
  "total": 20,
  "navios": [
@@ -177,13 +177,13 @@
     "mmsi": "565227000",
     "nome_ais": "PACIFICA",
     "situacao": "movimento",
-    "texto": "navegando a 8.8 nós, a 53 mn · destino declarado: BRSSZ",
-    "lat": -24.0079,
-    "lon": -46.3375,
-    "dist_mn": 52.8,
-    "visto_em": "2026-11-20T10:00:14+00:00",
-    "sog": 8.8,
-    "rumo": 23,
+    "texto": "navegando a 8.5 nós, a 52 mn · destino declarado: BRSSZ",
+    "lat": -23.9931,
+    "lon": -46.3261,
+    "dist_mn": 51.9,
+    "visto_em": "2026-11-20T10:07:53+00:00",
+    "sog": 8.5,
+    "rumo": 71,
     "calado": 6.4,
     "imo": 9431460,
     "status_ais": "navegando",
@@ -204,12 +204,12 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "movimento",
-    "texto": "navegando a 11.8 nós · destino Port Qasim, Pakistan",
+    "texto": "navegando a 11.6 nós · destino Port Qasim, Pakistan",
     "nome_ais": "OCEAN ENDEAVOR",
     "link": "https://www.vesselfinder.com/?imo=1023592",
     "destino": "Port Qasim, Pakistan",
     "eta": "2026-11-30T15:00+00:00",
-    "sog": 11.8,
+    "sog": 11.6,
     "calado": "9.2 m",
     "ultimo_porto": "Singapore Anch. 4, Singapore",
     "saida": "2026-11-19T02:03+00:00",
@@ -217,7 +217,7 @@
     "mmsi": 352005752,
     "status_ais": "navegando",
     "destino_aqui": false,
-    "visto_em": "2026-11-20T09:39:31+00:00"
+    "visto_em": "2026-11-20T10:16:05+00:00"
    }
   },
   {
