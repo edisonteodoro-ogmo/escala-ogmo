@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-20T11:59:23-03:00",
+ "atualizado_em": "2026-11-20T12:01:49-03:00",
  "lido_em": "2026-11-20T11:47:55-03:00",
  "total": 20,
  "navios": [
@@ -149,7 +149,7 @@
     "link": "https://www.vesselfinder.com/?imo=1058145",
     "destino": "Callao, Peru",
     "eta": "2026-11-15T10:00+00:00",
-    "sog": 0.2,
+    "sog": 0.1,
     "calado": "9.6 m",
     "ultimo_porto": "Buenaventura, Colombia",
     "saida": "2026-11-11T13:35+00:00",
@@ -157,7 +157,7 @@
     "mmsi": 538012957,
     "status_ais": "fundeado",
     "destino_aqui": false,
-    "visto_em": "2026-11-20T14:12:22+00:00"
+    "visto_em": "2026-11-20T14:59:49+00:00"
    }
   },
   {
