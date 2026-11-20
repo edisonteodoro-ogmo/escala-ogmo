@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-20T04:50:01-03:00",
+ "atualizado_em": "2026-11-20T05:26:35-03:00",
  "dias": [
   {
    "data": "2026-11-19",
@@ -195,6 +195,18 @@
       "rancho": false,
       "extra": "🛰️ sem sinal há 16 h (última posição a 9 mn)",
       "onde": true
+     },
+     {
+      "req": 61076,
+      "navio": "YOSOR-GADO",
+      "operador": "LOG LOGISTICA",
+      "ternos": 2,
+      "categorias": [
+       "Arrumador",
+       "Conferente",
+       "Estivador"
+      ],
+      "rancho": false
      }
     ]
    },
@@ -222,6 +234,18 @@
       "rancho": false,
       "extra": "🛰️ sem sinal há 16 h (última posição a 9 mn)",
       "onde": true
+     },
+     {
+      "req": 61077,
+      "navio": "YOSOR-GADO",
+      "operador": "LOG LOGISTICA",
+      "ternos": 2,
+      "categorias": [
+       "Arrumador",
+       "Conferente",
+       "Estivador"
+      ],
+      "rancho": false
      }
     ],
     "2": [
