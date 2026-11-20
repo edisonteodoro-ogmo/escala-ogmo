@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-20T19:53:02-03:00",
+ "atualizado_em": "2026-11-20T19:57:32-03:00",
  "lido_em": "2026-11-20T19:43:38-03:00",
  "total": 20,
  "navios": [
@@ -478,7 +478,7 @@
     "mmsi": "538007656",
     "nome_ais": "STAR NAVARRA",
     "situacao": "velho",
-    "texto": "sem sinal há 32 h (última posição a 44 mn)",
+    "texto": "sem sinal há 33 h (última posição a 44 mn)",
     "lat": -24.4068,
     "lon": -44.9483,
     "dist_mn": 43.6,
