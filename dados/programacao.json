@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-20T07:38:40-03:00",
+ "atualizado_em": "2026-11-20T07:41:02-03:00",
  "lido_em": "2026-11-20T07:29:40-03:00",
  "total": 20,
  "navios": [
@@ -118,10 +118,10 @@
     "nome_ais": "V ISALOS",
     "situacao": "outro",
     "texto": "atracado em outro porto (a 50 mn)",
-    "lat": -23.9619,
+    "lat": -23.962,
     "lon": -46.3033,
     "dist_mn": 50.4,
-    "visto_em": "2026-11-20T10:23:48+00:00",
+    "visto_em": "2026-11-20T10:38:44+00:00",
     "sog": 0,
     "rumo": 143,
     "calado": 10.2,
@@ -177,13 +177,13 @@
     "mmsi": "565227000",
     "nome_ais": "PACIFICA",
     "situacao": "movimento",
-    "texto": "navegando a 8.4 nós, a 50 mn · destino declarado: BRSSZ",
-    "lat": -23.9795,
-    "lon": -46.2878,
-    "dist_mn": 49.7,
-    "visto_em": "2026-11-20T10:25:34+00:00",
+    "texto": "navegando a 8.4 nós, a 51 mn · destino declarado: BRSSZ",
+    "lat": -23.952,
+    "lon": -46.3078,
+    "dist_mn": 50.5,
+    "visto_em": "2026-11-20T10:39:45+00:00",
     "sog": 8.4,
-    "rumo": 355,
+    "rumo": 337,
     "calado": 6.4,
     "imo": 9431460,
     "status_ais": "navegando",
@@ -330,7 +330,7 @@
     "mmsi": "341515002",
     "nome_ais": "BLUE OCEAN A",
     "situacao": "velho",
-    "texto": "sem sinal há 10 h (última posição a 10 mn)",
+    "texto": "sem sinal há 11 h (última posição a 10 mn)",
     "lat": -23.9016,
     "lon": -45.5435,
     "dist_mn": 9.5,
@@ -506,7 +506,7 @@
     "mmsi": 538010087,
     "status_ais": "atracado",
     "destino_aqui": false,
-    "visto_em": "2026-11-20T10:03:04+00:00"
+    "visto_em": "2026-11-20T10:39:02+00:00"
    }
   }
  ],
