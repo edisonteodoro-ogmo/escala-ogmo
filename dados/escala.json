@@ -1,8 +1,13 @@
 {
- "atualizado_em": "2026-11-20T18:35:18-03:00",
- "titulo": "Rancho virou",
- "imagem": "planilha/20261120_183518_415078.png",
+ "atualizado_em": "2026-11-20T19:02:10-03:00",
+ "titulo": "20/11/2026 (19h + 01h)",
+ "imagem": "planilha/20261120_190210_638769.png",
  "historico": [
+  {
+   "quando": "2026-11-20T19:02:10-03:00",
+   "titulo": "20/11/2026 (19h + 01h)",
+   "imagem": "planilha/20261120_190210_638769.png"
+  },
   {
    "quando": "2026-11-20T18:35:18-03:00",
    "titulo": "Rancho virou",
@@ -197,11 +202,6 @@
    "quando": "2026-11-10T18:51:35-03:00",
    "titulo": "Rancho virou",
    "imagem": "planilha/20261110_185135_707576.png"
-  },
-  {
-   "quando": "2026-11-10T12:56:18-03:00",
-   "titulo": "10/11/2026 · 13/19",
-   "imagem": "planilha/20261110_125618_281226.png"
   }
  ]
 }
