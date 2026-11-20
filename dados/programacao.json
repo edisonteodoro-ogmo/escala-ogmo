@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-20T00:39:40-03:00",
+ "atualizado_em": "2026-11-20T00:41:59-03:00",
  "lido_em": "2026-11-20T00:27:29-03:00",
  "total": 20,
  "navios": [
@@ -367,7 +367,7 @@
    "ais": {
     "link": "https://www.vesselfinder.com/?imo=9917957",
     "ultimo_porto": "Panama Canal Anch. Pacific, Panama",
-    "saida": "2026-11-18T21:57+00:00",
+    "saida": "2026-11-20T03:22+00:00",
     "mmsi": "450430000",
     "nome_ais": "WHITE PEARL",
     "situacao": "velho",
