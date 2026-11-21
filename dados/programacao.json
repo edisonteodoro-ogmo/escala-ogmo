@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-21T19:26:40-03:00",
+ "atualizado_em": "2026-11-21T19:31:08-03:00",
  "lido_em": "2026-11-21T19:26:40-03:00",
  "total": 20,
  "navios": [
@@ -15,7 +15,7 @@
    "ais": {
     "link": "https://www.vesselfinder.com/?imo=7819113",
     "ultimo_porto": "Sao Sebastiao, Brazil",
-    "saida": "2026-11-19T17:01+00:00",
+    "saida": "2026-11-21T22:18+00:00",
     "mmsi": "677031200",
     "nome_ais": "YOSOR",
     "situacao": "movimento",
