@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-21T19:01:16-03:00",
+ "atualizado_em": "2026-11-21T19:38:27-03:00",
  "dias": [
   {
    "data": "2026-11-21",
@@ -31,19 +31,7 @@
       ],
       "rancho": true,
       "posicao": "P3",
-      "extra": "📍 sai 22/11 09:00",
-      "cargas": [
-       {
-        "carga": "ENTREGA DTA'S",
-        "tons": 3626,
-        "qtd": 20
-       },
-       {
-        "carga": "ENTREGA RANCHO",
-        "tons": 3444,
-        "qtd": 1
-       }
-      ]
+      "extra": "📍 sai 22/11 09:00"
      },
      {
       "req": 61098,
@@ -83,7 +71,7 @@
        "Estivador"
       ],
       "rancho": false,
-      "extra": "🛰️ sem sinal há 54 h (última posição a 9 mn)",
+      "extra": "🛰️ sem sinal há 55 h (última posição a 9 mn)",
       "onde": true
      }
     ],
@@ -99,7 +87,7 @@
        "Estivador"
       ],
       "rancho": false,
-      "extra": "🛰️ sem sinal há 54 h (última posição a 9 mn)",
+      "extra": "🛰️ sem sinal há 55 h (última posição a 9 mn)",
       "onde": true
      }
     ],
@@ -115,7 +103,7 @@
        "Estivador"
       ],
       "rancho": false,
-      "extra": "🛰️ sem sinal há 54 h (última posição a 9 mn)",
+      "extra": "🛰️ sem sinal há 55 h (última posição a 9 mn)",
       "onde": true
      }
     ],
@@ -131,7 +119,7 @@
        "Estivador"
       ],
       "rancho": false,
-      "extra": "🛰️ sem sinal há 54 h (última posição a 9 mn)",
+      "extra": "🛰️ sem sinal há 55 h (última posição a 9 mn)",
       "onde": true
      }
     ]
