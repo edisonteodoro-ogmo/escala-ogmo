@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-21T17:49:50-03:00",
+ "atualizado_em": "2026-11-21T17:52:06-03:00",
  "lido_em": "2026-11-21T17:49:50-03:00",
  "total": 20,
  "navios": [
@@ -23,9 +23,9 @@
     "lat": -23.8117,
     "lon": -45.3975,
     "dist_mn": 0.2,
-    "visto_em": "2026-11-21T20:27:00+00:00",
+    "visto_em": "2026-11-21T20:51:01+00:00",
     "sog": 0,
-    "rumo": 55,
+    "rumo": 56,
     "calado": 7.8,
     "imo": 7819113,
     "status_ais": "atracado",
@@ -116,10 +116,10 @@
     "nome_ais": "V ISALOS",
     "situacao": "outro",
     "texto": "atracado em outro porto (a 50 mn)",
-    "lat": -23.962,
+    "lat": -23.9619,
     "lon": -46.3033,
     "dist_mn": 50.4,
-    "visto_em": "2026-11-21T20:14:52+00:00",
+    "visto_em": "2026-11-21T20:41:55+00:00",
     "sog": 0,
     "rumo": 143,
     "calado": 10.2,
@@ -147,7 +147,7 @@
     "link": "https://www.vesselfinder.com/?imo=1058145",
     "destino": "Callao, Peru",
     "chegou": "2026-11-21T18:18+00:00",
-    "sog": 0.0,
+    "sog": 0.1,
     "calado": "9.6 m",
     "ultimo_porto": "Buenaventura, Colombia",
     "saida": "2026-11-11T13:35+00:00",
@@ -155,7 +155,7 @@
     "mmsi": 538012957,
     "status_ais": "atracado",
     "destino_aqui": false,
-    "visto_em": "2026-11-21T20:19:20+00:00"
+    "visto_em": "2026-11-21T20:49:06+00:00"
    }
   },
   {
@@ -214,7 +214,7 @@
     "mmsi": 352005752,
     "status_ais": "navegando",
     "destino_aqui": false,
-    "visto_em": "2026-11-21T18:20:20+00:00"
+    "visto_em": "2026-11-21T17:52:06+00:00"
    }
   },
   {
@@ -328,12 +328,12 @@
     "nome_ais": "BLUE OCEAN A",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 9.4 mn)",
-    "lat": -23.901,
-    "lon": -45.5403,
+    "lat": -23.9008,
+    "lon": -45.5406,
     "dist_mn": 9.4,
-    "visto_em": "2026-11-21T20:19:15+00:00",
-    "sog": 0.7,
-    "rumo": 262,
+    "visto_em": "2026-11-21T20:46:13+00:00",
+    "sog": 0.2,
+    "rumo": 267,
     "calado": 6.7,
     "imo": 9045089,
     "status_ais": "fundeado",
@@ -475,7 +475,7 @@
     "mmsi": "538007656",
     "nome_ais": "STAR NAVARRA",
     "situacao": "velho",
-    "texto": "sem sinal há 54 h (última posição a 44 mn)",
+    "texto": "sem sinal há 55 h (última posição a 44 mn)",
     "lat": -24.4068,
     "lon": -44.9483,
     "dist_mn": 43.6,
