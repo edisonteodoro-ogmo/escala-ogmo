@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-21T01:35:40-03:00",
+ "atualizado_em": "2026-11-21T01:38:12-03:00",
  "lido_em": "2026-11-21T01:23:30-03:00",
  "total": 20,
  "navios": [
@@ -296,18 +296,21 @@
    "situacao": "PROGRAMADO",
    "ais": {
     "fonte": "vesselfinder",
-    "situacao": "outro",
-    "texto": "navegando a 13.8 nós · sem destino declarado · último porto Escombreras, Spain",
+    "situacao": "caminho",
+    "texto": "a caminho de São Sebastião a 14.1 nós",
     "nome_ais": "BANA",
     "link": "https://www.vesselfinder.com/?imo=8417625",
-    "sog": 13.8,
+    "destino": "Sao Sebastiao, Brazil",
+    "eta": "2026-12-01T12:00+00:00",
+    "sog": 14.1,
     "calado": "8.1 m",
     "ultimo_porto": "Escombreras, Spain",
     "saida": "2026-11-17T22:36+00:00",
     "imo": 8417625,
     "mmsi": 370141000,
     "status_ais": "navegando",
-    "visto_em": "2026-11-21T04:06:35+00:00"
+    "destino_aqui": true,
+    "visto_em": "2026-11-21T04:37:12+00:00"
    }
   },
   {
