@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-21T01:40:38-03:00",
+ "atualizado_em": "2026-11-21T01:42:51-03:00",
  "lido_em": "2026-11-21T01:40:38-03:00",
  "total": 20,
  "navios": [
@@ -330,7 +330,7 @@
     "mmsi": "341515002",
     "nome_ais": "BLUE OCEAN A",
     "situacao": "velho",
-    "texto": "sem sinal há 28 h (última posição a 10 mn)",
+    "texto": "sem sinal há 29 h (última posição a 10 mn)",
     "lat": -23.9016,
     "lon": -45.5435,
     "dist_mn": 9.5,
@@ -371,7 +371,7 @@
     "mmsi": "450430000",
     "nome_ais": "WHITE PEARL",
     "situacao": "velho",
-    "texto": "sem sinal há 28 h (última posição a 3 mn)",
+    "texto": "sem sinal há 29 h (última posição a 3 mn)",
     "lat": -23.845,
     "lon": -45.4385,
     "dist_mn": 2.9,
@@ -447,7 +447,7 @@
     "mmsi": 538007659,
     "status_ais": "fundeado",
     "destino_aqui": false,
-    "visto_em": "2026-11-21T04:09:13+00:00"
+    "visto_em": "2026-11-21T04:42:51+00:00"
    }
   },
   {
