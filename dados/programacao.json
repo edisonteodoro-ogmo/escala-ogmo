@@ -1,39 +1,8 @@
 {
- "atualizado_em": "2026-11-21T19:35:55-03:00",
- "lido_em": "2026-11-21T19:26:40-03:00",
- "total": 20,
+ "atualizado_em": "2026-11-21T19:42:13-03:00",
+ "lido_em": "2026-11-21T19:42:09-03:00",
+ "total": 19,
  "navios": [
-  {
-   "nome": "YOSOR",
-   "faixa": "NAVIOS OPERANDO",
-   "previsao": "09/10/2026",
-   "carga": "ANIMAIS VIVOS",
-   "qtd": "5.000 UN",
-   "operador": "LOG LOGÍSTICA",
-   "local": "DIRETO",
-   "situacao": "OPERANDO",
-   "ais": {
-    "link": "https://www.vesselfinder.com/?imo=7819113",
-    "ultimo_porto": "Sao Sebastiao, Brazil",
-    "saida": "2026-11-21T22:18+00:00",
-    "mmsi": "677031200",
-    "nome_ais": "YOSOR",
-    "situacao": "movimento",
-    "texto": "navegando a 7.7 nós, a 1 mn · destino declarado: ES CAR",
-    "lat": -23.8264,
-    "lon": -45.4011,
-    "dist_mn": 1.0,
-    "visto_em": "2026-11-21T22:26:20+00:00",
-    "sog": 7.7,
-    "rumo": 233,
-    "calado": 8.3,
-    "imo": 7819113,
-    "status_ais": "navegando",
-    "destino": "ES CAR",
-    "destino_aqui": false,
-    "eta": "2026-12-08T12:00+00:00"
-   }
-  },
   {
    "nome": "HANZE GENUA",
    "faixa": "NAVIOS PROGRAMADOS B",
@@ -446,7 +415,7 @@
     "mmsi": 538007659,
     "status_ais": "atracado",
     "destino_aqui": false,
-    "visto_em": "2026-11-21T22:06:33+00:00"
+    "visto_em": "2026-11-21T22:39:13+00:00"
    }
   },
   {
@@ -533,7 +502,7 @@
   },
   "depois": []
  },
- "ais_navios": 16,
+ "ais_navios": 15,
  "porto": {
   "lat": -23.8105,
   "lon": -45.401
