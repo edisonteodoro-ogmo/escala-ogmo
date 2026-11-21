@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-21T08:33:41-03:00",
+ "atualizado_em": "2026-11-21T09:15:21-03:00",
  "dias": [
   {
    "data": "2026-11-21",
@@ -32,6 +32,31 @@
       "rancho": false,
       "extra": "🛰️ sem sinal há 44 h (última posição a 9 mn)",
       "onde": true
+     },
+     {
+      "req": 61099,
+      "navio": "MAERSK KATALIN",
+      "operador": "AQUARIUS",
+      "ternos": 1,
+      "categorias": [
+       "Arrumador",
+       "Conferente",
+       "Estivador"
+      ],
+      "rancho": true,
+      "posicao": "P3",
+      "cargas": [
+       {
+        "carga": "ENTREGA DTA'S",
+        "tons": 3626,
+        "qtd": 20
+       },
+       {
+        "carga": "ENTREGA RANCHO",
+        "tons": 5000,
+        "qtd": 1
+       }
+      ]
      },
      {
       "req": 61098,
