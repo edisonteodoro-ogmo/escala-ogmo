@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-21T03:27:25-03:00",
- "lido_em": "2026-11-21T03:21:59-03:00",
+ "atualizado_em": "2026-11-21T03:38:31-03:00",
+ "lido_em": "2026-11-21T03:38:31-03:00",
  "total": 20,
  "navios": [
   {
@@ -44,7 +44,6 @@
    "local": "ARMAZEM CDSS",
    "situacao": "FUNDEADO",
    "fundeado": true,
-   "cais": "21/11 20:30",
    "ais": {
     "link": "https://www.vesselfinder.com/?imo=9746970",
     "ultimo_porto": "Las Palmas, Spain",
@@ -330,7 +329,7 @@
     "mmsi": "341515002",
     "nome_ais": "BLUE OCEAN A",
     "situacao": "velho",
-    "texto": "sem sinal há 30 h (última posição a 10 mn)",
+    "texto": "sem sinal há 31 h (última posição a 10 mn)",
     "lat": -23.9016,
     "lon": -45.5435,
     "dist_mn": 9.5,
@@ -400,7 +399,7 @@
     "mmsi": "352005786",
     "nome_ais": "EKATERINA",
     "situacao": "velho",
-    "texto": "sem sinal há 18 h (última posição a 345 mn)",
+    "texto": "sem sinal há 19 h (última posição a 345 mn)",
     "lat": -20.8599,
     "lon": -40.0751,
     "dist_mn": 344.7,
@@ -523,20 +522,6 @@
    }
   }
  ],
- "cais": {
-  "fonte": "praticagem",
-  "saindo": [
-   {
-    "navio": "YOSOR",
-    "horario": "21/11 19:00"
-   }
-  ],
-  "proximo": {
-   "navio": "HANZE GENUA",
-   "horario": "21/11 20:30"
-  },
-  "depois": []
- },
  "ais_navios": 16,
  "porto": {
   "lat": -23.8105,
