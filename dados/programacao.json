@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-21T18:53:54-03:00",
+ "atualizado_em": "2026-11-21T18:56:19-03:00",
  "lido_em": "2026-11-21T18:53:54-03:00",
  "total": 20,
  "navios": [
@@ -200,8 +200,8 @@
    "situacao": "PROGRAMADO",
    "ais": {
     "fonte": "vesselfinder",
-    "situacao": "movimento",
-    "texto": "navegando a 10.9 nós · destino Port Qasim, Pakistan",
+    "situacao": "velho",
+    "texto": "sem sinal há 4 h",
     "nome_ais": "OCEAN ENDEAVOR",
     "link": "https://www.vesselfinder.com/?imo=1023592",
     "destino": "Port Qasim, Pakistan",
@@ -214,7 +214,7 @@
     "mmsi": 352005752,
     "status_ais": "navegando",
     "destino_aqui": false,
-    "visto_em": "2026-11-21T18:24:33+00:00"
+    "visto_em": "2026-11-21T17:56:19+00:00"
    }
   },
   {
