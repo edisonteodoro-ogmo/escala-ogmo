@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-21T15:41:50-03:00",
+ "atualizado_em": "2026-11-21T15:46:18-03:00",
  "lido_em": "2026-11-21T15:41:50-03:00",
  "total": 20,
  "navios": [
@@ -141,21 +141,21 @@
    "situacao": "PROGRAMADO",
    "ais": {
     "fonte": "vesselfinder",
-    "situacao": "movimento",
-    "texto": "navegando a 1.7 nós · destino Callao, Peru",
+    "situacao": "outro",
+    "texto": "atracado em Buenaventura, Colombia · destino Callao, Peru",
     "nome_ais": "ELISABETTA",
     "link": "https://www.vesselfinder.com/?imo=1058145",
     "destino": "Callao, Peru",
     "eta": "2026-11-15T10:00+00:00",
-    "sog": 1.7,
+    "sog": 0.0,
     "calado": "9.6 m",
     "ultimo_porto": "Buenaventura, Colombia",
     "saida": "2026-11-11T13:35+00:00",
     "imo": 1058145,
     "mmsi": 538012957,
-    "status_ais": "navegando",
+    "status_ais": "atracado",
     "destino_aqui": false,
-    "visto_em": "2026-11-21T18:08:10+00:00"
+    "visto_em": "2026-11-21T18:40:18+00:00"
    }
   },
   {
@@ -178,7 +178,7 @@
     "lat": -23.9282,
     "lon": -46.3348,
     "dist_mn": 51.8,
-    "visto_em": "2026-11-21T18:06:12+00:00",
+    "visto_em": "2026-11-21T18:45:02+00:00",
     "sog": 0,
     "rumo": 336,
     "calado": 6.4,
@@ -214,7 +214,7 @@
     "mmsi": 352005752,
     "status_ais": "navegando",
     "destino_aqui": false,
-    "visto_em": "2026-11-21T18:04:10+00:00"
+    "visto_em": "2026-11-21T18:04:18+00:00"
    }
   },
   {
@@ -331,9 +331,9 @@
     "lat": -23.901,
     "lon": -45.5403,
     "dist_mn": 9.4,
-    "visto_em": "2026-11-21T18:22:13+00:00",
-    "sog": 0,
-    "rumo": 263,
+    "visto_em": "2026-11-21T18:37:13+00:00",
+    "sog": 0.2,
+    "rumo": 264,
     "calado": 6.7,
     "imo": 9045089,
     "status_ais": "fundeado",
@@ -370,11 +370,11 @@
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 2.8 mn)",
     "lat": -23.844,
-    "lon": -45.4372,
+    "lon": -45.4371,
     "dist_mn": 2.8,
-    "visto_em": "2026-11-21T17:42:16+00:00",
-    "sog": 0.3,
-    "rumo": 228,
+    "visto_em": "2026-11-21T18:39:15+00:00",
+    "sog": 0,
+    "rumo": 214,
     "calado": 5,
     "imo": 7615309,
     "status_ais": "fundeado",
