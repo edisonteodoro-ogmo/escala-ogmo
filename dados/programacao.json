@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-21T19:46:39-03:00",
+ "atualizado_em": "2026-11-21T19:53:30-03:00",
  "lido_em": "2026-11-21T19:42:09-03:00",
  "total": 19,
  "navios": [
@@ -490,12 +490,6 @@
  ],
  "cais": {
   "fonte": "praticagem",
-  "saindo": [
-   {
-    "navio": "YOSOR",
-    "horario": "21/11 19:00"
-   }
-  ],
   "proximo": {
    "navio": "HANZE GENUA",
    "horario": "22/11 00:30"
