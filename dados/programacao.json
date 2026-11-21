@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-21T15:14:10-03:00",
+ "atualizado_em": "2026-11-21T15:23:17-03:00",
  "lido_em": "2026-11-21T15:09:42-03:00",
  "total": 20,
  "navios": [
@@ -23,9 +23,9 @@
     "lat": -23.8116,
     "lon": -45.3975,
     "dist_mn": 0.2,
-    "visto_em": "2026-11-21T18:03:01+00:00",
+    "visto_em": "2026-11-21T18:18:00+00:00",
     "sog": 0,
-    "rumo": 57,
+    "rumo": 56,
     "calado": 7.8,
     "imo": 7819113,
     "status_ais": "atracado",
@@ -184,9 +184,9 @@
     "calado": 6.4,
     "imo": 9431460,
     "status_ais": "atracado",
-    "destino": "BRSSZ",
-    "destino_aqui": false,
-    "eta": "2026-11-20T10:00+00:00"
+    "destino": "BRSSO",
+    "destino_aqui": true,
+    "eta": "2026-11-22T00:00+00:00"
    }
   },
   {
@@ -266,7 +266,7 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "velho",
-    "texto": "sem sinal há 17 h",
+    "texto": "sem sinal há 18 h",
     "nome_ais": "APOGEE ENDEAVOUR",
     "link": "https://www.vesselfinder.com/?imo=9553141",
     "destino": "Paranagua, Brazil",
@@ -279,7 +279,7 @@
     "mmsi": 372612000,
     "status_ais": "-",
     "destino_aqui": false,
-    "visto_em": "2026-11-21T00:51:26+00:00"
+    "visto_em": "2026-11-21T00:23:17+00:00"
    }
   },
   {
@@ -294,12 +294,12 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "caminho",
-    "texto": "a caminho de São Sebastião a 14.2 nós",
+    "texto": "a caminho de São Sebastião a 14.4 nós",
     "nome_ais": "BANA",
     "link": "https://www.vesselfinder.com/?imo=8417625",
     "destino": "Sao Sebastiao, Brazil",
     "eta": "2026-12-01T12:00+00:00",
-    "sog": 14.2,
+    "sog": 14.4,
     "calado": "8.1 m",
     "ultimo_porto": "Escombreras, Spain",
     "saida": "2026-11-17T22:36+00:00",
@@ -307,7 +307,7 @@
     "mmsi": 370141000,
     "status_ais": "navegando",
     "destino_aqui": true,
-    "visto_em": "2026-11-21T17:50:26+00:00"
+    "visto_em": "2026-11-21T18:23:17+00:00"
    }
   },
   {
@@ -328,12 +328,12 @@
     "nome_ais": "BLUE OCEAN A",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 9.4 mn)",
-    "lat": -23.9009,
+    "lat": -23.901,
     "lon": -45.5403,
     "dist_mn": 9.4,
-    "visto_em": "2026-11-21T17:55:14+00:00",
-    "sog": 0.6,
-    "rumo": 259,
+    "visto_em": "2026-11-21T18:22:13+00:00",
+    "sog": 0,
+    "rumo": 263,
     "calado": 6.7,
     "imo": 9045089,
     "status_ais": "fundeado",
