@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-21T00:31:10-03:00",
- "lido_em": "2026-11-21T00:16:53-03:00",
+ "atualizado_em": "2026-11-21T00:33:38-03:00",
+ "lido_em": "2026-11-21T00:33:38-03:00",
  "total": 20,
  "navios": [
   {
@@ -19,7 +19,7 @@
     "mmsi": "677031200",
     "nome_ais": "YOSOR",
     "situacao": "velho",
-    "texto": "sem sinal há 27 h (última posição a 0 mn)",
+    "texto": "sem sinal há 28 h (última posição a 0 mn)",
     "lat": -23.8117,
     "lon": -45.3975,
     "dist_mn": 0.2,
@@ -52,7 +52,7 @@
     "mmsi": "244830401",
     "nome_ais": "HANZE GENUA",
     "situacao": "velho",
-    "texto": "sem sinal há 35 h (última posição a 9 mn)",
+    "texto": "sem sinal há 36 h (última posição a 9 mn)",
     "lat": -23.7101,
     "lon": -45.2722,
     "dist_mn": 9.3,
@@ -181,9 +181,9 @@
     "lat": -23.9282,
     "lon": -46.3348,
     "dist_mn": 51.8,
-    "visto_em": "2026-11-21T02:56:59+00:00",
+    "visto_em": "2026-11-21T03:26:55+00:00",
     "sog": 0,
-    "rumo": 336,
+    "rumo": 337,
     "calado": 6.4,
     "imo": 9431460,
     "status_ais": "atracado",
@@ -282,7 +282,7 @@
     "mmsi": 372612000,
     "status_ais": "navegando",
     "destino_aqui": false,
-    "visto_em": "2026-11-21T01:01:40+00:00"
+    "visto_em": "2026-11-21T00:33:38+00:00"
    }
   },
   {
@@ -400,7 +400,7 @@
     "mmsi": "352005786",
     "nome_ais": "EKATERINA",
     "situacao": "velho",
-    "texto": "sem sinal há 15 h (última posição a 345 mn)",
+    "texto": "sem sinal há 16 h (última posição a 345 mn)",
     "lat": -20.8599,
     "lon": -40.0751,
     "dist_mn": 344.7,
