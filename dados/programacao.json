@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-21T12:13:23-03:00",
+ "atualizado_em": "2026-11-21T12:18:07-03:00",
  "lido_em": "2026-11-21T12:10:59-03:00",
  "total": 20,
  "navios": [
@@ -433,7 +433,7 @@
     "link": "https://www.vesselfinder.com/?imo=9577886",
     "destino": "San Lorenzo, Argentina",
     "chegou": "2026-11-21T09:10+00:00",
-    "sog": 0.0,
+    "sog": 0.1,
     "calado": "5.8 m",
     "ultimo_porto": "San Lorenzo Anch., Argentina",
     "saida": "2026-11-21T08:09+00:00",
@@ -441,7 +441,7 @@
     "mmsi": 538007659,
     "status_ais": "atracado",
     "destino_aqui": false,
-    "visto_em": "2026-11-21T14:45:24+00:00"
+    "visto_em": "2026-11-21T15:15:07+00:00"
    }
   },
   {
