@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-20T21:21:28-03:00",
+ "atualizado_em": "2026-11-20T21:26:00-03:00",
  "lido_em": "2026-11-20T21:19:17-03:00",
  "total": 20,
  "navios": [
@@ -52,7 +52,7 @@
     "mmsi": "244830401",
     "nome_ais": "HANZE GENUA",
     "situacao": "velho",
-    "texto": "sem sinal há 32 h (última posição a 9 mn)",
+    "texto": "sem sinal há 33 h (última posição a 9 mn)",
     "lat": -23.7101,
     "lon": -45.2722,
     "dist_mn": 9.3,
@@ -118,10 +118,10 @@
     "nome_ais": "V ISALOS",
     "situacao": "outro",
     "texto": "atracado em outro porto (a 50 mn)",
-    "lat": -23.9619,
+    "lat": -23.962,
     "lon": -46.3033,
     "dist_mn": 50.4,
-    "visto_em": "2026-11-20T23:59:47+00:00",
+    "visto_em": "2026-11-21T00:17:48+00:00",
     "sog": 0,
     "rumo": 143,
     "calado": 10.2,
@@ -181,7 +181,7 @@
     "lat": -23.9282,
     "lon": -46.3348,
     "dist_mn": 51.8,
-    "visto_em": "2026-11-20T23:53:53+00:00",
+    "visto_em": "2026-11-21T00:17:59+00:00",
     "sog": 0,
     "rumo": 336,
     "calado": 6.4,
@@ -282,7 +282,7 @@
     "mmsi": 372612000,
     "status_ais": "navegando",
     "destino_aqui": false,
-    "visto_em": "2026-11-20T23:51:29+00:00"
+    "visto_em": "2026-11-20T23:51:00+00:00"
    }
   },
   {
