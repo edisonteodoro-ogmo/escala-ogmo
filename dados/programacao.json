@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-21T05:54:48-03:00",
+ "atualizado_em": "2026-11-21T05:59:55-03:00",
  "lido_em": "2026-11-21T05:45:16-03:00",
  "total": 20,
  "navios": [
@@ -434,17 +434,17 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "outro",
-    "texto": "navegando · sem destino declarado · último porto San Lorenzo Anch., Argentina",
+    "texto": "navegando a 2.3 nós · sem destino declarado · último porto San Lorenzo Anch., Argentina",
     "nome_ais": "DISCOVERER",
     "link": "https://www.vesselfinder.com/?imo=9577886",
-    "sog": 0.3,
+    "sog": 2.3,
     "calado": "5.8 m",
     "ultimo_porto": "San Lorenzo Anch., Argentina",
     "saida": "2026-11-21T08:09+00:00",
     "imo": 9577886,
     "mmsi": 538007659,
     "status_ais": "navegando",
-    "visto_em": "2026-11-21T08:25:33+00:00"
+    "visto_em": "2026-11-21T08:58:55+00:00"
    }
   },
   {
