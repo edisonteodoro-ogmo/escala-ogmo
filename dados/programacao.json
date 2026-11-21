@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-21T01:52:22-03:00",
+ "atualizado_em": "2026-11-21T01:54:48-03:00",
  "lido_em": "2026-11-21T01:40:38-03:00",
  "total": 20,
  "navios": [
@@ -120,7 +120,7 @@
     "lat": -23.9619,
     "lon": -46.3033,
     "dist_mn": 50.4,
-    "visto_em": "2026-11-21T04:23:51+00:00",
+    "visto_em": "2026-11-21T04:44:52+00:00",
     "sog": 0,
     "rumo": 143,
     "calado": 10.2,
@@ -232,7 +232,7 @@
     "mmsi": "341273002",
     "nome_ais": "PACIFIC ROSE",
     "situacao": "velho",
-    "texto": "sem sinal há 28 h (última posição a 2 mn)",
+    "texto": "sem sinal há 29 h (última posição a 2 mn)",
     "lat": -23.8393,
     "lon": -45.428,
     "dist_mn": 2.3,
@@ -477,7 +477,7 @@
     "mmsi": "538007656",
     "nome_ais": "STAR NAVARRA",
     "situacao": "velho",
-    "texto": "sem sinal há 38 h (última posição a 44 mn)",
+    "texto": "sem sinal há 39 h (última posição a 44 mn)",
     "lat": -24.4068,
     "lon": -44.9483,
     "dist_mn": 43.6,
