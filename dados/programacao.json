@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-21T03:45:15-03:00",
+ "atualizado_em": "2026-11-21T03:48:37-03:00",
  "lido_em": "2026-11-21T03:38:31-03:00",
  "total": 20,
  "navios": [
@@ -44,6 +44,7 @@
    "local": "ARMAZEM CDSS",
    "situacao": "FUNDEADO",
    "fundeado": true,
+   "cais": "21/11 20:30",
    "ais": {
     "link": "https://www.vesselfinder.com/?imo=9746970",
     "ultimo_porto": "Las Palmas, Spain",
@@ -85,12 +86,12 @@
     "nome_ais": "ASTRO NEKKAR",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 8.9 mn)",
-    "lat": -23.8815,
-    "lon": -45.5431,
+    "lat": -23.8814,
+    "lon": -45.543,
     "dist_mn": 8.9,
-    "visto_em": "2026-11-21T06:26:32+00:00",
-    "sog": 0.1,
-    "rumo": 318,
+    "visto_em": "2026-11-21T06:38:32+00:00",
+    "sog": 0,
+    "rumo": 310,
     "calado": 8.4,
     "imo": 9720304,
     "status_ais": "fundeado",
@@ -120,7 +121,7 @@
     "lat": -23.9619,
     "lon": -46.3033,
     "dist_mn": 50.4,
-    "visto_em": "2026-11-21T05:56:46+00:00",
+    "visto_em": "2026-11-21T06:41:53+00:00",
     "sog": 0,
     "rumo": 143,
     "calado": 10.2,
@@ -180,7 +181,7 @@
     "lat": -23.9282,
     "lon": -46.3348,
     "dist_mn": 51.8,
-    "visto_em": "2026-11-21T06:09:01+00:00",
+    "visto_em": "2026-11-21T06:48:03+00:00",
     "sog": 0,
     "rumo": 336,
     "calado": 6.4,
@@ -232,7 +233,7 @@
     "mmsi": "341273002",
     "nome_ais": "PACIFIC ROSE",
     "situacao": "velho",
-    "texto": "sem sinal há 30 h (última posição a 2 mn)",
+    "texto": "sem sinal há 31 h (última posição a 2 mn)",
     "lat": -23.8393,
     "lon": -45.428,
     "dist_mn": 2.3,
@@ -281,7 +282,7 @@
     "mmsi": 372612000,
     "status_ais": "navegando",
     "destino_aqui": false,
-    "visto_em": "2026-11-21T00:17:07+00:00"
+    "visto_em": "2026-11-21T00:48:37+00:00"
    }
   },
   {
@@ -370,7 +371,7 @@
     "mmsi": "450430000",
     "nome_ais": "WHITE PEARL",
     "situacao": "velho",
-    "texto": "sem sinal há 30 h (última posição a 3 mn)",
+    "texto": "sem sinal há 31 h (última posição a 3 mn)",
     "lat": -23.845,
     "lon": -45.4385,
     "dist_mn": 2.9,
@@ -477,7 +478,7 @@
     "mmsi": "538007656",
     "nome_ais": "STAR NAVARRA",
     "situacao": "velho",
-    "texto": "sem sinal há 40 h (última posição a 44 mn)",
+    "texto": "sem sinal há 41 h (última posição a 44 mn)",
     "lat": -24.4068,
     "lon": -44.9483,
     "dist_mn": 43.6,
@@ -522,6 +523,20 @@
    }
   }
  ],
+ "cais": {
+  "fonte": "praticagem",
+  "saindo": [
+   {
+    "navio": "YOSOR",
+    "horario": "21/11 19:00"
+   }
+  ],
+  "proximo": {
+   "navio": "HANZE GENUA",
+   "horario": "21/11 20:30"
+  },
+  "depois": []
+ },
  "ais_navios": 16,
  "porto": {
   "lat": -23.8105,
