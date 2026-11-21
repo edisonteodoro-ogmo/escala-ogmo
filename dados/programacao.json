@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-21T13:36:40-03:00",
+ "atualizado_em": "2026-11-21T13:41:06-03:00",
  "lido_em": "2026-11-21T13:32:08-03:00",
  "total": 20,
  "navios": [
@@ -141,21 +141,21 @@
    "situacao": "PROGRAMADO",
    "ais": {
     "fonte": "vesselfinder",
-    "situacao": "velho",
-    "texto": "sem sinal há 25 h",
+    "situacao": "movimento",
+    "texto": "navegando a 4.7 nós · destino Callao, Peru",
     "nome_ais": "ELISABETTA",
     "link": "https://www.vesselfinder.com/?imo=1058145",
     "destino": "Callao, Peru",
     "eta": "2026-11-15T10:00+00:00",
-    "sog": 0.1,
+    "sog": 4.7,
     "calado": "9.6 m",
     "ultimo_porto": "Buenaventura, Colombia",
     "saida": "2026-11-11T13:35+00:00",
     "imo": 1058145,
     "mmsi": 538012957,
-    "status_ais": "-",
+    "status_ais": "navegando",
     "destino_aqui": false,
-    "visto_em": "2026-11-20T15:09:05+00:00"
+    "visto_em": "2026-11-21T16:35:06+00:00"
    }
   },
   {
@@ -178,7 +178,7 @@
     "lat": -23.9282,
     "lon": -46.3348,
     "dist_mn": 51.8,
-    "visto_em": "2026-11-21T16:24:00+00:00",
+    "visto_em": "2026-11-21T16:32:58+00:00",
     "sog": 0,
     "rumo": 336,
     "calado": 6.4,
@@ -201,12 +201,12 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "movimento",
-    "texto": "navegando a 11.2 nós · destino Port Qasim, Pakistan",
+    "texto": "navegando a 11.3 nós · destino Port Qasim, Pakistan",
     "nome_ais": "OCEAN ENDEAVOR",
     "link": "https://www.vesselfinder.com/?imo=1023592",
     "destino": "Port Qasim, Pakistan",
     "eta": "2026-11-30T15:00+00:00",
-    "sog": 11.2,
+    "sog": 11.3,
     "calado": "9.2 m",
     "ultimo_porto": "Singapore Anch. 4, Singapore",
     "saida": "2026-11-19T02:03+00:00",
@@ -214,7 +214,7 @@
     "mmsi": 352005752,
     "status_ais": "navegando",
     "destino_aqui": false,
-    "visto_em": "2026-11-21T16:09:05+00:00"
+    "visto_em": "2026-11-21T16:40:06+00:00"
    }
   },
   {
@@ -369,12 +369,12 @@
     "nome_ais": "WHITE PEARL",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 2.8 mn)",
-    "lat": -23.8443,
-    "lon": -45.4371,
+    "lat": -23.8442,
+    "lon": -45.4372,
     "dist_mn": 2.8,
-    "visto_em": "2026-11-21T16:21:16+00:00",
+    "visto_em": "2026-11-21T16:39:19+00:00",
     "sog": 0,
-    "rumo": 233,
+    "rumo": 252,
     "calado": 5,
     "imo": 7615309,
     "status_ais": "fundeado",
@@ -395,15 +395,20 @@
    "ais": {
     "mmsi": "352005786",
     "nome_ais": "EKATERINA",
-    "situacao": "caminho",
-    "texto": "navegando a 11.8 nós, a 29 mn · sem destino declarado",
-    "lat": -24.0666,
-    "lon": -44.9474,
-    "dist_mn": 29.3,
-    "visto_em": "2026-11-21T16:28:55+00:00",
-    "sog": 11.8,
-    "rumo": 250,
-    "status_ais": "navegando"
+    "situacao": "movimento",
+    "texto": "navegando a 11.7 nós, a 28 mn · destino declarado: BRSSZ",
+    "lat": -24.0756,
+    "lon": -44.9744,
+    "dist_mn": 28.3,
+    "visto_em": "2026-11-21T16:36:55+00:00",
+    "sog": 11.7,
+    "rumo": 251,
+    "calado": 7.2,
+    "imo": 9641807,
+    "status_ais": "navegando",
+    "destino": "BRSSZ",
+    "destino_aqui": false,
+    "eta": "2026-11-21T22:05+00:00"
    }
   },
   {
