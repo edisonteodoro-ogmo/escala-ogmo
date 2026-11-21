@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-21T00:36:08-03:00",
+ "atualizado_em": "2026-11-21T00:40:37-03:00",
  "lido_em": "2026-11-21T00:33:38-03:00",
  "total": 20,
  "navios": [
@@ -434,11 +434,11 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "outro",
-    "texto": "fundeado em Paranagua, Brazil · destino San Lorenzo, Argentina",
+    "texto": "fundeado em San Lorenzo Anch., Argentina",
     "nome_ais": "DISCOVERER",
     "link": "https://www.vesselfinder.com/?imo=9577886",
-    "destino": "San Lorenzo, Argentina",
-    "eta": "2026-11-19T19:00+00:00",
+    "destino": "San Lorenzo Anch., Argentina",
+    "chegou": "2026-11-21T02:42+00:00",
     "sog": 0.0,
     "calado": "5.8 m",
     "ultimo_porto": "Paranagua, Brazil",
@@ -447,7 +447,7 @@
     "mmsi": 538007659,
     "status_ais": "fundeado",
     "destino_aqui": false,
-    "visto_em": "2026-11-21T03:06:41+00:00"
+    "visto_em": "2026-11-21T03:39:37+00:00"
    }
   },
   {
