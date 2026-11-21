@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-21T19:58:11-03:00",
+ "atualizado_em": "2026-11-21T20:04:02-03:00",
  "lido_em": "2026-11-21T19:58:11-03:00",
  "total": 19,
  "navios": [
@@ -13,7 +13,7 @@
    "local": "ARMAZEM CDSS",
    "situacao": "FUNDEADO",
    "fundeado": true,
-   "cais": "22/11 00:30",
+   "cais": "22/11 01:00",
    "ais": {
     "link": "https://www.vesselfinder.com/?imo=9746970",
     "ultimo_porto": "Las Palmas, Spain",
@@ -139,7 +139,7 @@
    "ais": {
     "link": "https://www.vesselfinder.com/?imo=9431460",
     "ultimo_porto": "Santos, Brazil",
-    "saida": "2026-11-20T11:14+00:00",
+    "saida": "2026-11-21T22:41+00:00",
     "mmsi": "565227000",
     "nome_ais": "PACIFICA",
     "situacao": "caminho",
@@ -248,7 +248,7 @@
     "mmsi": 372612000,
     "status_ais": "-",
     "destino_aqui": false,
-    "visto_em": "2026-11-21T00:33:34+00:00"
+    "visto_em": "2026-11-21T01:04:02+00:00"
    }
   },
   {
@@ -492,7 +492,7 @@
   "fonte": "praticagem",
   "proximo": {
    "navio": "HANZE GENUA",
-   "horario": "22/11 00:30"
+   "horario": "22/11 01:00"
   },
   "depois": []
  },
