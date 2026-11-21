@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-21T08:58:46-03:00",
+ "atualizado_em": "2026-11-21T09:03:41-03:00",
  "lido_em": "2026-11-21T08:56:08-03:00",
  "total": 20,
  "navios": [
@@ -121,7 +121,7 @@
     "lat": -23.9619,
     "lon": -46.3033,
     "dist_mn": 50.4,
-    "visto_em": "2026-11-21T11:53:50+00:00",
+    "visto_em": "2026-11-21T11:56:47+00:00",
     "sog": 0,
     "rumo": 143,
     "calado": 10.2,
@@ -234,12 +234,12 @@
     "nome_ais": "PACIFIC ROSE",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 2.3 mn)",
-    "lat": -23.8396,
-    "lon": -45.4272,
+    "lat": -23.8395,
+    "lon": -45.4278,
     "dist_mn": 2.3,
-    "visto_em": "2026-11-21T11:52:28+00:00",
+    "visto_em": "2026-11-21T11:58:29+00:00",
     "sog": 0.4,
-    "rumo": 276,
+    "rumo": 298,
     "calado": 7.7,
     "imo": 9045936,
     "status_ais": "fundeado",
@@ -283,7 +283,7 @@
     "mmsi": 372612000,
     "status_ais": "navegando",
     "destino_aqui": false,
-    "visto_em": "2026-11-21T00:33:18+00:00"
+    "visto_em": "2026-11-21T01:03:41+00:00"
    }
   },
   {
@@ -311,7 +311,7 @@
     "mmsi": 370141000,
     "status_ais": "navegando",
     "destino_aqui": true,
-    "visto_em": "2026-11-21T11:33:18+00:00"
+    "visto_em": "2026-11-21T11:58:41+00:00"
    }
   },
   {
@@ -335,9 +335,9 @@
     "lat": -23.9011,
     "lon": -45.5404,
     "dist_mn": 9.4,
-    "visto_em": "2026-11-21T11:52:14+00:00",
-    "sog": 0,
-    "rumo": 264,
+    "visto_em": "2026-11-21T11:55:14+00:00",
+    "sog": 0.9,
+    "rumo": 265,
     "calado": 6.7,
     "imo": 9045089,
     "status_ais": "fundeado",
@@ -373,12 +373,12 @@
     "nome_ais": "WHITE PEARL",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 2.9 mn)",
-    "lat": -23.8447,
-    "lon": -45.4382,
+    "lat": -23.8452,
+    "lon": -45.438,
     "dist_mn": 2.9,
-    "visto_em": "2026-11-21T11:18:11+00:00",
-    "sog": 0.2,
-    "rumo": 65,
+    "visto_em": "2026-11-21T12:03:14+00:00",
+    "sog": 0,
+    "rumo": 78,
     "calado": 5,
     "imo": 7615309,
     "status_ais": "fundeado",
