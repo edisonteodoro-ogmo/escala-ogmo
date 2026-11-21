@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-21T03:14:42-03:00",
+ "atualizado_em": "2026-11-21T03:17:07-03:00",
  "lido_em": "2026-11-21T03:05:29-03:00",
  "total": 20,
  "navios": [
@@ -85,7 +85,7 @@
     "mmsi": "538006205",
     "nome_ais": "ASTRO NEKKAR",
     "situacao": "velho",
-    "texto": "sem sinal há 20 h (última posição a 9 mn)",
+    "texto": "sem sinal há 21 h (última posição a 9 mn)",
     "lat": -23.8814,
     "lon": -45.5433,
     "dist_mn": 8.9,
@@ -181,7 +181,7 @@
     "lat": -23.9282,
     "lon": -46.3348,
     "dist_mn": 51.8,
-    "visto_em": "2026-11-21T06:03:00+00:00",
+    "visto_em": "2026-11-21T06:09:01+00:00",
     "sog": 0,
     "rumo": 336,
     "calado": 6.4,
@@ -269,7 +269,7 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "velho",
-    "texto": "sem sinal há 5 h",
+    "texto": "sem sinal há 6 h",
     "nome_ais": "APOGEE ENDEAVOUR",
     "link": "https://www.vesselfinder.com/?imo=9553141",
     "destino": "Paranagua, Brazil",
@@ -282,7 +282,7 @@
     "mmsi": 372612000,
     "status_ais": "navegando",
     "destino_aqui": false,
-    "visto_em": "2026-11-21T00:45:57+00:00"
+    "visto_em": "2026-11-21T00:17:07+00:00"
    }
   },
   {
