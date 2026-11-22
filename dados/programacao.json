@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-22T03:31:52-03:00",
- "lido_em": "2026-11-22T03:19:58-03:00",
+ "atualizado_em": "2026-11-22T03:36:23-03:00",
+ "lido_em": "2026-11-22T03:36:23-03:00",
  "total": 19,
  "navios": [
   {
@@ -12,8 +12,6 @@
    "operador": "PRONAVE",
    "local": "ARMAZEM CDSS",
    "situacao": "FUNDEADO",
-   "fundeado": true,
-   "cais": "22/11 02:00",
    "ais": {
     "link": "https://www.vesselfinder.com/?imo=9746970",
     "ultimo_porto": "Las Palmas, Spain",
@@ -489,14 +487,6 @@
    }
   }
  ],
- "cais": {
-  "fonte": "praticagem",
-  "proximo": {
-   "navio": "HANZE GENUA",
-   "horario": "22/11 02:00"
-  },
-  "depois": []
- },
  "ais_navios": 15,
  "porto": {
   "lat": -23.8105,
