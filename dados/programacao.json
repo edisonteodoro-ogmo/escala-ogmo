@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-22T09:23:11-03:00",
+ "atualizado_em": "2026-11-22T09:27:45-03:00",
  "lido_em": "2026-11-22T09:20:58-03:00",
  "total": 19,
  "navios": [
@@ -470,12 +470,12 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "movimento",
-    "texto": "navegando a 13.5 nós · destino CAPAUBA",
+    "texto": "navegando a 12.1 nós · destino CAPAUBA",
     "nome_ais": "V BROS",
     "link": "https://www.vesselfinder.com/?imo=9474204",
     "destino": "CAPAUBA",
     "eta": "2026-11-25T12:00+00:00",
-    "sog": 13.5,
+    "sog": 12.1,
     "calado": "8.3 m",
     "ultimo_porto": "Rio Grande, Brazil",
     "saida": "2026-11-22T11:48+00:00",
@@ -483,7 +483,7 @@
     "mmsi": 538010087,
     "status_ais": "navegando",
     "destino_aqui": false,
-    "visto_em": "2026-11-22T11:54:48+00:00"
+    "visto_em": "2026-11-22T12:26:45+00:00"
    }
   }
  ],
