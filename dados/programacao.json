@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-22T00:03:16-03:00",
+ "atualizado_em": "2026-11-22T00:05:51-03:00",
  "lido_em": "2026-11-22T00:01:03-03:00",
  "total": 19,
  "navios": [
@@ -88,7 +88,7 @@
     "lat": -23.9619,
     "lon": -46.3033,
     "dist_mn": 50.4,
-    "visto_em": "2026-11-22T02:38:59+00:00",
+    "visto_em": "2026-11-22T03:02:57+00:00",
     "sog": 0,
     "rumo": 143,
     "calado": 10.2,
@@ -142,17 +142,17 @@
     "saida": "2026-11-21T22:41+00:00",
     "mmsi": "565227000",
     "nome_ais": "PACIFICA",
-    "situacao": "caminho",
-    "texto": "navegando a 3.9 nós, a 10 mn · destino São Sebastião",
-    "lat": -23.8936,
-    "lon": -45.5624,
-    "dist_mn": 10.2,
-    "visto_em": "2026-11-22T02:50:49+00:00",
-    "sog": 3.9,
-    "rumo": 62,
+    "situacao": "fundeado",
+    "texto": "fundeado na área do porto (a 9.6 mn)",
+    "lat": -23.8904,
+    "lon": -45.5534,
+    "dist_mn": 9.6,
+    "visto_em": "2026-11-22T03:04:38+00:00",
+    "sog": 1,
+    "rumo": 201,
     "calado": 6.4,
     "imo": 9431460,
-    "status_ais": "navegando",
+    "status_ais": "fundeado",
     "destino": "BRSSO",
     "destino_aqui": true,
     "eta": "2026-11-22T00:00+00:00"
@@ -484,7 +484,7 @@
     "mmsi": 538010087,
     "status_ais": "atracado",
     "destino_aqui": false,
-    "visto_em": "2026-11-22T02:29:35+00:00"
+    "visto_em": "2026-11-22T03:02:51+00:00"
    }
   }
  ],
