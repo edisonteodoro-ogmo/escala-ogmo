@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-22T16:59:40-03:00",
+ "atualizado_em": "2026-11-22T17:02:05-03:00",
  "lido_em": "2026-11-22T16:55:14-03:00",
  "total": 19,
  "navios": [
@@ -52,12 +52,12 @@
     "nome_ais": "ASTRO NEKKAR",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 9.0 mn)",
-    "lat": -23.8814,
-    "lon": -45.5458,
+    "lat": -23.8816,
+    "lon": -45.5449,
     "dist_mn": 9.0,
-    "visto_em": "2026-11-22T19:29:31+00:00",
-    "sog": 0.2,
-    "rumo": 53,
+    "visto_em": "2026-11-22T19:56:31+00:00",
+    "sog": 0.1,
+    "rumo": 32,
     "calado": 8.4,
     "imo": 9720304,
     "status_ais": "fundeado",
@@ -261,10 +261,12 @@
    "situacao": "PROGRAMADO",
    "ais": {
     "fonte": "vesselfinder",
-    "situacao": "outro",
-    "texto": "navegando a 14.6 nós · sem destino declarado · último porto Escombreras, Spain",
+    "situacao": "caminho",
+    "texto": "a caminho de São Sebastião a 14.6 nós",
     "nome_ais": "BANA",
     "link": "https://www.vesselfinder.com/?imo=8417625",
+    "destino": "Sao Sebastiao, Brazil",
+    "eta": "2026-12-01T12:00+00:00",
     "sog": 14.6,
     "calado": "8.1 m",
     "ultimo_porto": "Escombreras, Spain",
@@ -272,7 +274,8 @@
     "imo": 8417625,
     "mmsi": 370141000,
     "status_ais": "navegando",
-    "visto_em": "2026-11-22T19:32:01+00:00"
+    "destino_aqui": true,
+    "visto_em": "2026-11-22T20:02:05+00:00"
    }
   },
   {
