@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-22T06:45:52-03:00",
+ "atualizado_em": "2026-11-22T06:50:31-03:00",
  "lido_em": "2026-11-22T04:59:41-03:00",
  "total": 19,
  "navios": [
@@ -470,20 +470,20 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "outro",
-    "texto": "atracado em Rio Grande, Brazil",
+    "texto": "atracado em Rio Grande, Brazil · destino CAPAUBA",
     "nome_ais": "V BROS",
     "link": "https://www.vesselfinder.com/?imo=9474204",
-    "destino": "Rio Grande, Brazil",
-    "chegou": "2026-11-19T22:10+00:00",
+    "destino": "CAPAUBA",
+    "eta": "2026-11-25T12:00+00:00",
     "sog": 0.0,
-    "calado": "9.5 m",
-    "ultimo_porto": "Rio Grande Anch., Brazil",
-    "saida": "2026-11-19T20:37+00:00",
+    "calado": "8.3 m",
+    "ultimo_porto": "Rio Grande, Brazil",
+    "saida": "2026-11-19T22:10+00:00",
     "imo": 9474204,
     "mmsi": 538010087,
     "status_ais": "atracado",
     "destino_aqui": false,
-    "visto_em": "2026-11-22T09:18:17+00:00"
+    "visto_em": "2026-11-22T09:48:31+00:00"
    }
   }
  ],
