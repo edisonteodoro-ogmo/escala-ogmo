@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-21T21:59:58-03:00",
+ "atualizado_em": "2026-11-21T22:04:35-03:00",
  "lido_em": "2026-11-21T21:55:23-03:00",
  "total": 19,
  "navios": [
@@ -88,7 +88,7 @@
     "lat": -23.9619,
     "lon": -46.3033,
     "dist_mn": 50.4,
-    "visto_em": "2026-11-22T00:50:57+00:00",
+    "visto_em": "2026-11-22T01:02:53+00:00",
     "sog": 0,
     "rumo": 143,
     "calado": 10.2,
@@ -170,7 +170,7 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "velho",
-    "texto": "sem sinal há 6 h",
+    "texto": "sem sinal há 7 h",
     "nome_ais": "OCEAN ENDEAVOR",
     "link": "https://www.vesselfinder.com/?imo=1023592",
     "destino": "Port Qasim, Pakistan",
@@ -183,7 +183,7 @@
     "mmsi": 352005752,
     "status_ais": "navegando",
     "destino_aqui": false,
-    "visto_em": "2026-11-21T18:32:53+00:00"
+    "visto_em": "2026-11-21T18:04:35+00:00"
    }
   },
   {
@@ -200,10 +200,10 @@
     "nome_ais": "PACIFIC ROSE",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 2.1 mn)",
-    "lat": -23.8378,
-    "lon": -45.4255,
+    "lat": -23.8377,
+    "lon": -45.4256,
     "dist_mn": 2.1,
-    "visto_em": "2026-11-22T00:52:29+00:00",
+    "visto_em": "2026-11-22T01:04:27+00:00",
     "sog": 0,
     "calado": 7.7,
     "imo": 9045936,
