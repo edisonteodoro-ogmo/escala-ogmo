@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-22T05:21:47-03:00",
+ "atualizado_em": "2026-11-22T05:31:16-03:00",
  "dias": [
   {
    "data": "2026-11-21",
@@ -30,7 +30,8 @@
        "Estivador"
       ],
       "rancho": true,
-      "posicao": "P3"
+      "posicao": "P3",
+      "extra": "📍 sai 22/11 07:00"
      },
      {
       "req": 61098,
