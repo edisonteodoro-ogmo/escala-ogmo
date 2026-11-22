@@ -1,61 +1,6 @@
 {
- "atualizado_em": "2026-11-22T06:48:14-03:00",
+ "atualizado_em": "2026-11-22T07:01:18-03:00",
  "dias": [
-  {
-   "data": "2026-11-21",
-   "periodos": {
-    "1": [
-     {
-      "req": 61077,
-      "navio": "YOSOR-GADO",
-      "operador": "LOG LOGISTICA",
-      "ternos": 2,
-      "categorias": [
-       "Arrumador",
-       "Conferente",
-       "Estivador"
-      ],
-      "rancho": false
-     }
-    ],
-    "2": [
-     {
-      "req": 61099,
-      "navio": "MAERSK KATALIN",
-      "operador": "AQUARIUS",
-      "ternos": 1,
-      "categorias": [
-       "Arrumador",
-       "Conferente",
-       "Estivador"
-      ],
-      "rancho": true,
-      "posicao": "P3",
-      "extra": "📍 sai 22/11 12:00"
-     },
-     {
-      "req": 61098,
-      "navio": "YOSOR-GADO",
-      "operador": "LOG LOGISTICA",
-      "ternos": 2,
-      "categorias": [
-       "Arrumador",
-       "Conferente",
-       "Estivador"
-      ],
-      "rancho": false
-     }
-    ],
-    "3": [],
-    "4": []
-   },
-   "desc": {
-    "1": "07-13",
-    "2": "13-19",
-    "3": "19-01",
-    "4": "01-07"
-   }
-  },
   {
    "data": "2026-11-22",
    "periodos": {
