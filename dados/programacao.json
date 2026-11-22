@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-22T14:57:19-03:00",
+ "atualizado_em": "2026-11-22T14:59:42-03:00",
  "lido_em": "2026-11-22T14:45:57-03:00",
  "total": 19,
  "navios": [
@@ -415,7 +415,7 @@
     "mmsi": 538007659,
     "status_ais": "atracado",
     "destino_aqui": false,
-    "visto_em": "2026-11-22T17:27:33+00:00"
+    "visto_em": "2026-11-22T17:36:42+00:00"
    }
   },
   {
@@ -440,7 +440,7 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "velho",
-    "texto": "sem sinal há 32 h",
+    "texto": "sem sinal há 33 h",
     "nome_ais": "STAR NAVARRA",
     "link": "https://www.vesselfinder.com/?imo=9548823",
     "destino": "Palamos, Spain",
@@ -453,7 +453,7 @@
     "mmsi": 538007656,
     "status_ais": "-",
     "destino_aqui": false,
-    "visto_em": "2026-11-21T09:29:33+00:00"
+    "visto_em": "2026-11-21T08:59:42+00:00"
    }
   },
   {
