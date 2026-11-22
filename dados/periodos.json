@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-22T00:29:51-03:00",
+ "atualizado_em": "2026-11-22T00:34:32-03:00",
  "dias": [
   {
    "data": "2026-11-21",
@@ -76,6 +76,37 @@
      }
     ],
     "2": [
+     {
+      "req": 61121,
+      "navio": "EAGLE PETROLINA",
+      "operador": "AQUARIUS",
+      "ternos": 1,
+      "categorias": [
+       "Arrumador",
+       "Conferente",
+       "Estivador"
+      ],
+      "rancho": true,
+      "posicao": "fundeado",
+      "extra": "📍 entra P2 21/11 23:00",
+      "cargas": [
+       {
+        "carga": "ENTREGA RANCHO",
+        "tons": 5000,
+        "qtd": 1
+       },
+       {
+        "carga": "ENTREGA DTA'S",
+        "tons": 240,
+        "qtd": 9
+       },
+       {
+        "carga": "ENTREGA MATERIAL",
+        "tons": 150,
+        "qtd": 1
+       }
+      ]
+     },
      {
       "req": 61066,
       "navio": "HANZE GENUA",
