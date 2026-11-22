@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-22T18:59:50-03:00",
+ "atualizado_em": "2026-11-22T19:05:23-03:00",
  "total": 64,
  "resumo": {
   "total": 64,
@@ -10,8 +10,8 @@
   "guin": 24,
   "emp": 10,
   "pte": 17,
-  "pego": 25,
-  "livre": 30
+  "pego": 10,
+  "livre": 45
  },
  "pessoas": [
   {
@@ -62,7 +62,7 @@
    "guin": null,
    "emp": null,
    "pte": null,
-   "sit": "pego"
+   "sit": "livre"
   },
   {
    "num": 6,
@@ -72,7 +72,7 @@
    "guin": null,
    "emp": null,
    "pte": null,
-   "sit": "pego"
+   "sit": "livre"
   },
   {
    "num": 7,
@@ -102,7 +102,7 @@
    "guin": 6,
    "emp": 1,
    "pte": 6,
-   "sit": "pego"
+   "sit": "livre"
   },
   {
    "num": 10,
@@ -112,7 +112,7 @@
    "guin": 7,
    "emp": null,
    "pte": null,
-   "sit": "pego"
+   "sit": "livre"
   },
   {
    "num": 11,
@@ -132,7 +132,7 @@
    "guin": null,
    "emp": null,
    "pte": null,
-   "sit": "pego"
+   "sit": "livre"
   },
   {
    "num": 13,
@@ -142,7 +142,7 @@
    "guin": 8,
    "emp": null,
    "pte": 7,
-   "sit": "pego"
+   "sit": "livre"
   },
   {
    "num": 14,
@@ -172,7 +172,7 @@
    "guin": 9,
    "emp": 3,
    "pte": 8,
-   "sit": "pego"
+   "sit": "livre"
   },
   {
    "num": 17,
@@ -191,7 +191,7 @@
    "guin": null,
    "emp": 4,
    "pte": null,
-   "sit": "pego"
+   "sit": "livre"
   },
   {
    "num": 19,
@@ -270,7 +270,7 @@
    "guin": 15,
    "emp": null,
    "pte": 13,
-   "sit": "pego"
+   "sit": "livre"
   },
   {
    "num": 27,
@@ -416,7 +416,7 @@
    "guin": null,
    "emp": null,
    "pte": null,
-   "sit": "pego"
+   "sit": "livre"
   },
   {
    "num": 42,
@@ -563,7 +563,7 @@
    "guin": 22,
    "emp": null,
    "pte": null,
-   "sit": "pego"
+   "sit": "livre"
   },
   {
    "num": 57,
@@ -573,7 +573,7 @@
    "guin": null,
    "emp": null,
    "pte": null,
-   "sit": "pego"
+   "sit": "livre"
   },
   {
    "num": 58,
@@ -583,7 +583,7 @@
    "guin": 23,
    "emp": null,
    "pte": null,
-   "sit": "pego"
+   "sit": "livre"
   },
   {
    "num": 59,
@@ -603,7 +603,7 @@
    "guin": null,
    "emp": null,
    "pte": null,
-   "sit": "pego"
+   "sit": "livre"
   },
   {
    "num": 61,
@@ -623,7 +623,7 @@
    "guin": null,
    "emp": null,
    "pte": null,
-   "sit": "pego"
+   "sit": "livre"
   },
   {
    "num": 63,
@@ -646,5 +646,5 @@
    "sit": "livre"
   }
  ],
- "atual": "22/11 13h"
+ "atual": "22/11 1h"
 }
