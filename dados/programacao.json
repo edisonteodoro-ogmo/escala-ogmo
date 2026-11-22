@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-22T01:36:34-03:00",
- "lido_em": "2026-11-22T01:22:21-03:00",
+ "atualizado_em": "2026-11-22T01:39:06-03:00",
+ "lido_em": "2026-11-22T01:39:06-03:00",
  "total": 19,
  "navios": [
   {
@@ -13,7 +13,7 @@
    "local": "ARMAZEM CDSS",
    "situacao": "FUNDEADO",
    "fundeado": true,
-   "cais": "22/11 01:30",
+   "cais": "22/11 02:00",
    "ais": {
     "link": "https://www.vesselfinder.com/?imo=9746970",
     "ultimo_porto": "Las Palmas, Spain",
@@ -22,12 +22,12 @@
     "nome_ais": "HANZE GENUA",
     "situacao": "fundeado",
     "texto": "parado na área do porto (a 7.3 mn)",
-    "lat": -23.7007,
-    "lon": -45.3433,
+    "lat": -23.7005,
+    "lon": -45.3443,
     "dist_mn": 7.3,
-    "visto_em": "2026-11-22T04:27:20+00:00",
-    "sog": 0.2,
-    "rumo": 264,
+    "visto_em": "2026-11-22T04:38:32+00:00",
+    "sog": 0.3,
+    "rumo": 265,
     "calado": 8.5,
     "imo": 9746970,
     "status_ais": "navegando",
@@ -136,6 +136,7 @@
    "operador": "LOG LOGÍSTICA",
    "local": "ARMAZEM CDSS",
    "situacao": "PROGRAMADO",
+   "fundeado": true,
    "ais": {
     "link": "https://www.vesselfinder.com/?imo=9431460",
     "ultimo_porto": "Santos, Brazil",
@@ -201,9 +202,9 @@
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 2.1 mn)",
     "lat": -23.8376,
-    "lon": -45.4258,
+    "lon": -45.4257,
     "dist_mn": 2.1,
-    "visto_em": "2026-11-22T04:25:28+00:00",
+    "visto_em": "2026-11-22T04:37:28+00:00",
     "sog": 0,
     "calado": 7.7,
     "imo": 9045936,
@@ -339,11 +340,11 @@
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 2.8 mn)",
     "lat": -23.8441,
-    "lon": -45.4371,
+    "lon": -45.437,
     "dist_mn": 2.8,
-    "visto_em": "2026-11-22T04:03:20+00:00",
-    "sog": 0.2,
-    "rumo": 223,
+    "visto_em": "2026-11-22T04:36:24+00:00",
+    "sog": 0.1,
+    "rumo": 251,
     "calado": 5,
     "imo": 7615309,
     "status_ais": "fundeado",
@@ -484,7 +485,7 @@
     "mmsi": 538010087,
     "status_ais": "atracado",
     "destino_aqui": false,
-    "visto_em": "2026-11-22T04:02:29+00:00"
+    "visto_em": "2026-11-22T04:33:06+00:00"
    }
   }
  ],
@@ -492,7 +493,7 @@
   "fonte": "praticagem",
   "proximo": {
    "navio": "HANZE GENUA",
-   "horario": "22/11 01:30"
+   "horario": "22/11 02:00"
   },
   "depois": []
  },
