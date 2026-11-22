@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-22T17:27:21-03:00",
+ "atualizado_em": "2026-11-22T17:29:49-03:00",
  "lido_em": "2026-11-22T17:27:21-03:00",
  "total": 19,
  "navios": [
@@ -233,21 +233,21 @@
    "situacao": "PROGRAMADO",
    "ais": {
     "fonte": "vesselfinder",
-    "situacao": "movimento",
-    "texto": "navegando a 2.3 nós · destino Paranagua, Brazil",
+    "situacao": "outro",
+    "texto": "fundeado em La Plata Anch., Argentina · destino Paranagua, Brazil",
     "nome_ais": "APOGEE ENDEAVOUR",
     "link": "https://www.vesselfinder.com/?imo=9553141",
     "destino": "Paranagua, Brazil",
     "eta": "2026-11-22T21:00+00:00",
-    "sog": 2.3,
+    "sog": 0.2,
     "calado": "10.3 m",
     "ultimo_porto": "La Plata Anch., Argentina",
     "saida": "2026-11-19T16:21+00:00",
     "imo": 9553141,
     "mmsi": 372612000,
-    "status_ais": "navegando",
+    "status_ais": "fundeado",
     "destino_aqui": false,
-    "visto_em": "2026-11-22T19:59:40+00:00"
+    "visto_em": "2026-11-22T20:27:49+00:00"
    }
   },
   {
