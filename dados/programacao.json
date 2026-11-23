@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-23T14:58:30-03:00",
- "lido_em": "2026-11-23T14:43:58-03:00",
+ "atualizado_em": "2026-11-23T15:00:53-03:00",
+ "lido_em": "2026-11-23T15:00:53-03:00",
  "total": 19,
  "navios": [
   {
@@ -169,7 +169,7 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "velho",
-    "texto": "sem sinal há 47 h",
+    "texto": "sem sinal há 2 dias",
     "nome_ais": "OCEAN ENDEAVOR",
     "link": "https://www.vesselfinder.com/?imo=1023592",
     "destino": "Port Qasim, Pakistan",
@@ -182,7 +182,7 @@
     "mmsi": 352005752,
     "status_ais": "-",
     "destino_aqui": false,
-    "visto_em": "2026-11-21T18:30:24+00:00"
+    "visto_em": "2026-11-21T18:00:53+00:00"
    }
   },
   {
@@ -440,7 +440,7 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "velho",
-    "texto": "sem sinal há 14 h",
+    "texto": "sem sinal há 15 h",
     "nome_ais": "STAR NAVARRA",
     "link": "https://www.vesselfinder.com/?imo=9548823",
     "destino": "Palamos, Spain",
@@ -453,7 +453,7 @@
     "mmsi": 538007656,
     "status_ais": "-",
     "destino_aqui": false,
-    "visto_em": "2026-11-23T03:30:24+00:00"
+    "visto_em": "2026-11-23T03:00:53+00:00"
    }
   },
   {
@@ -481,7 +481,7 @@
     "mmsi": 538010087,
     "status_ais": "navegando",
     "destino_aqui": false,
-    "visto_em": "2026-11-23T17:12:24+00:00"
+    "visto_em": "2026-11-23T17:11:53+00:00"
    }
   }
  ],
