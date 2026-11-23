@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-23T12:12:48-03:00",
+ "atualizado_em": "2026-11-23T12:15:22-03:00",
  "lido_em": "2026-11-23T12:03:37-03:00",
  "total": 20,
  "navios": [
@@ -291,17 +291,17 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "outro",
-    "texto": "navegando a 14.5 nós · sem destino declarado · último porto Escombreras, Spain",
+    "texto": "navegando a 13.9 nós · sem destino declarado · último porto Escombreras, Spain",
     "nome_ais": "BANA",
     "link": "https://www.vesselfinder.com/?imo=8417625",
-    "sog": 14.5,
+    "sog": 13.9,
     "calado": "8.1 m",
     "ultimo_porto": "Escombreras, Spain",
     "saida": "2026-11-17T22:36+00:00",
     "imo": 8417625,
     "mmsi": 370141000,
     "status_ais": "navegando",
-    "visto_em": "2026-11-23T14:41:45+00:00"
+    "visto_em": "2026-11-23T15:14:22+00:00"
    }
   },
   {
