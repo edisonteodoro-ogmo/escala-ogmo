@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-23T11:15:50-03:00",
+ "atualizado_em": "2026-11-23T11:18:10-03:00",
  "lido_em": "2026-11-23T11:15:47-03:00",
  "total": 20,
  "navios": [
@@ -142,7 +142,7 @@
     "nome_ais": "ELISABETTA",
     "link": "https://www.vesselfinder.com/?imo=1058145",
     "destino": "Antofagasta, Chile",
-    "eta": "2026-11-25T23:00+00:00",
+    "eta": "2026-11-26T08:00+00:00",
     "sog": 4.7,
     "calado": "9.0 m",
     "ultimo_porto": "Callao, Peru",
@@ -151,7 +151,7 @@
     "mmsi": 538012957,
     "status_ais": "navegando",
     "destino_aqui": false,
-    "visto_em": "2026-11-23T12:46:07+00:00"
+    "visto_em": "2026-11-23T12:18:10+00:00"
    }
   },
   {
