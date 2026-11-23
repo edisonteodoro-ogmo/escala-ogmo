@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-23T17:14:21-03:00",
- "lido_em": "2026-11-23T17:09:54-03:00",
+ "atualizado_em": "2026-11-23T17:25:25-03:00",
+ "lido_em": "2026-11-23T17:25:25-03:00",
  "total": 19,
  "navios": [
   {
@@ -143,12 +143,12 @@
     "nome_ais": "PACIFICA",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 9.6 mn)",
-    "lat": -23.8917,
-    "lon": -45.5524,
+    "lat": -23.8914,
+    "lon": -45.5516,
     "dist_mn": 9.6,
-    "visto_em": "2026-11-23T19:28:30+00:00",
-    "sog": 0.7,
-    "rumo": 288,
+    "visto_em": "2026-11-23T20:22:27+00:00",
+    "sog": 0.3,
+    "rumo": 285,
     "calado": 6.4,
     "imo": 9431460,
     "status_ais": "fundeado",
@@ -247,7 +247,7 @@
     "mmsi": 372612000,
     "status_ais": "fundeado",
     "destino_aqui": false,
-    "visto_em": "2026-11-23T19:54:25+00:00"
+    "visto_em": "2026-11-23T20:24:25+00:00"
    }
   },
   {
@@ -296,12 +296,12 @@
     "nome_ais": "BLUE OCEAN A",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 9.3 mn)",
-    "lat": -23.9006,
+    "lat": -23.9005,
     "lon": -45.5395,
     "dist_mn": 9.3,
-    "visto_em": "2026-11-23T20:08:16+00:00",
-    "sog": 0.1,
-    "rumo": 293,
+    "visto_em": "2026-11-23T20:17:13+00:00",
+    "sog": 0.4,
+    "rumo": 279,
     "calado": 6.7,
     "imo": 9045089,
     "status_ais": "fundeado",
