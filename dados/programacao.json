@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-23T15:53:12-03:00",
+ "atualizado_em": "2026-11-23T15:55:38-03:00",
  "lido_em": "2026-11-23T15:48:40-03:00",
  "total": 19,
  "navios": [
@@ -23,9 +23,9 @@
     "lat": -23.8109,
     "lon": -45.3966,
     "dist_mn": 0.2,
-    "visto_em": "2026-11-23T18:15:59+00:00",
+    "visto_em": "2026-11-23T18:48:54+00:00",
     "sog": 0,
-    "rumo": 226,
+    "rumo": 225,
     "calado": 8.5,
     "imo": 9746970,
     "status_ais": "atracado",
@@ -86,7 +86,7 @@
     "lat": -23.9619,
     "lon": -46.3033,
     "dist_mn": 50.4,
-    "visto_em": "2026-11-23T18:42:05+00:00",
+    "visto_em": "2026-11-23T18:54:05+00:00",
     "sog": 0,
     "rumo": 143,
     "calado": 10.2,
@@ -262,12 +262,12 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "caminho",
-    "texto": "a caminho de São Sebastião a 14.7 nós",
+    "texto": "a caminho de São Sebastião a 14.3 nós",
     "nome_ais": "BANA",
     "link": "https://www.vesselfinder.com/?imo=8417625",
     "destino": "Sao Sebastiao, Brazil",
     "eta": "2026-12-01T12:00+00:00",
-    "sog": 14.7,
+    "sog": 14.3,
     "calado": "8.1 m",
     "ultimo_porto": "Escombreras, Spain",
     "saida": "2026-11-17T22:36+00:00",
@@ -275,7 +275,7 @@
     "mmsi": 370141000,
     "status_ais": "navegando",
     "destino_aqui": true,
-    "visto_em": "2026-11-23T18:21:38+00:00"
+    "visto_em": "2026-11-23T18:47:44+00:00"
    }
   },
   {
@@ -299,9 +299,9 @@
     "lat": -23.9005,
     "lon": -45.5405,
     "dist_mn": 9.4,
-    "visto_em": "2026-11-23T18:38:16+00:00",
-    "sog": 0.3,
-    "rumo": 299,
+    "visto_em": "2026-11-23T18:44:14+00:00",
+    "sog": 0.2,
+    "rumo": 295,
     "calado": 6.7,
     "imo": 9045089,
     "status_ais": "fundeado",
