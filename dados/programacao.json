@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-22T21:33:36-03:00",
+ "atualizado_em": "2026-11-22T21:42:37-03:00",
  "lido_em": "2026-11-22T21:29:16-03:00",
  "total": 19,
  "navios": [
@@ -240,7 +240,7 @@
     "link": "https://www.vesselfinder.com/?imo=9553141",
     "destino": "Paranagua Anch., Brazil",
     "chegou": "2026-11-22T20:06+00:00",
-    "sog": 0.0,
+    "sog": 0.1,
     "calado": "10.3 m",
     "ultimo_porto": "La Plata Anch., Argentina",
     "saida": "2026-11-19T16:21+00:00",
@@ -248,7 +248,7 @@
     "mmsi": 372612000,
     "status_ais": "fundeado",
     "destino_aqui": false,
-    "visto_em": "2026-11-23T00:09:42+00:00"
+    "visto_em": "2026-11-23T00:42:37+00:00"
    }
   },
   {
