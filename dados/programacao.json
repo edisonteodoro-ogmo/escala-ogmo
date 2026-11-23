@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-22T21:18:55-03:00",
+ "atualizado_em": "2026-11-22T21:23:29-03:00",
  "lido_em": "2026-11-22T21:11:42-03:00",
  "total": 19,
  "navios": [
@@ -297,12 +297,12 @@
     "nome_ais": "BLUE OCEAN A",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 9.4 mn)",
-    "lat": -23.8984,
-    "lon": -45.5422,
+    "lat": -23.8988,
+    "lon": -45.5426,
     "dist_mn": 9.4,
-    "visto_em": "2026-11-22T23:51:15+00:00",
-    "sog": 0.3,
-    "rumo": 118,
+    "visto_em": "2026-11-23T00:21:15+00:00",
+    "sog": 0.1,
+    "rumo": 115,
     "calado": 6.7,
     "imo": 9045089,
     "status_ais": "fundeado",
@@ -338,12 +338,12 @@
     "nome_ais": "WHITE PEARL",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 2.9 mn)",
-    "lat": -23.8447,
-    "lon": -45.4376,
+    "lat": -23.8446,
+    "lon": -45.4375,
     "dist_mn": 2.9,
-    "visto_em": "2026-11-23T00:09:23+00:00",
+    "visto_em": "2026-11-23T00:18:23+00:00",
     "sog": 0,
-    "rumo": 45,
+    "rumo": 63,
     "calado": 5,
     "imo": 7615309,
     "status_ais": "fundeado",
@@ -481,7 +481,7 @@
     "mmsi": 538010087,
     "status_ais": "navegando",
     "destino_aqui": false,
-    "visto_em": "2026-11-22T20:52:38+00:00"
+    "visto_em": "2026-11-22T21:23:29+00:00"
    }
   }
  ],
