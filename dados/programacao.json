@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-23T09:12:18-03:00",
+ "atualizado_em": "2026-11-23T09:14:41-03:00",
  "lido_em": "2026-11-23T09:07:46-03:00",
  "total": 19,
  "navios": [
@@ -23,7 +23,7 @@
     "lat": -23.8109,
     "lon": -45.3966,
     "dist_mn": 0.2,
-    "visto_em": "2026-11-23T11:21:57+00:00",
+    "visto_em": "2026-11-23T12:06:58+00:00",
     "sog": 0,
     "rumo": 225,
     "calado": 8.5,
@@ -86,7 +86,7 @@
     "lat": -23.9619,
     "lon": -46.3033,
     "dist_mn": 50.4,
-    "visto_em": "2026-11-23T11:39:01+00:00",
+    "visto_em": "2026-11-23T12:03:02+00:00",
     "sog": 0,
     "rumo": 143,
     "calado": 10.2,
@@ -182,7 +182,7 @@
     "mmsi": 352005752,
     "status_ais": "-",
     "destino_aqui": false,
-    "visto_em": "2026-11-21T17:43:10+00:00"
+    "visto_em": "2026-11-21T18:14:41+00:00"
    }
   },
   {
@@ -199,10 +199,10 @@
     "nome_ais": "PACIFIC ROSE",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 2.3 mn)",
-    "lat": -23.8391,
-    "lon": -45.4281,
+    "lat": -23.8394,
+    "lon": -45.428,
     "dist_mn": 2.3,
-    "visto_em": "2026-11-23T11:25:14+00:00",
+    "visto_em": "2026-11-23T12:07:13+00:00",
     "sog": 0.1,
     "calado": 7.7,
     "imo": 9045936,
@@ -296,12 +296,12 @@
     "nome_ais": "BLUE OCEAN A",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 9.5 mn)",
-    "lat": -23.9006,
-    "lon": -45.5423,
+    "lat": -23.9004,
+    "lon": -45.5427,
     "dist_mn": 9.5,
-    "visto_em": "2026-11-23T11:17:13+00:00",
-    "sog": 0.2,
-    "rumo": 30,
+    "visto_em": "2026-11-23T12:11:14+00:00",
+    "sog": 0.1,
+    "rumo": 49,
     "calado": 6.7,
     "imo": 9045089,
     "status_ais": "fundeado",
@@ -337,12 +337,12 @@
     "nome_ais": "WHITE PEARL",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 2.9 mn)",
-    "lat": -23.8451,
-    "lon": -45.4384,
+    "lat": -23.8452,
+    "lon": -45.4385,
     "dist_mn": 2.9,
-    "visto_em": "2026-11-23T11:54:28+00:00",
-    "sog": 0.1,
-    "rumo": 60,
+    "visto_em": "2026-11-23T12:12:29+00:00",
+    "sog": 0,
+    "rumo": 61,
     "calado": 5,
     "imo": 7615309,
     "status_ais": "fundeado",
@@ -452,7 +452,7 @@
     "mmsi": 538007656,
     "status_ais": "navegando",
     "destino_aqui": false,
-    "visto_em": "2026-11-23T02:43:10+00:00"
+    "visto_em": "2026-11-23T03:14:41+00:00"
    }
   },
   {
@@ -480,7 +480,7 @@
     "mmsi": 538010087,
     "status_ais": "-",
     "destino_aqui": false,
-    "visto_em": "2026-11-22T20:43:10+00:00"
+    "visto_em": "2026-11-22T21:14:41+00:00"
    }
   }
  ],
