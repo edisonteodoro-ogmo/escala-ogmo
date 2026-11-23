@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-23T07:55:02-03:00",
+ "atualizado_em": "2026-11-23T08:01:36-03:00",
  "lido_em": "2026-11-23T07:48:36-03:00",
  "total": 19,
  "navios": [
@@ -138,7 +138,7 @@
    "ais": {
     "link": "https://www.vesselfinder.com/?imo=9431460",
     "ultimo_porto": "Sao Sebastiao Anch., Brazil",
-    "saida": "2026-11-22T23:16+00:00",
+    "saida": "2026-11-23T10:40+00:00",
     "mmsi": "565227000",
     "nome_ais": "PACIFICA",
     "situacao": "fundeado",
@@ -239,7 +239,7 @@
     "link": "https://www.vesselfinder.com/?imo=9553141",
     "destino": "Paranagua Anch., Brazil",
     "chegou": "2026-11-22T20:06+00:00",
-    "sog": 0.2,
+    "sog": 0.4,
     "calado": "10.3 m",
     "ultimo_porto": "La Plata Anch., Argentina",
     "saida": "2026-11-19T16:21+00:00",
@@ -247,7 +247,7 @@
     "mmsi": 372612000,
     "status_ais": "fundeado",
     "destino_aqui": false,
-    "visto_em": "2026-11-23T10:27:09+00:00"
+    "visto_em": "2026-11-23T11:00:36+00:00"
    }
   },
   {
@@ -262,12 +262,12 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "caminho",
-    "texto": "a caminho de São Sebastião a 14.2 nós",
+    "texto": "a caminho de São Sebastião a 14.6 nós",
     "nome_ais": "BANA",
     "link": "https://www.vesselfinder.com/?imo=8417625",
     "destino": "Sao Sebastiao, Brazil",
     "eta": "2026-12-01T12:00+00:00",
-    "sog": 14.2,
+    "sog": 14.6,
     "calado": "8.1 m",
     "ultimo_porto": "Escombreras, Spain",
     "saida": "2026-11-17T22:36+00:00",
@@ -275,7 +275,7 @@
     "mmsi": 370141000,
     "status_ais": "navegando",
     "destino_aqui": true,
-    "visto_em": "2026-11-23T10:29:09+00:00"
+    "visto_em": "2026-11-23T11:00:36+00:00"
    }
   },
   {
