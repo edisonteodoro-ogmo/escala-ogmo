@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-23T13:24:29-03:00",
+ "atualizado_em": "2026-11-23T13:26:44-03:00",
  "lido_em": "2026-11-23T13:24:29-03:00",
  "total": 19,
  "navios": [
@@ -86,7 +86,7 @@
     "lat": -23.9619,
     "lon": -46.3033,
     "dist_mn": 50.4,
-    "visto_em": "2026-11-23T16:09:04+00:00",
+    "visto_em": "2026-11-23T16:24:03+00:00",
     "sog": 0,
     "rumo": 143,
     "calado": 10.2,
@@ -143,12 +143,12 @@
     "nome_ais": "PACIFICA",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 9.7 mn)",
-    "lat": -23.8924,
-    "lon": -45.5537,
+    "lat": -23.8922,
+    "lon": -45.5536,
     "dist_mn": 9.7,
-    "visto_em": "2026-11-23T16:13:26+00:00",
-    "sog": 0.2,
-    "rumo": 12,
+    "visto_em": "2026-11-23T16:25:28+00:00",
+    "sog": 0.3,
+    "rumo": 18,
     "calado": 6.4,
     "imo": 9431460,
     "status_ais": "fundeado",
@@ -182,7 +182,7 @@
     "mmsi": 352005752,
     "status_ais": "-",
     "destino_aqui": false,
-    "visto_em": "2026-11-21T17:56:30+00:00"
+    "visto_em": "2026-11-21T18:26:44+00:00"
    }
   },
   {
@@ -199,10 +199,10 @@
     "nome_ais": "PACIFIC ROSE",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 2.3 mn)",
-    "lat": -23.8392,
+    "lat": -23.8393,
     "lon": -45.4281,
     "dist_mn": 2.3,
-    "visto_em": "2026-11-23T16:13:12+00:00",
+    "visto_em": "2026-11-23T16:16:13+00:00",
     "sog": 0.1,
     "calado": 7.7,
     "imo": 9045936,
@@ -293,12 +293,12 @@
     "nome_ais": "BLUE OCEAN A",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 9.4 mn)",
-    "lat": -23.9006,
-    "lon": -45.5411,
+    "lat": -23.9005,
+    "lon": -45.541,
     "dist_mn": 9.4,
-    "visto_em": "2026-11-23T16:05:14+00:00",
-    "sog": 0.2,
-    "rumo": 8,
+    "visto_em": "2026-11-23T16:26:18+00:00",
+    "sog": 0,
+    "rumo": 2,
     "calado": 6.7,
     "imo": 9045089,
     "status_ais": "fundeado",
@@ -449,7 +449,7 @@
     "mmsi": 538007656,
     "status_ais": "-",
     "destino_aqui": false,
-    "visto_em": "2026-11-23T02:56:30+00:00"
+    "visto_em": "2026-11-23T03:26:44+00:00"
    }
   },
   {
@@ -477,7 +477,7 @@
     "mmsi": 538010087,
     "status_ais": "-",
     "destino_aqui": false,
-    "visto_em": "2026-11-22T20:56:30+00:00"
+    "visto_em": "2026-11-22T21:26:44+00:00"
    }
   }
  ],
