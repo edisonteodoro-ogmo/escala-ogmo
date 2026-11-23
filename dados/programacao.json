@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-23T09:59:54-03:00",
+ "atualizado_em": "2026-11-23T10:08:40-03:00",
  "lido_em": "2026-11-23T09:55:34-03:00",
  "total": 19,
  "navios": [
@@ -234,12 +234,12 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "movimento",
-    "texto": "navegando a 4.0 nós · destino Paranagua Anch., Brazil",
+    "texto": "navegando · destino Paranagua Anch., Brazil",
     "nome_ais": "APOGEE ENDEAVOUR",
     "link": "https://www.vesselfinder.com/?imo=9553141",
     "destino": "Paranagua Anch., Brazil",
     "chegou": "2026-11-22T20:06+00:00",
-    "sog": 4.0,
+    "sog": 0.2,
     "calado": "10.3 m",
     "ultimo_porto": "La Plata Anch., Argentina",
     "saida": "2026-11-19T16:21+00:00",
@@ -247,7 +247,7 @@
     "mmsi": 372612000,
     "status_ais": "navegando",
     "destino_aqui": false,
-    "visto_em": "2026-11-23T12:35:50+00:00"
+    "visto_em": "2026-11-23T13:08:40+00:00"
    }
   },
   {
@@ -262,12 +262,12 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "caminho",
-    "texto": "a caminho de São Sebastião a 14.4 nós",
+    "texto": "a caminho de São Sebastião a 14.1 nós",
     "nome_ais": "BANA",
     "link": "https://www.vesselfinder.com/?imo=8417625",
     "destino": "Sao Sebastiao, Brazil",
     "eta": "2026-12-01T12:00+00:00",
-    "sog": 14.4,
+    "sog": 14.1,
     "calado": "8.1 m",
     "ultimo_porto": "Escombreras, Spain",
     "saida": "2026-11-17T22:36+00:00",
@@ -275,7 +275,7 @@
     "mmsi": 370141000,
     "status_ais": "navegando",
     "destino_aqui": true,
-    "visto_em": "2026-11-23T12:35:50+00:00"
+    "visto_em": "2026-11-23T13:07:40+00:00"
    }
   },
   {
