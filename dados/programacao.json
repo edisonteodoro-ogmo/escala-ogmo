@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-23T16:50:47-03:00",
- "lido_em": "2026-11-23T16:05:06-03:00",
+ "atualizado_em": "2026-11-23T16:53:12-03:00",
+ "lido_em": "2026-11-23T16:53:12-03:00",
  "total": 19,
  "navios": [
   {
@@ -133,7 +133,7 @@
    "qtd": "900 t",
    "operador": "LOG LOGÍSTICA",
    "local": "ARMAZEM CDSS",
-   "situacao": "PROGRAMADO",
+   "situacao": "FUNDEADO",
    "fundeado": true,
    "ais": {
     "link": "https://www.vesselfinder.com/?imo=9431460",
