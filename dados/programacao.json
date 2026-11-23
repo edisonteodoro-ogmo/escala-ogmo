@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-23T11:18:10-03:00",
+ "atualizado_em": "2026-11-23T11:20:34-03:00",
  "lido_em": "2026-11-23T11:15:47-03:00",
  "total": 20,
  "navios": [
@@ -14,22 +14,25 @@
    "situacao": "",
    "marca": "novo",
    "ais": {
-    "fonte": "vesselfinder",
-    "situacao": "velho",
-    "texto": "sem sinal há 18 h",
-    "nome_ais": "YOSOR",
     "link": "https://www.vesselfinder.com/?imo=7819113",
-    "destino": "Cartagena, Spain",
-    "eta": "2026-12-08T12:00+00:00",
-    "sog": 8.8,
-    "calado": "8.3 m",
     "ultimo_porto": "Sao Sebastiao, Brazil",
     "saida": "2026-11-21T22:18+00:00",
+    "mmsi": "677031200",
+    "nome_ais": "YOSOR",
+    "situacao": "velho",
+    "texto": "sem sinal há 33 h (última posição a 57 mn)",
+    "lat": -23.9929,
+    "lon": -44.3851,
+    "dist_mn": 56.8,
+    "visto_em": "2026-11-22T05:13:32+00:00",
+    "sog": 10.6,
+    "rumo": 95,
+    "calado": 8.3,
     "imo": 7819113,
-    "mmsi": 677031200,
-    "status_ais": "-",
+    "status_ais": "navegando",
+    "destino": "ES CAR",
     "destino_aqui": false,
-    "visto_em": "2026-11-22T20:15:50+00:00"
+    "eta": "2026-12-08T12:00+00:00"
    }
   },
   {
@@ -115,7 +118,7 @@
     "lat": -23.9619,
     "lon": -46.3033,
     "dist_mn": 50.4,
-    "visto_em": "2026-11-23T13:57:04+00:00",
+    "visto_em": "2026-11-23T14:12:10+00:00",
     "sog": 0,
     "rumo": 143,
     "calado": 10.2,
@@ -437,7 +440,7 @@
     "mmsi": 538007659,
     "status_ais": "atracado",
     "destino_aqui": false,
-    "visto_em": "2026-11-23T13:46:33+00:00"
+    "visto_em": "2026-11-23T14:19:34+00:00"
    }
   },
   {
