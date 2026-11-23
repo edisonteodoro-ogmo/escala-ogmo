@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-23T12:47:07-03:00",
- "lido_em": "2026-11-23T12:36:00-03:00",
+ "atualizado_em": "2026-11-23T12:51:49-03:00",
+ "lido_em": "2026-11-23T12:51:49-03:00",
  "total": 19,
  "navios": [
   {
@@ -108,8 +108,8 @@
    "situacao": "PROGRAMADO",
    "ais": {
     "fonte": "vesselfinder",
-    "situacao": "movimento",
-    "texto": "navegando a 4.7 nós · destino Antofagasta, Chile",
+    "situacao": "velho",
+    "texto": "sem sinal há 4 h",
     "nome_ais": "ELISABETTA",
     "link": "https://www.vesselfinder.com/?imo=1058145",
     "destino": "Antofagasta, Chile",
@@ -122,7 +122,7 @@
     "mmsi": 538012957,
     "status_ais": "navegando",
     "destino_aqui": false,
-    "visto_em": "2026-11-23T12:20:10+00:00"
+    "visto_em": "2026-11-23T11:51:49+00:00"
    }
   },
   {
@@ -361,7 +361,7 @@
     "mmsi": "352005786",
     "nome_ais": "EKATERINA",
     "situacao": "velho",
-    "texto": "sem sinal há 5 h (última posição a 46 mn)",
+    "texto": "sem sinal há 6 h (última posição a 46 mn)",
     "lat": -24.0969,
     "lon": -46.1714,
     "dist_mn": 45.6,
