@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-23T12:03:37-03:00",
+ "atualizado_em": "2026-11-23T12:08:01-03:00",
  "lido_em": "2026-11-23T12:03:37-03:00",
  "total": 20,
  "navios": [
@@ -515,7 +515,7 @@
   "saindo": [
    {
     "navio": "HANZE GENUA",
-    "horario": "25/11 08:00"
+    "horario": "25/11 10:30"
    }
   ]
  },
