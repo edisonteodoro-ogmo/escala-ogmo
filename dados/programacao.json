@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-23T12:54:12-03:00",
+ "atualizado_em": "2026-11-23T12:56:30-03:00",
  "lido_em": "2026-11-23T12:51:49-03:00",
  "total": 19,
  "navios": [
@@ -169,7 +169,7 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "velho",
-    "texto": "sem sinal há 45 h",
+    "texto": "sem sinal há 46 h",
     "nome_ais": "OCEAN ENDEAVOR",
     "link": "https://www.vesselfinder.com/?imo=1023592",
     "destino": "Port Qasim, Pakistan",
@@ -182,7 +182,7 @@
     "mmsi": 352005752,
     "status_ais": "-",
     "destino_aqui": false,
-    "visto_em": "2026-11-21T18:24:48+00:00"
+    "visto_em": "2026-11-21T17:56:30+00:00"
    }
   },
   {
@@ -436,7 +436,7 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "velho",
-    "texto": "sem sinal há 12 h",
+    "texto": "sem sinal há 13 h",
     "nome_ais": "STAR NAVARRA",
     "link": "https://www.vesselfinder.com/?imo=9548823",
     "destino": "Palamos, Spain",
@@ -449,7 +449,7 @@
     "mmsi": 538007656,
     "status_ais": "-",
     "destino_aqui": false,
-    "visto_em": "2026-11-23T03:24:48+00:00"
+    "visto_em": "2026-11-23T02:56:30+00:00"
    }
   },
   {
@@ -464,7 +464,7 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "velho",
-    "texto": "sem sinal há 18 h",
+    "texto": "sem sinal há 19 h",
     "nome_ais": "V BROS",
     "link": "https://www.vesselfinder.com/?imo=9474204",
     "destino": "CAPAUBA",
@@ -477,7 +477,7 @@
     "mmsi": 538010087,
     "status_ais": "-",
     "destino_aqui": false,
-    "visto_em": "2026-11-22T21:24:48+00:00"
+    "visto_em": "2026-11-22T20:56:30+00:00"
    }
   }
  ],
