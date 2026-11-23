@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-23T12:36:00-03:00",
+ "atualizado_em": "2026-11-23T12:44:39-03:00",
  "lido_em": "2026-11-23T12:36:00-03:00",
  "total": 19,
  "navios": [
@@ -234,17 +234,17 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "outro",
-    "texto": "navegando a 2.3 nós · sem destino declarado · último porto Paranagua Anch., Brazil",
+    "texto": "fundeado em Paranagua Anch., Brazil",
     "nome_ais": "APOGEE ENDEAVOUR",
     "link": "https://www.vesselfinder.com/?imo=9553141",
-    "sog": 2.3,
+    "sog": 0.0,
     "calado": "10.3 m",
     "ultimo_porto": "Paranagua Anch., Brazil",
     "saida": "2026-11-23T14:03+00:00",
     "imo": 9553141,
     "mmsi": 372612000,
-    "status_ais": "navegando",
-    "visto_em": "2026-11-23T15:11:48+00:00"
+    "status_ais": "fundeado",
+    "visto_em": "2026-11-23T15:42:39+00:00"
    }
   },
   {
