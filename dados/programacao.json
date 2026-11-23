@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-23T02:16:08-03:00",
+ "atualizado_em": "2026-11-23T02:21:05-03:00",
  "lido_em": "2026-11-23T02:09:18-03:00",
  "total": 19,
  "navios": [
@@ -112,17 +112,17 @@
     "texto": "sem sinal há 13 h",
     "nome_ais": "ELISABETTA",
     "link": "https://www.vesselfinder.com/?imo=1058145",
-    "destino": "Callao, Peru",
-    "chegou": "2026-11-21T18:18+00:00",
+    "destino": "Antofagasta, Chile",
+    "eta": "2026-11-25T23:00+00:00",
     "sog": 0.1,
-    "calado": "9.6 m",
-    "ultimo_porto": "Buenaventura, Colombia",
-    "saida": "2026-11-11T13:35+00:00",
+    "calado": "9.0 m",
+    "ultimo_porto": "Callao, Peru",
+    "saida": "2026-11-21T18:18+00:00",
     "imo": 1058145,
     "mmsi": 538012957,
     "status_ais": "-",
     "destino_aqui": false,
-    "visto_em": "2026-11-22T15:50:46+00:00"
+    "visto_em": "2026-11-22T16:21:05+00:00"
    }
   },
   {
@@ -414,7 +414,7 @@
     "mmsi": 538007659,
     "status_ais": "atracado",
     "destino_aqui": false,
-    "visto_em": "2026-11-23T04:48:46+00:00"
+    "visto_em": "2026-11-23T05:19:05+00:00"
    }
   },
   {
