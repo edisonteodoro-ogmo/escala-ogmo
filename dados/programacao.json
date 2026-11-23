@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-23T12:15:22-03:00",
+ "atualizado_em": "2026-11-23T12:17:45-03:00",
  "lido_em": "2026-11-23T12:03:37-03:00",
  "total": 20,
  "navios": [
@@ -20,7 +20,7 @@
     "mmsi": "677031200",
     "nome_ais": "YOSOR",
     "situacao": "velho",
-    "texto": "sem sinal há 33 h (última posição a 57 mn)",
+    "texto": "sem sinal há 34 h (última posição a 57 mn)",
     "lat": -23.9929,
     "lon": -44.3851,
     "dist_mn": 56.8,
@@ -118,7 +118,7 @@
     "lat": -23.9619,
     "lon": -46.3033,
     "dist_mn": 50.4,
-    "visto_em": "2026-11-23T14:54:00+00:00",
+    "visto_em": "2026-11-23T15:06:05+00:00",
     "sog": 0,
     "rumo": 143,
     "calado": 10.2,
