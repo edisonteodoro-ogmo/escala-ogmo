@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-24T11:44:59-03:00",
+ "atualizado_em": "2026-11-24T11:56:00-03:00",
  "lido_em": "2026-11-23T19:04:02-03:00",
  "total": 19,
  "navios": [
@@ -336,7 +336,7 @@
     "mmsi": "450430000",
     "nome_ais": "WHITE PEARL",
     "situacao": "velho",
-    "texto": "sem sinal há 16 h (última posição a 3 mn)",
+    "texto": "sem sinal há 17 h (última posição a 3 mn)",
     "lat": -23.8449,
     "lon": -45.4379,
     "dist_mn": 2.9,
