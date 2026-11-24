@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-24T17:32:15-03:00",
+ "atualizado_em": "2026-11-24T17:41:13-03:00",
  "lido_em": "2026-11-24T15:44:13-03:00",
  "total": 18,
  "navios": [
@@ -352,12 +352,12 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "movimento",
-    "texto": "navegando a 10.4 nós · destino Rio de Janeiro, Brazil",
+    "texto": "navegando a 9.9 nós · destino Rio de Janeiro, Brazil",
     "nome_ais": "DISCOVERER",
     "link": "https://www.vesselfinder.com/?imo=9577886",
     "destino": "Rio de Janeiro, Brazil",
     "eta": "2026-11-28T17:00+00:00",
-    "sog": 10.4,
+    "sog": 9.9,
     "calado": "9.3 m",
     "ultimo_porto": "San Lorenzo, Argentina",
     "saida": "2026-11-23T17:48+00:00",
@@ -365,7 +365,7 @@
     "mmsi": 538007659,
     "status_ais": "navegando",
     "destino_aqui": false,
-    "visto_em": "2026-11-24T20:10:11+00:00"
+    "visto_em": "2026-11-24T20:40:13+00:00"
    }
   },
   {
@@ -390,7 +390,7 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "velho",
-    "texto": "sem sinal há 41 h",
+    "texto": "sem sinal há 42 h",
     "nome_ais": "STAR NAVARRA",
     "link": "https://www.vesselfinder.com/?imo=9548823",
     "destino": "Palamos, Spain",
@@ -403,7 +403,7 @@
     "mmsi": 538007656,
     "status_ais": "-",
     "destino_aqui": false,
-    "visto_em": "2026-11-23T03:11:11+00:00"
+    "visto_em": "2026-11-23T02:41:13+00:00"
    }
   },
   {
