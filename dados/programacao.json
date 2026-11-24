@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-24T13:27:05-03:00",
+ "atualizado_em": "2026-11-24T13:35:50-03:00",
  "lido_em": "2026-11-23T19:04:02-03:00",
  "total": 19,
  "navios": [
@@ -182,7 +182,7 @@
     "mmsi": 352005752,
     "status_ais": "-",
     "destino_aqui": false,
-    "visto_em": "2026-11-21T16:03:52+00:00"
+    "visto_em": "2026-11-21T16:35:50+00:00"
    }
   },
   {
@@ -401,12 +401,12 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "movimento",
-    "texto": "navegando a 3.4 nós · destino Rio de Janeiro, Brazil",
+    "texto": "navegando a 10.1 nós · destino Rio de Janeiro, Brazil",
     "nome_ais": "DISCOVERER",
     "link": "https://www.vesselfinder.com/?imo=9577886",
     "destino": "Rio de Janeiro, Brazil",
     "eta": "2026-11-28T17:00+00:00",
-    "sog": 3.4,
+    "sog": 10.1,
     "calado": "9.3 m",
     "ultimo_porto": "San Lorenzo, Argentina",
     "saida": "2026-11-23T17:48+00:00",
@@ -414,7 +414,7 @@
     "mmsi": 538007659,
     "status_ais": "navegando",
     "destino_aqui": false,
-    "visto_em": "2026-11-24T16:03:52+00:00"
+    "visto_em": "2026-11-24T16:35:50+00:00"
    }
   },
   {
@@ -452,7 +452,7 @@
     "mmsi": 538007656,
     "status_ais": "-",
     "destino_aqui": false,
-    "visto_em": "2026-11-23T03:03:52+00:00"
+    "visto_em": "2026-11-23T03:35:50+00:00"
    }
   },
   {
