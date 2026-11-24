@@ -1,7 +1,7 @@
 {
- "atualizado_em": "2026-11-24T14:45:22-03:00",
- "lido_em": "2026-11-24T14:37:57-03:00",
- "total": 17,
+ "atualizado_em": "2026-11-24T14:55:02-03:00",
+ "lido_em": "2026-11-24T14:55:02-03:00",
+ "total": 18,
  "navios": [
   {
    "nome": "HANZE GENUA",
@@ -301,7 +301,7 @@
    }
   },
   {
-   "nome": "EKATERINA",
+   "nome": "DRAWSKO",
    "faixa": "NAVIOS PROGRAMADOS G",
    "previsao": "12/12/2026",
    "carga": "CEVADA / MALTE",
@@ -309,23 +309,24 @@
    "operador": "PRONAVE",
    "local": "ARMAZEM CDSS / ARMAZEM CDSS",
    "situacao": "PROGRAMADO",
+   "marca": "novo",
    "ais": {
-    "mmsi": "352005786",
-    "nome_ais": "EKATERINA",
-    "situacao": "velho",
-    "texto": "sem sinal há 23 h (última posição a 46 mn)",
-    "lat": -24.0945,
-    "lon": -46.1699,
-    "dist_mn": 45.5,
-    "visto_em": "2026-11-23T18:20:31+00:00",
+    "fonte": "vesselfinder",
+    "situacao": "outro",
+    "texto": "fundeado em Santos Anch., Brazil",
+    "nome_ais": "DRAWSKO",
+    "link": "https://www.vesselfinder.com/?imo=9393450",
+    "destino": "Santos Anch., Brazil",
+    "chegou": "2026-11-14T18:48+00:00",
     "sog": 0.2,
-    "rumo": 233,
-    "calado": 7.2,
-    "imo": 9641807,
+    "calado": "10.2 m",
+    "ultimo_porto": "Santos Anch., Brazil",
+    "saida": "2026-11-14T15:27+00:00",
+    "imo": 9393450,
+    "mmsi": 256243000,
     "status_ais": "fundeado",
-    "destino": "BRSSZ",
     "destino_aqui": false,
-    "eta": "2026-11-21T20:30+00:00"
+    "visto_em": "2026-11-24T17:53:02+00:00"
    }
   },
   {
@@ -431,6 +432,35 @@
     "destino_aqui": false,
     "visto_em": "2026-11-23T17:40:22+00:00"
    }
+  },
+  {
+   "nome": "BALHA ONE",
+   "faixa": "NAVIOS PROGRAMADOS I",
+   "previsao": "04/01/2027",
+   "carga": "ANIMAIS VIVOS",
+   "qtd": "7.000 UN",
+   "operador": "LOG LOGÍSTICA",
+   "local": "DIRETO",
+   "situacao": "PROGRAMADO",
+   "marca": "novo",
+   "ais": {
+    "fonte": "vesselfinder",
+    "situacao": "outro",
+    "texto": "fundeado em Vila do Conde/Barcarena Anch., Brazil · destino VDC_BR",
+    "nome_ais": "BALHA ONE",
+    "link": "https://www.vesselfinder.com/?imo=9336282",
+    "destino": "VDC_BR",
+    "eta": "2026-11-07T10:00+00:00",
+    "sog": 0.1,
+    "calado": "6.9 m",
+    "ultimo_porto": "Vila do Conde/Barcarena Anch., Brazil",
+    "saida": "2026-11-07T12:24+00:00",
+    "imo": 9336282,
+    "mmsi": 341573002,
+    "status_ais": "fundeado",
+    "destino_aqui": false,
+    "visto_em": "2026-11-24T17:52:02+00:00"
+   }
   }
  ],
  "cais": {
@@ -442,7 +472,7 @@
    }
   ]
  },
- "ais_navios": 13,
+ "ais_navios": 14,
  "porto": {
   "lat": -23.8105,
   "lon": -45.401
