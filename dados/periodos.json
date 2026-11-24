@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-24T19:01:42-03:00",
+ "atualizado_em": "2026-11-24T19:38:51-03:00",
  "dias": [
   {
    "data": "2026-11-24",
@@ -47,18 +47,6 @@
       ],
       "rancho": true,
       "posicao": "CS2",
-      "cargas": [
-       {
-        "carga": "EMBARQUE RANCHO",
-        "tons": 890,
-        "qtd": 1
-       },
-       {
-        "carga": "EMBARQUE DTA'S",
-        "tons": 50,
-        "qtd": 1
-       }
-      ],
       "extra": "🛰️ fundeado na área do porto (a 2.9 mn)",
       "onde": true
      }
@@ -90,14 +78,7 @@
       ],
       "rancho": true,
       "posicao": "P3",
-      "extra": "📍 sai 25/11 04:00",
-      "cargas": [
-       {
-        "carga": "ENTREGA RANCHO",
-        "tons": 2000,
-        "qtd": 1
-       }
-      ]
+      "extra": "📍 sai 25/11 04:00"
      }
     ],
     "4": [
