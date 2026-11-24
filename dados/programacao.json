@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-24T12:52:06-03:00",
+ "atualizado_em": "2026-11-24T13:03:52-03:00",
  "lido_em": "2026-11-23T19:04:02-03:00",
  "total": 19,
  "navios": [
@@ -86,7 +86,7 @@
     "lat": -23.9619,
     "lon": -46.3033,
     "dist_mn": 50.4,
-    "visto_em": "2026-11-24T15:51:10+00:00",
+    "visto_em": "2026-11-24T15:54:23+00:00",
     "sog": 0,
     "rumo": 143,
     "calado": 10.2,
@@ -182,7 +182,7 @@
     "mmsi": 352005752,
     "status_ais": "-",
     "destino_aqui": false,
-    "visto_em": "2026-11-21T15:33:35+00:00"
+    "visto_em": "2026-11-21T16:03:52+00:00"
    }
   },
   {
@@ -197,8 +197,8 @@
    "ais": {
     "mmsi": "341273002",
     "nome_ais": "PACIFIC ROSE",
-    "situacao": "fundeado",
-    "texto": "fundeado na área do porto (a 2.3 mn)",
+    "situacao": "velho",
+    "texto": "sem sinal há 3 h (última posição a 2 mn)",
     "lat": -23.8394,
     "lon": -45.4278,
     "dist_mn": 2.3,
@@ -336,7 +336,7 @@
     "mmsi": "450430000",
     "nome_ais": "WHITE PEARL",
     "situacao": "velho",
-    "texto": "sem sinal há 17 h (última posição a 3 mn)",
+    "texto": "sem sinal há 18 h (última posição a 3 mn)",
     "lat": -23.8449,
     "lon": -45.4379,
     "dist_mn": 2.9,
@@ -401,12 +401,12 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "movimento",
-    "texto": "navegando a 6.2 nós · destino Rio de Janeiro, Brazil",
+    "texto": "navegando a 3.4 nós · destino Rio de Janeiro, Brazil",
     "nome_ais": "DISCOVERER",
     "link": "https://www.vesselfinder.com/?imo=9577886",
     "destino": "Rio de Janeiro, Brazil",
     "eta": "2026-11-28T17:00+00:00",
-    "sog": 6.2,
+    "sog": 3.4,
     "calado": "9.3 m",
     "ultimo_porto": "San Lorenzo, Argentina",
     "saida": "2026-11-23T17:48+00:00",
@@ -414,7 +414,7 @@
     "mmsi": 538007659,
     "status_ais": "navegando",
     "destino_aqui": false,
-    "visto_em": "2026-11-24T15:32:35+00:00"
+    "visto_em": "2026-11-24T16:03:52+00:00"
    }
   },
   {
@@ -439,7 +439,7 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "velho",
-    "texto": "sem sinal há 36 h",
+    "texto": "sem sinal há 37 h",
     "nome_ais": "STAR NAVARRA",
     "link": "https://www.vesselfinder.com/?imo=9548823",
     "destino": "Palamos, Spain",
@@ -452,7 +452,7 @@
     "mmsi": 538007656,
     "status_ais": "-",
     "destino_aqui": false,
-    "visto_em": "2026-11-23T03:33:35+00:00"
+    "visto_em": "2026-11-23T03:03:52+00:00"
    }
   },
   {
