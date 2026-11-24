@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-24T10:21:54-03:00",
+ "atualizado_em": "2026-11-24T10:36:22-03:00",
  "dias": [
   {
    "data": "2026-11-24",
@@ -33,6 +33,33 @@
       ],
       "rancho": false,
       "extra": "🛰️ atracado em São Sebastião",
+      "onde": true
+     },
+     {
+      "req": 61169,
+      "navio": "WHITE PEARL",
+      "operador": "IRV",
+      "ternos": 1,
+      "categorias": [
+       "Arrumador",
+       "Conferente",
+       "Estivador"
+      ],
+      "rancho": true,
+      "posicao": "CS2",
+      "cargas": [
+       {
+        "carga": "EMBARQUE DTA'S",
+        "tons": 200,
+        "qtd": 1
+       },
+       {
+        "carga": "RETIRADA DTA'S",
+        "tons": 50,
+        "qtd": 1
+       }
+      ],
+      "extra": "🛰️ sem sinal há 15 h (última posição a 3 mn)",
       "onde": true
      }
     ],
