@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-24T14:42:57-03:00",
+ "atualizado_em": "2026-11-24T14:45:22-03:00",
  "lido_em": "2026-11-24T14:37:57-03:00",
  "total": 17,
  "navios": [
@@ -19,7 +19,7 @@
     "mmsi": "244830401",
     "nome_ais": "HANZE GENUA",
     "situacao": "velho",
-    "texto": "sem sinal há 4 h (última posição a 0 mn)",
+    "texto": "sem sinal há 5 h (última posição a 0 mn)",
     "lat": -23.8109,
     "lon": -45.3966,
     "dist_mn": 0.2,
@@ -51,7 +51,7 @@
     "mmsi": "538006205",
     "nome_ais": "ASTRO NEKKAR",
     "situacao": "velho",
-    "texto": "sem sinal há 4 h (última posição a 9 mn)",
+    "texto": "sem sinal há 5 h (última posição a 9 mn)",
     "lat": -23.8803,
     "lon": -45.542,
     "dist_mn": 8.8,
@@ -87,7 +87,7 @@
     "lat": -23.9619,
     "lon": -46.3033,
     "dist_mn": 50.4,
-    "visto_em": "2026-11-24T17:30:14+00:00",
+    "visto_em": "2026-11-24T17:45:10+00:00",
     "sog": 0,
     "rumo": 143,
     "calado": 10.2,
@@ -124,7 +124,7 @@
     "mmsi": 538012957,
     "status_ais": "-",
     "destino_aqui": false,
-    "visto_em": "2026-11-23T12:14:55+00:00"
+    "visto_em": "2026-11-23T12:45:22+00:00"
    }
   },
   {
