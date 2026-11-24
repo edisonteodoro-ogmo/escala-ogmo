@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-24T09:17:22-03:00",
+ "atualizado_em": "2026-11-24T09:20:37-03:00",
  "atual": "24/11 7h",
  "anterior": "23/11 1h",
  "categorias": [
@@ -11,9 +11,9 @@
  ],
  "resumo": {
   "Estivador": {
-   "agora": 0,
+   "agora": 19,
    "6h": 20,
-   "11h": 44
+   "11h": 25
   },
   "Arrumador": {
    "agora": 29,
@@ -122,7 +122,7 @@
    "num": 313,
    "nome": "JOAO BATISTA DE PAULO",
    "cat": "Estivador",
-   "st": "11h",
+   "st": "agora",
    "est": 3
   },
   {
@@ -153,7 +153,7 @@
    "num": 318,
    "nome": "OSVALDO PEREIRA DOS SANTOS",
    "cat": "Estivador",
-   "st": "11h",
+   "st": "agora",
    "est": 4
   },
   {
@@ -228,7 +228,7 @@
    "num": 330,
    "nome": "VALDINEZ DIAS DE ARAUJO",
    "cat": "Estivador",
-   "st": "11h",
+   "st": "agora",
    "est": 7
   },
   {
@@ -363,7 +363,7 @@
    "num": 351,
    "nome": "LINDOLPHO TAVARES FILHO",
    "cat": "Estivador",
-   "st": "11h",
+   "st": "agora",
    "est": 16
   },
   {
@@ -415,7 +415,7 @@
    "num": 359,
    "nome": "JOSE MARIA DA SILVA",
    "cat": "Estivador",
-   "st": "11h",
+   "st": "agora",
    "est": 20
   },
   {
@@ -440,7 +440,7 @@
    "num": 363,
    "nome": "ROGERIO MISSENO",
    "cat": "Estivador",
-   "st": "11h",
+   "st": "agora",
    "est": 21
   },
   {
@@ -479,7 +479,7 @@
    "num": 369,
    "nome": "HELIO RODRIGUES DA SILVA JUNIOR",
    "cat": "Estivador",
-   "st": "11h",
+   "st": "agora",
    "est": 8
   },
   {
@@ -492,7 +492,7 @@
    "num": 371,
    "nome": "LUIZ ALBERTO DOS SANTOS",
    "cat": "Estivador",
-   "st": "11h",
+   "st": "agora",
    "est": 25
   },
   {
@@ -518,7 +518,7 @@
    "num": 375,
    "nome": "AUGUSTO PEREIRA NASCIMENTO",
    "cat": "Estivador",
-   "st": "11h",
+   "st": "agora",
    "est": 27
   },
   {
@@ -557,7 +557,7 @@
    "num": 381,
    "nome": "ENOCH DIAS DE MOURA",
    "cat": "Estivador",
-   "st": "11h",
+   "st": "agora",
    "est": 31
   },
   {
@@ -570,7 +570,7 @@
    "num": 383,
    "nome": "MARCELINO MIGLIORINI",
    "cat": "Estivador",
-   "st": "11h",
+   "st": "agora",
    "est": 32
   },
   {
@@ -583,7 +583,7 @@
    "num": 385,
    "nome": "JOSE CIRILO DO PRADO",
    "cat": "Estivador",
-   "st": "11h",
+   "st": "agora",
    "est": 33
   },
   {
@@ -609,7 +609,7 @@
    "num": 389,
    "nome": "MARCOS ANTONIO DE SOUZA JANUARIO",
    "cat": "Estivador",
-   "st": "11h",
+   "st": "agora",
    "est": 35
   },
   {
@@ -661,7 +661,7 @@
    "num": 397,
    "nome": "AMARILDO DONIZETI P DOS SANTOS",
    "cat": "Estivador",
-   "st": "11h",
+   "st": "agora",
    "est": 39
   },
   {
@@ -674,7 +674,7 @@
    "num": 399,
    "nome": "ADRIANO GETULIO DOS SANTOS",
    "cat": "Estivador",
-   "st": "11h",
+   "st": "agora",
    "est": 40
   },
   {
@@ -687,7 +687,7 @@
    "num": 401,
    "nome": "WILSON ALVES DOS SANTOS",
    "cat": "Estivador",
-   "st": "11h",
+   "st": "agora",
    "est": 41
   },
   {
@@ -700,7 +700,7 @@
    "num": 403,
    "nome": "JOSE AUGUSTO DA SILVA JUNIOR",
    "cat": "Estivador",
-   "st": "11h",
+   "st": "agora",
    "est": 42
   },
   {
@@ -713,7 +713,7 @@
    "num": 405,
    "nome": "ROBISON DA SILVA OLIVEIRA",
    "cat": "Estivador",
-   "st": "11h",
+   "st": "agora",
    "est": 43
   },
   {
@@ -830,7 +830,7 @@
    "num": 423,
    "nome": "JOAQUIM REGINALDO FAUSTINO",
    "cat": "Estivador",
-   "st": "11h",
+   "st": "agora",
    "est": 51
   },
   {
@@ -977,6 +977,5 @@
    "st": "11h",
    "est": 63
   }
- ],
- "sem_servico": true
+ ]
 }
