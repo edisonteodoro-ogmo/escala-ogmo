@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-24T19:29:19-03:00",
+ "atualizado_em": "2026-11-24T19:36:18-03:00",
  "lido_em": "2026-11-24T15:44:13-03:00",
  "total": 18,
  "navios": [
@@ -449,7 +449,7 @@
     "link": "https://www.vesselfinder.com/?imo=9336282",
     "destino": "VDC_BR",
     "eta": "2026-11-07T10:00+00:00",
-    "sog": 0.3,
+    "sog": 0.1,
     "calado": "6.9 m",
     "ultimo_porto": "Vila do Conde/Barcarena Anch., Brazil",
     "saida": "2026-11-07T12:24+00:00",
@@ -457,7 +457,7 @@
     "mmsi": 341573002,
     "status_ais": "fundeado",
     "destino_aqui": false,
-    "visto_em": "2026-11-24T21:57:55+00:00"
+    "visto_em": "2026-11-24T22:33:18+00:00"
    }
   }
  ],
