@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-24T09:27:44-03:00",
+ "atualizado_em": "2026-11-24T09:30:10-03:00",
  "lido_em": "2026-11-23T19:04:02-03:00",
  "total": 19,
  "navios": [
@@ -109,7 +109,7 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "velho",
-    "texto": "sem sinal há 10 h",
+    "texto": "sem sinal há 24 h",
     "nome_ais": "ELISABETTA",
     "link": "https://www.vesselfinder.com/?imo=1058145",
     "destino": "Antofagasta, Chile",
@@ -120,9 +120,9 @@
     "saida": "2026-11-23T12:12+00:00",
     "imo": 1058145,
     "mmsi": 538012957,
-    "status_ais": "navegando",
+    "status_ais": "-",
     "destino_aqui": false,
-    "visto_em": "2026-11-23T12:06:44+00:00"
+    "visto_em": "2026-11-23T12:30:10+00:00"
    }
   },
   {
