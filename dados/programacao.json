@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-24T11:10:56-03:00",
+ "atualizado_em": "2026-11-24T11:21:49-03:00",
  "lido_em": "2026-11-23T19:04:02-03:00",
  "total": 19,
  "navios": [
@@ -364,7 +364,7 @@
     "mmsi": "352005786",
     "nome_ais": "EKATERINA",
     "situacao": "velho",
-    "texto": "sem sinal há 19 h (última posição a 46 mn)",
+    "texto": "sem sinal há 20 h (última posição a 46 mn)",
     "lat": -24.0945,
     "lon": -46.1699,
     "dist_mn": 45.5,
