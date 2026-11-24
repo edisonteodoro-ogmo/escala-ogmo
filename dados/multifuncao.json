@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-24T12:59:05-03:00",
+ "atualizado_em": "2026-11-24T13:06:57-03:00",
  "atual": "24/11 13h",
  "anterior": "24/11 7h",
  "categorias": [
@@ -16,9 +16,9 @@
    "11h": 19
   },
   "Arrumador": {
-   "agora": 24,
+   "agora": 25,
    "6h": 29,
-   "11h": 9
+   "11h": 8
   },
   "Consertador": {
    "agora": 3,
@@ -409,7 +409,7 @@
    "num": 358,
    "nome": "MARCELO LUIZ DE ACACIO",
    "cat": "Arrumador",
-   "st": "11h"
+   "st": "agora"
   },
   {
    "num": 359,
