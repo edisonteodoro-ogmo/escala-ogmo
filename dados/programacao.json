@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-24T09:22:50-03:00",
+ "atualizado_em": "2026-11-24T09:25:19-03:00",
  "lido_em": "2026-11-23T19:04:02-03:00",
  "total": 19,
  "navios": [
@@ -467,7 +467,7 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "velho",
-    "texto": "sem sinal há 4 h",
+    "texto": "sem sinal há 19 h",
     "nome_ais": "V BROS",
     "link": "https://www.vesselfinder.com/?imo=9474204",
     "destino": "CAPAUBA",
@@ -478,9 +478,9 @@
     "saida": "2026-11-22T11:48+00:00",
     "imo": 9474204,
     "mmsi": 538010087,
-    "status_ais": "navegando",
+    "status_ais": "-",
     "destino_aqui": false,
-    "visto_em": "2026-11-23T17:40:44+00:00"
+    "visto_em": "2026-11-23T17:25:19+00:00"
    }
   }
  ],
