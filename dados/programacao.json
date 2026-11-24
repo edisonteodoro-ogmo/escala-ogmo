@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-24T11:06:07-03:00",
+ "atualizado_em": "2026-11-24T11:10:56-03:00",
  "lido_em": "2026-11-23T19:04:02-03:00",
  "total": 19,
  "navios": [
@@ -86,7 +86,7 @@
     "lat": -23.9619,
     "lon": -46.3033,
     "dist_mn": 50.4,
-    "visto_em": "2026-11-24T13:54:08+00:00",
+    "visto_em": "2026-11-24T14:00:19+00:00",
     "sog": 0,
     "rumo": 143,
     "calado": 10.2,
@@ -484,15 +484,6 @@
    }
   }
  ],
- "cais": {
-  "fonte": "praticagem",
-  "saindo": [
-   {
-    "navio": "HANZE GENUA",
-    "horario": "25/11 10:30"
-   }
-  ]
- },
  "ais_navios": 15,
  "porto": {
   "lat": -23.8105,
