@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-24T09:59:24-03:00",
+ "atualizado_em": "2026-11-24T10:01:56-03:00",
  "lido_em": "2026-11-23T19:04:02-03:00",
  "total": 19,
  "navios": [
@@ -109,7 +109,7 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "velho",
-    "texto": "sem sinal há 24 h",
+    "texto": "sem sinal há 25 h",
     "nome_ais": "ELISABETTA",
     "link": "https://www.vesselfinder.com/?imo=1058145",
     "destino": "Antofagasta, Chile",
@@ -122,7 +122,7 @@
     "mmsi": 538012957,
     "status_ais": "-",
     "destino_aqui": false,
-    "visto_em": "2026-11-23T12:30:10+00:00"
+    "visto_em": "2026-11-23T12:01:56+00:00"
    }
   },
   {
@@ -197,12 +197,12 @@
    "ais": {
     "mmsi": "341273002",
     "nome_ais": "PACIFIC ROSE",
-    "situacao": "velho",
-    "texto": "sem sinal há 15 h (última posição a 2 mn)",
-    "lat": -23.8391,
-    "lon": -45.428,
+    "situacao": "fundeado",
+    "texto": "fundeado na área do porto (a 2.3 mn)",
+    "lat": -23.8394,
+    "lon": -45.4278,
     "dist_mn": 2.3,
-    "visto_em": "2026-11-23T20:55:13+00:00",
+    "visto_em": "2026-11-24T12:52:09+00:00",
     "sog": 0,
     "calado": 7.7,
     "imo": 9045936,
@@ -336,7 +336,7 @@
     "mmsi": "450430000",
     "nome_ais": "WHITE PEARL",
     "situacao": "velho",
-    "texto": "sem sinal há 14 h (última posição a 3 mn)",
+    "texto": "sem sinal há 15 h (última posição a 3 mn)",
     "lat": -23.8449,
     "lon": -45.4379,
     "dist_mn": 2.9,
