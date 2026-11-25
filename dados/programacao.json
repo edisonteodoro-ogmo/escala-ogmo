@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-25T14:08:08-03:00",
- "lido_em": "2026-11-25T13:54:27-03:00",
+ "atualizado_em": "2026-11-25T14:10:44-03:00",
+ "lido_em": "2026-11-25T14:10:44-03:00",
  "total": 18,
  "navios": [
   {
@@ -23,7 +23,7 @@
     "lat": -23.8109,
     "lon": -45.3966,
     "dist_mn": 0.2,
-    "visto_em": "2026-11-25T16:55:11+00:00",
+    "visto_em": "2026-11-25T17:07:13+00:00",
     "sog": 0,
     "rumo": 225,
     "calado": 8.5,
@@ -117,14 +117,14 @@
     "destino": "Antofagasta, Chile",
     "eta": "2026-11-26T08:00+00:00",
     "sog": 4.7,
-    "calado": "9.0 m",
+    "calado": "8.9 m",
     "ultimo_porto": "Callao, Peru",
     "saida": "2026-11-23T12:12+00:00",
     "imo": 1058145,
     "mmsi": 538012957,
     "status_ais": "-",
     "destino_aqui": false,
-    "visto_em": "2026-11-23T16:38:46+00:00"
+    "visto_em": "2026-11-23T17:10:44+00:00"
    }
   },
   {
@@ -244,12 +244,12 @@
     "nome_ais": "BLUE OCEAN A",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 3.3 mn)",
-    "lat": -23.85,
-    "lon": -45.4434,
+    "lat": -23.8498,
+    "lon": -45.4435,
     "dist_mn": 3.3,
-    "visto_em": "2026-11-25T16:36:10+00:00",
+    "visto_em": "2026-11-25T17:03:10+00:00",
     "sog": 0,
-    "rumo": 259,
+    "rumo": 252,
     "calado": 6.7,
     "imo": 9045089,
     "status_ais": "fundeado",
@@ -424,13 +424,13 @@
     "mmsi": "538010087",
     "nome_ais": "V BROS",
     "situacao": "caminho",
-    "texto": "navegando a 11.9 nós, a 288 mn · sem destino declarado",
-    "lat": -21.9238,
-    "lon": -40.6123,
-    "dist_mn": 288.1,
-    "visto_em": "2026-11-25T16:55:58+00:00",
+    "texto": "navegando a 11.9 nós, a 290 mn · sem destino declarado",
+    "lat": -21.877,
+    "lon": -40.5964,
+    "dist_mn": 290.1,
+    "visto_em": "2026-11-25T17:10:50+00:00",
     "sog": 11.9,
-    "rumo": 17,
+    "rumo": 13,
     "status_ais": "navegando"
    }
   },
