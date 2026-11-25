@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-25T15:00:04-03:00",
+ "atualizado_em": "2026-11-25T15:14:45-03:00",
  "dias": [
   {
    "data": "2026-11-25",
@@ -91,8 +91,7 @@
        "Estivador"
       ],
       "rancho": true,
-      "posicao": "fundeado",
-      "extra": "📍 entra P2 25/11 13:30",
+      "posicao": "P2",
       "cargas": [
        {
         "carga": "ENTREGA RANCHO",
