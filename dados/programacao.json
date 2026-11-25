@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-24T20:59:09-03:00",
+ "atualizado_em": "2026-11-24T21:01:40-03:00",
  "lido_em": "2026-11-24T15:44:13-03:00",
  "total": 18,
  "navios": [
@@ -23,7 +23,7 @@
     "lat": -23.8109,
     "lon": -45.3966,
     "dist_mn": 0.2,
-    "visto_em": "2026-11-24T23:31:04+00:00",
+    "visto_em": "2026-11-24T23:55:05+00:00",
     "sog": 0,
     "rumo": 226,
     "calado": 8.5,
@@ -85,11 +85,11 @@
     "situacao": "outro",
     "texto": "atracado em outro porto (a 50 mn)",
     "lat": -23.9619,
-    "lon": -46.3033,
+    "lon": -46.3032,
     "dist_mn": 50.4,
-    "visto_em": "2026-11-24T23:48:21+00:00",
+    "visto_em": "2026-11-24T23:57:15+00:00",
     "sog": 0,
-    "rumo": 142,
+    "rumo": 143,
     "calado": 10.2,
     "imo": 9474254,
     "status_ais": "atracado",
@@ -111,7 +111,7 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "velho",
-    "texto": "sem sinal há 35 h",
+    "texto": "sem sinal há 36 h",
     "nome_ais": "ELISABETTA",
     "link": "https://www.vesselfinder.com/?imo=1058145",
     "destino": "Antofagasta, Chile",
@@ -124,7 +124,7 @@
     "mmsi": 538012957,
     "status_ais": "-",
     "destino_aqui": false,
-    "visto_em": "2026-11-23T12:30:05+00:00"
+    "visto_em": "2026-11-23T12:01:40+00:00"
    }
   },
   {
@@ -286,12 +286,12 @@
     "nome_ais": "WHITE PEARL",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 2.9 mn)",
-    "lat": -23.845,
-    "lon": -45.4384,
+    "lat": -23.8454,
+    "lon": -45.4383,
     "dist_mn": 2.9,
-    "visto_em": "2026-11-24T23:45:38+00:00",
-    "sog": 0.2,
-    "rumo": 50,
+    "visto_em": "2026-11-24T23:54:36+00:00",
+    "sog": 0.3,
+    "rumo": 83,
     "calado": 5,
     "imo": 7615309,
     "status_ais": "fundeado",
