@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-25T16:29:01-03:00",
+ "atualizado_em": "2026-11-25T16:31:27-03:00",
  "lido_em": "2026-11-25T16:22:22-03:00",
  "total": 18,
  "navios": [
@@ -23,7 +23,7 @@
     "lat": -23.8109,
     "lon": -45.3966,
     "dist_mn": 0.2,
-    "visto_em": "2026-11-25T19:19:10+00:00",
+    "visto_em": "2026-11-25T19:22:11+00:00",
     "sog": 0,
     "rumo": 225,
     "calado": 8.5,
@@ -398,7 +398,7 @@
     "mmsi": 538007656,
     "status_ais": "-",
     "destino_aqui": false,
-    "visto_em": "2026-11-22T19:01:12+00:00"
+    "visto_em": "2026-11-22T19:31:27+00:00"
    }
   },
   {
@@ -417,13 +417,13 @@
     "mmsi": "538010087",
     "nome_ais": "V BROS",
     "situacao": "movimento",
-    "texto": "navegando a 10.8 nós, a 308 mn · destino declarado: CAPAUBA",
-    "lat": -21.4944,
-    "lon": -40.433,
-    "dist_mn": 308.4,
-    "visto_em": "2026-11-25T19:19:38+00:00",
+    "texto": "navegando a 10.8 nós, a 310 mn · destino declarado: CAPAUBA",
+    "lat": -21.4677,
+    "lon": -40.4204,
+    "dist_mn": 309.7,
+    "visto_em": "2026-11-25T19:29:20+00:00",
     "sog": 10.8,
-    "rumo": 16,
+    "rumo": 17,
     "calado": 8,
     "imo": 9474204,
     "status_ais": "navegando",
