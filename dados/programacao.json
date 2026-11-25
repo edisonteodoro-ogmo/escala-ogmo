@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-25T11:45:58-03:00",
+ "atualizado_em": "2026-11-25T11:48:12-03:00",
  "lido_em": "2026-11-25T11:45:58-03:00",
  "total": 18,
  "navios": [
@@ -353,7 +353,7 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "velho",
-    "texto": "sem sinal há 4 h",
+    "texto": "sem sinal há 5 h",
     "nome_ais": "DISCOVERER",
     "link": "https://www.vesselfinder.com/?imo=9577886",
     "destino": "Rio de Janeiro, Brazil",
@@ -366,7 +366,7 @@
     "mmsi": 538007659,
     "status_ais": "navegando",
     "destino_aqui": false,
-    "visto_em": "2026-11-25T10:16:03+00:00"
+    "visto_em": "2026-11-25T09:48:18+00:00"
    }
   },
   {
@@ -470,7 +470,7 @@
   "saindo": [
    {
     "navio": "HANZE GENUA",
-    "horario": "26/11 11:00"
+    "horario": "27/11 11:00"
    }
   ]
  },
