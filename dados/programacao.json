@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-25T08:23:26-03:00",
+ "atualizado_em": "2026-11-25T08:25:43-03:00",
  "lido_em": "2026-11-25T08:16:29-03:00",
  "total": 18,
  "navios": [
@@ -124,7 +124,7 @@
     "mmsi": 538012957,
     "status_ais": "-",
     "destino_aqui": false,
-    "visto_em": "2026-11-23T11:53:38+00:00"
+    "visto_em": "2026-11-23T12:25:43+00:00"
    }
   },
   {
@@ -238,8 +238,8 @@
    "fundeado": true,
    "ais": {
     "link": "https://www.vesselfinder.com/?imo=9045089",
-    "ultimo_porto": "Tarragona, Spain",
-    "saida": "2026-10-30T23:46+00:00",
+    "ultimo_porto": "Sao Sebastiao Anch., Brazil",
+    "saida": "2026-11-25T10:59+00:00",
     "mmsi": "341515002",
     "nome_ais": "BLUE OCEAN A",
     "situacao": "fundeado",
