@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-24T21:53:17-03:00",
+ "atualizado_em": "2026-11-24T21:57:21-03:00",
  "lido_em": "2026-11-24T15:44:13-03:00",
  "total": 18,
  "navios": [
@@ -23,7 +23,7 @@
     "lat": -23.8109,
     "lon": -45.3966,
     "dist_mn": 0.2,
-    "visto_em": "2026-11-25T00:16:03+00:00",
+    "visto_em": "2026-11-25T00:55:04+00:00",
     "sog": 0,
     "rumo": 226,
     "calado": 8.5,
@@ -52,12 +52,12 @@
     "nome_ais": "ASTRO NEKKAR",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 8.8 mn)",
-    "lat": -23.8798,
-    "lon": -45.5424,
+    "lat": -23.8802,
+    "lon": -45.543,
     "dist_mn": 8.8,
-    "visto_em": "2026-11-25T00:38:32+00:00",
-    "sog": 0.1,
-    "rumo": 314,
+    "visto_em": "2026-11-25T00:56:31+00:00",
+    "sog": 0.2,
+    "rumo": 341,
     "calado": 8.4,
     "imo": 9720304,
     "status_ais": "fundeado",
@@ -244,12 +244,12 @@
     "nome_ais": "BLUE OCEAN A",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 9.5 mn)",
-    "lat": -23.901,
-    "lon": -45.543,
+    "lat": -23.9006,
+    "lon": -45.5434,
     "dist_mn": 9.5,
-    "visto_em": "2026-11-25T00:21:15+00:00",
+    "visto_em": "2026-11-25T00:54:14+00:00",
     "sog": 0.1,
-    "rumo": 38,
+    "rumo": 56,
     "calado": 6.7,
     "imo": 9045089,
     "status_ais": "fundeado",
@@ -387,7 +387,7 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "velho",
-    "texto": "sem sinal há 45 h",
+    "texto": "sem sinal há 46 h",
     "nome_ais": "STAR NAVARRA",
     "link": "https://www.vesselfinder.com/?imo=9548823",
     "destino": "Palamos, Spain",
@@ -400,7 +400,7 @@
     "mmsi": 538007656,
     "status_ais": "-",
     "destino_aqui": false,
-    "visto_em": "2026-11-23T03:24:07+00:00"
+    "visto_em": "2026-11-23T02:57:21+00:00"
    }
   },
   {
