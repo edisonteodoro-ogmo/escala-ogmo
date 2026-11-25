@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-25T10:57:20-03:00",
+ "atualizado_em": "2026-11-25T10:59:47-03:00",
  "lido_em": "2026-11-25T10:57:20-03:00",
  "total": 18,
  "navios": [
@@ -23,7 +23,7 @@
     "lat": -23.8109,
     "lon": -45.3966,
     "dist_mn": 0.2,
-    "visto_em": "2026-11-25T13:31:09+00:00",
+    "visto_em": "2026-11-25T13:58:10+00:00",
     "sog": 0,
     "rumo": 225,
     "calado": 8.5,
@@ -87,7 +87,7 @@
     "lat": -23.9619,
     "lon": -46.3033,
     "dist_mn": 50.4,
-    "visto_em": "2026-11-25T13:06:20+00:00",
+    "visto_em": "2026-11-25T13:57:20+00:00",
     "sog": 0,
     "rumo": 143,
     "calado": 10.2,
@@ -124,7 +124,7 @@
     "mmsi": 538012957,
     "status_ais": "-",
     "destino_aqui": false,
-    "visto_em": "2026-11-23T13:29:41+00:00"
+    "visto_em": "2026-11-23T13:59:47+00:00"
    }
   },
   {
@@ -243,12 +243,12 @@
     "nome_ais": "BLUE OCEAN A",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 3.4 mn)",
-    "lat": -23.8499,
-    "lon": -45.4456,
+    "lat": -23.8495,
+    "lon": -45.4453,
     "dist_mn": 3.4,
-    "visto_em": "2026-11-25T13:45:11+00:00",
+    "visto_em": "2026-11-25T13:51:12+00:00",
     "sog": 0.3,
-    "rumo": 105,
+    "rumo": 136,
     "calado": 6.7,
     "imo": 9045089,
     "status_ais": "fundeado",
