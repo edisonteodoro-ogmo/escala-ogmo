@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-25T08:32:37-03:00",
+ "atualizado_em": "2026-11-25T08:39:17-03:00",
  "lido_em": "2026-11-25T08:32:37-03:00",
  "total": 18,
  "navios": [
@@ -235,7 +235,6 @@
    "operador": "PRONAVE",
    "local": "DIRETO",
    "situacao": "FUNDEADO",
-   "fundeado": true,
    "ais": {
     "link": "https://www.vesselfinder.com/?imo=9045089",
     "ultimo_porto": "Sao Sebastiao Anch., Brazil",
