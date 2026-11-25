@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-25T12:58:40-03:00",
+ "atualizado_em": "2026-11-25T13:04:03-03:00",
  "total": 64,
  "resumo": {
   "total": 64,
@@ -10,8 +10,8 @@
   "guin": 24,
   "emp": 10,
   "pte": 17,
-  "pego": 22,
-  "livre": 33
+  "pego": 23,
+  "livre": 32
  },
  "pessoas": [
   {
@@ -613,7 +613,7 @@
    "guin": null,
    "emp": null,
    "pte": null,
-   "sit": "livre"
+   "sit": "pego"
   },
   {
    "num": 62,
