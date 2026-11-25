@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-25T11:34:40-03:00",
+ "atualizado_em": "2026-11-25T11:36:55-03:00",
  "lido_em": "2026-11-25T11:30:07-03:00",
  "total": 18,
  "navios": [
@@ -447,21 +447,21 @@
    "marca": "novo",
    "ais": {
     "fonte": "vesselfinder",
-    "situacao": "movimento",
-    "texto": "navegando a 0.9 nós · destino VDC_BR",
+    "situacao": "outro",
+    "texto": "atracado em Vila do Conde/Barcarena Anch., Brazil · destino VDC_BR",
     "nome_ais": "BALHA ONE",
     "link": "https://www.vesselfinder.com/?imo=9336282",
     "destino": "VDC_BR",
     "eta": "2026-11-07T10:00+00:00",
-    "sog": 0.9,
+    "sog": 0.0,
     "calado": "6.9 m",
     "ultimo_porto": "Vila do Conde/Barcarena Anch., Brazil",
     "saida": "2026-11-25T13:24+00:00",
     "imo": 9336282,
     "mmsi": 341573002,
-    "status_ais": "navegando",
+    "status_ais": "atracado",
     "destino_aqui": false,
-    "visto_em": "2026-11-25T14:06:43+00:00"
+    "visto_em": "2026-11-25T14:33:55+00:00"
    }
   }
  ],
