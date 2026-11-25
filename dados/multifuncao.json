@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-25T12:58:47-03:00",
+ "atualizado_em": "2026-11-25T13:01:29-03:00",
  "atual": "25/11 13h",
  "anterior": "25/11 7h",
  "categorias": [
@@ -11,9 +11,9 @@
  ],
  "resumo": {
   "Estivador": {
-   "agora": 22,
+   "agora": 23,
    "6h": 19,
-   "11h": 23
+   "11h": 22
   },
   "Arrumador": {
    "agora": 26,
@@ -21,9 +21,9 @@
    "11h": 9
   },
   "Consertador": {
-   "agora": 3,
+   "agora": 4,
    "6h": 0,
-   "11h": 2
+   "11h": 1
   },
   "Vigia": {
    "agora": 1,
@@ -178,7 +178,7 @@
    "num": 322,
    "nome": "GABRIELA ALEJANDRA MARTINEZ",
    "cat": "Consertador",
-   "st": "11h"
+   "st": "agora"
   },
   {
    "num": 323,
@@ -960,7 +960,7 @@
    "num": 443,
    "nome": "CLARISSA CUNHA MANSOUR",
    "cat": "Estivador",
-   "st": "11h",
+   "st": "agora",
    "est": 61
   },
   {
