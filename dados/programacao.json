@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-25T05:03:01-03:00",
+ "atualizado_em": "2026-11-25T05:05:19-03:00",
  "lido_em": "2026-11-25T05:00:49-03:00",
  "total": 18,
  "navios": [
@@ -359,7 +359,7 @@
     "link": "https://www.vesselfinder.com/?imo=9577886",
     "destino": "Rio de Janeiro, Brazil",
     "eta": "2026-11-28T17:00+00:00",
-    "sog": 0.1,
+    "sog": 0.3,
     "calado": "9.3 m",
     "ultimo_porto": "Montevideo Anch., Uruguay",
     "saida": "2026-11-25T04:21+00:00",
@@ -367,7 +367,7 @@
     "mmsi": 538007659,
     "status_ais": "fundeado",
     "destino_aqui": false,
-    "visto_em": "2026-11-25T07:33:40+00:00"
+    "visto_em": "2026-11-25T08:03:19+00:00"
    }
   },
   {
