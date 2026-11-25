@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-25T05:33:42-03:00",
+ "atualizado_em": "2026-11-25T05:35:54-03:00",
  "lido_em": "2026-11-25T05:33:42-03:00",
  "total": 18,
  "navios": [
@@ -353,21 +353,21 @@
    "situacao": "PROGRAMADO",
    "ais": {
     "fonte": "vesselfinder",
-    "situacao": "outro",
-    "texto": "fundeado em Montevideo Anch., Uruguay · destino Rio de Janeiro, Brazil",
+    "situacao": "movimento",
+    "texto": "navegando a 9.3 nós · destino Rio de Janeiro, Brazil",
     "nome_ais": "DISCOVERER",
     "link": "https://www.vesselfinder.com/?imo=9577886",
     "destino": "Rio de Janeiro, Brazil",
     "eta": "2026-11-28T17:00+00:00",
-    "sog": 0.3,
+    "sog": 9.3,
     "calado": "9.3 m",
     "ultimo_porto": "Montevideo Anch., Uruguay",
     "saida": "2026-11-25T04:21+00:00",
     "imo": 9577886,
     "mmsi": 538007659,
-    "status_ais": "fundeado",
+    "status_ais": "navegando",
     "destino_aqui": false,
-    "visto_em": "2026-11-25T08:03:19+00:00"
+    "visto_em": "2026-11-25T08:35:54+00:00"
    }
   },
   {
