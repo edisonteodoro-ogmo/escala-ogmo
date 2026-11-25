@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-25T16:40:28-03:00",
+ "atualizado_em": "2026-11-25T16:42:53-03:00",
  "lido_em": "2026-11-25T16:38:08-03:00",
  "total": 18,
  "navios": [
@@ -52,12 +52,12 @@
     "nome_ais": "ASTRO NEKKAR",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 8.8 mn)",
-    "lat": -23.8799,
-    "lon": -45.5425,
+    "lat": -23.8798,
+    "lon": -45.5423,
     "dist_mn": 8.8,
-    "visto_em": "2026-11-25T19:05:31+00:00",
-    "sog": 0.1,
-    "rumo": 281,
+    "visto_em": "2026-11-25T19:38:32+00:00",
+    "sog": 0,
+    "rumo": 280,
     "calado": 8.4,
     "imo": 9720304,
     "status_ais": "fundeado",
@@ -122,7 +122,7 @@
     "mmsi": 538012957,
     "status_ais": "-",
     "destino_aqui": false,
-    "visto_em": "2026-11-23T19:12:48+00:00"
+    "visto_em": "2026-11-23T19:42:53+00:00"
    }
   },
   {
@@ -310,7 +310,7 @@
     "mmsi": "256243000",
     "nome_ais": "DRAWSKO",
     "situacao": "velho",
-    "texto": "sem sinal há 9 h (última posição a 47 mn)",
+    "texto": "sem sinal há 10 h (última posição a 47 mn)",
     "lat": -24.1163,
     "lon": -46.1958,
     "dist_mn": 47.3,
