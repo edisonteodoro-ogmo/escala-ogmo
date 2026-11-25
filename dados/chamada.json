@@ -1,8 +1,14 @@
 {
- "atualizado_em": "2026-11-25T07:00:53-03:00",
- "titulo": "Escala 7h · 25/11/2026",
- "imagem": "chamada/20261125_070053_788660.png",
+ "atualizado_em": "2026-11-25T12:56:21-03:00",
+ "titulo": "Escala 13h · 25/11/2026",
+ "imagem": "chamada/20261125_125621_513341.png",
  "historico": [
+  {
+   "quando": "2026-11-25T12:56:21-03:00",
+   "titulo": "Escala 13h · 25/11/2026",
+   "imagem": "chamada/20261125_125621_513341.png",
+   "chave": "2026-11-25|2"
+  },
   {
    "quando": "2026-11-25T07:00:53-03:00",
    "titulo": "Escala 7h · 25/11/2026",
@@ -236,12 +242,6 @@
    "titulo": "Escala 19h · 12/11/2026",
    "imagem": "chamada/20261112_190037_606218.png",
    "chave": "2026-11-12|3"
-  },
-  {
-   "quando": "2026-11-12T06:57:08-03:00",
-   "titulo": "Escala 7h · 12/11/2026",
-   "imagem": "chamada/20261112_065708_403537.png",
-   "chave": "2026-11-12|1"
   }
  ]
 }
