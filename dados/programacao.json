@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-25T15:14:23-03:00",
- "lido_em": "2026-11-25T14:59:48-03:00",
+ "atualizado_em": "2026-11-25T15:17:11-03:00",
+ "lido_em": "2026-11-25T15:17:10-03:00",
  "total": 18,
  "navios": [
   {
@@ -75,7 +75,6 @@
    "operador": "PRONAVE",
    "local": "ARMAZEM CDSS",
    "situacao": "PROGRAMADO",
-   "marca": "alterado",
    "ais": {
     "link": "https://www.vesselfinder.com/?imo=9474254",
     "ultimo_porto": "Santos Anch., Brazil",
@@ -107,7 +106,6 @@
    "operador": "LOG LOGÍSTICA",
    "local": "DIRETO / DIRETO",
    "situacao": "PROGRAMADO",
-   "marca": "alterado",
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "velho",
@@ -194,8 +192,7 @@
    "qtd": "26.000 t",
    "operador": "LOG LOGÍSTICA",
    "local": "ARMAZEM CDSS",
-   "situacao": "PROGRAMADO",
-   "marca": "alterado"
+   "situacao": "PROGRAMADO"
   },
   {
    "nome": "BANA",
@@ -206,7 +203,6 @@
    "operador": "LOG LOGÍSTICA",
    "local": "DIRETO",
    "situacao": "PROGRAMADO",
-   "marca": "alterado",
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "velho",
@@ -265,8 +261,7 @@
    "qtd": "7.000 UN",
    "operador": "LOG LOGÍSTICA",
    "local": "DIRETO",
-   "situacao": "PROGRAMADO",
-   "marca": "alterado"
+   "situacao": "PROGRAMADO"
   },
   {
    "nome": "WHITE PEARL",
@@ -308,7 +303,6 @@
    "operador": "PRONAVE",
    "local": "ARMAZEM CDSS / ARMAZEM CDSS",
    "situacao": "PROGRAMADO",
-   "marca": "novo",
    "ais": {
     "link": "https://www.vesselfinder.com/?imo=9393450",
     "ultimo_porto": "Santos Anch., Brazil",
@@ -447,7 +441,6 @@
    "operador": "LOG LOGÍSTICA",
    "local": "DIRETO",
    "situacao": "PROGRAMADO",
-   "marca": "novo",
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "outro",
