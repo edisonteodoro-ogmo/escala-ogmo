@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-25T08:55:29-03:00",
+ "atualizado_em": "2026-11-25T09:09:11-03:00",
  "dias": [
   {
    "data": "2026-11-25",
@@ -20,7 +20,22 @@
       "onde": true
      }
     ],
-    "2": [],
+    "2": [
+     {
+      "req": 61202,
+      "navio": "HANZE GENUA",
+      "operador": "PRONAVE",
+      "ternos": 6,
+      "categorias": [
+       "Arrumador",
+       "Conferente",
+       "Estivador"
+      ],
+      "rancho": false,
+      "extra": "🛰️ sem sinal há 3 h (última posição a 0 mn)",
+      "onde": true
+     }
+    ],
     "3": [],
     "4": []
    },
