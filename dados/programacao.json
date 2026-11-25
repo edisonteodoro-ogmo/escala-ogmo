@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-25T18:26:23-03:00",
+ "atualizado_em": "2026-11-25T18:28:50-03:00",
  "lido_em": "2026-11-25T18:14:26-03:00",
  "total": 18,
  "navios": [
@@ -461,15 +461,6 @@
    }
   }
  ],
- "cais": {
-  "fonte": "praticagem",
-  "saindo": [
-   {
-    "navio": "HANZE GENUA",
-    "horario": "27/11 11:00"
-   }
-  ]
- },
  "ais_navios": 14,
  "porto": {
   "lat": -23.8105,
