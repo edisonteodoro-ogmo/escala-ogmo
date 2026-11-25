@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-25T08:57:41-03:00",
- "lido_em": "2026-11-25T08:48:29-03:00",
+ "atualizado_em": "2026-11-25T09:04:32-03:00",
+ "lido_em": "2026-11-25T09:04:32-03:00",
  "total": 18,
  "navios": [
   {
@@ -55,9 +55,9 @@
     "lat": -23.8812,
     "lon": -45.5434,
     "dist_mn": 8.9,
-    "visto_em": "2026-11-25T11:41:30+00:00",
-    "sog": 0,
-    "rumo": 328,
+    "visto_em": "2026-11-25T11:56:31+00:00",
+    "sog": 0.1,
+    "rumo": 324,
     "calado": 8.4,
     "imo": 9720304,
     "status_ais": "fundeado",
@@ -87,7 +87,7 @@
     "lat": -23.9619,
     "lon": -46.3033,
     "dist_mn": 50.4,
-    "visto_em": "2026-11-25T11:36:18+00:00",
+    "visto_em": "2026-11-25T11:57:15+00:00",
     "sog": 0,
     "rumo": 143,
     "calado": 10.2,
@@ -243,12 +243,12 @@
     "nome_ais": "BLUE OCEAN A",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 3.4 mn)",
-    "lat": -23.8516,
-    "lon": -45.4442,
+    "lat": -23.8501,
+    "lon": -45.4456,
     "dist_mn": 3.4,
-    "visto_em": "2026-11-25T11:31:23+00:00",
-    "sog": 0.6,
-    "rumo": 348,
+    "visto_em": "2026-11-25T11:54:13+00:00",
+    "sog": 0.3,
+    "rumo": 108,
     "calado": 6.7,
     "imo": 9045089,
     "status_ais": "fundeado",
@@ -453,7 +453,7 @@
     "link": "https://www.vesselfinder.com/?imo=9336282",
     "destino": "VDC_BR",
     "eta": "2026-11-07T10:00+00:00",
-    "sog": 0.4,
+    "sog": 0.1,
     "calado": "6.9 m",
     "ultimo_porto": "Vila do Conde/Barcarena Anch., Brazil",
     "saida": "2026-11-07T12:24+00:00",
@@ -461,7 +461,7 @@
     "mmsi": 341573002,
     "status_ais": "fundeado",
     "destino_aqui": false,
-    "visto_em": "2026-11-25T11:30:37+00:00"
+    "visto_em": "2026-11-25T12:03:32+00:00"
    }
   }
  ],
