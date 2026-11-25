@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-25T01:20:48-03:00",
+ "atualizado_em": "2026-11-25T01:29:56-03:00",
  "lido_em": "2026-11-24T15:44:13-03:00",
  "total": 18,
  "navios": [
@@ -348,21 +348,21 @@
    "situacao": "PROGRAMADO",
    "ais": {
     "fonte": "vesselfinder",
-    "situacao": "movimento",
-    "texto": "navegando a 8.4 nós · destino Rio de Janeiro, Brazil",
+    "situacao": "outro",
+    "texto": "fundeado em San Lorenzo, Argentina · destino Rio de Janeiro, Brazil",
     "nome_ais": "DISCOVERER",
     "link": "https://www.vesselfinder.com/?imo=9577886",
     "destino": "Rio de Janeiro, Brazil",
     "eta": "2026-11-28T17:00+00:00",
-    "sog": 8.4,
+    "sog": 0.7,
     "calado": "9.3 m",
     "ultimo_porto": "San Lorenzo, Argentina",
     "saida": "2026-11-23T17:48+00:00",
     "imo": 9577886,
     "mmsi": 538007659,
-    "status_ais": "navegando",
+    "status_ais": "fundeado",
     "destino_aqui": false,
-    "visto_em": "2026-11-25T03:58:10+00:00"
+    "visto_em": "2026-11-25T04:27:56+00:00"
    }
   },
   {
