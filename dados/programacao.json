@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-26T12:33:46-03:00",
- "lido_em": "2026-11-26T12:29:06-03:00",
+ "atualizado_em": "2026-11-26T12:44:44-03:00",
+ "lido_em": "2026-11-26T12:44:44-03:00",
  "total": 18,
  "navios": [
   {
@@ -310,7 +310,7 @@
     "mmsi": "256243000",
     "nome_ais": "DRAWSKO",
     "situacao": "velho",
-    "texto": "sem sinal há 29 h (última posição a 47 mn)",
+    "texto": "sem sinal há 30 h (última posição a 47 mn)",
     "lat": -24.1163,
     "lon": -46.1958,
     "dist_mn": 47.3,
@@ -417,7 +417,7 @@
     "mmsi": "538010087",
     "nome_ais": "V BROS",
     "situacao": "velho",
-    "texto": "sem sinal há 15 h (última posição a 340 mn)",
+    "texto": "sem sinal há 16 h (última posição a 340 mn)",
     "lat": -20.7604,
     "lon": -40.2529,
     "dist_mn": 339.6,
