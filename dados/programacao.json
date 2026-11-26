@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-26T12:22:04-03:00",
- "lido_em": "2026-11-26T12:12:50-03:00",
+ "atualizado_em": "2026-11-26T12:29:06-03:00",
+ "lido_em": "2026-11-26T12:29:06-03:00",
  "total": 18,
  "navios": [
   {
@@ -108,21 +108,21 @@
    "situacao": "PROGRAMADO",
    "ais": {
     "fonte": "vesselfinder",
-    "situacao": "movimento",
-    "texto": "navegando a 0.7 nós · destino Antofagasta, Chile",
+    "situacao": "outro",
+    "texto": "fundeado em Callao, Peru · destino Antofagasta, Chile",
     "nome_ais": "ELISABETTA",
     "link": "https://www.vesselfinder.com/?imo=1058145",
     "destino": "Antofagasta, Chile",
     "eta": "2026-11-26T08:00+00:00",
-    "sog": 0.7,
+    "sog": 0.1,
     "calado": "8.9 m",
     "ultimo_porto": "Callao, Peru",
     "saida": "2026-11-23T12:12+00:00",
     "imo": 1058145,
     "mmsi": 538012957,
-    "status_ais": "navegando",
+    "status_ais": "fundeado",
     "destino_aqui": false,
-    "visto_em": "2026-11-26T14:56:57+00:00"
+    "visto_em": "2026-11-26T15:26:06+00:00"
    }
   },
   {
@@ -206,7 +206,7 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "velho",
-    "texto": "sem sinal há 47 h",
+    "texto": "sem sinal há 2 dias",
     "nome_ais": "BANA",
     "link": "https://www.vesselfinder.com/?imo=8417625",
     "destino": "Sao Sebastiao, Brazil",
@@ -219,7 +219,7 @@
     "mmsi": 370141000,
     "status_ais": "-",
     "destino_aqui": true,
-    "visto_em": "2026-11-24T15:56:57+00:00"
+    "visto_em": "2026-11-24T15:29:06+00:00"
    }
   },
   {
