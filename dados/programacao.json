@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-25T23:25:59-03:00",
+ "atualizado_em": "2026-11-25T23:28:24-03:00",
  "lido_em": "2026-11-25T23:23:36-03:00",
  "total": 18,
  "navios": [
@@ -206,7 +206,7 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "velho",
-    "texto": "sem sinal há 34 h",
+    "texto": "sem sinal há 35 h",
     "nome_ais": "BANA",
     "link": "https://www.vesselfinder.com/?imo=8417625",
     "destino": "Sao Sebastiao, Brazil",
@@ -219,7 +219,7 @@
     "mmsi": 370141000,
     "status_ais": "-",
     "destino_aqui": true,
-    "visto_em": "2026-11-24T15:56:11+00:00"
+    "visto_em": "2026-11-24T15:28:24+00:00"
    }
   },
   {
