@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-26T10:46:01-03:00",
+ "atualizado_em": "2026-11-26T10:50:38-03:00",
  "lido_em": "2026-11-26T10:36:40-03:00",
  "total": 18,
  "navios": [
@@ -171,12 +171,11 @@
     "nome_ais": "PACIFIC ROSE",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 2.1 mn)",
-    "lat": -23.8368,
-    "lon": -45.4252,
+    "lat": -23.8372,
+    "lon": -45.4248,
     "dist_mn": 2.1,
-    "visto_em": "2026-11-26T13:32:03+00:00",
-    "sog": 0.1,
-    "rumo": 3,
+    "visto_em": "2026-11-26T13:50:00+00:00",
+    "sog": 0,
     "calado": 7.7,
     "imo": 9045936,
     "status_ais": "fundeado",
