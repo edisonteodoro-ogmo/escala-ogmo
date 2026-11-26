@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-26T00:13:06-03:00",
+ "atualizado_em": "2026-11-26T00:21:54-03:00",
  "lido_em": "2026-11-26T00:13:06-03:00",
  "total": 18,
  "navios": [
@@ -23,7 +23,7 @@
     "lat": -23.8109,
     "lon": -45.3966,
     "dist_mn": 0.2,
-    "visto_em": "2026-11-26T03:10:13+00:00",
+    "visto_em": "2026-11-26T03:13:19+00:00",
     "sog": 0,
     "rumo": 225,
     "calado": 8.5,
@@ -171,10 +171,10 @@
     "nome_ais": "PACIFIC ROSE",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 2.1 mn)",
-    "lat": -23.8374,
-    "lon": -45.4246,
+    "lat": -23.8377,
+    "lon": -45.4245,
     "dist_mn": 2.1,
-    "visto_em": "2026-11-26T02:40:10+00:00",
+    "visto_em": "2026-11-26T03:13:09+00:00",
     "sog": 0,
     "calado": 7.7,
     "imo": 9045936,
@@ -280,12 +280,12 @@
     "nome_ais": "WHITE PEARL",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 2.8 mn)",
-    "lat": -23.8441,
+    "lat": -23.8442,
     "lon": -45.4363,
     "dist_mn": 2.8,
-    "visto_em": "2026-11-26T03:03:42+00:00",
-    "sog": 0.5,
-    "rumo": 233,
+    "visto_em": "2026-11-26T03:15:45+00:00",
+    "sog": 0.2,
+    "rumo": 244,
     "calado": 5,
     "imo": 7615309,
     "status_ais": "fundeado",
@@ -457,7 +457,7 @@
     "mmsi": 341573002,
     "status_ais": "atracado",
     "destino_aqui": false,
-    "visto_em": "2026-11-26T02:49:23+00:00"
+    "visto_em": "2026-11-26T03:18:54+00:00"
    }
   }
  ],
