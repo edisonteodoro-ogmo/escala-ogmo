@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-26T04:14:33-03:00",
+ "atualizado_em": "2026-11-26T04:23:33-03:00",
  "lido_em": "2026-11-26T04:14:33-03:00",
  "total": 18,
  "navios": [
@@ -23,7 +23,7 @@
     "lat": -23.8109,
     "lon": -45.3966,
     "dist_mn": 0.2,
-    "visto_em": "2026-11-26T07:10:13+00:00",
+    "visto_em": "2026-11-26T07:22:15+00:00",
     "sog": 0,
     "rumo": 225,
     "calado": 8.5,
@@ -52,12 +52,12 @@
     "nome_ais": "ASTRO NEKKAR",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 8.8 mn)",
-    "lat": -23.8801,
-    "lon": -45.5422,
+    "lat": -23.88,
+    "lon": -45.5421,
     "dist_mn": 8.8,
-    "visto_em": "2026-11-26T06:53:33+00:00",
-    "sog": 0.2,
-    "rumo": 293,
+    "visto_em": "2026-11-26T07:23:32+00:00",
+    "sog": 0.1,
+    "rumo": 290,
     "calado": 8.4,
     "imo": 9720304,
     "status_ais": "fundeado",
@@ -143,12 +143,12 @@
     "nome_ais": "PACIFICA",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 9.6 mn)",
-    "lat": -23.8911,
-    "lon": -45.5516,
+    "lat": -23.8912,
+    "lon": -45.5515,
     "dist_mn": 9.6,
-    "visto_em": "2026-11-26T06:28:47+00:00",
-    "sog": 0.1,
-    "rumo": 274,
+    "visto_em": "2026-11-26T07:22:48+00:00",
+    "sog": 0.4,
+    "rumo": 285,
     "calado": 6.4,
     "imo": 9431460,
     "status_ais": "fundeado",
@@ -171,11 +171,12 @@
     "nome_ais": "PACIFIC ROSE",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 2.1 mn)",
-    "lat": -23.8377,
-    "lon": -45.4245,
+    "lat": -23.8376,
+    "lon": -45.4246,
     "dist_mn": 2.1,
-    "visto_em": "2026-11-26T06:25:04+00:00",
-    "sog": 0,
+    "visto_em": "2026-11-26T07:17:05+00:00",
+    "sog": 0.2,
+    "rumo": 326,
     "calado": 7.7,
     "imo": 9045936,
     "status_ais": "fundeado",
@@ -242,7 +243,7 @@
     "lat": -23.8496,
     "lon": -45.4422,
     "dist_mn": 3.3,
-    "visto_em": "2026-11-26T06:44:11+00:00",
+    "visto_em": "2026-11-26T07:20:13+00:00",
     "sog": 0.1,
     "rumo": 231,
     "calado": 6.7,
@@ -280,12 +281,12 @@
     "nome_ais": "WHITE PEARL",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 2.8 mn)",
-    "lat": -23.8436,
-    "lon": -45.436,
+    "lat": -23.8441,
+    "lon": -45.4358,
     "dist_mn": 2.8,
-    "visto_em": "2026-11-26T06:45:46+00:00",
-    "sog": 0.1,
-    "rumo": 252,
+    "visto_em": "2026-11-26T07:12:45+00:00",
+    "sog": 0.2,
+    "rumo": 237,
     "calado": 5,
     "imo": 7615309,
     "status_ais": "fundeado",
@@ -360,7 +361,7 @@
     "mmsi": 538007659,
     "status_ais": "navegando",
     "destino_aqui": false,
-    "visto_em": "2026-11-26T06:47:00+00:00"
+    "visto_em": "2026-11-26T06:47:33+00:00"
    }
   },
   {
@@ -398,7 +399,7 @@
     "mmsi": 538007656,
     "status_ais": "-",
     "destino_aqui": false,
-    "visto_em": "2026-11-23T06:52:00+00:00"
+    "visto_em": "2026-11-23T07:23:33+00:00"
    }
   },
   {
@@ -457,7 +458,7 @@
     "mmsi": 341573002,
     "status_ais": "atracado",
     "destino_aqui": false,
-    "visto_em": "2026-11-26T06:49:00+00:00"
+    "visto_em": "2026-11-26T07:22:33+00:00"
    }
   }
  ],
