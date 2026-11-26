@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-26T12:59:32-03:00",
+ "atualizado_em": "2026-11-26T13:02:14-03:00",
  "atual": "26/11 13h",
  "anterior": "26/11 7h",
  "categorias": [
@@ -11,9 +11,9 @@
  ],
  "resumo": {
   "Estivador": {
-   "agora": 20,
+   "agora": 21,
    "6h": 15,
-   "11h": 29
+   "11h": 28
   },
   "Arrumador": {
    "agora": 28,
@@ -466,7 +466,7 @@
    "num": 367,
    "nome": "LUIZ ANIBAL FERNANDES DE JESUS",
    "cat": "Estivador",
-   "st": "11h",
+   "st": "agora",
    "est": 23
   },
   {
