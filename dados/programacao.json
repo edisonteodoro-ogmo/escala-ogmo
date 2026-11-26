@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-26T03:58:49-03:00",
+ "atualizado_em": "2026-11-26T04:01:07-03:00",
  "lido_em": "2026-11-26T03:58:49-03:00",
  "total": 18,
  "navios": [
@@ -23,7 +23,7 @@
     "lat": -23.8109,
     "lon": -45.3966,
     "dist_mn": 0.2,
-    "visto_em": "2026-11-26T05:58:16+00:00",
+    "visto_em": "2026-11-26T06:55:14+00:00",
     "sog": 0,
     "rumo": 225,
     "calado": 8.5,
@@ -53,11 +53,11 @@
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 8.8 mn)",
     "lat": -23.8801,
-    "lon": -45.5421,
+    "lon": -45.5422,
     "dist_mn": 8.8,
-    "visto_em": "2026-11-26T06:41:46+00:00",
-    "sog": 0.1,
-    "rumo": 288,
+    "visto_em": "2026-11-26T06:53:33+00:00",
+    "sog": 0.2,
+    "rumo": 293,
     "calado": 8.4,
     "imo": 9720304,
     "status_ais": "fundeado",
@@ -122,7 +122,7 @@
     "mmsi": 538012957,
     "status_ais": "-",
     "destino_aqui": false,
-    "visto_em": "2026-11-23T06:29:20+00:00"
+    "visto_em": "2026-11-23T07:01:07+00:00"
    }
   },
   {
@@ -219,7 +219,7 @@
     "mmsi": 370141000,
     "status_ais": "-",
     "destino_aqui": true,
-    "visto_em": "2026-11-24T15:29:20+00:00"
+    "visto_em": "2026-11-24T16:01:07+00:00"
    }
   },
   {
