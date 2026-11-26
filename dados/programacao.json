@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-26T19:03:36-03:00",
- "lido_em": "2026-11-26T18:54:16-03:00",
+ "atualizado_em": "2026-11-26T19:10:49-03:00",
+ "lido_em": "2026-11-26T19:10:49-03:00",
  "total": 18,
  "navios": [
   {
@@ -347,7 +347,7 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "velho",
-    "texto": "sem sinal há 14 h",
+    "texto": "sem sinal há 15 h",
     "nome_ais": "DISCOVERER",
     "link": "https://www.vesselfinder.com/?imo=9577886",
     "destino": "Rio de Janeiro, Brazil",
@@ -360,7 +360,7 @@
     "mmsi": 538007659,
     "status_ais": "-",
     "destino_aqui": false,
-    "visto_em": "2026-11-26T07:40:09+00:00"
+    "visto_em": "2026-11-26T07:10:49+00:00"
    }
   },
   {
