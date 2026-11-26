@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-25T23:58:58-03:00",
+ "atualizado_em": "2026-11-26T00:01:29-03:00",
  "lido_em": "2026-11-25T23:40:06-03:00",
  "total": 18,
  "navios": [
@@ -122,7 +122,7 @@
     "mmsi": 538012957,
     "status_ais": "-",
     "destino_aqui": false,
-    "visto_em": "2026-11-23T02:30:51+00:00"
+    "visto_em": "2026-11-23T03:01:29+00:00"
    }
   },
   {
@@ -412,8 +412,8 @@
    "situacao": "PROGRAMADO",
    "ais": {
     "link": "https://www.vesselfinder.com/?imo=9474204",
-    "ultimo_porto": "Rio Grande, Brazil",
-    "saida": "2026-11-22T11:48+00:00",
+    "ultimo_porto": "Vitoria Anch., Brazil",
+    "saida": "2026-11-26T02:02+00:00",
     "mmsi": "538010087",
     "nome_ais": "V BROS",
     "situacao": "velho",
