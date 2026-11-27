@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-27T01:53:06-03:00",
+ "atualizado_em": "2026-11-27T01:55:18-03:00",
  "lido_em": "2026-11-27T01:53:06-03:00",
  "total": 18,
  "navios": [
@@ -52,12 +52,12 @@
     "nome_ais": "ASTRO NEKKAR",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 8.8 mn)",
-    "lat": -23.8803,
+    "lat": -23.8801,
     "lon": -45.5417,
     "dist_mn": 8.8,
-    "visto_em": "2026-11-27T04:20:31+00:00",
+    "visto_em": "2026-11-27T04:50:32+00:00",
     "sog": 0.1,
-    "rumo": 288,
+    "rumo": 274,
     "calado": 8.4,
     "imo": 9720304,
     "status_ais": "fundeado",
