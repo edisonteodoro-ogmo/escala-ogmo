@@ -1,5 +1,16 @@
 [
  {
+  "arquivo": "boletins/2026-11-27_07-13_161002_690794.png",
+  "titulo": "BOLETIM 21 HANZE GENUA 07/13 · RETIFICAÇÃO",
+  "data": "27/11/2026",
+  "periodo": "07/13",
+  "chave": "<79eea01f-04ed-4971-97e0-e2268b2e61c6@uol.com.br>_85HANZEGENUABOLETIM21pdf",
+  "grupo": "HANZE GENUA|21",
+  "retificacao": true,
+  "recebido_em": "2026-11-27T16:05:50-03:00",
+  "enviado_em": "2026-11-27T16:10:02-03:00"
+ },
+ {
   "arquivo": "boletins/2026-11-27_19-01_154004_037498.png",
   "titulo": "BOLETIM 19 HANZE GENUA 19/01 · RETIFICAÇÃO",
   "data": "27/11/2026",
@@ -9,17 +20,6 @@
   "retificacao": true,
   "recebido_em": "2026-11-27T15:26:48-03:00",
   "enviado_em": "2026-11-27T15:40:04-03:00"
- },
- {
-  "arquivo": "boletins/2026-11-27_07-13_152517_782294.png",
-  "titulo": "BOLETIM 21 HANZE GENUA 07/13 · RETIFICAÇÃO",
-  "data": "27/11/2026",
-  "periodo": "07/13",
-  "chave": "<0c2f8be1-17da-42ad-8a73-e92033d05508@uol.com.br>_85HANZEGENUABOLETIM21pdf",
-  "grupo": "HANZE GENUA|21",
-  "retificacao": true,
-  "recebido_em": "2026-11-27T15:21:55-03:00",
-  "enviado_em": "2026-11-27T15:25:17-03:00"
  },
  {
   "arquivo": "boletins/2026-11-27_01-07_075500_888887.png",
