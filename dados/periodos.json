@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-27T14:17:10-03:00",
+ "atualizado_em": "2026-11-27T14:58:30-03:00",
  "dias": [
   {
    "data": "2026-11-27",
@@ -36,8 +36,38 @@
       "onde": true
      }
     ],
-    "3": [],
-    "4": []
+    "3": [
+     {
+      "req": 61279,
+      "navio": "HANZE GENUA",
+      "operador": "PRONAVE",
+      "ternos": 6,
+      "categorias": [
+       "Arrumador",
+       "Conferente",
+       "Estivador"
+      ],
+      "rancho": false,
+      "extra": "🛰️ atracado em São Sebastião",
+      "onde": true
+     }
+    ],
+    "4": [
+     {
+      "req": 61310,
+      "navio": "HANZE GENUA",
+      "operador": "PRONAVE",
+      "ternos": 6,
+      "categorias": [
+       "Arrumador",
+       "Conferente",
+       "Estivador"
+      ],
+      "rancho": false,
+      "extra": "🛰️ atracado em São Sebastião",
+      "onde": true
+     }
+    ]
    },
    "desc": {
     "1": "07-13",
@@ -49,10 +79,70 @@
   {
    "data": "2026-11-28",
    "periodos": {
-    "1": [],
-    "2": [],
-    "3": [],
-    "4": []
+    "1": [
+     {
+      "req": 61311,
+      "navio": "HANZE GENUA",
+      "operador": "PRONAVE",
+      "ternos": 6,
+      "categorias": [
+       "Arrumador",
+       "Conferente",
+       "Estivador"
+      ],
+      "rancho": false,
+      "extra": "🛰️ atracado em São Sebastião",
+      "onde": true
+     }
+    ],
+    "2": [
+     {
+      "req": 61312,
+      "navio": "HANZE GENUA",
+      "operador": "PRONAVE",
+      "ternos": 6,
+      "categorias": [
+       "Arrumador",
+       "Conferente",
+       "Estivador"
+      ],
+      "rancho": false,
+      "extra": "🛰️ atracado em São Sebastião",
+      "onde": true
+     }
+    ],
+    "3": [
+     {
+      "req": 61313,
+      "navio": "HANZE GENUA",
+      "operador": "PRONAVE",
+      "ternos": 6,
+      "categorias": [
+       "Arrumador",
+       "Conferente",
+       "Estivador"
+      ],
+      "rancho": false,
+      "extra": "🛰️ atracado em São Sebastião",
+      "onde": true
+     }
+    ],
+    "4": [
+     {
+      "req": 61314,
+      "navio": "HANZE GENUA",
+      "operador": "PRONAVE",
+      "ternos": 6,
+      "categorias": [
+       "Arrumador",
+       "Conferente",
+       "Estivador"
+      ],
+      "rancho": false,
+      "extra": "🛰️ atracado em São Sebastião",
+      "onde": true
+     }
+    ]
    },
    "desc": {
     "1": "07-13",
