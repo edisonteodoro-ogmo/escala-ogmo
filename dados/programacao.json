@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-27T20:09:26-03:00",
+ "atualizado_em": "2026-11-27T20:18:29-03:00",
  "lido_em": "2026-11-27T20:09:26-03:00",
  "total": 18,
  "navios": [
@@ -20,10 +20,10 @@
     "nome_ais": "HANZE GENUA",
     "situacao": "atracado",
     "texto": "atracado em São Sebastião",
-    "lat": -23.811,
+    "lat": -23.8109,
     "lon": -45.3966,
     "dist_mn": 0.2,
-    "visto_em": "2026-11-27T22:40:27+00:00",
+    "visto_em": "2026-11-27T23:10:25+00:00",
     "sog": 0,
     "rumo": 226,
     "calado": 8.5,
@@ -172,12 +172,12 @@
     "nome_ais": "PACIFIC ROSE",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 2.3 mn)",
-    "lat": -23.8393,
-    "lon": -45.4277,
+    "lat": -23.8394,
+    "lon": -45.4275,
     "dist_mn": 2.3,
-    "visto_em": "2026-11-27T23:05:59+00:00",
-    "sog": 0.2,
-    "rumo": 329,
+    "visto_em": "2026-11-27T23:14:01+00:00",
+    "sog": 0.4,
+    "rumo": 138,
     "calado": 7.7,
     "imo": 9045936,
     "status_ais": "fundeado",
@@ -349,7 +349,7 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "velho",
-    "texto": "sem sinal há 39 h",
+    "texto": "sem sinal há 40 h",
     "nome_ais": "DISCOVERER",
     "link": "https://www.vesselfinder.com/?imo=9577886",
     "destino": "Rio de Janeiro, Brazil",
@@ -362,7 +362,7 @@
     "mmsi": 538007659,
     "status_ais": "-",
     "destino_aqui": false,
-    "visto_em": "2026-11-26T07:48:15+00:00"
+    "visto_em": "2026-11-26T07:18:29+00:00"
    }
   },
   {
