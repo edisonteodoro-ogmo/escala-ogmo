@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-27T08:22:10-03:00",
+ "atualizado_em": "2026-11-27T08:24:46-03:00",
  "lido_em": "2026-11-27T08:17:26-03:00",
  "total": 18,
  "navios": [
@@ -23,7 +23,7 @@
     "lat": -23.8109,
     "lon": -45.3966,
     "dist_mn": 0.2,
-    "visto_em": "2026-11-27T11:01:20+00:00",
+    "visto_em": "2026-11-27T11:22:26+00:00",
     "sog": 0,
     "rumo": 225,
     "calado": 8.5,
@@ -77,8 +77,8 @@
    "situacao": "PROGRAMADO",
    "ais": {
     "link": "https://www.vesselfinder.com/?imo=9474254",
-    "ultimo_porto": "Santos Anch., Brazil",
-    "saida": "2026-11-18T16:45+00:00",
+    "ultimo_porto": "Santos, Brazil",
+    "saida": "2026-11-18T19:10+00:00",
     "mmsi": "538007973",
     "nome_ais": "V ISALOS",
     "situacao": "outro",
@@ -239,12 +239,12 @@
     "nome_ais": "BLUE OCEAN A",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 3.4 mn)",
-    "lat": -23.85,
-    "lon": -45.445,
+    "lat": -23.8502,
+    "lon": -45.4452,
     "dist_mn": 3.4,
-    "visto_em": "2026-11-27T10:46:12+00:00",
-    "sog": 0.4,
-    "rumo": 105,
+    "visto_em": "2026-11-27T11:22:09+00:00",
+    "sog": 0.1,
+    "rumo": 101,
     "calado": 6.7,
     "imo": 9045089,
     "status_ais": "fundeado",
@@ -398,7 +398,7 @@
     "mmsi": 538007656,
     "status_ais": "-",
     "destino_aqui": false,
-    "visto_em": "2026-11-23T10:52:30+00:00"
+    "visto_em": "2026-11-23T11:24:46+00:00"
    }
   },
   {
@@ -457,7 +457,7 @@
     "mmsi": 341573002,
     "status_ais": "atracado",
     "destino_aqui": false,
-    "visto_em": "2026-11-27T10:49:30+00:00"
+    "visto_em": "2026-11-27T11:21:46+00:00"
    }
   }
  ],
