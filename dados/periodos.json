@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-27T12:03:06-03:00",
+ "atualizado_em": "2026-11-27T12:12:24-03:00",
  "dias": [
   {
    "data": "2026-11-27",
@@ -25,7 +25,7 @@
       "req": 61283,
       "navio": "HANZE GENUA",
       "operador": "PRONAVE",
-      "ternos": 2,
+      "ternos": 3,
       "categorias": [
        "Arrumador",
        "Conferente",
