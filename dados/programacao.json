@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-27T16:22:32-03:00",
+ "atualizado_em": "2026-11-27T16:29:15-03:00",
  "lido_em": "2026-11-27T16:22:32-03:00",
  "total": 18,
  "navios": [
@@ -23,7 +23,7 @@
     "lat": -23.8109,
     "lon": -45.3966,
     "dist_mn": 0.2,
-    "visto_em": "2026-11-27T19:07:25+00:00",
+    "visto_em": "2026-11-27T19:25:26+00:00",
     "sog": 0,
     "rumo": 225,
     "calado": 8.5,
@@ -83,7 +83,7 @@
     "mmsi": "538007973",
     "nome_ais": "V ISALOS",
     "situacao": "velho",
-    "texto": "sem sinal há 6 h (última posição a 53 mn)",
+    "texto": "sem sinal há 7 h (última posição a 53 mn)",
     "lat": -24.0022,
     "lon": -46.3352,
     "dist_mn": 52.6,
