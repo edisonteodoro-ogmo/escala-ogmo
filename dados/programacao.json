@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-27T09:26:06-03:00",
+ "atualizado_em": "2026-11-27T09:28:37-03:00",
  "lido_em": "2026-11-27T09:21:24-03:00",
  "total": 18,
  "navios": [
@@ -78,7 +78,7 @@
    "ais": {
     "link": "https://www.vesselfinder.com/?imo=9474254",
     "ultimo_porto": "Santos, Brazil",
-    "saida": "2026-11-18T19:10+00:00",
+    "saida": "2026-11-27T12:18+00:00",
     "mmsi": "538007973",
     "nome_ais": "V ISALOS",
     "situacao": "outro",
@@ -398,7 +398,7 @@
     "mmsi": 538007656,
     "status_ais": "-",
     "destino_aqui": false,
-    "visto_em": "2026-11-23T11:56:46+00:00"
+    "visto_em": "2026-11-23T12:28:37+00:00"
    }
   },
   {
@@ -457,7 +457,7 @@
     "mmsi": 341573002,
     "status_ais": "atracado",
     "destino_aqui": false,
-    "visto_em": "2026-11-27T11:54:46+00:00"
+    "visto_em": "2026-11-27T12:28:37+00:00"
    }
   }
  ],
