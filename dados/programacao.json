@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-27T02:02:15-03:00",
+ "atualizado_em": "2026-11-27T02:04:39-03:00",
  "lido_em": "2026-11-27T01:53:06-03:00",
  "total": 18,
  "navios": [
@@ -398,7 +398,7 @@
     "mmsi": 538007656,
     "status_ais": "-",
     "destino_aqui": false,
-    "visto_em": "2026-11-23T04:32:49+00:00"
+    "visto_em": "2026-11-23T05:04:39+00:00"
    }
   },
   {
@@ -457,19 +457,10 @@
     "mmsi": 341573002,
     "status_ais": "atracado",
     "destino_aqui": false,
-    "visto_em": "2026-11-27T04:30:49+00:00"
+    "visto_em": "2026-11-27T05:04:39+00:00"
    }
   }
  ],
- "cais": {
-  "fonte": "praticagem",
-  "saindo": [
-   {
-    "navio": "HANZE GENUA",
-    "horario": "28/11 11:00"
-   }
-  ]
- },
  "ais_navios": 14,
  "porto": {
   "lat": -23.8105,
