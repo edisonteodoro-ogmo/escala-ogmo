@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-27T15:36:11-03:00",
+ "atualizado_em": "2026-11-27T16:40:41-03:00",
  "dias": [
   {
    "data": "2026-11-27",
@@ -92,7 +92,9 @@
       ],
       "rancho": true,
       "posicao": "aguardando",
-      "extra": "📍 entra P1 27/11 23:30"
+      "extra": "📍 entra P1 27/11 23:30",
+      "obs": "TOTAL A SER MOVIMENTADO: DTA 03 VOLUMES PESANDO 127 KGS RANCHO 3.800 KGS TOTAL A SER MOVIMENTADO = 3.927 KGS",
+      "resumo": "03 VOLUMES · 3.927 KG"
      },
      {
       "req": 61311,
