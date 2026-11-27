@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-27T12:05:18-03:00",
+ "atualizado_em": "2026-11-27T12:07:44-03:00",
  "lido_em": "2026-11-27T12:02:44-03:00",
  "total": 18,
  "navios": [
@@ -44,6 +44,7 @@
    "local": "ARMAZEM CDSS",
    "situacao": "FUNDEADO",
    "fundeado": true,
+   "cais": "28/11 20:30",
    "ais": {
     "link": "https://www.vesselfinder.com/?imo=9720304",
     "ultimo_porto": "Sao Francisco do Sul, Brazil",
@@ -467,9 +468,14 @@
   "saindo": [
    {
     "navio": "HANZE GENUA",
-    "horario": "27/11 20:00"
+    "horario": "28/11 19:00"
    }
-  ]
+  ],
+  "proximo": {
+   "navio": "ASTRO NEKKAR",
+   "horario": "28/11 20:30"
+  },
+  "depois": []
  },
  "ais_navios": 14,
  "porto": {
