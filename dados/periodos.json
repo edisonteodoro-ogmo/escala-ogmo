@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-27T14:58:30-03:00",
+ "atualizado_em": "2026-11-27T15:03:12-03:00",
  "dias": [
   {
    "data": "2026-11-27",
@@ -97,6 +97,20 @@
     ],
     "2": [
      {
+      "req": 61326,
+      "navio": "ASTRO NEKKAR",
+      "operador": "PRONAVE",
+      "ternos": 7,
+      "categorias": [
+       "Arrumador",
+       "Conferente",
+       "Estivador"
+      ],
+      "rancho": false,
+      "extra": "🛰️ fundeado na área do porto (a 8.8 mn)",
+      "onde": true
+     },
+     {
       "req": 61312,
       "navio": "HANZE GENUA",
       "operador": "PRONAVE",
@@ -113,6 +127,20 @@
     ],
     "3": [
      {
+      "req": 61328,
+      "navio": "ASTRO NEKKAR",
+      "operador": "PRONAVE",
+      "ternos": 7,
+      "categorias": [
+       "Arrumador",
+       "Conferente",
+       "Estivador"
+      ],
+      "rancho": false,
+      "extra": "🛰️ fundeado na área do porto (a 8.8 mn)",
+      "onde": true
+     },
+     {
       "req": 61313,
       "navio": "HANZE GENUA",
       "operador": "PRONAVE",
@@ -128,6 +156,20 @@
      }
     ],
     "4": [
+     {
+      "req": 61331,
+      "navio": "ASTRO NEKKAR",
+      "operador": "PRONAVE",
+      "ternos": 7,
+      "categorias": [
+       "Arrumador",
+       "Conferente",
+       "Estivador"
+      ],
+      "rancho": false,
+      "extra": "🛰️ fundeado na área do porto (a 8.8 mn)",
+      "onde": true
+     },
      {
       "req": 61314,
       "navio": "HANZE GENUA",
