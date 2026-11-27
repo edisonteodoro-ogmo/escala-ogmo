@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-27T19:03:51-03:00",
+ "atualizado_em": "2026-11-27T19:08:45-03:00",
  "lido_em": "2026-11-27T19:03:51-03:00",
  "total": 18,
  "navios": [
@@ -144,12 +144,12 @@
     "nome_ais": "PACIFICA",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 9.7 mn)",
-    "lat": -23.8922,
+    "lat": -23.8924,
     "lon": -45.5525,
     "dist_mn": 9.7,
-    "visto_em": "2026-11-27T21:55:56+00:00",
+    "visto_em": "2026-11-27T21:58:50+00:00",
     "sog": 0.2,
-    "rumo": 338,
+    "rumo": 345,
     "calado": 6.4,
     "imo": 9431460,
     "status_ais": "fundeado",
