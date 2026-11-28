@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-28T09:01:15-03:00",
- "lido_em": "2026-11-28T08:52:24-03:00",
+ "atualizado_em": "2026-11-28T09:08:24-03:00",
+ "lido_em": "2026-11-28T09:08:24-03:00",
  "total": 18,
  "navios": [
   {
@@ -352,7 +352,7 @@
     "nome_ais": "DISCOVERER",
     "link": "https://www.vesselfinder.com/?imo=9577886",
     "destino": "Rio de Janeiro, Brazil",
-    "eta": "2026-11-29T03:01+00:00",
+    "eta": "2026-11-29T05:00+00:00",
     "sog": 13.0,
     "calado": "9.3 m",
     "ultimo_porto": "Montevideo Anch., Uruguay",
@@ -361,7 +361,7 @@
     "mmsi": 538007659,
     "status_ais": "-",
     "destino_aqui": false,
-    "visto_em": "2026-11-26T11:37:57+00:00"
+    "visto_em": "2026-11-26T12:08:24+00:00"
    }
   },
   {
