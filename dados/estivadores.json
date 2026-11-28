@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-28T06:58:10-03:00",
+ "atualizado_em": "2026-11-28T12:59:21-03:00",
  "total": 64,
  "resumo": {
   "total": 64,
@@ -10,8 +10,8 @@
   "guin": 24,
   "emp": 10,
   "pte": 17,
-  "pego": 23,
-  "livre": 32
+  "pego": 13,
+  "livre": 42
  },
  "pessoas": [
   {
@@ -22,7 +22,7 @@
    "guin": 1,
    "emp": null,
    "pte": 1,
-   "sit": "pego"
+   "sit": "livre"
   },
   {
    "num": 2,
@@ -32,7 +32,7 @@
    "guin": null,
    "emp": null,
    "pte": null,
-   "sit": "pego"
+   "sit": "livre"
   },
   {
    "num": 3,
@@ -42,7 +42,7 @@
    "guin": 2,
    "emp": null,
    "pte": 2,
-   "sit": "pego"
+   "sit": "livre"
   },
   {
    "num": 4,
@@ -62,7 +62,7 @@
    "guin": null,
    "emp": null,
    "pte": null,
-   "sit": "pego"
+   "sit": "livre"
   },
   {
    "num": 6,
@@ -92,7 +92,7 @@
    "guin": 5,
    "emp": null,
    "pte": 5,
-   "sit": "pego"
+   "sit": "livre"
   },
   {
    "num": 9,
@@ -102,7 +102,7 @@
    "guin": 6,
    "emp": 1,
    "pte": 6,
-   "sit": "pego"
+   "sit": "livre"
   },
   {
    "num": 10,
@@ -112,7 +112,7 @@
    "guin": 7,
    "emp": null,
    "pte": null,
-   "sit": "pego"
+   "sit": "livre"
   },
   {
    "num": 11,
@@ -132,7 +132,7 @@
    "guin": null,
    "emp": null,
    "pte": null,
-   "sit": "pego"
+   "sit": "livre"
   },
   {
    "num": 13,
@@ -152,7 +152,7 @@
    "guin": null,
    "emp": 2,
    "pte": null,
-   "sit": "pego"
+   "sit": "livre"
   },
   {
    "num": 15,
@@ -172,7 +172,7 @@
    "guin": 9,
    "emp": 3,
    "pte": 8,
-   "sit": "pego"
+   "sit": "livre"
   },
   {
    "num": 17,
@@ -191,7 +191,7 @@
    "guin": null,
    "emp": 4,
    "pte": null,
-   "sit": "pego"
+   "sit": "livre"
   },
   {
    "num": 19,
@@ -201,7 +201,7 @@
    "guin": null,
    "emp": null,
    "pte": null,
-   "sit": "livre"
+   "sit": "pego"
   },
   {
    "num": 20,
@@ -211,7 +211,7 @@
    "guin": 10,
    "emp": null,
    "pte": 9,
-   "sit": "pego"
+   "sit": "livre"
   },
   {
    "num": 21,
@@ -221,7 +221,7 @@
    "guin": 11,
    "emp": 5,
    "pte": 10,
-   "sit": "pego"
+   "sit": "livre"
   },
   {
    "num": 22,
@@ -240,7 +240,7 @@
    "guin": 12,
    "emp": 6,
    "pte": 11,
-   "sit": "livre"
+   "sit": "pego"
   },
   {
    "num": 24,
@@ -250,7 +250,7 @@
    "guin": 13,
    "emp": 7,
    "pte": 12,
-   "sit": "livre"
+   "sit": "pego"
   },
   {
    "num": 25,
@@ -260,7 +260,7 @@
    "guin": 14,
    "emp": null,
    "pte": null,
-   "sit": "livre"
+   "sit": "pego"
   },
   {
    "num": 26,
@@ -280,7 +280,7 @@
    "guin": 16,
    "emp": null,
    "pte": null,
-   "sit": "pego"
+   "sit": "livre"
   },
   {
    "num": 28,
@@ -299,7 +299,7 @@
    "guin": null,
    "emp": null,
    "pte": null,
-   "sit": "livre"
+   "sit": "pego"
   },
   {
    "num": 30,
@@ -318,7 +318,7 @@
    "guin": null,
    "emp": null,
    "pte": null,
-   "sit": "livre"
+   "sit": "pego"
   },
   {
    "num": 32,
@@ -328,7 +328,7 @@
    "guin": null,
    "emp": null,
    "pte": null,
-   "sit": "pego"
+   "sit": "livre"
   },
   {
    "num": 33,
@@ -357,7 +357,7 @@
    "guin": null,
    "emp": null,
    "pte": null,
-   "sit": "livre"
+   "sit": "pego"
   },
   {
    "num": 36,
@@ -376,7 +376,7 @@
    "guin": null,
    "emp": null,
    "pte": null,
-   "sit": "livre"
+   "sit": "pego"
   },
   {
    "num": 38,
@@ -396,7 +396,7 @@
    "guin": null,
    "emp": 8,
    "pte": null,
-   "sit": "livre"
+   "sit": "pego"
   },
   {
    "num": 40,
@@ -426,7 +426,7 @@
    "guin": null,
    "emp": null,
    "pte": null,
-   "sit": "livre"
+   "sit": "pego"
   },
   {
    "num": 43,
@@ -436,7 +436,7 @@
    "guin": 17,
    "emp": 9,
    "pte": 14,
-   "sit": "pego"
+   "sit": "livre"
   },
   {
    "num": 44,
@@ -455,7 +455,7 @@
    "guin": null,
    "emp": null,
    "pte": null,
-   "sit": "livre"
+   "sit": "pego"
   },
   {
    "num": 46,
@@ -503,7 +503,7 @@
    "guin": null,
    "emp": 10,
    "pte": null,
-   "sit": "pego"
+   "sit": "livre"
   },
   {
    "num": 51,
@@ -513,7 +513,7 @@
    "guin": 19,
    "emp": null,
    "pte": 16,
-   "sit": "pego"
+   "sit": "livre"
   },
   {
    "num": 52,
@@ -543,7 +543,7 @@
    "guin": 20,
    "emp": null,
    "pte": null,
-   "sit": "livre"
+   "sit": "pego"
   },
   {
    "num": 55,
@@ -553,7 +553,7 @@
    "guin": 21,
    "emp": null,
    "pte": null,
-   "sit": "pego"
+   "sit": "livre"
   },
   {
    "num": 56,
@@ -573,7 +573,7 @@
    "guin": null,
    "emp": null,
    "pte": null,
-   "sit": "pego"
+   "sit": "livre"
   },
   {
    "num": 58,
@@ -583,7 +583,7 @@
    "guin": 23,
    "emp": null,
    "pte": null,
-   "sit": "livre"
+   "sit": "pego"
   },
   {
    "num": 59,
@@ -603,7 +603,7 @@
    "guin": null,
    "emp": null,
    "pte": null,
-   "sit": "pego"
+   "sit": "livre"
   },
   {
    "num": 61,
@@ -623,7 +623,7 @@
    "guin": null,
    "emp": null,
    "pte": null,
-   "sit": "pego"
+   "sit": "livre"
   },
   {
    "num": 63,
@@ -633,7 +633,7 @@
    "guin": null,
    "emp": null,
    "pte": null,
-   "sit": "pego"
+   "sit": "livre"
   },
   {
    "num": 64,
@@ -646,5 +646,5 @@
    "sit": "livre"
   }
  ],
- "atual": "28/11 7h"
+ "atual": "28/11 13h"
 }
