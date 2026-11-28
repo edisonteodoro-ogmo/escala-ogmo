@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-11-28T04:24:51-03:00",
- "lido_em": "2026-11-28T04:15:56-03:00",
+ "atualizado_em": "2026-11-28T04:31:46-03:00",
+ "lido_em": "2026-11-28T04:31:46-03:00",
  "total": 18,
  "navios": [
   {
@@ -308,7 +308,7 @@
    "ais": {
     "link": "https://www.vesselfinder.com/?imo=9393450",
     "ultimo_porto": "Santos Anch., Brazil",
-    "saida": "2026-11-14T15:27+00:00",
+    "saida": "2026-11-14T18:48+00:00",
     "mmsi": "256243000",
     "nome_ais": "DRAWSKO",
     "situacao": "outro",
@@ -349,7 +349,7 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "velho",
-    "texto": "sem sinal há 47 h",
+    "texto": "sem sinal há 2 dias",
     "nome_ais": "DISCOVERER",
     "link": "https://www.vesselfinder.com/?imo=9577886",
     "destino": "Rio de Janeiro, Brazil",
@@ -362,7 +362,7 @@
     "mmsi": 538007659,
     "status_ais": "-",
     "destino_aqui": false,
-    "visto_em": "2026-11-26T07:59:34+00:00"
+    "visto_em": "2026-11-26T07:31:46+00:00"
    }
   },
   {
