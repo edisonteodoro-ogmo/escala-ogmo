@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-28T06:58:14-03:00",
+ "atualizado_em": "2026-11-28T07:00:32-03:00",
  "atual": "28/11 7h",
  "anterior": "27/11 1h",
  "categorias": [
@@ -21,9 +21,9 @@
    "11h": 14
   },
   "Consertador": {
-   "agora": 0,
+   "agora": 1,
    "6h": 1,
-   "11h": 4
+   "11h": 3
   },
   "Vigia": {
    "agora": 0,
@@ -116,7 +116,7 @@
    "num": 312,
    "nome": "MILTON FERNANDES DA SILVA",
    "cat": "Consertador",
-   "st": "11h"
+   "st": "agora"
   },
   {
    "num": 313,
