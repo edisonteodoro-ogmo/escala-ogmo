@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-28T08:35:25-03:00",
+ "atualizado_em": "2026-11-28T08:37:57-03:00",
  "lido_em": "2026-11-28T08:35:25-03:00",
  "total": 18,
  "navios": [
@@ -23,7 +23,7 @@
     "lat": -23.8109,
     "lon": -45.3966,
     "dist_mn": 0.2,
-    "visto_em": "2026-11-28T11:25:29+00:00",
+    "visto_em": "2026-11-28T11:37:30+00:00",
     "sog": 0,
     "rumo": 225,
     "calado": 8.5,
@@ -83,7 +83,7 @@
     "mmsi": "538007973",
     "nome_ais": "V ISALOS",
     "situacao": "velho",
-    "texto": "sem sinal há 22 h (última posição a 53 mn)",
+    "texto": "sem sinal há 23 h (última posição a 53 mn)",
     "lat": -24.0022,
     "lon": -46.3352,
     "dist_mn": 52.6,
@@ -143,13 +143,13 @@
     "mmsi": "565227000",
     "nome_ais": "PACIFICA",
     "situacao": "fundeado",
-    "texto": "fundeado na área do porto (a 9.6 mn)",
-    "lat": -23.8916,
-    "lon": -45.5527,
-    "dist_mn": 9.6,
-    "visto_em": "2026-11-28T10:59:00+00:00",
-    "sog": 1.2,
-    "rumo": 251,
+    "texto": "fundeado na área do porto (a 9.7 mn)",
+    "lat": -23.8911,
+    "lon": -45.5531,
+    "dist_mn": 9.7,
+    "visto_em": "2026-11-28T11:38:09+00:00",
+    "sog": 1,
+    "rumo": 236,
     "calado": 6.4,
     "imo": 9431460,
     "status_ais": "fundeado",
@@ -361,7 +361,7 @@
     "mmsi": 538007659,
     "status_ais": "-",
     "destino_aqui": false,
-    "visto_em": "2026-11-26T11:07:44+00:00"
+    "visto_em": "2026-11-26T11:37:57+00:00"
    }
   },
   {
