@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-27T21:21:10-03:00",
+ "atualizado_em": "2026-11-27T21:25:55-03:00",
  "lido_em": "2026-11-27T21:13:59-03:00",
  "total": 18,
  "navios": [
@@ -44,7 +44,6 @@
    "local": "ARMAZEM CDSS",
    "situacao": "FUNDEADO",
    "fundeado": true,
-   "cais": "28/11 20:30",
    "ais": {
     "link": "https://www.vesselfinder.com/?imo=9720304",
     "ultimo_porto": "Sao Francisco do Sul, Brazil",
@@ -115,7 +114,7 @@
     "link": "https://www.vesselfinder.com/?imo=1058145",
     "destino": "Antofagasta Anch., Chile",
     "chegou": "2026-11-26T15:25+00:00",
-    "sog": 0.1,
+    "sog": 0.0,
     "calado": "8.9 m",
     "ultimo_porto": "Callao, Peru",
     "saida": "2026-11-23T12:12+00:00",
@@ -123,7 +122,7 @@
     "mmsi": 538012957,
     "status_ais": "fundeado",
     "destino_aqui": false,
-    "visto_em": "2026-11-27T23:49:46+00:00"
+    "visto_em": "2026-11-28T00:22:55+00:00"
    }
   },
   {
@@ -463,20 +462,6 @@
    }
   }
  ],
- "cais": {
-  "fonte": "praticagem",
-  "saindo": [
-   {
-    "navio": "HANZE GENUA",
-    "horario": "28/11 19:00"
-   }
-  ],
-  "proximo": {
-   "navio": "ASTRO NEKKAR",
-   "horario": "28/11 20:30"
-  },
-  "depois": []
- },
  "ais_navios": 14,
  "porto": {
   "lat": -23.8105,
