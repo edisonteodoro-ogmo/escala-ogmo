@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-27T23:47:33-03:00",
+ "atualizado_em": "2026-11-28T00:02:02-03:00",
  "dias": [
   {
    "data": "2026-11-27",
@@ -188,6 +188,137 @@
      },
      {
       "req": 61314,
+      "navio": "HANZE GENUA",
+      "operador": "PRONAVE",
+      "ternos": 6,
+      "categorias": [
+       "Arrumador",
+       "Conferente",
+       "Estivador"
+      ],
+      "rancho": false,
+      "extra": "🛰️ atracado em São Sebastião",
+      "onde": true
+     }
+    ]
+   },
+   "desc": {
+    "1": "07-13",
+    "2": "13-19",
+    "3": "19-01",
+    "4": "01-07"
+   }
+  },
+  {
+   "data": "2026-11-29",
+   "periodos": {
+    "1": [
+     {
+      "req": 61332,
+      "navio": "ASTRO NEKKAR",
+      "operador": "PRONAVE",
+      "ternos": 7,
+      "categorias": [
+       "Arrumador",
+       "Conferente",
+       "Estivador"
+      ],
+      "rancho": false,
+      "extra": "🛰️ fundeado na área do porto (a 9.0 mn)",
+      "onde": true
+     },
+     {
+      "req": 61315,
+      "navio": "HANZE GENUA",
+      "operador": "PRONAVE",
+      "ternos": 6,
+      "categorias": [
+       "Arrumador",
+       "Conferente",
+       "Estivador"
+      ],
+      "rancho": false,
+      "extra": "🛰️ atracado em São Sebastião",
+      "onde": true
+     }
+    ],
+    "2": [
+     {
+      "req": 61335,
+      "navio": "ASTRO NEKKAR",
+      "operador": "PRONAVE",
+      "ternos": 7,
+      "categorias": [
+       "Arrumador",
+       "Conferente",
+       "Estivador"
+      ],
+      "rancho": false,
+      "extra": "🛰️ fundeado na área do porto (a 9.0 mn)",
+      "onde": true
+     },
+     {
+      "req": 61316,
+      "navio": "HANZE GENUA",
+      "operador": "PRONAVE",
+      "ternos": 6,
+      "categorias": [
+       "Arrumador",
+       "Conferente",
+       "Estivador"
+      ],
+      "rancho": false,
+      "extra": "🛰️ atracado em São Sebastião",
+      "onde": true
+     }
+    ],
+    "3": [
+     {
+      "req": 61337,
+      "navio": "ASTRO NEKKAR",
+      "operador": "PRONAVE",
+      "ternos": 7,
+      "categorias": [
+       "Arrumador",
+       "Conferente",
+       "Estivador"
+      ],
+      "rancho": false,
+      "extra": "🛰️ fundeado na área do porto (a 9.0 mn)",
+      "onde": true
+     },
+     {
+      "req": 61317,
+      "navio": "HANZE GENUA",
+      "operador": "PRONAVE",
+      "ternos": 6,
+      "categorias": [
+       "Arrumador",
+       "Conferente",
+       "Estivador"
+      ],
+      "rancho": false,
+      "extra": "🛰️ atracado em São Sebastião",
+      "onde": true
+     }
+    ],
+    "4": [
+     {
+      "req": 61339,
+      "navio": "ASTRO NEKKAR",
+      "operador": "PRONAVE",
+      "ternos": 7,
+      "categorias": [
+       "Arrumador",
+       "Conferente",
+       "Estivador"
+      ],
+      "rancho": false,
+      "extra": "🛰️ fundeado na área do porto (a 9.0 mn)",
+      "onde": true
+     },
+     {
+      "req": 61318,
       "navio": "HANZE GENUA",
       "operador": "PRONAVE",
       "ternos": 6,
