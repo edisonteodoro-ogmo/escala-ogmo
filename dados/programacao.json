@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-28T12:53:53-03:00",
+ "atualizado_em": "2026-11-28T12:56:18-03:00",
  "lido_em": "2026-11-28T12:53:53-03:00",
  "total": 18,
  "navios": [
@@ -115,7 +115,7 @@
     "link": "https://www.vesselfinder.com/?imo=1058145",
     "destino": "Antofagasta Anch., Chile",
     "chegou": "2026-11-26T15:25+00:00",
-    "sog": 0.2,
+    "sog": 0.5,
     "calado": "8.9 m",
     "ultimo_porto": "Callao, Peru",
     "saida": "2026-11-23T12:12+00:00",
@@ -123,7 +123,7 @@
     "mmsi": 538012957,
     "status_ais": "fundeado",
     "destino_aqui": false,
-    "visto_em": "2026-11-28T15:13:16+00:00"
+    "visto_em": "2026-11-28T15:55:18+00:00"
    }
   },
   {
@@ -400,7 +400,7 @@
     "mmsi": 538007656,
     "status_ais": "-",
     "destino_aqui": false,
-    "visto_em": "2026-11-22T15:24:16+00:00"
+    "visto_em": "2026-11-22T15:56:18+00:00"
    }
   },
   {
@@ -459,7 +459,7 @@
     "mmsi": 341573002,
     "status_ais": "-",
     "destino_aqui": false,
-    "visto_em": "2026-11-28T00:24:16+00:00"
+    "visto_em": "2026-11-28T00:56:18+00:00"
    }
   }
  ],
