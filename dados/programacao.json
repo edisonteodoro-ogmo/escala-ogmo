@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-28T10:18:30-03:00",
+ "atualizado_em": "2026-11-28T10:20:58-03:00",
  "lido_em": "2026-11-28T10:13:31-03:00",
  "total": 18,
  "navios": [
@@ -23,7 +23,7 @@
     "lat": -23.8109,
     "lon": -45.3966,
     "dist_mn": 0.2,
-    "visto_em": "2026-11-28T13:07:28+00:00",
+    "visto_em": "2026-11-28T13:13:24+00:00",
     "sog": 0,
     "rumo": 225,
     "calado": 8.5,
@@ -172,12 +172,12 @@
     "nome_ais": "PACIFIC ROSE",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 2.3 mn)",
-    "lat": -23.8394,
-    "lon": -45.4281,
+    "lat": -23.8396,
+    "lon": -45.4279,
     "dist_mn": 2.3,
-    "visto_em": "2026-11-28T13:07:50+00:00",
-    "sog": 0.4,
-    "rumo": 174,
+    "visto_em": "2026-11-28T13:17:48+00:00",
+    "sog": 0.3,
+    "rumo": 147,
     "calado": 7.7,
     "imo": 9045936,
     "status_ais": "fundeado",
@@ -221,7 +221,7 @@
     "mmsi": 370141000,
     "status_ais": "-",
     "destino_aqui": true,
-    "visto_em": "2026-11-27T11:50:40+00:00"
+    "visto_em": "2026-11-27T12:20:58+00:00"
    }
   },
   {
@@ -283,11 +283,11 @@
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 2.9 mn)",
     "lat": -23.8449,
-    "lon": -45.4384,
+    "lon": -45.4383,
     "dist_mn": 2.9,
-    "visto_em": "2026-11-28T13:00:56+00:00",
-    "sog": 0.4,
-    "rumo": 41,
+    "visto_em": "2026-11-28T13:12:58+00:00",
+    "sog": 0,
+    "rumo": 32,
     "calado": 5,
     "imo": 7615309,
     "status_ais": "fundeado",
