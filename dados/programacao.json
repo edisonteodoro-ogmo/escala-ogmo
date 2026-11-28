@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-28T05:04:04-03:00",
+ "atualizado_em": "2026-11-28T05:06:30-03:00",
  "lido_em": "2026-11-28T05:04:04-03:00",
  "total": 18,
  "navios": [
@@ -400,7 +400,7 @@
     "mmsi": 538007656,
     "status_ais": "-",
     "destino_aqui": false,
-    "visto_em": "2026-11-23T07:34:17+00:00"
+    "visto_em": "2026-11-23T08:06:30+00:00"
    }
   },
   {
@@ -446,7 +446,7 @@
    "ais": {
     "fonte": "vesselfinder",
     "situacao": "velho",
-    "texto": "sem sinal há 7 h",
+    "texto": "sem sinal há 8 h",
     "nome_ais": "BALHA ONE",
     "link": "https://www.vesselfinder.com/?imo=9336282",
     "destino": "Dumyat (Damietta), Egypt",
@@ -459,7 +459,7 @@
     "mmsi": 341573002,
     "status_ais": "navegando",
     "destino_aqui": false,
-    "visto_em": "2026-11-28T00:34:17+00:00"
+    "visto_em": "2026-11-28T00:06:30+00:00"
    }
   }
  ],
