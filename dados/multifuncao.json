@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-28T12:59:25-03:00",
+ "atualizado_em": "2026-11-28T13:04:27-03:00",
  "atual": "28/11 13h",
  "anterior": "28/11 7h",
  "categorias": [
@@ -778,7 +778,7 @@
    "num": 415,
    "nome": "PAULO MARCOS FORTUNATO",
    "cat": "Estivador",
-   "st": "11h",
+   "st": "agora",
    "est": 48
   },
   {
@@ -869,7 +869,7 @@
    "num": 429,
    "nome": "EDUARDO TEODORO DA SILVA",
    "cat": "Estivador",
-   "st": "agora",
+   "st": "11h",
    "est": 54
   },
   {
