@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-28T03:59:34-03:00",
+ "atualizado_em": "2026-11-28T04:02:06-03:00",
  "lido_em": "2026-11-28T03:59:34-03:00",
  "total": 18,
  "navios": [
@@ -53,12 +53,12 @@
     "nome_ais": "ASTRO NEKKAR",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 9.0 mn)",
-    "lat": -23.8796,
+    "lat": -23.8798,
     "lon": -45.5466,
     "dist_mn": 9.0,
-    "visto_em": "2026-11-28T06:47:30+00:00",
-    "sog": 0.2,
-    "rumo": 87,
+    "visto_em": "2026-11-28T06:53:30+00:00",
+    "sog": 0.1,
+    "rumo": 77,
     "calado": 8.4,
     "imo": 9720304,
     "status_ais": "fundeado",
@@ -240,12 +240,12 @@
     "nome_ais": "BLUE OCEAN A",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 3.5 mn)",
-    "lat": -23.8514,
+    "lat": -23.8513,
     "lon": -45.4456,
     "dist_mn": 3.5,
-    "visto_em": "2026-11-28T06:30:10+00:00",
-    "sog": 0.4,
-    "rumo": 47,
+    "visto_em": "2026-11-28T07:00:11+00:00",
+    "sog": 0.2,
+    "rumo": 50,
     "calado": 6.7,
     "imo": 9045089,
     "status_ais": "fundeado",
@@ -284,9 +284,9 @@
     "lat": -23.8451,
     "lon": -45.4384,
     "dist_mn": 2.9,
-    "visto_em": "2026-11-28T06:45:58+00:00",
-    "sog": 0.2,
-    "rumo": 64,
+    "visto_em": "2026-11-28T06:54:55+00:00",
+    "sog": 0.1,
+    "rumo": 56,
     "calado": 5,
     "imo": 7615309,
     "status_ais": "fundeado",
@@ -312,12 +312,12 @@
     "nome_ais": "DRAWSKO",
     "situacao": "outro",
     "texto": "fundeado longe daqui (a 48 mn)",
-    "lat": -24.1162,
+    "lat": -24.1158,
     "lon": -46.2017,
     "dist_mn": 47.6,
-    "visto_em": "2026-11-28T06:23:58+00:00",
-    "sog": 2,
-    "rumo": 87,
+    "visto_em": "2026-11-28T06:54:44+00:00",
+    "sog": 3,
+    "rumo": 93,
     "calado": 10.2,
     "imo": 9393450,
     "status_ais": "fundeado",
@@ -399,7 +399,7 @@
     "mmsi": 538007656,
     "status_ais": "-",
     "destino_aqui": false,
-    "visto_em": "2026-11-23T06:31:06+00:00"
+    "visto_em": "2026-11-23T07:02:06+00:00"
    }
   },
   {
@@ -458,7 +458,7 @@
     "mmsi": 341573002,
     "status_ais": "navegando",
     "destino_aqui": false,
-    "visto_em": "2026-11-28T00:31:06+00:00"
+    "visto_em": "2026-11-28T01:02:06+00:00"
    }
   }
  ],
