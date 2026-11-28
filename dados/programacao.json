@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-27T23:56:49-03:00",
+ "atualizado_em": "2026-11-27T23:59:15-03:00",
  "lido_em": "2026-11-27T23:56:49-03:00",
  "total": 18,
  "navios": [
@@ -23,7 +23,7 @@
     "lat": -23.8109,
     "lon": -45.3966,
     "dist_mn": 0.2,
-    "visto_em": "2026-11-28T02:43:26+00:00",
+    "visto_em": "2026-11-28T02:52:30+00:00",
     "sog": 0,
     "rumo": 225,
     "calado": 8.5,
@@ -172,11 +172,12 @@
     "nome_ais": "PACIFIC ROSE",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 2.3 mn)",
-    "lat": -23.8398,
-    "lon": -45.4277,
+    "lat": -23.8394,
+    "lon": -45.4279,
     "dist_mn": 2.3,
-    "visto_em": "2026-11-28T02:37:58+00:00",
-    "sog": 0.1,
+    "visto_em": "2026-11-28T02:47:54+00:00",
+    "sog": 0.2,
+    "rumo": 333,
     "calado": 7.7,
     "imo": 9045936,
     "status_ais": "fundeado",
@@ -281,12 +282,12 @@
     "nome_ais": "WHITE PEARL",
     "situacao": "fundeado",
     "texto": "fundeado na área do porto (a 2.9 mn)",
-    "lat": -23.8452,
+    "lat": -23.8453,
     "lon": -45.4382,
     "dist_mn": 2.9,
-    "visto_em": "2026-11-28T02:42:57+00:00",
+    "visto_em": "2026-11-28T02:57:57+00:00",
     "sog": 0.1,
-    "rumo": 51,
+    "rumo": 62,
     "calado": 5,
     "imo": 7615309,
     "status_ais": "fundeado",
@@ -312,12 +313,12 @@
     "nome_ais": "DRAWSKO",
     "situacao": "outro",
     "texto": "fundeado longe daqui (a 48 mn)",
-    "lat": -24.1161,
+    "lat": -24.116,
     "lon": -46.2016,
     "dist_mn": 47.6,
-    "visto_em": "2026-11-28T02:42:59+00:00",
-    "sog": 1.6,
-    "rumo": 89,
+    "visto_em": "2026-11-28T02:58:26+00:00",
+    "sog": 1,
+    "rumo": 90,
     "calado": 10.2,
     "imo": 9393450,
     "status_ais": "fundeado",
@@ -399,7 +400,7 @@
     "mmsi": 538007656,
     "status_ais": "-",
     "destino_aqui": false,
-    "visto_em": "2026-11-23T02:28:52+00:00"
+    "visto_em": "2026-11-23T02:59:15+00:00"
    }
   },
   {
@@ -458,7 +459,7 @@
     "mmsi": 341573002,
     "status_ais": "navegando",
     "destino_aqui": false,
-    "visto_em": "2026-11-28T00:28:52+00:00"
+    "visto_em": "2026-11-28T00:59:15+00:00"
    }
   }
  ],
